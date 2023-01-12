@@ -1,0 +1,529 @@
+{
+  "sessions": [
+    {
+      "id": "372009",
+      "title": "dbatools: The PowerShell way to interact with SQL Server",
+      "description": "The community-developed and open source dbatools toolkit was initially released in 2019. These tools provide a robust way to manage and interact with SQL Server using PowerShell, allowing us to easily automate routine tasks. Some of the tools are very powerful; for instance, there is a command to migrate an entire instance. With 500 available commands, we won't be able to even come close to covering everything, but we'll cover the basics of how to use dbatools and explore how it can help you with managing and accessing SQL Server.",
+      "startsAt": "2022-09-17T14:30:00Z",
+      "endsAt": "2022-09-17T15:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "de5bb528-34f2-44e4-bef1-27af83e45445"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27230,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "374492",
+      "title": "Migrating to Azure SQL Database",
+      "description": "Are you migrating to Azure SQL Database and need a quick start guide? In this presentation, we will explore what Azure SQL Database is, understand its features, review the pricing, create an instance, migrate a sample database over to the instance, and monitor it. By the end of the presentation, you will be ready to start planning your migration to Azure SQL Database. ",
+      "startsAt": "2022-09-17T14:30:00Z",
+      "endsAt": "2022-09-17T15:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1312b0f1-33c4-404a-b6f1-7959d4730201"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27231,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "370871",
+      "title": "A Version Control Primer for Databases",
+      "description": "Why would a DBA or database developer need to learn Git? Version control systems (VCS) have typically not been a part of the database professional's daily work, but with DevOps software development, we need to work more closely with application developers.\r\n \r\nThis session give an overview of version control systems, the various types, and the most popular systems. We will focus on Git and how this can be used with SSMS, ADS, and from the command line to capture and share your code with others.\r\n",
+      "startsAt": "2022-09-17T14:30:00Z",
+      "endsAt": "2022-09-17T15:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "558d6d9f-4ad1-431c-a6fd-d231052d354b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27232,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "374398",
+      "title": "How to Survive a SQL Server Health Check",
+      "description": "You have just found out that an outside consultant is going to be conducting a comprehensive SQL Server Health Check on one of your database servers. What do you do now? Is it time to panic? \r\n\r\nNo, that is not the answer! This session will cover the most common and important things that consultants look for in a health check. Knowing this in advance will help you prepare for and do better in the health check. \r\n\r\nMore importantly, this session will help you understand best practice configuration settings and practices for your database servers and databases.",
+      "startsAt": "2022-09-17T15:40:00Z",
+      "endsAt": "2022-09-17T16:40:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e6e3dc59-ddc6-41c1-a100-ca613a07e731"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27230,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "367668",
+      "title": "Approaching Zero:  Minimizing Downtime During Deployments",
+      "description": "Negotiating a downtime for a release can be difficult in this modern, 24x7 world.  When downtime means lost revenue, the price of taking a downtime to deploy code can run up quickly.  This talk will show you a way to reduce the cost of deployment by reducing or even eliminating required downtime for database code deployment.  We will show how to release new database code, update existing stored procedures, refactor and restructure tables, and even perform systemic re-architecture with no downtime and minimal blocking.  We will use as a case study one release in which we modified the primary key column on 180 tables and updated over 550 stored procedures without end users noticing a thing.  If you want to hit that three nines (or better) service-level agreement, this talk will help get you on the road to reduced downtime.",
+      "startsAt": "2022-09-17T15:40:00Z",
+      "endsAt": "2022-09-17T16:40:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7c382501-a37f-49b7-bb28-eb7692995323"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27231,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "374587",
+      "title": "Leveraging Databricks SQL in Lakehouse Architecture",
+      "description": "The Lakehouse is a fast-growing data architecture concept combining traditional data warehouse and a data lake. At a core of it is an ability to easily connect to raw data for exploration and data science use cases, but with a benefit of having an analytics engine to support data management, governance and business intelligence on the same platform. Databricks SQL offering was built for exactly that purpose - enable SQL analysts to run fast queries against all types of data, in a familiar development environment. \r\n\r\nIn this session you will learn how to quickly start with Databricks SQL, spin up computing resources, ingest data stored in the Lakehouse or outside, explore, transform and model data, build rich visualizations or further connect to other analytical and reporting tools.",
+      "startsAt": "2022-09-17T15:40:00Z",
+      "endsAt": "2022-09-17T16:40:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c8f08356-829c-4e03-8b03-750a73dc2b08"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27232,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "366824",
+      "title": "Hybrid Disaster Recovery with SQL Server 2022",
+      "description": "Having a backup site for your disaster recovery strategy can be expensive, time consuming and hard to maintain. SQL Server 2022 offers the ability to setup an Azure environment to server as your backup disaster recovery site. In this session we will discuss the options and demo how to create one in minutes. ",
+      "startsAt": "2022-09-17T16:50:00Z",
+      "endsAt": "2022-09-17T17:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27230,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "367667",
+      "title": "Saving Your Wallet from the Cloud",
+      "description": "The major cloud providers--such as Amazon's AWS, Microsoft's Azure, and Google's GCP--each offer dozens of separate services.  These services can be quite useful, but sometimes understanding just how much they cost can be difficult.  In this talk, we will focus on focus on Microsoft Azure, getting an understanding of how pricing works for different services.  This talk will help demystify some of the trickier aspects of the Azure pricing calculator, show cases where alternative configurations can provide similar levels of service at wildly different prices, and give you insights on how to keep that cloud bill as low as possible.",
+      "startsAt": "2022-09-17T16:50:00Z",
+      "endsAt": "2022-09-17T17:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7c382501-a37f-49b7-bb28-eb7692995323"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27231,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "370872",
+      "title": "Adopting A DevOps Process for Your Database",
+      "description": "DevOps is changing today’s software development world by helping us build better software, faster. However most of the knowledge and experience with DevOps is based around application software and ignores the database. We will examine how the concepts and principles of DevOps can be applied to database development by looking at both automated comparison analysis as well as migration script management. Automated building, testing, and deployment of database changes will be shown.",
+      "startsAt": "2022-09-17T16:50:00Z",
+      "endsAt": "2022-09-17T17:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "558d6d9f-4ad1-431c-a6fd-d231052d354b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27232,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "366825",
+      "title": "Let's keep it private - Isolating SQL Traffic in Azure",
+      "description": "Some companies freak out about moving to the cloud on the perspective the network traffic will be public all the time. But there are ways to keep it private and hybrid. In this session Armando will demo common cloud network setups to connect application layers and keep your CTO at peace. ",
+      "startsAt": "2022-09-17T19:00:00Z",
+      "endsAt": "2022-09-17T20:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27230,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "374397",
+      "title": "Building a Desktop System on a Test Bench",
+      "description": "If you want to build a new desktop PC from parts, it is helpful to assemble as much of the system as possible outside of the case.\r\n\r\nThis makes assembly easier and also lets you test the system before the final build. This session shows you how to do this on an actual test bench and how you can also do it without a test bench. \r\n\r\nBuilding a desktop PC is not as hard as many people think, and this session will demonstrate that.",
+      "startsAt": "2022-09-17T19:00:00Z",
+      "endsAt": "2022-09-17T20:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e6e3dc59-ddc6-41c1-a100-ca613a07e731"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27231,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "367502",
+      "title": "Building the Modern Data Platform",
+      "description": "With all the new tools, architectures and cloud solution approaches being thrown at us today, many clients are asking if SQL has a place in the future of modern data platforms.  Bridgeworks works with clients to sift through all the sales content and get down to the right tools and architectures that aligns with their business needs.  As part of this process, we have established key accelerators, frameworks and repeatable patterns that leverage SQL solutions we may already be familiar with integrated with modern cloud tools and technologies.  During this session we will provide a high level overview of the tools and our approach to accelerating a company's move to a cloud data platform solution.  ",
+      "startsAt": "2022-09-17T19:00:00Z",
+      "endsAt": "2022-09-17T20:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b7c086d8-2728-4294-9f8c-f1a65da702f8"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27232,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "372010",
+      "title": "Parse Trees, Memos, Transformation Rules and Other Hidden Objects in SQL Server",
+      "description": "You know that execution plans can provide you with vital information to tune a query, but just how does that plan get generated?  In this session, we will examine details of the query optimization process that are not very well known.  We will discuss how SQL Server parses a T-SQL statement then begins applying rules to make it more efficient.  Did you know that SQL Server can be coaxed into outputting hidden structures such as parse trees and memos?  We'll do just that, and then take it a step further with a free unique visualization tool that I have created.  With a better understanding of how SQL Server optimizes T-SQL (and sometimes doesn't do it as well as might be hoped), you can write more efficient SQL statements.",
+      "startsAt": "2022-09-17T20:10:00Z",
+      "endsAt": "2022-09-17T21:10:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "de5bb528-34f2-44e4-bef1-27af83e45445"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27230,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "383251",
+      "title": "Weird Stuff I Saw While… Working with Multi Subnet Availability Groups",
+      "description": "Despite the fact that SQL Server Availability Groups are built on top of a stack of rather complex technology, over the years things have gotten to the point where getting an AG up and running for a simple two-node HA setup is not as intimidating for most DBAs as it may have been in the early days. When multiple subnets get involved, however, things can get weird quickly. Some stories that will be told include:\r\n\r\n· Inability to bring AG online at DR site after shutting down main site\r\n· Seemingly random and unpredictable connection timeouts suddenly occurring a month after AG is extended to a second subnet\r\n· Failure of the primary replica after rebooting the secondary during patching windows\r\n\r\nWe're review this, along with discussion of configuration adjustments that can help keep some of these issues at bay!",
+      "startsAt": "2022-09-17T20:10:00Z",
+      "endsAt": "2022-09-17T21:10:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "2d0e16df-5c1e-4a51-867e-d9cd72dff6c5"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27231,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "383470",
+      "title": "Leverage Microsoft Teams Webhooks To Deliver Business Insights",
+      "description": "In this session I will cover how to push professionally formatted business insights into a Microsoft Teams Channel using Python and Azure Data Factory. In order to make the code reusable and simple to integrate into other workflows, I will demo how to create an Azure Function using Visual studio code, test and deploy it. Lastly, I will review the Microsoft Dev Ops API and demo how to automatically create a bug in dev ops if there is a failure and or data issue in your ADF pipeline.  ",
+      "startsAt": "2022-09-17T20:10:00Z",
+      "endsAt": "2022-09-17T21:10:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1332259c-8c93-4da2-bc5a-9c30c7a6f863"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27232,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "380000",
+      "title": "Building Your First Clusterless Availability Group On Metal, VMs, Cloud, Or All Three!",
+      "description": "Building your first availability group can seem like a daunting task.  Terms such as “Windows Server Failover Cluster”, “quorum”, “file share witnesses”, and “database containment” weren’t taught to us in DBA school.  Enter SQL Server 2017+.  We can now put those scary terms aside and create availability groups that don’t have to reside on a cluster.\r\n\r\nIn this talk, we’ll teach you how to create your first availability group without having to buy your server admins* a meal.  We’ll start by teaching you how to “talk the talk” of availability groups.  Once we set the foundation, a straightforward UI demo will walk through the steps needs to create your first availability group.  After the databases are flowing, we’ll discuss how on-prem/bare metal, virtual/VM, and cloud offerings can all be leveraged to support your hybrid deployment.\r\n\r\nCome join us for a fun, light-hearted, and welcoming approach to the world of high availability/disaster recovery on SQL Server!\r\n\r\n*Disclaimer: you might enjoy this session so much that you might want to make good friends with your server admins.",
+      "startsAt": "2022-09-17T21:20:00Z",
+      "endsAt": "2022-09-17T22:20:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "967c9fb9-542c-49ff-84a9-0b97c439f6f9"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27230,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "362079",
+      "title": "Power BI Premium: Is it for your Company (and Worth it)?",
+      "description": "Power BI Premium is the top level of Power BI that your company can pay to get dedicated capacity for your Power BI reports and models. But at a starting price of $5000/month is it something your company needs and is it worth that price? In this session we will go over all of the current features offered with Power BI Premium and the features that we know are coming in the future so that you can help make that decision for your company. With multiple demos in this session you can see these features for yourself to help determine the worth. Come to this session if your company has been thinking about Power BI Premium but you have been unable to determine if it is right for your company or not. At the end of this session you will be armed with all of the knowledge you will need to make the right decision.",
+      "startsAt": "2022-09-17T21:20:00Z",
+      "endsAt": "2022-09-17T22:20:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "67f08739-2b45-42e3-a870-9be955f9eefc"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27231,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "383223",
+      "title": "Monitoring SQL Server on Linux",
+      "description": "The fact that SQL Server has only run on Windows since the 90's has allowed us to become spoiled. In addition to the truly impressive volume of performance data that is surfaced through the dynamic management views, we have gotten used to always (well, almost always) being able to gather additional system information through tools such as the Windows Performance Monitor.\r\n\r\nNow that Linux has joined the family this is changing a little bit. Different operating system means that some of the tools that we're used to will have to change. This session will some of the more popular tools that are available for monitoring Linux along with discussion of how to get a started automating data collection.",
+      "startsAt": "2022-09-17T21:20:00Z",
+      "endsAt": "2022-09-17T22:20:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "2d0e16df-5c1e-4a51-867e-d9cd72dff6c5"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27232,
+      "liveUrl": null,
+      "recordingUrl": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b",
+      "firstName": "Armando",
+      "lastName": "Lacerda",
+      "bio": "http://bit.ly/ALacerdaProfile",
+      "tagLine": "Azure, Data Platform and BI Architect",
+      "profilePicture": "https://sessionize.com/image/0d6b-400o400o2-17-bd56-4cef-9a29-eea5a84dd56b.29bb8247-1f10-4df1-bea5-838eb4f74052.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        366824,
+        366825
+      ],
+      "fullName": "Armando Lacerda",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "967c9fb9-542c-49ff-84a9-0b97c439f6f9",
+      "firstName": "Brandon",
+      "lastName": "Tucker",
+      "bio": "Brandon Tucker is a data geek and has engaged SQL Server as an architect, developer, data engineer, and administrator over the last 15 years. He loves solving complex, real-world data problems, applying them in business situations, then sharing the knowledge to benefit the community. Brandon has served on the board for the Denver SQL Server User Group and presented at numerous SQL Saturdays, User Groups, and Code Camps. Brandon is a Principal Solutions Architect for database products at SolarWinds, helping to solve complex problems and drive product innovation.\r\n\r\nWhen not wrangling data, Brandon can be found cycling/backpacking/skiing in his home state of Colorado, cheering on the Avalanche, or talking world travel over drinks.",
+      "tagLine": "Principal Solutions Architect, SolarWinds",
+      "profilePicture": "https://sessionize.com/image/b216-400o400o2-DTvKBiXvJZRV5n2oJC3C9v.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        380000
+      ],
+      "fullName": "Brandon Tucker",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "de5bb528-34f2-44e4-bef1-27af83e45445",
+      "firstName": "Breanna",
+      "lastName": "Hansen",
+      "bio": "Breanna Hansen has been a SQL Server database developer and administrator since 1998, working with versions 6.5 and beyond. She geeks out on internals of the database engine and enjoys troubleshooting, tuning and monitoring, but barely knows BI. She has a passing knowledge of C# and PowerShell -- just enough to write dangerous little database monitoring and analysis tools.",
+      "tagLine": "SQL Server Database Administrator",
+      "profilePicture": "https://sessionize.com/image/a3e4-400o400o2-28-34f2-44e4-bef1-27af83e45445.b282f3e0-8551-4a42-884a-f9ff8af30377.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        372009,
+        372010
+      ],
+      "fullName": "Breanna Hansen",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e6e3dc59-ddc6-41c1-a100-ca613a07e731",
+      "firstName": "Glenn",
+      "lastName": "Berry",
+      "bio": "Glenn works as a Services Database Engineer in Elizabeth, CO. He is a Microsoft Data Platform MVP.  He is also an Adjunct Faculty member at University College - University of Denver, where has been teaching since 2000. He has completed the Master Teacher Program at Denver University - University College. He is the author of the book SQL Server Hardware. Glenn blogs regularly at https://glennsqlperformance.com/. He is active on Twitter as @GlennAlanBerry.",
+      "tagLine": "Glenn Berry, Services Database Engineer",
+      "profilePicture": "https://sessionize.com/image/c9b8-400o400o2-59-ddc6-41c1-a100-ca613a07e731.e43ef74a-a036-4e9d-a330-83b024fad775.JPEG",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        374398,
+        374397
+      ],
+      "fullName": "Glenn Berry",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1332259c-8c93-4da2-bc5a-9c30c7a6f863",
+      "firstName": "Jeff",
+      "lastName": "Renz",
+      "bio": "Jeff has worked with SQL Server and BI for 15+ years and has 10 years’ experience with data warehouse design and implementation. In addition to consulting, he has been part of the University of Denver adjunct faculty and teaches in the ICT program. He received his bachelor’s degree in Computer Science, his master’s degree in Operations Research from Colorado School of Mines and graduated from the Harvard Business Analytics Program last year.",
+      "tagLine": "The Data Factor - Data and Analytics Architect/Owner",
+      "profilePicture": "https://sessionize.com/image/8eff-400o400o2-Yfvo99ywbvtZ5KENHYk3os.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        383470
+      ],
+      "fullName": "Jeff Renz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1312b0f1-33c4-404a-b6f1-7959d4730201",
+      "firstName": "Kailash",
+      "lastName": "Jain",
+      "bio": "Kailash Jain has 18+ years of industry experience ensuring effective regulated data management in business-critical environments. Specialized in database administration and cloud migration with a keen ability to solve large-scale RBDMS and complex problems.",
+      "tagLine": "Senior Database Administrator, SQL Server, Datavail",
+      "profilePicture": "https://sessionize.com/image/eeab-400o400o2-sFBqAKedmYMZg8CMg9S6u4.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        374492
+      ],
+      "fullName": "Kailash Jain",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "7c382501-a37f-49b7-bb28-eb7692995323",
+      "firstName": "Kevin",
+      "lastName": "Feasel",
+      "bio": "Kevin Feasel is a Microsoft Data Platform MVP and CTO at FareGame Inc, where he specializes in data analytics with T-SQL and R, forcing Spark clusters to do his bidding, fighting with Kafka, and pulling rabbits out of hats on demand. He is the lead contributor to Curated SQL (https://curatedsql.com), president of the Triangle Area SQL Server Users Group (https://www.meetup.com/tripass), and author of PolyBase Revealed (https://www.apress.com/us/book/9781484254608). A resident of Durham, North Carolina, he can be found cycling the trails along the triangle whenever the weather's nice enough.",
+      "tagLine": "CTO @ FareGame Inc",
+      "profilePicture": "https://sessionize.com/image/d43b-400o400o2-MgcGnBx48Vi57GYguPazNP.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        367668,
+        367667
+      ],
+      "fullName": "Kevin Feasel",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b7c086d8-2728-4294-9f8c-f1a65da702f8",
+      "firstName": "Mike",
+      "lastName": "Moore",
+      "bio": "Mike focuses on helping organizations modernize the data platform environments. Bridgeworks combines our unique set of technology and business expertise to solve tough business challenges. We have a passion for our craft, bringing our enthusiasm for what we do into every engagement no matter how small.  Mike has over twenty years of experience in managing and implementing data solutions, including projects in the Healthcare, Aerospace and Defense, Telecommunications, Financial, Oil and Gas, and Agribusiness industries. ",
+      "tagLine": "Bridgeworks Consulting Group - Implementing Modern Data Platforms and Cloud-Based Solutions",
+      "profilePicture": "https://sessionize.com/image/6dc3-400o400o2-aSn8K19cU8GzAPbiPs9XBT.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        367502
+      ],
+      "fullName": "Mike Moore",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "2d0e16df-5c1e-4a51-867e-d9cd72dff6c5",
+      "firstName": "Rick",
+      "lastName": "Lowe",
+      "bio": "Rick is a Microsoft Certified Master for SQL Server and independent contractor/consultant specializing in performance and query tuning. He began his career as a system programmer, before transitioning through database development positions to eventually focus on performance issues as well as relationship counseling between DBA and developer teams.",
+      "tagLine": "Data FLowe Solutions LLC",
+      "profilePicture": "https://sessionize.com/image/c4c2-400o400o2-HRcguRyeTo24kEYd4pmjkT.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        383251,
+        383223
+      ],
+      "fullName": "Rick Lowe",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "558d6d9f-4ad1-431c-a6fd-d231052d354b",
+      "firstName": "Steve",
+      "lastName": "Jones",
+      "bio": "Steve Jones has been working with databases and computers for over two decades. He has worked with SQL Server since 1991, from v4.2 through SQL Server 2016. He has been a DBA, developer, and manager in a variety of large and small companies across multiple industries. In 2001 Steve founded SQLServerCentral with two partners and has been publishing technical articles and facilitating discussions among SQL Server professionals ever since. He currently is the full time editor of SQLServerCentral, as well as an evangelist for Redgate Software. Steve is a 10 year Microsoft Data Platform MVP and lives on a horse ranch in Colorado.",
+      "tagLine": "The Voice of the DBA",
+      "profilePicture": "https://sessionize.com/image/6af2-400o400o2-s4k9B5cJJp6GhwSmuYyyUJ.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        370871,
+        370872
+      ],
+      "fullName": "Steve Jones",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "67f08739-2b45-42e3-a870-9be955f9eefc",
+      "firstName": "Steve",
+      "lastName": "Wake",
+      "bio": "Steve Wake is a Microsoft Certified Professional who is currently the Principal BI Developer at Brown and Caldwell and has experience in consulting, advertising, media, manufacturing, retail, charities, telecommunications and financial services organizations using the full on-premises Microsoft BI stack. Recent experience with the Azure services: Azure Synapse Analytics, Azure Analysis Services, Azure Logic Apps, Azure Data Factory, Azure Databricks, Snowflake and Power BI. Steve is also very involved in the SQL community, speaking at events around the world.",
+      "tagLine": "BI Architect/Developer, Speaker, Microsoft Certified Professional, Board member",
+      "profilePicture": "https://sessionize.com/image/2fcb-400o400o2-Q9wZFVf3vsbXv8g2Afo3jW.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        362079
+      ],
+      "fullName": "Steve Wake",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c8f08356-829c-4e03-8b03-750a73dc2b08",
+      "firstName": "Yuliya",
+      "lastName": "Quintela",
+      "bio": "Yuliya Quintela is a data architect focused on business intelligence, data integrations, advanced analytics and machine learning, with over 15 years of experience building data-driven solutions using Microsoft, Oracle, Apache Hadoop, as well as Azure and AWS cloud technologies. She is Microsoft Certified in Data Platform and Big Data, Azure Data Engineer and Databricks Spark Developer, and enjoys educating and speaking for the local data and analytics community.",
+      "tagLine": "Data Architect",
+      "profilePicture": "https://sessionize.com/image/ccba-400o400o2-wMRtNzn3rpPD9DrPxNUaML.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        374587
+      ],
+      "fullName": "Yuliya Quintela",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": [
+    {
+      "id": 27230,
+      "name": "Room 1",
+      "sort": 0
+    },
+    {
+      "id": 27231,
+      "name": "Room 2",
+      "sort": 1
+    },
+    {
+      "id": 27232,
+      "name": "Room 3",
+      "sort": 2
+    }
+  ]
+}

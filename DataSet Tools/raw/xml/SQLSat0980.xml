@@ -1,0 +1,39 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #980 - Plovdiv 2020</name>
+    <startDate>12/12/2020 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT+02:00) Cairo</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatPlovdiv</twitterHashtag>
+    <venue>
+      <name>Culture Centre "Boris Hristov"</name>
+      <street>15 Gladston Str., 4000 Plovdiv, Bulgaria</street>
+      <city>Plovdiv</city>
+      <state>Plovdiv, Bulgaria</state>
+      <zipcode>4000</zipcode>
+      <longitude>24.7428</longitude>
+      <latitude>42.14192</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14634.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14633.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

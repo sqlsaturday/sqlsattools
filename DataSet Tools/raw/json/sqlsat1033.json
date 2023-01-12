@@ -1,0 +1,223 @@
+{
+  "sessions": [
+    {
+      "id": "391392",
+      "title": "The Evolution of the Data Professional",
+      "description": "The data professional is always evolving due to the rapid pace of changing technology, but the pandemic of the last few years has brought about some of the most dramatic changes to our roles we have ever seen. Both in how heavily companies are relying on data to run a successful business and for the employees that are responsible for developing and supporting that. In the current market, data needs and technology have surpassed the resource pool which has resulted in several benefits to the professional including more opportunities, rising compensation, better benefits, flexible working arrangements, and much more. In this presentation, we will dive into the specifics of what the data is telling us about these changes to help you understand your worth and use it to predict what is next so you can make informed decisions about the next stages of your career.",
+      "startsAt": "2022-10-15T14:00:00Z",
+      "endsAt": "2022-10-15T14:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9b336a1a-7812-4b08-9be1-17abc07d149d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28578,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "391393",
+      "title": "Graph Databases",
+      "description": null,
+      "startsAt": "2022-10-15T15:00:00Z",
+      "endsAt": "2022-10-15T15:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6efe36a9-52cd-472a-a9c2-9eefc89da533"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28578,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "385537",
+      "title": "Becoming Power BI Royalty",
+      "description": "- A Guide to Being a Business Intelligence Professional -\r\n\r\nAttend this session to discover degrees or certifications needed to become knowledgeable in Microsoft’s Power BI. DeNisha will share real-life interviewing tips and skills that will help you stand out in the big data industry. \r\n\r\nThis course will also cover best practices that will help you keep the job and exceed expectations after you are hired!\r\n",
+      "startsAt": "2022-10-15T16:00:00Z",
+      "endsAt": "2022-10-15T16:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "02dca82e-e7eb-49fd-883e-745732a59022"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28578,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "383885",
+      "title": "Azure SQL Database Elasticity - Queries, Jobs, Transactions",
+      "description": "Microsoft has introduced elastic queries, elastic database jobs, and elastic transactions to the capabilities in Azure SQL Database. All of these elastic capabilities involve working with multiple databases in some way. Elastic queries support sharding and cross database queries. Elastic database jobs support running jobs on Azure SQL Database without SQL Server Agent (which is only available in Azure SQL Managed Instance). And finally, one big application hole in the Azure SQL Database story has been support for distributed transactions. Elastic transactions take the capabilities of MSDTC and embeds them in the engine. These features increase the flexibility of Azure SQL Database and makes it an even better target to for solution that could only be support on premises. The features will be discussed and demonstrated with all code and information available for you after the session.",
+      "startsAt": "2022-10-15T18:00:00Z",
+      "endsAt": "2022-10-15T18:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "408c5392-3e13-4fa4-96dd-402490a7ae06"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28578,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "391391",
+      "title": "AWS QuickSight",
+      "description": null,
+      "startsAt": "2022-10-15T19:00:00Z",
+      "endsAt": "2022-10-15T19:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fc28b0e2-ecff-454b-97da-cb5a89558b23"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28578,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "386260",
+      "title": "Machine Learning for Azure Folks Without (or With!) a Ph.D.",
+      "description": "You expect modern applications to implement at least a basic level of artificial intelligence or machine learning. But machine learning is hard, really hard and not everyone has the time to learn how to use it.  That's where Microsoft Azure comes in. Azure offers a set of products that cover all ranges from novice to machine learning experts.  Cognitive services don't assume any knowledge of machine learning. Azure Machine Learning can handle any machine learning workflow from end to end. The Bot Service makes models available to the world as intelligent agents. And Azure Databricks is a unified platform for analytics and machine learning. In this session, a survey of these products, you will learn how there is something in Microsoft Azure that can meet your machine learning goals. Ph.D. is optional.",
+      "startsAt": "2022-10-15T20:00:00Z",
+      "endsAt": "2022-10-15T20:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6575979c-1c44-4f74-8fcd-38a76df2dc49"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28578,
+      "liveUrl": null,
+      "recordingUrl": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "02dca82e-e7eb-49fd-883e-745732a59022",
+      "firstName": "DeNisha",
+      "lastName": "Malone",
+      "bio": "DeNisha Malone, formally known as “the Power BI Queen”, is currently working as an Intelligence Platform Program Manager at Microsoft. In this role she is responsible for creating analysis for the Microsoft Leadership team. \r\n\r\nShe is known for her knowledge and creativity of using Power BI to model data and tell a story. DeNisha’s work has improved user acceptance and the adoption of Microsoft’s Intelligence Platform within organizations all over the world. More of her hobbies include reading, public speaking, mentoring college and high-schoolers, and traveling the world experiencing new things.\r\n",
+      "tagLine": "@ThePowerBIQueen",
+      "profilePicture": "https://sessionize.com/image/75f2-400o400o2-M3dvANvW7uLUJESjoMRdYX.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        385537
+      ],
+      "fullName": "DeNisha Malone",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6575979c-1c44-4f74-8fcd-38a76df2dc49",
+      "firstName": "Douglas",
+      "lastName": "Starnes",
+      "bio": "Douglas Starnes is a tech author and Microsoft Most Valuable Professional in developer technologies in Memphis, TN. He is published on Pluralsight, Real Python and SkillShare. Douglas is co-director of the Memphis Python User Group. He is also on the organizing committees of Scenic City Summit in Chattanooga, and TDevConf, a virtual conference in the state of Tennessee. A frequent conference and user group speaker, Douglas has delivered more than 70 featured presentations and workshops at more than 35 events over the past 10 years. He holds a Bachelor of Music degree with an emphasis on Music Composition from the University of Memphis.",
+      "tagLine": "Machine Learning and Mobile Applications",
+      "profilePicture": "https://sessionize.com/image/b42e-400o400o2-aebSKUGshhP3vPg4GHhA6M.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        386260
+      ],
+      "fullName": "Douglas Starnes",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9b336a1a-7812-4b08-9be1-17abc07d149d",
+      "firstName": "Dustin",
+      "lastName": "Dorsey",
+      "bio": null,
+      "tagLine": null,
+      "profilePicture": null,
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        391392
+      ],
+      "fullName": "Dustin Dorsey",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "fc28b0e2-ecff-454b-97da-cb5a89558b23",
+      "firstName": "Jandee",
+      "lastName": "Richards",
+      "bio": null,
+      "tagLine": null,
+      "profilePicture": null,
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        391391
+      ],
+      "fullName": "Jandee Richards",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6efe36a9-52cd-472a-a9c2-9eefc89da533",
+      "firstName": "Pete",
+      "lastName": "Brown",
+      "bio": null,
+      "tagLine": null,
+      "profilePicture": null,
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        391393
+      ],
+      "fullName": "Pete Brown",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "408c5392-3e13-4fa4-96dd-402490a7ae06",
+      "firstName": "Steve",
+      "lastName": "Hughes",
+      "bio": "Steve Hughes is Senior Director, Data & Analytics, at 3Cloud. In his current role, he focuses on growing the teams' skills and capabilities to deliver data projects on Azure. This includes technical training, patterns and practice development,  industry thought leadership, and internal technical communities. \r\n\r\nHe has been working with technology for over 20 years with much of that time spent on creating business intelligence solutions and helping customers implement leading BI and cloud solutions. He is passionate about using data effectively and helping customers understand that data is valuable and profitable. Steve also has experience working with a large Software as a Service vendor where he received awards for customer satisfaction and engineering excellence. \r\n\r\nSteve and his daughter, Kristyna, post regularly about Power BI, data engineering, and work place enablement at their blog at http://www.dataonwheels.com.",
+      "tagLine": "Senior Director, Data & Analytics, 3Cloud",
+      "profilePicture": "https://sessionize.com/image/8d0e-400o400o2-pS8Af1gcQxxeRkiJsgvJx9.JPG",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        383885
+      ],
+      "fullName": "Steve Hughes",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": [
+    {
+      "id": 28578,
+      "name": "Room 1",
+      "sort": 0
+    },
+    {
+      "id": 28579,
+      "name": "Room 2",
+      "sort": 1
+    },
+    {
+      "id": 28580,
+      "name": "Room 3",
+      "sort": 2
+    }
+  ]
+}

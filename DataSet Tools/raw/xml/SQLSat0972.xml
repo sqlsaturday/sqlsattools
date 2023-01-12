@@ -1,0 +1,57 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #972 - Belo Horizonte 2020</name>
+    <startDate>10/24/2020 12:00:00 AM</startDate>
+    <attendeeEstimate>800</attendeeEstimate>
+    <timezone>(GMT-03:00) Greenland</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatbh</twitterHashtag>
+    <venue>
+      <name>PUC Minas - Coração Eucarístico</name>
+      <street>Av. Dom José Gaspar, 500</street>
+      <city>Belo Horizonte</city>
+      <state>Minas Gerais, Brazil</state>
+      <zipcode>30140-100</zipcode>
+      <longitude>-43.9926545291227</longitude>
+      <latitude>-19.9246684189629</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14605.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2097</importID>
+      <name>Otus7 Consultoria e Treinamento</name>
+      <label>Gold Sponsor</label>
+      <url>http://otus7.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14612.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2630</importID>
+      <name>Power Tuning</name>
+      <label>Bronze Sponsor</label>
+      <url>https://powertuning.com.br/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14613.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2654</importID>
+      <name>Azure na Pratica</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.azurenapratica.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14663.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

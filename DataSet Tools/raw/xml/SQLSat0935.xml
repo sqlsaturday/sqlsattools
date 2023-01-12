@@ -1,0 +1,298 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #935 - Salvador 2020</name>
+    <startDate>10/17/2020 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT-03:00) Greenland</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatSalvador</twitterHashtag>
+    <venue>
+      <name>Centro Universitário Estacio</name>
+      <street>Rua Xingu, nº 179 - Jardim Atalaia / STIEP</street>
+      <city>Salvador</city>
+      <state>Bahia, Brazil</state>
+      <zipcode>41770-130</zipcode>
+      <longitude>-38.44596</longitude>
+      <latitude>-12.9819</latitude>
+    </venue>
+  </guide>
+  <speakers>
+    <speaker>
+      <importID>104036</importID>
+      <name>Marcelo Amaral</name>
+      <label>
+      </label>
+      <description>Formado em Ciência da Computação pela UFBA em 2003. Analista de Sistemas com mania de mudar as coisas nas empresas onde trabalha. Tem experiência como arquiteto, analista, desenvolvedor, dba, database developer.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/marcelo-s-amaral/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107095</importID>
+      <name>Juarez Cardoso</name>
+      <label>
+      </label>
+      <description>Formado em Engenharia da Computação pela Faculdade de Ciências e Tecnologia de Montes Claros (FACIT). Possuo 18 anos de experiência na área de TI sendo 2 anos atuando como administrador de Banco de Dados em um empresa multinacional.
+​
+Atualmente sou  Pass Chapter Leader do SQLMoc, comunidade associada ao https://www.pass.org/ com o objetivo de compartilhar conhecimento referente a plataforma de dados da Microsoft.</description>
+      <twitter>https://twitter.com/carddoso2</twitter>
+      <linkedin>https://www.linkedin.com/in/juarez-cardoso-825704177/</linkedin>
+      <ContactURL>http://sqlmoc.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/carddoso2</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107302</importID>
+      <name>André Melancia</name>
+      <label>
+      </label>
+      <description>Owner / Principal Consultant at LunarCat.PT
+Microsoft Certified Trainer (MCT) focusing on SQL Server, Azure, IoT and Security.
+
+19+ years' fun developing information and multimedia systems, DBA, project and IT management.
+
+Data Community Portugal, IT Pro Portugal and PowerShell Portugal communities organiser.
+IPv6 Portugal, DNSSec Portugal and Windows Development Portugal online communities moderator.
+Actively volunteering, organising, speaking or just participating at community meetings and events around the world.
+
+Proud uncle and food devouring expert, with dangerous рuϧϧy cat as companion.
+
+Go to http://Andy.PT and you'll know the same as the NSA...</description>
+      <twitter>AndyPT</twitter>
+      <linkedin>http://LinkedIn.COM/in/AndreMelancia</linkedin>
+      <ContactURL>http://Andy.PT</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AndyPT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102371</importID>
+      <name>William Lino Oliveira</name>
+      <label>
+      </label>
+      <description>DBA SQL Server à 5 anos. Trabalha atualmente em uma grande instituição financeira. Possui as certificações MCSE: Data Management and Analytics.</description>
+      <twitter>@WilloniL</twitter>
+      <linkedin>https://www.linkedin.com/in/williamlinooliveira/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@WilloniL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102906</importID>
+      <name>Leonardo Fonseca</name>
+      <label>
+      </label>
+      <description>Sou DBA na Localiza, trabalho com TI há 10 anos e tive a oportunidade de atuar em diversas áreas como Processos, Sistemas, Infraestrutura.
+Experiência com as principais metodologias ágeis e mergulhando no mundo DevOps com foco principal na área de Dados.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/leofb/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102490</importID>
+      <name>Vitor Fava</name>
+      <label>
+      </label>
+      <description>I'm a DBA with extensive experience in the areas of Database and Information Technology, working on planning, implementation, and maintenance of large corporate database servers. 
+I have several professional certifications and good experience in development activities and management of entrepreneurial environments using SQL SERVER. 
+I'm a speaker at various technology events such as SQL Saturday, The Developers Conference, InteropMix and also in various discussion groups focused on database technology.
+I teach advanced training in SQL Server and Azure SQL Database and also acting as MCT in Microsoft official training.
+I'm the Chapter Leader of SQLManiacs PASS chapter.</description>
+      <twitter>sqlservermaniacs</twitter>
+      <linkedin>https://br.linkedin.com/in/vitorfava</linkedin>
+      <ContactURL>https://www.vitorfava.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlservermaniacs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107041</importID>
+      <name>Marcel Inowe</name>
+      <label>
+      </label>
+      <description>Trabalhando com TI desde 2002, no início da carreira dediquei bons anos ao desenvolvimento de software. Em 2006 conheci o SQL Server ainda como desenvolvedor e desde 2010 tenho dedicação exclusiva a ferramenta.</description>
+      <twitter>https://twitter.com/inowe_br</twitter>
+      <linkedin>https://br.linkedin.com/in/marcelinowe</linkedin>
+      <ContactURL>http://4sqlserver.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/inowe_br</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107245</importID>
+      <name>Eduardo Castro</name>
+      <label>
+      </label>
+      <description>Eduardo Castro, Microsoft Data Platform MVP and PASS Board of Advisor for LATAM, is well known LATAM SQL Server Expert and focuses on architecture, Business Intelligence and Data Analytics, Eduardo has an specialization and master degree in Data Analysis and Big Data. I have been speaker at PASS Summit delivering session about R and Data Science.
+
+Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, Mexico, Panama, El Salvador and South Korea.</description>
+      <twitter>edocastro</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=7313296amp;authType=NAME_SEARCHamp;authToken=pBHMamp;locale=en_USamp;srchid=73132961426368749508amp;srchindex=1amp;srchtotal=50amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A73132961426368749508%2CVSRPtargetId%3A7313296%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A</linkedin>
+      <ContactURL>http://ecastrom.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=edocastro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102341</importID>
+      <name>Marcelo Adade</name>
+      <label>
+      </label>
+      <description>Marcelo is a Database Consultant at The Pythian Group. He has more than 10 years of experience in several Companies from different branches and sizes. Like financial companies, consultant shops, datacenters and e-commerce sites. Currently holds the MCSE, MCT and MCSA Microsoft Certifications and also the Oracle OCP. Loves technology and enjoys sharing his Database knowledge delivering presentations and official Microsoft Training Courses. Currently he is also the co-leader of the SQLMANIACS PASS User Group, based in Sao Paulo, Brazil</description>
+      <twitter>@marceloadade</twitter>
+      <linkedin>https://br.linkedin.com/in/marceloadade</linkedin>
+      <ContactURL>http://www.dbbits.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@marceloadade</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105639</importID>
+      <name>Wagner Crivelini</name>
+      <label>
+      </label>
+      <description>Consultor Sênior da Microsoft, na área de Data  AI para América Latina. Especialista em bancos de dados, é colunista em diversos portais de TI do Brasil e do exterior, com mais de 100 artigos técnicos publicados. É também co-produtor do DatabaseCast, primeiro podcast brasileiro sobre bancos de dados.</description>
+      <twitter>@wcrivelini</twitter>
+      <linkedin>https://www.linkedin.com/in/wagner-crivelini-107850</linkedin>
+      <ContactURL>http://www.databasecast.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@wcrivelini</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105661</importID>
+      <name>Anderson Souza</name>
+      <label>
+      </label>
+      <description>Atua como Coordernador de banco de dados na Sequoia Logistica. 
+Possui experiência administrando bancos de dados de diversas companhias dos mais variados setores, como instituições financeiras, consultorias e portais de e-commerce. 
+Adora tecnologia e compartilha conhecimento de tecnologias de Bancos de Dados em apresentações dentro da empresa e eventos.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>104371</importID>
+      <name>Michael Oliveira de Deus</name>
+      <label>
+      </label>
+      <description>Pai | Desenvolvedor de Software, apaixonado por tecnologia e focado no ecossistema do JavaScript (:
+Organizador do AngularBA</description>
+      <twitter>michaelsdeus</twitter>
+      <linkedin>https://www.linkedin.com/in/michael-oliveira-de-deus/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=michaelsdeus</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>103759</importID>
+      <name>Alex Silva</name>
+      <label>
+      </label>
+      <description>Alex Silva has been in the IT market since 1994, specializing in Windows platforms. He has the following certifications MCSE, MCSA, MCITP, MCTS, MCP and MCT, currently working as an IT Specialist in a large financial institution with a focus on Problem Analysis (RCA), among others with reading dumps and using various tools for troubleshooting. Participates actively in the community with articles, forums and lectures.</description>
+      <twitter>https://twitter.com/zedump</twitter>
+      <linkedin>http://br.linkedin.com/in/alexsilva10</linkedin>
+      <ContactURL>https://www.sionitsolutions.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/zedump</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102372</importID>
+      <name>William Lino Oliveira</name>
+      <label>
+      </label>
+      <description>DBA SQL Server à 5 anos. Trabalha atualmente em uma grande instituição financeira. Possui as certificações MCSE: Data Management and Analytics.</description>
+      <twitter>@WilloniL</twitter>
+      <linkedin>https://www.linkedin.com/in/williamlinooliveira/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@WilloniL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105932</importID>
+      <name>CAIO GARCIA BUZO</name>
+      <label>
+      </label>
+      <description>Formado em analise e desenvolvimento de sistemas, me especializei em SQL Server e atuo na area desde 2010, participei de diversos projetos e tenho muito a contribuir principalmente com quem esta começando na área. Gosto muito de trabalhar com dados.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/caio-garcia-buzo/</linkedin>
+      <ContactURL>https://dbaonboarding.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>103825</importID>
+      <name>Rayssa Dias</name>
+      <label>
+      </label>
+      <description>Analista de Business Intelligence por profissão, amante da área de dados e geek por opção !</description>
+      <twitter>@rayssardias</twitter>
+      <linkedin>https://www.linkedin.com/notifications/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@rayssardias</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>104195</importID>
+      <name>Rafael Mendonça</name>
+      <label>
+      </label>
+      <description>Microsoft MVP Data Platform.
+Cearense, Contador, Sócio na RL Contabilidade e RL Inteligência de Negócios. 
+Atuando atualmente em Business Inteligence com o uso do POWER BI. 
+MCSA BI Repporting, MCT. 
+Membro ativo das comunidades Power BI no Brasil.</description>
+      <twitter>rafaelmpsantos</twitter>
+      <linkedin>https://www.linkedin.com/in/rafaelmpsantos/</linkedin>
+      <ContactURL>https://www.rafaelmendonca.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=rafaelmpsantos</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107102</importID>
+      <name>Guilherme Torres</name>
+      <label>
+      </label>
+      <description>Formado em Bacharel em Sistemas de Informação , formado em MBA Big Data, vem atuando como DBA SQL Server há 10 anos, se especializando em performance tuning.
+Passou por setores de mineração, ecommerce e atualmente no setor bancário em grande instituição financeira, trabalha como DBA SQL Server.
+Possui certificações MCP, MCSA e MCSE.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://br.linkedin.com/in/guilherme-torres-b133b62a</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+</GuidebookXML>
