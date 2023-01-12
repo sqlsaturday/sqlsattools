@@ -1,0 +1,954 @@
+{
+  "sessions": [
+    {
+      "id": "376771",
+      "title": "Coisas da nuvem que ninguém te conta!",
+      "description": "Você DBA que sempre trabalhou com Plataformas on premisses e agora se depara com essa tal de nuvem, percebe que muitos detalhes que antes tinha domínio e agora não tem mais nem o acesso para tal, precisa se reinventar!\r\nSabe aquelas limitações que você só tinha ouvido falar e agora aparecem justamente em um momento de crise? Pois é, vamos passar raiva juntos conversando sobre esse lado nebuloso dessa tal de nuvem.",
+      "startsAt": "2022-11-05T09:15:00",
+      "endsAt": "2022-11-05T10:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "60d15369-30b2-40eb-a03d-5e8279244fd6",
+        "bd6b0fe6-c8e6-4d07-8e12-f803538b355d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28044,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "375972",
+      "title": "Data Factory & Synapse Pipelines - Best Practices",
+      "description": "Nesta sessão iremos entender a respeito de algumas boas práticas a serem aplicadas no uso dos serviços de orquestração de dados do Azure.",
+      "startsAt": "2022-11-05T09:15:00",
+      "endsAt": "2022-11-05T10:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "37ecb155-a05b-4dfb-9fc6-956fa6744789"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28045,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "392909",
+      "title": "Como aumentar a maturidade em Data & IA da sua empresa!",
+      "description": "Nessa sessão iremos trazer uma visão de como as empresas de todos os tamanhos estão lidando com os desafios da jornada Data Driven e compartilhar como acelerar essas iniciativas, de maneira assertiva e direta. ",
+      "startsAt": "2022-11-05T09:15:00",
+      "endsAt": "2022-11-05T10:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "97a3c8a1-e86c-4d11-b21c-648f23cf3e87"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28046,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "392486",
+      "title": "Governança de dados com o Microsoft Purview",
+      "description": "Entenda o que é Governaça de Dados, a importância de implementá-la nas organizações e como o Microsoft Purview atua para facilitar este gerenciamento dos dados em todo seu ciclo de vida.",
+      "startsAt": "2022-11-05T10:00:00",
+      "endsAt": "2022-11-05T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fe757940-8152-4ac9-8367-7fe2b258481e",
+        "acf4a463-c6a8-45db-bff5-3da88784eed5"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28044,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "396454",
+      "title": "Migração de Dashboards Complexos Tableau x Power BI",
+      "description": "Comparação entre funcionalidades das plataformas Power BI e Tableau em projetos de nível small, middle e large enterprise. Vou compartilhar um pouco das principais diferenças entre as plataformas, considerando tudo que aprendi ao longo de anos.",
+      "startsAt": "2022-11-05T10:00:00",
+      "endsAt": "2022-11-05T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d10c5e1e-8747-4092-a6a7-58bf7dd33c07"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28045,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "390335",
+      "title": "Carreira em Dados - Por onde começar",
+      "description": "Hoje existem diversas vagas para a área de dados, mas o que é necessário para se candidatar a estas vagas? Por onde começar a estudar? \r\nNesta palestra irei contar como consegui minha primeira oportunidade na área de dados, o que tive que estudar e quais os desafios que encontrei no percurso.",
+      "startsAt": "2022-11-05T10:00:00",
+      "endsAt": "2022-11-05T10:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f0d1463b-3a5d-4916-9307-69b8890117f5"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28046,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "391623",
+      "title": "Always On - My Mind!: Recursos incríveis do AG",
+      "description": "Always On: topologias e uso do Always On em ambientes corporativos. Quais vantagens que podemos utilizar de incriveis recursos na réplica primária e secundária sem perder sua principal essência: estar sempre ligado! Ainda vamos aprender sobre o Basic, o Availability Group no SQL Server Standard!",
+      "startsAt": "2022-11-05T11:15:00",
+      "endsAt": "2022-11-05T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fffe8690-f61d-4ba8-8de6-85defc201876",
+        "1499ed69-418e-4f35-a787-c2cc524c7625"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28044,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "382028",
+      "title": "Synapse Serverless - Security Best Practices.",
+      "description": "On this session we going to take a look on Security Best Practices as:\r\nPrivate Endpoint, Authentication Methods, Secure Data, Manage Users and more.",
+      "startsAt": "2022-11-05T11:15:00",
+      "endsAt": "2022-11-05T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7dd3409d-d186-42d6-9c5a-ea4513003e97"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28045,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "388999",
+      "title": "DBA As A Service: Administrando grande quantidade de ambientes com poucos recursos",
+      "description": "Nesta sessão descreveremos, com demonstrações, como otimizar o dia a dia de uma equipe DBA que trabalha com muitas tecnologias e grande quantidade de bases em cada tecnologia. \r\nTanto com automações quanto ferramentas utilizadas, reduzindo a demanda do dia a dia, automatizando tarefas do cotidiano e entregando ferramentas, para focar em entregas mais estruturais, \"refinando a mão de obra\" do DBA.",
+      "startsAt": "2022-11-05T11:15:00",
+      "endsAt": "2022-11-05T12:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "56db4854-7d4e-40ba-b92c-2cff7b68bd41"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28046,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "387716",
+      "title": "Delta Lake para DBAs",
+      "description": "Nesta sessão veremos as características de um Delta Lake e suas similaridades a uma engine de banco de dados tradicional, porém, operando sobre um Data lake.",
+      "startsAt": "2022-11-05T12:00:00",
+      "endsAt": "2022-11-05T12:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "bc73dd94-788b-4195-84a5-d84abf940600"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28044,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "392636",
+      "title": "Dicas de performance no SQL Server",
+      "description": "Nesta sessão será apresentado alguma dicas de performance no SQL Server e a importancia do baseline de quando for começar uma consultoria de tuning.",
+      "startsAt": "2022-11-05T12:00:00",
+      "endsAt": "2022-11-05T12:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8fce4d5d-abac-4631-a823-778825594814"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28045,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "375229",
+      "title": "Eleve seu CosmosDB ao Sétimo Sentido",
+      "description": "Nesta sessão cobriremos os pilares do Azure CosmosDB, bem como dicas de modelagem e boas práticas para você extrair o máximo desta plataforma.\r\nMuita gente fala que CosmosDB é algo \"caro\" na solução, mas você irá se surpreender que na verdade isso costuma ser fruto de decisões erradas de modelagem, estrutura e desenvolvimento. \r\nSe quer conhecer mais desta solução, esta sessão é para você!",
+      "startsAt": "2022-11-05T12:00:00",
+      "endsAt": "2022-11-05T12:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "acf4a463-c6a8-45db-bff5-3da88784eed5",
+        "9c394858-9b59-448c-b138-3499dfd803cf"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28046,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "391472",
+      "title": "Por que meu shrink não acaba nunca?",
+      "description": "Entenda porquê sua tentativa de rodar um Shrink no SQL Server não terminou mesmo depois vários dias rodando.",
+      "startsAt": "2022-11-05T12:45:00",
+      "endsAt": "2022-11-05T13:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "75e96463-d315-43f3-9534-95331b55adac"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28044,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "391621",
+      "title": "Parado e Protegido: Conceitos do Transparent Data Encryption (TDE)",
+      "description": "Neste seção iremos desmistificar o uso do TDE em banco de dados SQL Server. Como utilizar sem causar impactos para sua alta disponibilidade, backup e entender como sua performance irá agir diante da sua aplicação. ",
+      "startsAt": "2022-11-05T12:45:00",
+      "endsAt": "2022-11-05T13:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fffe8690-f61d-4ba8-8de6-85defc201876"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28045,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "398433",
+      "title": "Data warehouse Moderno no Azure",
+      "description": "Como construir a arquitetura ideal para apoiar seu cliente na transformação digital levando seus dados a outro patamar com os recursos do Azure.",
+      "startsAt": "2022-11-05T12:45:00",
+      "endsAt": "2022-11-05T13:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d47792b6-2ad5-412a-bc94-21ddde4e2323"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28046,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "381812",
+      "title": "Azure Synapse Analytics - Designing for Performance SQL Pool",
+      "description": "Nessa sessão iremos aprender na pratica como criar diferentes tipos de tabelas, distribuição de dados, diferença de performance entre tipos de tabelas e por fim, vamos entender o impacto de hash keys na performance do seu ambiente Dedicated SQL Pool. ",
+      "startsAt": "2022-11-05T13:35:00",
+      "endsAt": "2022-11-05T14:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "13dd52d1-db25-4e55-a463-4b6d75c8c9a2"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28044,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "374960",
+      "title": "Cloud Scale Analytics",
+      "description": "With larger, more sophisticated forms of cloud adoption, your journey to the cloud becomes more complex. Azure cloud-scale analytics is a scalable, repeatable framework that meets your organization's unique needs for building modern data platforms.",
+      "startsAt": "2022-11-05T13:35:00",
+      "endsAt": "2022-11-05T14:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ba64648c-aa31-425f-90b8-ac0b0723bb86"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28045,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "394560",
+      "title": "Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade",
+      "description": "Medições de desempenho têm sido feitas há muito tempo, em todas as áreas científicas. \r\n\r\nNos primeiros dias do processamento de dados, a velocidade com a qual um processo encerraria era dependente principalmente da velocidade dos dispositivos de hardware utilizados para leitura ou gravação de registros por parte de um programa de aplicação.\r\n\r\nPouca importância era dada ao tempo de execução de cada instrução, uma vez que o mesmo era muito pequeno em relação ao fator limitante do I/O.\r\n\r\nA atividade de medição, análise e previsão de desempenho de sistemas de computação se tornou muito complexa. Que parâmetros medir, como verificar sua precisão, e se eles são ou não os indicadores significativos de desempenho devem ser constantemente discutidos.\r\n\r\nA capacidade atual de um sistema de processamento de dados deve ser estimada medindo-se seu desempenho no nível corrente de utilização, e extrapolando-se para aquele que seria o nível de máxima utilização permissível.\r\n\r\n\r\nO acompanhamento de desempenho exerce uma atividade de vital importância para o bom desempenho do ambiente, uma vez que torna possível a especificação e o acompanhamento da configuração de hardware adotada, procurando extrair do equipamento o máximo de rendimento. \r\n\r\nEsta metodologia possibilita os ajustes necessários em todos os softwares básicos, visando fornecer bom tempo de resposta às transações on-line, bem como fornecer alta capacidade de processamento.\r\n\r\nFinalmente, esta atividade mede a utilização dos equipamentos com o objetivo de se estimar a sua vida útil, prevendo o tempo em que se atingirá a sua saturação. Quando for necessária a substituição de um determinado componente, são feitas avaliações para se sugerir e direcionar a escolha procurando quantificar a relação \"custo / benefício\", de modo a facilitar as decisões gerenciais.",
+      "startsAt": "2022-11-05T13:35:00",
+      "endsAt": "2022-11-05T14:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a25568fa-3837-467b-ae50-009932df58a7"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28046,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "392742",
+      "title": "Tuning de Query - Caso real",
+      "description": "Como conhecer sobre os operadores me ajudou resolver um caso no dia a dia.\r\nVocê irá encontrar pontos intrigantes, como:\r\n- A ordem das informações no select mudando a performance da query. O:\r\n\r\nRequisitos:\r\n- Conhecimento em T-SQL;\r\n- Análise básica do plano de execução. (Seek, Scan, Lookup)\r\n",
+      "startsAt": "2022-11-05T14:20:00",
+      "endsAt": "2022-11-05T15:05:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b31dd61d-a867-4886-8e54-f484493a84c6"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28044,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "380008",
+      "title": "Como migrar seu banco usando o DBATools.",
+      "description": "E se tivesse um comando que migrasse todos os objetos de banco de uma vez só de um servidor para outro, seria muito interessante neh? Vou dizer pra vocês que com o DBATools isso é possível é só escolher o comando certo, ou os comandos certos. \r\n\tNesta sessão vamos conversar um pouco sobre o DBATools e alguns de seus comandos que podem ser usados para migração de Bancos de dados e outros objetos.",
+      "startsAt": "2022-11-05T14:20:00",
+      "endsAt": "2022-11-05T15:05:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e902c524-ea0e-49f9-82ed-118a88f54650"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28045,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "375111",
+      "title": "Data Pipe Line - Entenda como ele é importante para o  sucesso dos projetos de Data Science",
+      "description": "Nesta palestra falo da importancia da aquisição e tratamento dos dados para acelerar as soluções de IA\r\nE como estamos resolvendo o problema de Escalabilidade e processamento de dados no SPOT By Falconi",
+      "startsAt": "2022-11-05T14:20:00",
+      "endsAt": "2022-11-05T15:05:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d743668c-3648-4597-a7bc-061bf8942287"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28046,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "391299",
+      "title": "TERRAFORM 101 - Implementando Bases de Dados do AZURE Como Código",
+      "description": "Conceitos básicos para uso do TERRAFORM e apresentação de demo com diversos serviços de dados do AZURE.",
+      "startsAt": "2022-11-05T15:30:00",
+      "endsAt": "2022-11-05T16:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "01f6c760-2da1-455c-9469-47aa19a3b946"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28044,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "378518",
+      "title": "Análise de lentidão com Extend event",
+      "description": "Demonstração de análise de CPU, LCK e latchs utilizando extend event que é poderoso aliado do DBA.",
+      "startsAt": "2022-11-05T15:30:00",
+      "endsAt": "2022-11-05T16:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "88feae46-b7e1-454d-94b9-cd21b014dbee"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28045,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "395897",
+      "title": "12 Fatores - Uma metodologia para construir SaaS",
+      "description": "É uma espécie de manifesto criado pela equipe do Heroku com os 12 fatores que uma aplicação deveria seguir para ter sucesso no formato SaaS.",
+      "startsAt": "2022-11-05T15:30:00",
+      "endsAt": "2022-11-05T16:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d4b46247-70f9-4ed7-9645-625e7756d358"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28046,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "376794",
+      "title": "Extrair conteúdo Dinamicamente com SQL no Azure Data Factory",
+      "description": "Conherecemos com desenvolver script SQL para indetificar os dados já existentes e extrair contéudo da internet dinamicamente no Azure Data Factory.",
+      "startsAt": "2022-11-05T16:15:00",
+      "endsAt": "2022-11-05T17:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "08f5d345-a456-4091-9ba4-5f28d1111722"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28044,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "394148",
+      "title": "Ferramentas de Monitoramento no Azure SQL",
+      "description": "Serão abordados algumas das principais ferramentas de monitoramento no Azure SQL com exemplo práticas de casos de usos e laboratórios:\r\n Azure SQL (Resumo);\r\n Command Line;\r\n Azure Monitor;\r\n Azure Monitor Alerts;\r\n Diagnostic settings;\r\n Log Analytics;\r\n Log queries e Kusto Query Language (KQL);\r\n Query Performance Insight;\r\n Azure Service Health;\r\n Resource Health.\r\n",
+      "startsAt": "2022-11-05T16:15:00",
+      "endsAt": "2022-11-05T17:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "395c5b58-45d9-453d-b11a-565b8669a0c9"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28045,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "396174",
+      "title": "MongoDB - Por que e como usar?",
+      "description": "Sessão visando mostrar conceitos básicos e possibilidades de utilização do MongoDB, além de fornecer comparação com alguns outros tipos de bancos de dados relacionais e não relacionais",
+      "startsAt": "2022-11-05T16:15:00",
+      "endsAt": "2022-11-05T17:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8afd0eda-dd8c-464b-86e1-45fb8d48c622"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 28046,
+      "liveUrl": null,
+      "recordingUrl": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "7dd3409d-d186-42d6-9c5a-ea4513003e97",
+      "firstName": "Alexandre",
+      "lastName": "Soteras",
+      "bio": "Microsoft Cloud Solution Architect ",
+      "tagLine": "Microsoft Cloud Solution Architect ",
+      "profilePicture": "https://sessionize.com/image/9dbc-400o400o2-Rtu3LZEqXw6y3inKivF1QK.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        382028
+      ],
+      "fullName": "Alexandre Soteras",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d743668c-3648-4597-a7bc-061bf8942287",
+      "firstName": "Alexandre",
+      "lastName": "Tavares",
+      "bio": "Com mais de 24 anos e experiencia em tecnologia e  expecializado em Data Science, Analytics & Big Data. \r\n\r\nPrincipais pontos da Carreira\r\n• Gerenciamento de banco de dados SQL\r\n• Tuning de queries SQL\r\n• Desenvolvimento, auditoria e consultoria de queries SQL\r\n• Implantação e Manutnção de Ambiente Hadoop\r\n• Spark\r\n• Big Data Analytics\r\n• ETL/ELT\r\n• Automatização de processos de Dados\r\n• Data Quality\r\n• Integração de dados de fontes distintas\r\n• Migração de dados\r\n• Desenvolvimento/Programação - Python/scala\r\n• Gestão de equipe/pessoas\r\n• Migração de Ambientes\r\n• Arquitetura Cloud: GCP, AWS, Azure e Oracle Cloud",
+      "tagLine": "Falconi - Data Team Lead",
+      "profilePicture": "https://sessionize.com/image/b1cb-400o400o2-TFNTKAVbvCqE37ZDESGzZe.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        375111
+      ],
+      "fullName": "Alexandre Tavares",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d47792b6-2ad5-412a-bc94-21ddde4e2323",
+      "firstName": "Carol",
+      "lastName": "Lavecchia",
+      "bio": "CTO na Invictus Data & AI |  Cloud Solutions Architect  | MVP Data Platform  (2x)|  Professor at FIAP.\r\nMais de 20 anos de experiência em Data Platform.\r\nIdealizadora do evento \"Data Engineers Conference\"",
+      "tagLine": "Founder & CTO at Invictus Data & AI",
+      "profilePicture": "https://sessionize.com/image/89ce-400o400o2-Kh3BYQ31bBUfC61RqArSzm.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        398433
+      ],
+      "fullName": "Carol Lavecchia",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "75e96463-d315-43f3-9534-95331b55adac",
+      "firstName": "Fabiano Neves",
+      "lastName": "Amorim",
+      "bio": "Fabiano loves to conquer complex, challenging problems—especially the ones that others aren’t able to solve. He first became interested in technology when his older brother would bring him to his work meetings at the age of 14. With almost two decades of experience, Fabiano is well known in the database community for his performance tuning abilities. He also is a data platform MVP since 2011 and actively involved in SQL Server community. His blog is on http://blogfabiano.com and you can follow him on twitter at @mcflyamorim.",
+      "tagLine": "Pythian - Principal Consultant",
+      "profilePicture": "https://sessionize.com/image/7344-400o400o2-63-d315-43f3-9534-95331b55adac.ab7d5ccf-60a8-4800-ba2f-cbd07e348f9d.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        391472
+      ],
+      "fullName": "Fabiano Neves Amorim",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "08f5d345-a456-4091-9ba4-5f28d1111722",
+      "firstName": "Fabio",
+      "lastName": "Santos",
+      "bio": "Formado em Gestão de Tecnologia da Informação, MBA em Big Data pela Fiap, pós-graduação em Didática do Ensino Superior, também fui Instrutor na área de tecnologia do SENAC (Serviço Nacional de Aprendizagem Comercial) e SENAI (Serviço Nacional de Aprendizagem da Industria)",
+      "tagLine": "Performance Digital & Analytics Solutions Consultant at Petrobras | Microsoft MVP Data Platform | Microsoft Certified Trainer",
+      "profilePicture": "https://sessionize.com/image/eacb-400o400o2-Yc9dW6Xkf8qmK9Ru1GgzsE.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        376794
+      ],
+      "fullName": "Fabio Santos",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9c394858-9b59-448c-b138-3499dfd803cf",
+      "firstName": "Felipe",
+      "lastName": "Guth de Freitas Bergstrom",
+      "bio": "Felipe Guth é formado e possui MBA pela FIAP (Faculdade de Administração de São Paulo). Ele tem mais de 15 anos na área de tecnologia, a maioria como Administrador de Banco de Dados SQL Server. Ele vem se aventurando em Public Cloud desde 2020, acumulando diversas certificações em Azure e AWS. Atualmente trabalha como Cloud Solution Architect na Microsoft Brasil com foco em Azure Data Services.",
+      "tagLine": "Microsoft, Cloud Solution Architect",
+      "profilePicture": "https://sessionize.com/image/617f-400o400o2-K9U8pfcokq8fdzkkWx1Vyt.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        375229
+      ],
+      "fullName": "Felipe Guth de Freitas Bergstrom",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "ba64648c-aa31-425f-90b8-ac0b0723bb86",
+      "firstName": "Felipe",
+      "lastName": "Moz",
+      "bio": "Trilhando carreira de dados desde 2007, pude participar de várias ondas transformacionais, trazendo bagagens por construção de ambiente analíticos em mais de uma indústria.\r\n",
+      "tagLine": "#azure #architecture #foundation #rightpath #openmic",
+      "profilePicture": "https://sessionize.com/image/375c-400o400o2-XwwMgs19du5mTnVohDvKgx.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        374960
+      ],
+      "fullName": "Felipe Moz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "395c5b58-45d9-453d-b11a-565b8669a0c9",
+      "firstName": "Hércules",
+      "lastName": "Pereira",
+      "bio": "Apaixonado por tecnologia e suas soluções, formado em técnico de informática para internet, e Tecnólogo em Banco de Dados na FATEC de São José dos Campos. Nos últimos anos tenho trabalhado mais profundamente com administração de servidores SQL Servers, desde instalações de instancias On-premises até projetos de melhorias, Upgrades e migrações de versões do SQL Server. Possuo conhecimentos técnicos HADR em tecnologias como Failover Cluster Instances (FCI), Availability Groups (AG) etc. Além da experiência diária com backups, restores, replication e dentre outras featurings. Atualmente tenho direcionado meus estudos em Cloud Computing na AWS e AZURE, nos serviços de dados em IaaS, PaaS e SaaS.",
+      "tagLine": "SQL Server Consultant",
+      "profilePicture": "https://sessionize.com/image/1339-400o400o2-7KFRghzFAEU3Yk23K7HqyA.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        394148
+      ],
+      "fullName": "Hércules Pereira",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "97a3c8a1-e86c-4d11-b21c-648f23cf3e87",
+      "firstName": "Igor",
+      "lastName": "de Paula",
+      "bio": "Sócio na Dataside, Sidelab, entre outras iniciativas | Data & Analytics Strategist & Cloud Solution Advisor | Microsoft Data Platform MVP & Certified Expert | PASS Leader (RJ)",
+      "tagLine": "Dataside/Sidelab Partner",
+      "profilePicture": "https://sessionize.com/image/2a2e-400o400o2-Zj6GWqG8yQKtw3MywPpL3.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        392909
+      ],
+      "fullName": "Igor de Paula",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1499ed69-418e-4f35-a787-c2cc524c7625",
+      "firstName": "Juarez",
+      "lastName": "Cardoso",
+      "bio": "Líder da comunidade SQLMOC\r\nDBA SQL Server; 5+\r\nInstrutor na DB Treinamentos;\r\nPalestrante em eventos;\r\nMCT | MCSA SQL Server| Azure",
+      "tagLine": "DBA SQL Server ",
+      "profilePicture": "https://sessionize.com/image/3c07-400o400o2-Uwsm2HcQogC5mFnE4d9xmG.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        391623
+      ],
+      "fullName": "Juarez Cardoso",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "88feae46-b7e1-454d-94b9-cd21b014dbee",
+      "firstName": "Leandro",
+      "lastName": "Sampaio",
+      "bio": "DBA SQL SERVER e instrutor",
+      "tagLine": "DATASIDE",
+      "profilePicture": "https://sessionize.com/image/23cb-400o400o2-ScCJXTt5NEfeeFCkGEaD4b.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        378518
+      ],
+      "fullName": "Leandro Sampaio",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b31dd61d-a867-4886-8e54-f484493a84c6",
+      "firstName": "Marcio",
+      "lastName": "Junior",
+      "bio": "Msg 229, Level 14, State 5, Line 1\r\nThe SELECT permission was denied on the object 'Information', database 'Biography', schema 'dbo'.",
+      "tagLine": "Dataside - MSSQL - Technical Advisor | Technical Leader | Performance Specialist",
+      "profilePicture": "https://sessionize.com/image/8baf-400o400o2-SK2JffVEP1KU1ttZ2mQAD.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        392742
+      ],
+      "fullName": "Marcio Junior",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "56db4854-7d4e-40ba-b92c-2cff7b68bd41",
+      "firstName": "Marcos",
+      "lastName": "Lanzarini",
+      "bio": "Gaúcho de Minas do Leão, 31 anos, colorado, geek.\r\nGraduado em Análise e Desenvolvimento de Sistemas, pós graduado em Liderança e Inovação.\r\nProfissional de tecnologia a 14 anos, como DBA são 8 anos, no ramo financeiro e bancário, atuando com Infraestrutura Datacenter e Cloud, com práticas DevOps.\r\nMCP e MCSA em SQL Server. \r\nCertificações em Clouds Microsoft Azure, Oracle Cloud Infrastructure e AWS.",
+      "tagLine": "Database Specialist , AGIBANK",
+      "profilePicture": "https://sessionize.com/image/74f0-400o400o2-wsyd7mehyaeSKtVqCsV6Av.PNG",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        388999
+      ],
+      "fullName": "Marcos Lanzarini",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d10c5e1e-8747-4092-a6a7-58bf7dd33c07",
+      "firstName": "Nilton Kazuyuki",
+      "lastName": "Ueda",
+      "bio": "Nilton Kazuyuki Ueda holds a bachelor's degree in Information Systems and is currently a graduate of Mackenzie Presbyterian University in Analytics, Business Intelligence and Big Data Platform. \r\n\r\nHe works as Senior Business Intelligence and Analytics Analyst helping companies improve decision-making through data response best practices, building efficient data analysis and dashboards. ",
+      "tagLine": "Marketing Analytics Senior Expert",
+      "profilePicture": "https://sessionize.com/image/95c1-400o400o2-DeKDzGZxDQRJqLE3REMK6a.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        396454
+      ],
+      "fullName": "Nilton Kazuyuki Ueda",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "37ecb155-a05b-4dfb-9fc6-956fa6744789",
+      "firstName": "Orlando",
+      "lastName": "Gomes",
+      "bio": "BI Consultant, has more than 6 years of experience in the Microsoft technologies market, focused on support and implementation on Windows Server and SharePoint Server platforms, with current emphasis in several projects using Microsoft' BI platform, is Microsoft MVP Data Platform and Microsoft Learn Student Ambassador",
+      "tagLine": "BI Consultant / Microsoft MVP / MSA  ",
+      "profilePicture": "https://sessionize.com/image/0e00-400o400o2-55-a05b-4dfb-9fc6-956fa6744789.91c8bea8-c2b4-4255-98ec-1a605f282db7.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        375972
+      ],
+      "fullName": "Orlando Gomes",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8afd0eda-dd8c-464b-86e1-45fb8d48c622",
+      "firstName": "Paulo Cesar",
+      "lastName": "Benjamin Junior",
+      "bio": "Sou consultor de MongoDB com mais de 10 anos de experiência como DBA.\r\nIniciei a carreira trabalhando com SQL Server, mas também tive oportunidade de trabalhar com outros bancos como Oracle, MySQL, PostgreSQL e Sybase, até que comecei a trabalhar com MongoDB prestando consultoria para empresas em países falantes de português e espanhol.",
+      "tagLine": "MongoDB/Extractta - MongoDB Consulting Engineer",
+      "profilePicture": "https://sessionize.com/image/7cd6-400o400o2-S7gNr8sjshebgqPVgw7En5.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        396174
+      ],
+      "fullName": "Paulo Cesar Benjamin Junior",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "bc73dd94-788b-4195-84a5-d84abf940600",
+      "firstName": "Reginaldo",
+      "lastName": "Silva",
+      "bio": "+10 years Data professional\r\nData Architect & Data engineer at Dataside\r\nDatabricks Lakehouse Fundamentals\r\nDatabricks Developer Associate\r\nDatabricks Data Engineer Associate\r\nDatabricks Data Engineer Professional\r\nAzure Data Engineer certified\r\n+10 Microsoft Data certifications ",
+      "tagLine": "Data Architect & Data Engineer",
+      "profilePicture": "https://sessionize.com/image/d959-400o400o2-GnHUAvfm51Adc51YvAo8hK.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        387716
+      ],
+      "fullName": "Reginaldo Silva",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "bd6b0fe6-c8e6-4d07-8e12-f803538b355d",
+      "firstName": "Ricardo",
+      "lastName": "Leka Roveri",
+      "bio": "Freaking Awesome Amazing Badass and Modest guy, with a few years of experience with this strange thing called SQL Server. ",
+      "tagLine": "Arquiteto de Dados",
+      "profilePicture": "https://sessionize.com/image/0ff8-400o400o2-32ff7591-0a54-4a21-bf6c-148e07b6613e.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        376771
+      ],
+      "fullName": "Ricardo Leka Roveri",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a25568fa-3837-467b-ae50-009932df58a7",
+      "firstName": "Roberto",
+      "lastName": "Santos",
+      "bio": "Mestre em Ciência da Informação pela UFMG. Consultor em tempo integral atuando há mais de 25 anos na administração de bancos de dados SQL Server, otimização de performance, gestão de capacidade e relatórios em tempo real sobre indicadores de negócio e disponibilidade.\r\n\r\nEleito por duas vezes consecutivas (1999 e 2000) pela Microsoft Brasil como o “Systems Engineer do Ano” -  Categoria:  Inteligência de Negócios\r\n",
+      "tagLine": "RSS Informática - Consultor",
+      "profilePicture": "https://sessionize.com/image/f48e-400o400o2-EaiMRDeintXLyJUt5x7urY.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        394560
+      ],
+      "fullName": "Roberto Santos",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "13dd52d1-db25-4e55-a463-4b6d75c8c9a2",
+      "firstName": "Sidney",
+      "lastName": "Cirqueira",
+      "bio": "Azure Synapse Support Engineer | Microsoft Certified in Data & AI | Big Data & Machine Learning Student with currently focused on data engineering and artificial intelligence solutions in the Microsoft Azure environment. Speaker and Active participant of the Microsoft Learn Student Ambassadors Latam Communities, SQL Server DF, Brasilia Data Group, BSB IA, Data Science, BigData & Analytics and speaker at Data Platform and Artificial Intelligence events.",
+      "tagLine": "Azure Synapse Support Engineer at Microsoft",
+      "profilePicture": "https://sessionize.com/image/1f3d-400o400o2-XFKLTRhFE6WQqUBq2Bc9fa.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        381812
+      ],
+      "fullName": "Sidney Cirqueira",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "60d15369-30b2-40eb-a03d-5e8279244fd6",
+      "firstName": "Suellen",
+      "lastName": "Moraes",
+      "bio": "Cursando Psicologia e formada em Tec. em banco de dados, pós graduada em Gestão de TI e certificada em Professional & Self Coaching.\r\nTrabalho na área de TI há mais de 15 anos, com carreira desenvolvida em administração de banco de dados e gestão de pessoas.\r\nAtualmente, team leader de banco de dados, atuando na formação e liderança  e gestão de equipe de banco de dados.\r\nÚltima atuação técnica como especialista SQL Server atuando com a sustentação de ambientes de missão crítica bancário, força de vendas e chatbots. Desenvolvimento de projetos de reestruturação de ambientes visando melhorias de performance e alta disponibilidade.\r\n",
+      "tagLine": "Data & Analytics Leader",
+      "profilePicture": "https://sessionize.com/image/fb80-400o400o2-LBXS3PH5ikhn3jJZMjm5uE.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        376771
+      ],
+      "fullName": "Suellen Moraes",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d4b46247-70f9-4ed7-9645-625e7756d358",
+      "firstName": "Thiago",
+      "lastName": "Alvernaz",
+      "bio": "Formato em Análise e Desenvolvimento de Sistemas pela universidade UNA, meu hobby é programar, já realizei diversas palestras/cursos sobre desenvolvimento, e atualmente gosto de estudar sobre blockchain.",
+      "tagLine": "Otus7 - Software Developer",
+      "profilePicture": "https://sessionize.com/image/0c53-400o400o2-SLtzN3MWTLjgrEwLPBfp8o.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        395897
+      ],
+      "fullName": "Thiago Alvernaz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "acf4a463-c6a8-45db-bff5-3da88784eed5",
+      "firstName": "Thiago",
+      "lastName": "Zavaschi",
+      "bio": "Thiago Zavaschi (aka Zava) é formado e mestre em computação na área de Inteligência Artificial pela PUC-PR. Possui mais de 15 anos na área de tecnologia com foco em dados, diversas certificações de mercado, e \r\né um dos autores do primeiro livro de Azure Machine Learning e R em português. Thiago trabalha na Microsoft há mais de 11 anos, já tendo atuado como engenheiro de suporte e hoje atua como arquiteto de soluções em nuvem para as áreas de dados e inteligência artificial.",
+      "tagLine": "Microsoft - Cloud Solution Architect",
+      "profilePicture": "https://sessionize.com/image/39da-400o400o2-fyteBbofh1gVNJrZZSmdeA.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        392486,
+        375229
+      ],
+      "fullName": "Thiago Zavaschi",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e902c524-ea0e-49f9-82ed-118a88f54650",
+      "firstName": "Tiago",
+      "lastName": "Crespi",
+      "bio": "Trabalha a 8 anos como Administrador de Banco de Dados na CrespiDB - Soluções em Plataforma de Dados. Já atuo como desenvolvedor VB.NET, C++ e Delphi em empresas como Lojas Colombo, CWI Software e Lohr Sistemas Eletrônicos. Graduado em Sistemas de Informação | Especialista em Engenharia de Software | MCSE - Data Management and Analytics, MCT desde 2020 e Azure Data Engineer Associate. Palestrante em eventos e meetups relacionados à bancos de dados e desenvolvimento de software. Sendo alguns deles: SQL Saturday, SQL Server RS, .NET Caxias, TDC e etc.",
+      "tagLine": "CDB Datasolutions",
+      "profilePicture": "https://sessionize.com/image/eb98-400o400o2-nLDuieaihamGGZCmTKe8VD.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        380008
+      ],
+      "fullName": "Tiago Crespi",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8fce4d5d-abac-4631-a823-778825594814",
+      "firstName": "Tiago",
+      "lastName": "Neves",
+      "bio": "Atualmente atuando como especialista SQL Server, no time de Cloud da Totvs, tenho mais de 10 anos de experiencia com SQL Server atuando em consultorias e empresa do ramo financeiro.",
+      "tagLine": "Especialista, Cloud Totvs",
+      "profilePicture": "https://sessionize.com/image/6ecb-400o400o2-pQ9ak1Vf5V7cR3yBWn9jDu.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        392636
+      ],
+      "fullName": "Tiago Neves",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "fe757940-8152-4ac9-8367-7fe2b258481e",
+      "firstName": "Vitor",
+      "lastName": "Ferreira",
+      "bio": "Sou o Vitor, sócio fundador da Otus7, empresa especializada em geração de insights, trabalho com análise de dados desde 2011 e tive a oportunidade de participar de diversos projetos de BI, Data Science e Desenvolvimento de Softwares.\r\nNesta cessão, terei o prazer de dividir a palavra com o Arquiteto de Soluções Thiago Zavaschi, referência em BI e IA.",
+      "tagLine": "CTO - Otus7",
+      "profilePicture": "https://sessionize.com/image/aa65-400o400o2-Ug6rDYC91ug5XSccqJSrkt.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        392486
+      ],
+      "fullName": "Vitor Ferreira",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "01f6c760-2da1-455c-9469-47aa19a3b946",
+      "firstName": "Wagner",
+      "lastName": "Crivelini",
+      "bio": "Colunista em diversos portais, entre eles DATABASECAST, IMASTERS e SQLSERVERCENTRAL com mais de 200 publicações.",
+      "tagLine": "Consultor Sênior da MICROSOFT BRASIL",
+      "profilePicture": "https://sessionize.com/image/1924-400o400o2-Udc5qhMnQR9YHmYH1Xk25T.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        391299
+      ],
+      "fullName": "Wagner Crivelini",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f0d1463b-3a5d-4916-9307-69b8890117f5",
+      "firstName": "William",
+      "lastName": "Kuwiecinski",
+      "bio": "Me chamo William Kuwiecinski, tenho 33 anos, sou gaúcho, formado em Sistemas de informação, sou pós graduado em Gestão de banco de dados e atualmente curso um MBA em Liderança e Gestão de equipes. Iniciei minha carreira profissional na área de suporte e após alguns anos migrei para a área de dados atuando por 7 anos como Analista de Business Intelligence. Desde 2021 atuo como Coordenador de TI em uma multinacional fazendo a gestão dos projetos de TI da empresa e também da equipe da área de dados. Também sou líder de uma comunidade chamada SQLMOC cujo objetivo é compartilhar conhecimento de forma gratuita. ",
+      "tagLine": "Coordenador de TI - Timac Agro Brasil",
+      "profilePicture": "https://sessionize.com/image/d910-400o400o2-EZNHT6RYayX6YsuVfU76JJ.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        390335
+      ],
+      "fullName": "William Kuwiecinski",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "fffe8690-f61d-4ba8-8de6-85defc201876",
+      "firstName": "Willian Jose",
+      "lastName": "Lima",
+      "bio": "Profissional com mais de 10 anos de experiência na área de TI, atuando nos segmentos de suporte e gerenciamento de banco de dados. \r\nExperiência em banco de dados Oracle e SQL Server com foco em planejamento e execução de projetos de migração de banco de dados de missão crítica. ",
+      "tagLine": "TDE; SQL Server; Always ON; AG; High Availability",
+      "profilePicture": "https://sessionize.com/image/77df-400o400o2-QeQkPJHNfgs2wZnYpHXuBy.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        391623,
+        391621
+      ],
+      "fullName": "Willian Jose Lima",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": [
+    {
+      "id": 28044,
+      "name": "Auditório",
+      "sort": 0
+    },
+    {
+      "id": 28045,
+      "name": "Sala 701",
+      "sort": 1
+    },
+    {
+      "id": 28046,
+      "name": "Sala 702",
+      "sort": 2
+    }
+  ]
+}

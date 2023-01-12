@@ -1,0 +1,682 @@
+{
+  "sessions": [
+    {
+      "id": "361584",
+      "title": "Azure SQL: What to use when",
+      "description": "In this session, you'll learn from a member of the Microsoft Product Group the different options for your SQL deployments in Azure. After this session, you should be able to: \r\n○ Articulate the key differentiators between SQL Server on-prem, in Azure VM, Azure SQL MI, and Azure SQL DB \r\n○ Explain the different service tiers, and evaluate what is best for your workloads and business requirements (Serverless, Hyperscale, General Purpose, Business Critical, etc)\r\n",
+      "startsAt": "2022-08-13T15:45:00Z",
+      "endsAt": "2022-08-13T16:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b13961d2-183f-4b3f-9731-46cf4cc0ddf5"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26225,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "373175",
+      "title": "Your Career...Make It Happen",
+      "description": "Tips to planning, and working, your career path. Creating the job of your dreams.",
+      "startsAt": "2022-08-13T15:45:00Z",
+      "endsAt": "2022-08-13T16:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a6445070-ef12-4796-9f74-6cced997941b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26226,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "361786",
+      "title": "Developing WebAssembly UDFs for in-database Machine Learning",
+      "description": "WebAssembly (Wasm) is a binary instruction format for a stack-based virtual machine. Wasm enables developers to use existing code libraries (e.g. C/C++) as part of their application development process. Wasm is not just for the web and today moves in exciting new directions. One primary use-case would be to run a Machine Learning algorithm directly in a database system on the data already stored in the database system -- an example of co-locating analytics with data. Attendees will learn how we can use an ML classifier and then port the code to a Wasm module. No prior knowledge or experience of Wasm is required. Wasm standards are being developed by the W3C and actively promoted through non-profit organisations such as the Bytecode Alliance.",
+      "startsAt": "2022-08-13T15:45:00Z",
+      "endsAt": "2022-08-13T16:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4112bd28-1195-4fd3-b412-ad5b1a46ce69"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26227,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "361760",
+      "title": "An Introduction to Query Tuning using Execution Plans",
+      "description": "Do you want to learn how to improve T-SQL query performance, but don't know where to start? The answer is execution plans, and in this session, you will get a gentle introduction to these strange icons and arrows. You'll learn where to find a plan, what the most relevant parts of a plan are, and how to start applying this knowledge to make queries go faster.",
+      "startsAt": "2022-08-13T17:15:00Z",
+      "endsAt": "2022-08-13T18:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e4c161d4-b482-45ae-9a79-390e4d7b2658"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26225,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "357934",
+      "title": "Data Migration Guide for Movers",
+      "description": "Migrating a database sounds simple enough, until you start doing it… \r\nWhat can go wrong? What do you need to get right? If you are going to migrate MongoDB data from one place to another - this session is for you! Taking structured approach to the migration process helps make things run smoother. Many things have to come together: questions to ask, decisions to make, and efforts to organize. Not quite a formula, but rather a roadmap that makes things run smoother.\r\n\r\nAfter this session you will be better positioned to:\r\n\t- Plan and estimate the migration effort\r\n\t- Spot and mitigate important issues\r\n\t- Execute a strategy that fits your unique challenge",
+      "startsAt": "2022-08-13T17:15:00Z",
+      "endsAt": "2022-08-13T18:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0503e27e-c28b-409d-a074-1b0442d5c1dd"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26226,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "360705",
+      "title": "GCP Data Management and Analytics overview",
+      "description": "We will learn about GCP Data platform services like Spanner and AlloyDB and we will look at GCP Big Query capabilities and analytics engine",
+      "startsAt": "2022-08-13T17:15:00Z",
+      "endsAt": "2022-08-13T18:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ec5ef698-6c51-4e7b-a70c-e1745c3daf5e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26227,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "352621",
+      "title": "Encrypting and securing your data in Azure SQL DB with no code impact",
+      "description": "Always encrypted is a feature in Azure SQL DB and brings the next level of data protection in the engine. In this session full of demos you will learn how to benefit from it and compare with other options as TDE (Transparent Data Encryption) and Masking. ",
+      "startsAt": "2022-08-13T18:45:00Z",
+      "endsAt": "2022-08-13T19:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26225,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "355390",
+      "title": "Adopting A DevOps Process for Your Database",
+      "description": "DevOps is changing today’s software development world by helping us build better software, faster. However most of the knowledge and experience with DevOps is based around application software and ignores the database. We will examine how the concepts and principles of DevOps can be applied to database development by looking at both automated comparison analysis as well as migration script management. Automated building, testing, and deployment of database changes will be shown.",
+      "startsAt": "2022-08-13T18:45:00Z",
+      "endsAt": "2022-08-13T19:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "558d6d9f-4ad1-431c-a6fd-d231052d354b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [
+        {
+          "questionId": 42983,
+          "answerValue": "https://sessionize.com/download/frauzne~MSsN8VggrAzt1iXowkus8f.pptx~AdoptingCompliantDevOps_SQLSatLA2022.pptx"
+        }
+      ],
+      "roomId": 26226,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "364036",
+      "title": "Getting started with Apache Spark on Azure",
+      "description": "Apache Spark is a popular technology when building a modern data platform. It is a general purpose data processing framework that scales for large datasets. Developing Spark applications with Python is a great skill to build for all data professionals, so join this session to get started!\r\n\r\nThis session introduces the technology and syntax for data professionals  to build data pipelines with Apache Spark and Azure. This session is designed for anyone with basic knowledge of data processing, but those who are familiar with Python programming will get the most from the session. We will quickly cover general concepts for Apache Spark on Azure then focus on introductory code examples using Python.",
+      "startsAt": "2022-08-13T18:45:00Z",
+      "endsAt": "2022-08-13T19:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "eed788d6-e4e9-4df0-95bb-a1a0be677de1"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26227,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "372923",
+      "title": "M365 Automation for Company Employee Onboarding",
+      "description": "This session will share how to do Company Employee Onboarding, approvals, user creation and licensing.",
+      "startsAt": "2022-08-13T20:15:00Z",
+      "endsAt": "2022-08-13T21:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e175e175-fb8e-4227-a049-c26a35c93121"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26225,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "369505",
+      "title": "Stop Indexing the Query",
+      "description": "If you are like me, when doing tuning and optimization efforts, you tend to find a long running query or a query consuming a lot of resources in the form or logical reads. We dig into these queries and many times, we find that it could benefit from an index or adjusting an existing index. So, we do that. However, what did we just do to the overall workload? Was it good, bad, or indifferent?",
+      "startsAt": "2022-08-13T20:15:00Z",
+      "endsAt": "2022-08-13T21:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ee1c2110-94ea-4413-abba-4cd2f1d71824"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [
+        {
+          "questionId": 42983,
+          "answerValue": "https://sessionize.com/download/itvafjeo~DuS4oArdCtWkd9isdapMFA.pptx~StopIndexingTheQuery.pptx"
+        }
+      ],
+      "roomId": 26226,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "365203",
+      "title": "CozyRoc: Dynamic Data Flows in SSIS Without Programming",
+      "description": "This session is an introduction to the unique functionality offered by COZYROC to create integration packages that dynamically map columns at runtime. The standard SSIS Data Flow Task can only use static metadata which is defined when the package is initially designed. The mapping of columns is configured and remains unchanged until the package is re-opened and design changes are made, thus costing maintenance time and effort. Data Flow Task Plus extends the capabilities of the standard Microsoft Data Flow task in that it allows you to set up dynamic data flows, thus eliminating maintenance time and effort. Changes to tables and columns are automatically incorporated at run time without the need to change and redeploy the package. Columns and fields are mapped automatically at run time. Furthermore, the initial design time and effort may be greatly reduced when dealing with huge amounts of data in a large number of files and/or databases.",
+      "startsAt": "2022-08-13T20:15:00Z",
+      "endsAt": "2022-08-13T21:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b47b6729-7318-4bcc-ab19-9db65edc14e2"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26227,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "353567",
+      "title": "DataBricks DataLake or SQL DataBase",
+      "description": "This session will highlight the key difference in different Databases hosts. It will also help you select right database solution for your customer.",
+      "startsAt": "2022-08-13T21:45:00Z",
+      "endsAt": "2022-08-13T22:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e175e175-fb8e-4227-a049-c26a35c93121",
+        "037addc5-6084-4171-9b25-3695a2bc13ab"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26225,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "356015",
+      "title": "A DBA's Guide to the Proper Handling of Corruption",
+      "description": "Corruption can strike at any time. As DBAs how we alert, investigate, and respond can have a profound impact on our company. In this session we will learn how to detect and respond to various types of corruption.\r\n\r\nFirst we will be focus on ways to detect corruption early. This will include understanding tools available to us like DBCC CheckDB as well as the importance of testing your backups. We’ll look at some sample scripts to automate corruption checks and common alerts we should have set up on our instances.\r\n\r\nThen we will move onto how to respond. We’ll discuss the importance of incident management and the Disaster Recovery mindset and look at how we can analyze the situation safely as well as point out various pitfalls that trip people up. We’ll also discuss when and how we may be able to fix corruption vs restoring the database. Additionally we will look at a few common examples of corruption and how to fix them.",
+      "startsAt": "2022-08-13T21:45:00Z",
+      "endsAt": "2022-08-13T22:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1d728710-f22c-4ec2-ae0b-66c06d9ee26d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26226,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "371632",
+      "title": "SQL Server Management Studio - Beyond the basics",
+      "description": "Almost all of us use SQL Server Management Studio to interact with SQL Server, and thankfully it works right out of the box.  But did you know there are so many tricks and shortcuts that hide just under the surface that can make working with SSMS feel like second nature?\r\n\r\nIn this session, I will take a fresh install of SSMS and step through customizing it.  I will demonstrate features and help you become more efficient at utilizing SSMS to it's fullest potential - a lot of the time without using the mouse. Finally, I’ll show you some cool text editing tricks that will take your SQL skills to a whole new level.",
+      "startsAt": "2022-08-13T21:45:00Z",
+      "endsAt": "2022-08-13T22:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c1e282b2-0eea-4849-b0c6-a89458282b14"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26227,
+      "liveUrl": null,
+      "recordingUrl": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "c1e282b2-0eea-4849-b0c6-a89458282b14",
+      "firstName": "Adrian",
+      "lastName": "Mee",
+      "bio": "A native of Melbourne, Australia - Adrian currently works for Falling Colors Technology in Santa Fe, NM.  In this role, he is responsible for Database administration, data security and infrastructure.  Adrian has been working with SQL Server since the Enterprise Manager days of SQL Server 2000.  \r\n\r\nAdrian is an Idera ACE, class of 2020, and in 2017 he founded the Santa Fe SQL Server User group.  When out of the office, he loves biking and hiking the great outdoors.",
+      "tagLine": "Director of Information Security",
+      "profilePicture": "https://sessionize.com/image/ac97-400o400o2-b2-0eea-4849-b0c6-a89458282b14.929b114b-a940-4cef-83b8-95cff5e48683.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/SqlNoodle",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/adrian-mee/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        371632
+      ],
+      "fullName": "Adrian Mee",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "037addc5-6084-4171-9b25-3695a2bc13ab",
+      "firstName": "Ajit",
+      "lastName": "Upadhyaya",
+      "bio": "An enthusiast of data related technology with 15+ years of experience in Database Administration, Solutioning, Development, ETL using SSIS and C#, Business Intelligence technologies including SSRS and PowerBI. Additionally adept on Data Science including Machine Learning (Supervised, Unsupervised, Ensemble Techniques, Forecasting & Recommendation System) and Artificial Intelligence (Deep Learning, Neural Network & Computer Vision).\r\n•\tProven ability in IT/ Banking/Finance/ Health domain \r\n•\tSuccessful in improving operations and reducing costs, by designing and implementing enhanced technologies with core capability of mitigating regulatory risk and delivery architecture governance enhancements\r\n•\tProfound experience in providing consultation for risk assessment in Microsoft SQL Server and data related technology, troubleshooting issues using various tools and technologies\r\n•\tDeft in supporting and managing IT & Data Management and providing design, engineering, project / program management services & client solutions\r\n",
+      "tagLine": "Data Architect/Scientist - Golden Five",
+      "profilePicture": "https://sessionize.com/image/eeac-400o400o2-X9p9HWzufodHJWrJeeKFcy.JPG",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/ajit-upadhyaya-it",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        353567
+      ],
+      "fullName": "Ajit Upadhyaya",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "4112bd28-1195-4fd3-b412-ad5b1a46ce69",
+      "firstName": "Akmal",
+      "lastName": "Chaudhri",
+      "bio": "Akmal helps build global developer communities and raise awareness of technology through presentations and technical writing. He has over 25 years of experience in IT. He has previously held roles as a developer, consultant, product strategist, evangelist, technical writer and technical trainer with several Blue Chip companies and Big Data startups. He has regularly presented at many international conferences and served on the program committees for several major conferences and workshops. He has published widely and edited or co-edited ten books. He holds a BSc (1st Class Hons.) in Computing and Information Systems, MSc in Business Systems Analysis and Design and a PhD in Computer Science. He is a Member of the British Computer Society (MBCS) and a Chartered IT Professional (CITP).",
+      "tagLine": "Senior Technical Evangelist",
+      "profilePicture": "https://sessionize.com/image/b712-400o400o2-fgsNaaMniqsj7QNdsJGACJ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/akmalchaudhri",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/akmalchaudhri/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        361786
+      ],
+      "fullName": "Akmal Chaudhri",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b13961d2-183f-4b3f-9731-46cf4cc0ddf5",
+      "firstName": "Anna",
+      "lastName": "Hoffman",
+      "bio": "Anna is a Data & Applied Scientist on the SQL Engineering team. Coming recently from AI Engineering, she's pursuing her efforts to democratize AI through data applications.",
+      "tagLine": "Democratizing AI",
+      "profilePicture": "https://sessionize.com/image/3cec-400o400o2-d2-183f-4b3f-9731-46cf4cc0ddf5.4b13702a-fbca-4060-af67-6183406743f2.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/AnalyticAnna",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/amthomas46/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        361584
+      ],
+      "fullName": "Anna Hoffman",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b",
+      "firstName": "Armando",
+      "lastName": "Lacerda",
+      "bio": "http://bit.ly/ALacerdaProfile",
+      "tagLine": "Azure, Data Platform and BI Architect",
+      "profilePicture": "https://sessionize.com/image/0d6b-400o400o2-17-bd56-4cef-9a29-eea5a84dd56b.29bb8247-1f10-4df1-bea5-838eb4f74052.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        352621
+      ],
+      "fullName": "Armando Lacerda",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1d728710-f22c-4ec2-ae0b-66c06d9ee26d",
+      "firstName": "Brandon",
+      "lastName": "Leach",
+      "bio": "A Microsoft Data Platform MVP, Brandon is a senior member of the DB Operations team for financial company x. With a data estate of several petabytes across thousands of servers, he puts a high focus on performance tuning and automation at scale. He is a frequent speaker at events like conferences and user groups.",
+      "tagLine": "Microsoft Data Platform MVP",
+      "profilePicture": "https://sessionize.com/image/af7e-400o400o2-SmUcEiNfFYqFvnMEDuiai.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://www.twitter.com/SQLServerNerd",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/sqlservernerd",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        356015
+      ],
+      "fullName": "Brandon Leach",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b47b6729-7318-4bcc-ab19-9db65edc14e2",
+      "firstName": "Diane",
+      "lastName": "Schuster",
+      "bio": "Diane has worked with COZYROC since 2012. She has attended numerous SQLSaturdays to shine the light on the time-saving and capability-extending components and tasks that COZYROC offers in it’s SSIS+ library. Without even having a background in databases or SQL Server, Diane successfully configures packages in live demonstrations that use COZYROC components and tasks. She believes that, if the toolkit is this easy to use for a novice, then just imagine what a SQL Server expert can do with it!\r\n\r\nIn Diane’s data networking days, Diane performed a variety of development-related and customer-facing roles for IBM, Lucent Technologies, North Carolina State University and Connectware.",
+      "tagLine": "Technical Marketing",
+      "profilePicture": "https://sessionize.com/image/d906-400o400o2-wjyvgbEdjKZEKFhWPTNesJ.jpeg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "http://twitter.com/cozyroc",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "http://www.linkedin.com/in/dianeschuster",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        365203
+      ],
+      "fullName": "Diane Schuster",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "eed788d6-e4e9-4df0-95bb-a1a0be677de1",
+      "firstName": "Dustin",
+      "lastName": "Vannoy",
+      "bio": "Dustin Vannoy is a Data Engineering Consultant with 15 years experience solving business problems with analytics and big data solutions. He is passionate about all aspects of data engineering, especially building data platforms and streaming data pipelines. He currently focuses on building data lakes and data pipelines in Azure with Apache Spark, Kafka, Python, and Scala. Dustin is a technical leader in San Diego and the co-founder of Data Engineering San Diego group. He encourages others to grow their data skills by making tutorials and speaking, particularly around Southern California and Baja California.",
+      "tagLine": "Azure Data Engineer - Consultant and Trainer",
+      "profilePicture": "https://sessionize.com/image/bfa0-400o400o2-Nci6zxoEtRpxLXGrEsggCZ.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/dustinvannoy",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/dustinvannoy",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        364036
+      ],
+      "fullName": "Dustin Vannoy",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a6445070-ef12-4796-9f74-6cced997941b",
+      "firstName": "Harriet",
+      "lastName": "Farmer",
+      "bio": "Harriet is a Member of Who’s Who in American Women, nominated by her fellow IT professional colleagues to receive this honor. She has been a Member of multiple Advisory Boards focused on Public Education, Curriculum/Instructional Design, National Academy Foundation- IT, Workforce Development and Career/Technical/Adult Education. She spent 20-years working in both Private and Public Sector (Federal Government and Military) in Information Technology; consulting on projects up to $100M and managing IT modernization projects up to $7M, as a consultant implementing complex ERP back-office systems (Order-to-Cash, Procure-to-Pay), Business Process Improvement, Report Writing, Data Analytics, writing Technical Documentation and Training Curriculums [Pre/Post Skills Assessments, Learning Objectives, Curriculum Content Development (classroom, LMS, CBT, WBT, Independent Study)]; and, as a Business Development Manager for consulting companies that provide implementation services, developing new client relationships and writing contracts.",
+      "tagLine": "Choir Boy Productions, Inc.",
+      "profilePicture": "https://sessionize.com/image/ceab-400o400o2-fZmGRb9ve9TrxvPApmkGwV.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        373175
+      ],
+      "fullName": "Harriet Farmer",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e4c161d4-b482-45ae-9a79-390e4d7b2658",
+      "firstName": "Jeff",
+      "lastName": "Iannucci",
+      "bio": "Jeff Iannucci is a Senior SQL Server Consultant for Straight Path IT Solutions. He has over 20 years of SQL Server experience as both a DBA and Developer in diverse environments such as health care, finance, retail sales, and government. He writes about solving problems for database professionals on both twitter (@DesertDBA) and his blog (desertdba.com), and was chosen as an IDERA ACE for 2020.",
+      "tagLine": "Senior SQL Server Consultant at Straight Path",
+      "profilePicture": "https://sessionize.com/image/8814-400o400o2-4wJDsQRdifHsRphtRjKFgw.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/desertdba",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jeff-iannucci/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        361760
+      ],
+      "fullName": "Jeff Iannucci",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "0503e27e-c28b-409d-a074-1b0442d5c1dd",
+      "firstName": "Nuri",
+      "lastName": "Halperin",
+      "bio": "Nuri Halperin is a software architect, speaker, and author. He helps companies develop scalable systems,  websites, and business applications. He’s been turning projects into success stories for a variety clients for over 2 decades.\r\n\r\nNuri is an author of several Pluralsight.com courses. He's also a Microsoft MVP alum, a MongoDB Champions member, and recipient of MongoDB's William Zola Award for Community Excellence. He enjoys tinkering with Arduinos, 3D printing, and mentoring youth robotics teams.",
+      "tagLine": "Software Architect, Author, Speaker",
+      "profilePicture": "https://sessionize.com/image/cd29-400o400o2-7e-c28b-409d-a074-1b0442d5c1dd.c9d28562-6658-4097-af03-b3374e077ea1.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/nurih",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/nurih",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        357934
+      ],
+      "fullName": "Nuri Halperin",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "ec5ef698-6c51-4e7b-a70c-e1745c3daf5e",
+      "firstName": "Patrick",
+      "lastName": "Alexander",
+      "bio": "Patrick Alexander is currently working at Google Cloud as Customer Engineer. He is an ex Microsoft principal solution architect with over 2 decade of experience in database management and analytics.",
+      "tagLine": "Helping my customers to realize the full power of clous offerings ",
+      "profilePicture": "https://sessionize.com/image/f091-400o400o2-UL9yGSeDabyT6fvH2jS2zd.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/PatrickCloudArc",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/mwlite/in/patrickalexander",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        360705
+      ],
+      "fullName": "Patrick Alexander",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e175e175-fb8e-4227-a049-c26a35c93121",
+      "firstName": "Prabhat",
+      "lastName": "Nigam",
+      "bio": "Prabhat is 3 times Microsoft MVP Award winner. He is MBA in Information Technology and he is working as a CTO at Golden Five Consulting which is a Microsoft Gold Partner, MSP, T1CSP, and Education partner. He helps in designing, implementing, managing and supporting solutions for private messaging cloud, mergers, a collaboration between different messaging software and other migration & deployment projects for the following technologies Office 365, Azure, AWS, Exchange, SQL, ADFS, MFA, FIM, MIM and Directory services. He has worked for all big IT giants either as an employee or contractor where he has led the Global teams. He has started his career as Technical Consultant in Exchange 5.5 with Microsoft PSS and his exchange love never stopped & continued with 2000/2003/2007/2010/2013/2016/2019/O365. At one point in time, he was the only person to support EDS customers when Microsoft had closed all the supports for 5.5 and now for all old legacy Exchange versions.\r\nHe used to blog at MSExchangeGuru.com, manages multiple LinkedIn and Facebook Groups. He also Owns MSExchnageGuru YouTube channel where he uploads all his records technical sessions. Don’t forget to check his PowerShell scripts which are making admins life easier. Prabhat can be reached at PN@GoldenFive.net.",
+      "tagLine": "Global CTO @ Golden Five | CEO at LAExUG Foundation",
+      "profilePicture": "https://sessionize.com/image/7a05-400o400o2-pezTKAhtku669gEzZnHpgc.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/PrabhatNigamXHG",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/prabhat-nigam/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        372923,
+        353567
+      ],
+      "fullName": "Prabhat Nigam",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "ee1c2110-94ea-4413-abba-4cd2f1d71824",
+      "firstName": "Rob",
+      "lastName": "Mandeville",
+      "bio": "A life-long learner and technologist with a passion for all things database. Deep knowledge with PostgreSQL, Oracle, SQL Server, GIS extensions, performance tuning, and design. 20+ years of experience with a variety of companies from government to aerospace to startups in technical operations, support, and technical sales.",
+      "tagLine": "Solarwinds - Manager of Solution Architects",
+      "profilePicture": "https://sessionize.com/image/6a34-400o400o2-7pmhFPRUzR7pWhWmA66vey.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/rob-mandeville",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        369505
+      ],
+      "fullName": "Rob Mandeville",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "558d6d9f-4ad1-431c-a6fd-d231052d354b",
+      "firstName": "Steve",
+      "lastName": "Jones",
+      "bio": "Steve Jones has been working with databases and computers for over two decades. He has worked with SQL Server since 1991, from v4.2 through SQL Server 2016. He has been a DBA, developer, and manager in a variety of large and small companies across multiple industries. In 2001 Steve founded SQLServerCentral with two partners and has been publishing technical articles and facilitating discussions among SQL Server professionals ever since. He currently is the full time editor of SQLServerCentral, as well as an evangelist for Redgate Software. Steve is a 10 year Microsoft Data Platform MVP and lives on a horse ranch in Colorado.",
+      "tagLine": "The Voice of the DBA",
+      "profilePicture": "https://sessionize.com/image/6af2-400o400o2-s4k9B5cJJp6GhwSmuYyyUJ.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/way0utwest",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/way0utwest",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        355390
+      ],
+      "fullName": "Steve Jones",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [
+    {
+      "id": 42983,
+      "question": "Session Material",
+      "questionType": "File_upload",
+      "sort": 18
+    }
+  ],
+  "categories": [],
+  "rooms": [
+    {
+      "id": 27701,
+      "name": "St. Robert's Building",
+      "sort": 0
+    },
+    {
+      "id": 26225,
+      "name": "Microsoft Room (#235)",
+      "sort": 1
+    },
+    {
+      "id": 26226,
+      "name": "SolarWinds Room (#239)",
+      "sort": 2
+    },
+    {
+      "id": 26227,
+      "name": "CozyRoc Room (# 234)",
+      "sort": 3
+    },
+    {
+      "id": 27599,
+      "name": "Speaker Lounge (#106)",
+      "sort": 4
+    }
+  ]
+}

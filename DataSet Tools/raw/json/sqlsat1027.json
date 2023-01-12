@@ -1,0 +1,591 @@
+{
+  "sessions": [
+    {
+      "id": "364046",
+      "title": "Keynotes",
+      "description": "We will go over SQL Server 2022 New Features ",
+      "startsAt": "2022-07-23T12:45:00Z",
+      "endsAt": "2022-07-23T13:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": true,
+      "speakers": [
+        "5f921b79-b6a1-4418-9e34-6438d175e8f5"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25063,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "340965",
+      "title": "Azure for the DBA",
+      "description": "Are you getting started with the cloud? In this session you will learn about booth Infrastructure and Platform as a Service offerings in Azure. You will learn about storage and networking and how they apply to your SQL Server and other data environments. You will also learn about the benefits of using platform as a service offerings and how they can improve your productivity. ",
+      "startsAt": "2022-07-23T13:30:00Z",
+      "endsAt": "2022-07-23T14:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "60553591-098e-42fe-a5e9-bcae14fcad39"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25063,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "348528",
+      "title": "Data Visualization 101: KPIs, Dashboards and Storytelling",
+      "description": "Data Analysis can be classified either in exploratory and explanatory. Most of the time data professionals focus our efforts in the exploratory side of the analysis, in which we need to find what part of the data could be useful for our purpose but most of the time we do not realize the importance of communicating our findings effectively using tools and techniques such as KPIs, dashboards and storytelling. In this session we will learn how to make the most of them in our presentations.",
+      "startsAt": "2022-07-23T13:30:00Z",
+      "endsAt": "2022-07-23T14:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7e9c5d1c-df30-4e85-92fa-abbe80f94572"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25064,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "337449",
+      "title": "The Function of Windowing Functions",
+      "description": "In the past, we have all had the need to return a result set and provide information on this with regard to a persons previous or future records.  Or, alternatively, you have needed to get a single record for an individual - maybe the first, maybe the last.  \r\n\r\nDoing this without windowing functions is possible but why punish yourself?!  \r\n\r\nCome to learn about general windowing functions that we should all know, as well as some that you may not be aware of!  \r\n\r\nFor example, did you know you can use count(*) as a windowed function in addition to general aggregate?",
+      "startsAt": "2022-07-23T13:30:00Z",
+      "endsAt": "2022-07-23T14:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6d682994-7070-4122-9a69-b80dbfcb28c0"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25065,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "344361",
+      "title": "DAX in Power BI",
+      "description": "Introduction\r\nImport data & create data model\r\nDefine relationships\r\nCreate new measure using sum function\r\nFormat measures\r\nEdit & delete measures\r\nCreate new measure using count function\r\nCreate new measure using distinct function\r\nAdd comments to measures\r\nCreate new measure with operators\r\nQuick Measure tool\r\nCreate calculated column\r\nMeasure vs. calculated column\r\nMeasure that references another measure\r\nIterator functions\r\nTime & date functions\r\nFind function\r\nIf function\r\nCalculate function\r\nRecap\r\nHappy to Help if there is any questions\r\n",
+      "startsAt": "2022-07-23T13:30:00Z",
+      "endsAt": "2022-07-23T14:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6f3bf719-c1ac-4d6f-8bbf-7cbc1f44bf58"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26363,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "335625",
+      "title": "ELT Pipelines in AWS, GCP, and Azure",
+      "description": "Coming into a new cloud environment, you often don’t know what services are available or which to use for building data integrations workflows. With the variety of offerings, from cloud vendor-specific, multi- cloud, or open source, it is difficult to choose the right tool for the cloud you are on. \r\n\r\nIn this session, I will go through an overview of some of the options available on AWS, GCP, and Azure. This will include many of the most common managed ETL/ELT offerings, such as Azure Data Factory, AWS Glue, and GCP Dataflow. Additionally, we will evaluate some open source or multi-cloud alternatives, like Airflow. \r\n\r\nThe session will explore the ease of getting started with each option, go through which languages and infrastructure may be required or supported, and build a short demo of a simple pipeline in each. We will also discuss what the cost differences are to get started and to put into production. ",
+      "startsAt": "2022-07-23T15:00:00Z",
+      "endsAt": "2022-07-23T16:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9972b21f-275e-48f0-a261-be2c0c26436c"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25063,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "334018",
+      "title": "Cosmos DB - Successful deployment blueprint",
+      "description": "NoSQL brings some weird approaches to data modeling and feature set to a relational database professional. In this session Armando Lacerda will share the tips and tricks to implement a fast and cost effective Cosmos DB database from a traditional 3rd form normalized model.",
+      "startsAt": "2022-07-23T15:00:00Z",
+      "endsAt": "2022-07-23T16:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25064,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "341014",
+      "title": "Adopting A DevOps Process for Your Database",
+      "description": "DevOps is changing today’s software development world by helping us build better software, faster. However most of the knowledge and experience with DevOps is based around application software and ignores the database. We will examine how the concepts and principles of DevOps can be applied to database development by looking at both automated comparison analysis as well as migration script management. Automated building, testing, and deployment of database changes will be shown.",
+      "startsAt": "2022-07-23T15:00:00Z",
+      "endsAt": "2022-07-23T16:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "558d6d9f-4ad1-431c-a6fd-d231052d354b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25065,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "347071",
+      "title": "Grow your career : Azure Certification 101",
+      "description": "If you are a new college graduate or an experienced IT expert and interested in learning more about Microsoft cloud Azure and growing your career, please join this session and learn where should you start. ",
+      "startsAt": "2022-07-23T15:00:00Z",
+      "endsAt": "2022-07-23T16:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f909b5ab-6449-4e79-a24f-5e4ca646cdc6"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26363,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "346740",
+      "title": " COMPUTATION OF RISK MEASURES IN FINANCE AND NUCLEAR POWER PLANT",
+      "description": "This is about using Monte Carlo methods, and programming to simulate data and get access to risks.",
+      "startsAt": "2022-07-23T17:30:00Z",
+      "endsAt": "2022-07-23T18:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "baeeb6b0-2205-4fa3-a934-e96b4fd14329"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25063,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "333940",
+      "title": "Data quality with Azure Synapse Analytics and Data Factory",
+      "description": "Data quality is a topic that is present in every data projects. How can we validate our data, why data profiling is so important? This session will talk about these topics and demo how to achieve data quality pipelines with both Azure Synapse Analytics and Data Factory. ",
+      "startsAt": "2022-07-23T17:30:00Z",
+      "endsAt": "2022-07-23T18:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a78ce4e1-4eff-4d58-86ef-3980f6959556"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25064,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "343257",
+      "title": "A DBA's Guide to the Proper Handling of Corruption",
+      "description": "Corruption can strike at any time. As DBAs how we alert, investigate, and respond can have a profound impact on our company. In this session we will learn how to detect and respond to various types of corruption.\r\n\r\nFirst we will be focus on ways to detect corruption early. This will include understanding tools available to us like DBCC CheckDB as well as the importance of testing your backups. We’ll look at some sample scripts to automate corruption checks and common alerts we should have set up on our instances.\r\n\r\nThen we will move onto how to respond. We’ll discuss the importance of incident management and the Disaster Recovery mindset and look at how we can analyze the situation safely as well as point out various pitfalls that trip people up. We’ll also discuss when and how we may be able to fix corruption vs restoring the database. Additionally we will look at a few common examples of corruption and how to fix them.",
+      "startsAt": "2022-07-23T17:30:00Z",
+      "endsAt": "2022-07-23T18:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1d728710-f22c-4ec2-ae0b-66c06d9ee26d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25065,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "337948",
+      "title": "Keeping it Classy:  Designing a Great Classifier",
+      "description": "Classification is one of the core workloads in machine learning and a natural starting point for budding data scientists.  Humans have a natural inclination to classify things--that cloud looks like a tree!--but when we apply this to computers, we need to apply a bit of rigor.  This talk supplies that bit of rigor, covering the necessary background to solving a classification problem.  We will define key terminology, review some of the most popular and effective classification algorithms available today, and explain the aptly-named confusion matrix along the way.  Examples will be primarily in Python, although no prior knowledge of the language will be necessary for this session.",
+      "startsAt": "2022-07-23T17:30:00Z",
+      "endsAt": "2022-07-23T18:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7c382501-a37f-49b7-bb28-eb7692995323"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26363,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "334430",
+      "title": "I lost my job!  Now what?!?  A survival guide for the unemployed",
+      "description": "You’ve just been told by HR that you are no longer a part of their organization. You’ve been kicked to the curb. You are now living in the no-man’s land called unemployment.\r\n\r\nUnemployment is a scary situation. You’re dealing with emotions and uncertainty. You don’t know if you’ll be out of work for days, weeks, or months.\r\n\r\nFortunately, unemployment is survivable. In this session, I’ll share my own experiences (and perhaps we’ll talk about some of yours) with unemployment, and how I managed to get through the tough times. We’ll discuss emotional impact, the job hunt, and things you can do to get yourself through this tough time. Hopefully, you’ll land on your feet once again before long!",
+      "startsAt": "2022-07-23T19:00:00Z",
+      "endsAt": "2022-07-23T20:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e2716802-bbc7-4403-b470-7e5a12ea5225"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25063,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "342088",
+      "title": "How does Azure Cosmos DB work under the hood?",
+      "description": "To master any technology, you need to understand the foundation of how it works on the back-end first. In this session; We will explore Azure Cosmos DB's infrastructure. I will explain you how Azure Cosmos DB works and handles data in the back-end. We will cover the basics and some of the most misunderstood features of Azure Cosmos DB. \r\nLearning new technologies make you a better leader and collaborator. Join me to learn more about this new Cloud Database technology.",
+      "startsAt": "2022-07-23T19:00:00Z",
+      "endsAt": "2022-07-23T20:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6117a19c-2501-4df2-8c07-92c6c309e167"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25064,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "339776",
+      "title": "42 TSQL Functions",
+      "description": "SQL Server has many build in T-SQL functions. This session will introduce you to a selection of 42 of them and explain how they can make your life easier. To name just a few TRANSLATE(REVERSE(DIFFERENCE(STATS_TIME(STRING_SPLIT(…))))",
+      "startsAt": "2022-07-23T19:00:00Z",
+      "endsAt": "2022-07-23T20:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fc4b429f-1f56-4f47-b077-4901c596a25c"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 25065,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "341300",
+      "title": "AI Powered Features in Power BI",
+      "description": "Introduce the new AI Powered Features in Power BI like: Key Influencers, Decomposition Trees, Q&A, Explain Increase/Decrease, Different Distribution, etc.\r\nThose infused AI capabilities in Power BI empower business users and data analytics professionals to rapidly get deep insights from BIG Data through self service point-and-clack and drag-and-drop intuitive ways without the need to write a single line of code.",
+      "startsAt": "2022-07-23T19:00:00Z",
+      "endsAt": "2022-07-23T20:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8ce1ef18-821f-4cc3-82ad-38aa92df1016"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26363,
+      "liveUrl": null,
+      "recordingUrl": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "7e9c5d1c-df30-4e85-92fa-abbe80f94572",
+      "firstName": "Alan",
+      "lastName": "Ferrandiz",
+      "bio": "https://ferrandiz.pe",
+      "tagLine": "Data Scientist",
+      "profilePicture": "https://sessionize.com/image/6444-400o400o2-V1eBYrm3NzgwzfgnEzwefx.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        348528
+      ],
+      "fullName": "Alan Ferrandiz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b",
+      "firstName": "Armando",
+      "lastName": "Lacerda",
+      "bio": "http://bit.ly/ALacerdaProfile",
+      "tagLine": "Azure, Data Platform and BI Architect",
+      "profilePicture": "https://sessionize.com/image/0d6b-400o400o2-17-bd56-4cef-9a29-eea5a84dd56b.29bb8247-1f10-4df1-bea5-838eb4f74052.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        334018
+      ],
+      "fullName": "Armando Lacerda",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1d728710-f22c-4ec2-ae0b-66c06d9ee26d",
+      "firstName": "Brandon",
+      "lastName": "Leach",
+      "bio": "A Microsoft Data Platform MVP, Brandon is a senior member of the DB Operations team for financial company x. With a data estate of several petabytes across thousands of servers, he puts a high focus on performance tuning and automation at scale. He is a frequent speaker at events like conferences and user groups.",
+      "tagLine": "Microsoft Data Platform MVP",
+      "profilePicture": "https://sessionize.com/image/c1d6-400o400o2-4vAM8Dtdhe9AvtAqV8eng9.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        343257
+      ],
+      "fullName": "Brandon Leach",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a78ce4e1-4eff-4d58-86ef-3980f6959556",
+      "firstName": "Christian",
+      "lastName": "Cote",
+      "bio": "Christian Coté is an IT professional with more than 16 years of experience working in data warehouse and business intelligence projects. Before ADF was released, Christian developed ETL processes using a range of tools on multiple platforms. Christian has been a presenter at a number of conferences and code camps. He currently co-leads the SQL Server PASS chapter in Montreal as we as Microsoft Data Platform MVP.",
+      "tagLine": "IA-Tech Consulting, Owner",
+      "profilePicture": "https://sessionize.com/image/ddb5-400o400o2-N3hfAZdDvwyzo2EQPQccwu.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        333940
+      ],
+      "fullName": "Christian Cote",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9972b21f-275e-48f0-a261-be2c0c26436c",
+      "firstName": "Ed",
+      "lastName": "Pearson",
+      "bio": "Data and analytics consultant with 25+ years building large data warehouses, ETL, and BI solutions. Worked in variety of enterprises and with various technologies. Expert in MS SQL, Azure, with experience in AWS and GCP. Focused almost exclusively on cloud native environments since 2014.",
+      "tagLine": "Senior Data Consultant",
+      "profilePicture": "https://sessionize.com/image/deec-400o400o2-NLrhVrpKqnnHJwozKsVCj2.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        335625
+      ],
+      "fullName": "Ed Pearson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6117a19c-2501-4df2-8c07-92c6c309e167",
+      "firstName": "Hasan",
+      "lastName": "Savran",
+      "bio": "Hasan is a Subject Matter Expert on Azure Cosmos DB; he is recognized by Microsoft as Data Platform MVP. He is the owner of SavranWeb Consulting and works at Progressive Insurance as a Business Intelligence Manager. Hasan spends his days architecting cutting edge business solutions by using the latest Web and Database technologies.\r\nHasan  has more than 15 years of experience in the software industry as a developer, software architect, manager, and CEO. He has spoken at many conferences worldwide; He is an active member of the HTML5 and Web Assembly W3C groups. Hasan likes to write about SQL, Azure Cosmos DB, C#, and Front-End development on his blog.\r\n",
+      "tagLine": "Ms Data Platform MVP, Owner of SavranWeb Consulting,  Business Intelligence Manager at Progressive Insurance",
+      "profilePicture": "https://sessionize.com/image/8689-400o400o2-4ZYuAo2i9EMy8iQKxXDBSJ.jpeg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        342088
+      ],
+      "fullName": "Hasan Savran",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5f921b79-b6a1-4418-9e34-6438d175e8f5",
+      "firstName": "Jean",
+      "lastName": "Joseph",
+      "bio": "Highly experienced in Big Data and traditional data technologies with a history of successes in designing, implementing complex technical projects for diverse businesses in various stages of their development. Acknowledged as a leader capable of mentoring teams of different backgrounds and talents and inspiring individual efforts to deliver. Organized and detail-oriented, with a positive pro-active and hardworking attitude. Performance history reflects a highly analytical strategic thinker with strengths in defining solutions and executing programs that have been invaluable to an all-encompassing range of projects and positions.",
+      "tagLine": "Data Engineer",
+      "profilePicture": "https://sessionize.com/image/29e2-400o400o2-79-b6a1-4418-9e34-6438d175e8f5.8ccc98dd-f47d-4a3f-a906-b1c1d3a1eca5.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        364046
+      ],
+      "fullName": "Jean Joseph",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "60553591-098e-42fe-a5e9-bcae14fcad39",
+      "firstName": "Joey",
+      "lastName": "D'Antoni",
+      "bio": "Joseph D'Antoni is a Principal Consultant at Denny Cherry and Associates Consulting, and a Microsoft Data Platform MVP with over 20 years of experience working in both Fortune 500 and smaller firms.  He is a frequent speaker at major tech events like Microsoft Ignite, PASS Summit and Enterprise Data World. He blogs  about all topics technology at joeydantoni.com. He believes that no single platform is the answer to all technology problems. He lives in Malvern, PA and holds a BS in Computer Information Systems from Louisiana Tech University and an MBA from North Carolina State University, and is the co-author of the Microsoft book \"Introducing SQL Server 2016\"\r\n",
+      "tagLine": "Joey Dantoni Principal Consultant Denny Cherry and Associates Consulting",
+      "profilePicture": "https://sessionize.com/image/8e4a-400o400o2-91-098e-42fe-a5e9-bcae14fcad39.c0fbf290-1d58-4320-95bf-2258fe96cba2.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        340965
+      ],
+      "fullName": "Joey D'Antoni",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "7c382501-a37f-49b7-bb28-eb7692995323",
+      "firstName": "Kevin",
+      "lastName": "Feasel",
+      "bio": "Kevin Feasel is a Microsoft Data Platform MVP and CTO at FareGame Inc, where he specializes in data analytics with T-SQL and R, forcing Spark clusters to do his bidding, fighting with Kafka, and pulling rabbits out of hats on demand. He is the lead contributor to Curated SQL (https://curatedsql.com), president of the Triangle Area SQL Server Users Group (https://www.meetup.com/tripass), and author of PolyBase Revealed (https://www.apress.com/us/book/9781484254608). A resident of Durham, North Carolina, he can be found cycling the trails along the triangle whenever the weather's nice enough.",
+      "tagLine": "CTO @ FareGame Inc",
+      "profilePicture": "https://sessionize.com/image/d43b-400o400o2-MgcGnBx48Vi57GYguPazNP.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        337948
+      ],
+      "fullName": "Kevin Feasel",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6d682994-7070-4122-9a69-b80dbfcb28c0",
+      "firstName": "Kevin",
+      "lastName": "Wilkie",
+      "bio": "Kevin has 15+ years experience with SQL Server and has worked with the product since version 6.5, although he remembers with distaste the early versions of the product. He started working with SQL Server as an \"Accidental\" DBA, and has moved up through the ranks as a SQL Developer, a BI Associate, and Production DBA at various parts of his career. Currently, he works as a Lead Data Analyst spreading the gospel of how great data can be to anyone and everyone who will listen.",
+      "tagLine": "Sherpa of Data in all of it's various forms, i.e. Power BI, Tableau, R, SQL Server, Oracle, PostGres, etc...",
+      "profilePicture": "https://sessionize.com/image/c519-400o400o2-BhugPLBxWoZpdnDDBMxm3p.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        337449
+      ],
+      "fullName": "Kevin Wilkie",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f909b5ab-6449-4e79-a24f-5e4ca646cdc6",
+      "firstName": "Linda",
+      "lastName": "Zhang",
+      "bio": "Linda Zhang is a CSA Director at Microsoft. Co-founder and Co-leader of NJ SQL/Data user group.",
+      "tagLine": "DIR, CSU",
+      "profilePicture": "https://sessionize.com/image/ce92-400o400o2-JGqV78EEQZEZjgtBhxsA7z.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        347071
+      ],
+      "fullName": "Linda Zhang",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6f3bf719-c1ac-4d6f-8bbf-7cbc1f44bf58",
+      "firstName": "Rajendra",
+      "lastName": "Ongole",
+      "bio": "I am Rajendra, BI Specialist and Power BI Trainer. \r\nIn this channel, I’m sharing my knowledge on different Microsoft technologies like Power Platform – Power BI,Power Apps, Power Automate and Power Virtual Agents.\r\nWith 11+ Years of Experience in Software Development in different domains (Telecom, Manufacturing, Industrial Automation, Project Management office.",
+      "tagLine": "BI-Specialist",
+      "profilePicture": "https://sessionize.com/image/ee9e-400o400o2-JDKKgxSrcTMDWvqx8AtYEC.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        344361
+      ],
+      "fullName": "Rajendra Ongole",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e2716802-bbc7-4403-b470-7e5a12ea5225",
+      "firstName": "Ray",
+      "lastName": "Kim",
+      "bio": "Ray Kim is an advocate for documentation and technical communication. He is a co-founder of the Albany, NY SQL group (CASSUG), a member of the AlbanyUX user group, and a member of the Society for Technical Communication (STC).  He has spoken at numerous SQLSaturdays and at PASS Summit. He has worked various positions in technology, including as a developer, webmaster, analyst, technical writer, and instructor. He holds an MS in technical communication from Rensselaer Polytechnic Institute and a BS in computer science from Syracuse University.\r\n\r\nA musician in his spare time, Ray plays four different instruments (piano, clarinet, mallet percussion, saxophone). He also enjoys going to ball games and doing CrossFit, and is a two-time SQLServerCentral.com fantasy football champion. He lives in Troy, NY with his wife, Lianne, and their two cats.",
+      "tagLine": "Technical writer -- my job is to make other people's jobs easier",
+      "profilePicture": "https://sessionize.com/image/3441-400o400o2-h4Xc35BK16aqge3gkaeWpy.jpeg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        334430
+      ],
+      "fullName": "Ray Kim",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "558d6d9f-4ad1-431c-a6fd-d231052d354b",
+      "firstName": "Steve",
+      "lastName": "Jones",
+      "bio": "Steve Jones has been working with databases and computers for over two decades. He has worked with SQL Server since 1991, from v4.2 through SQL Server 2016. He has been a DBA, developer, and manager in a variety of large and small companies across multiple industries. In 2001 Steve founded SQLServerCentral with two partners and has been publishing technical articles and facilitating discussions among SQL Server professionals ever since. He currently is the full time editor of SQLServerCentral, as well as an evangelist for Redgate Software. Steve is a 10 year Microsoft Data Platform MVP and lives on a horse ranch in Colorado.",
+      "tagLine": "The Voice of the DBA",
+      "profilePicture": "https://sessionize.com/image/6af2-400o400o2-s4k9B5cJJp6GhwSmuYyyUJ.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        341014
+      ],
+      "fullName": "Steve Jones",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "fc4b429f-1f56-4f47-b077-4901c596a25c",
+      "firstName": "Thomas",
+      "lastName": "Grohser",
+      "bio": "Thomas Grohser has spent most of the past 26+ years exploring the deeper inner workings of SQL Server and its features while working for entertainment, pharmaceutical, and financial services industries. His primary focus is to architect, plan, build, and operate reliable, highly available, secure, and scalable infrastructures for SQL Server. Over the years he has managed thousands of SQL Server instances, processing trillions of rows, taking up petabytes of storage. Thomas has been a Microsoft Data Platform MVP for 10 years and has spoken regularly at conferences, SQL Saturdays, and user groups for 13 years.",
+      "tagLine": "SQL Server Infrastructure Architect and Engineer",
+      "profilePicture": "https://sessionize.com/image/0510-400o400o2-9f-1f56-4f47-b077-4901c596a25c.a0ede296-607a-410e-9558-1eb811612f22.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        339776
+      ],
+      "fullName": "Thomas Grohser",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8ce1ef18-821f-4cc3-82ad-38aa92df1016",
+      "firstName": "Vivek",
+      "lastName": "Patel",
+      "bio": "Vivek Patel is a Microsoft MVP (Data Platform), Sr. Director North America at Stridely Solutions, Founder at Insight2Actions Inc., User group Community leader-Toronto Power BI, PowerApps and Microsoft flow, Microsoft Power BI user group board of advisors, 2017 and 2018 Power BI world Tour-organizing committee and 19 years of Microsoft/SAP Technology Experience. Currently, He is focused on designing process automation solution utilizing the latest offerings from the Microsoft/SAP/Oracle. He holds a degree in Chemical engineering degree.\r\nHe has successfully completed many small to large scale BI projects, ERP Implementation, Microsoft business intelligence platform and related technologies, such as Power BI, PowerApps, Power Automate, office 365, SharePoint, SQL Server, Azure, Excel, SAP HANA. He has Implemented Power BI/Power Apps enterprise-wide, developing applications and business intelligence solutions tailored to unique and complex business challenges. He is passionate about saving businesses time and resources by doing things right the first time and getting rid of bottlenecks.\r\nHe is capable of handling end to end engagements through different phases as pre-sales, solution design, planning development activities, customer expectations with technology solutions, Proof of concepts, submitting proposals, project planning, leading team to develop & deliver solution on time with zero defects. Being a trusted advisor, he advises each of his customer to follow the recommended and best practices in technology and business domain solutions.\r\nAs a Sr. Director North America at Stridely Solutions, He leads a team of highly skilled experts and helps the business deliver end to end digital transformation projects.\r\nHe is regular speaker at conferences and user group events. His mission is to spread the word and share his knowledge about Power BI.",
+      "tagLine": "Sr. Director North America, Stridely Solutions",
+      "profilePicture": "https://sessionize.com/image/defb-400o400o2-78hmQTSRPMBgvHoHY82JGh.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        341300
+      ],
+      "fullName": "Vivek Patel",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "baeeb6b0-2205-4fa3-a934-e96b4fd14329",
+      "firstName": "Yajuan",
+      "lastName": "Li",
+      "bio": "CS Ph.D.  at New jersey institute of technology",
+      "tagLine": "New Jersey institute of technology, CS Ph.D. student",
+      "profilePicture": "https://sessionize.com/image/8a3e-400o400o2-XYQWpv4yEbphQvd8qNkJj2.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        346740
+      ],
+      "fullName": "Yajuan Li",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": [
+    {
+      "id": 25063,
+      "name": "Room 1",
+      "sort": 0
+    },
+    {
+      "id": 25064,
+      "name": "Room 2",
+      "sort": 1
+    },
+    {
+      "id": 25065,
+      "name": "Room 3",
+      "sort": 2
+    },
+    {
+      "id": 26363,
+      "name": "Room 4",
+      "sort": 4
+    }
+  ]
+}
