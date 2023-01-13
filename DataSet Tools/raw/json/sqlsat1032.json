@@ -1,0 +1,481 @@
+{
+  "sessions": [
+    {
+      "id": "392984",
+      "title": "Introduction",
+      "description": "Opening and housekeeping.",
+      "startsAt": "2022-10-22T09:30:00",
+      "endsAt": "2022-10-22T09:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": true,
+      "speakers": [
+        "9b6924d9-ab42-4a65-ae59-766bf9e0aa91"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 29641,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "365477",
+      "title": "Power BI at Scale using Datamarts",
+      "description": "Power BI Datamarts are self-service analytics solutions, enabling users to store and explore data that is loaded in a fully managed database. Datamarts provide a simple and optionally no-code experience to ingest data from different data sources, extract transform and load (ETL) the data using Power Query, then load it into an Azure SQL database that's fully managed and requires no tuning or optimization.",
+      "startsAt": "2022-10-22T09:50:00",
+      "endsAt": "2022-10-22T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a26b5a88-2428-474f-9fc9-4079561b5e6c"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27268,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "368369",
+      "title": "Build your Data  Lakehouse with Azure Synapse",
+      "description": "Data Lakehouses are the natural evolution of data lakes and data warehouses. Azure Synapse Analytics has a great functionality for it: the lake databases. This session will show you how lake databases can be used and how to integrate them in you data lakehouse.",
+      "startsAt": "2022-10-22T09:50:00",
+      "endsAt": "2022-10-22T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a78ce4e1-4eff-4d58-86ef-3980f6959556"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27269,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "377910",
+      "title": "DevOps for Azure Data Platform Applications",
+      "description": "DevOps is critical to a team’s success. Continuous integration (CI) and continuous delivery (CD) which is part of DevOps, embody a culture, set of operating principles, and collection of practices that enable application development teams to deliver code changes more frequently and reliably. In this session, we will cover how you can automate your entire process from code commit to production using CI/CD pipelines in Azure DevOps for Azure Data Platform  Applications.",
+      "startsAt": "2022-10-22T10:50:00",
+      "endsAt": "2022-10-22T11:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "06111e2f-94a9-4bbe-a977-d96e3e4d8ec0"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27268,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "366136",
+      "title": "Using Apache Kafka to replicate data from Postgres to SQL SERVER",
+      "description": "Ever needed to replicate data from a RDBMs into SQL SERVER and have updates on the destination datastore in near real time? With the amount of options we have today to build an Enterprise Datawarehouse this can be a very challenging task. As a Data Professional you need to be able to choose the right tools to move data around the many different Datastores that your company adopts. In this session we will focus on how to bring data from a Postgres database into a SQL SERVER database using a typical Big Data realm tool: Apache Kafka.\r\n",
+      "startsAt": "2022-10-22T10:50:00",
+      "endsAt": "2022-10-22T11:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3cb95698-b434-4705-97c5-acac2dfa49f7"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27269,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "375214",
+      "title": "Real life End-to-End Demo using Dataverse for Teams to build a Power App, Flow and a Chat Bot",
+      "description": "Dataverse for Teams brings powerful relational data storage, rich data types, enterprise-grade governance, one-click solution deployment, and powerful app development to the normal citizen developer!\r\n\r\nJoin us for an end to end demo on how you can easily the Power Platform in conjunction with a Dataverse for Teams to create apps and solve your business automation challenges.  In this session we will start by outlining the real life business problem we are trying to solve.  We will then define the data structure and build the corresponding Power App, Power Automate Flows and Power Virtual Agents, to solve the business problem all within Microsoft Teams!",
+      "startsAt": "2022-10-22T11:50:00",
+      "endsAt": "2022-10-22T12:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "321b4780-ab1b-4b1b-9fc2-4eef476be732",
+        "9b811558-4593-453d-a363-e5430138aa98"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27268,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "369489",
+      "title": "Data Lake Fundamentals: Zoning & Best Practices",
+      "description": "In this second presentation, Simon will deliver an intermedite session on the Azure Data Lake. It will cover more advanced topics, including security, architecture, zoning, & blueprinting.",
+      "startsAt": "2022-10-22T11:50:00",
+      "endsAt": "2022-10-22T12:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "45a31f72-8de9-4e2c-8787-d8eba53cfa96"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27269,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "373185",
+      "title": "Branding Yourself for a Dream Job",
+      "description": "Learn how to improve your career brand and get the job that you really desire.",
+      "startsAt": "2022-10-22T13:40:00",
+      "endsAt": "2022-10-22T14:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": true,
+      "speakers": [
+        "558d6d9f-4ad1-431c-a6fd-d231052d354b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 29641,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "384712",
+      "title": "The Knowledge Exchange: A Vision of the Modern Data Enterprise.",
+      "description": "As Data & Analytics have become embedded in essential enterprise functions, Data Engineering teams are under pressure to deliver integrated data that meets the needs of a wide audience of business and technical consumers. Leaner teams and resource constraints necessitate a low-touch approach to democratize access and action data requests. \r\n\r\nIn this session, the Knowledge Exchange will be presented to demonstrate one vision of how a modern enterprise interacts with its data. Product Management and Data Engineering come together to deliver an Azure data web app for discovery, access, and provisioning from the enterprise's Synapse-based data delivery platform.\r\n",
+      "startsAt": "2022-10-22T14:40:00",
+      "endsAt": "2022-10-22T15:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e5101aa2-45bc-4ccf-9389-4e43c684156f"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27268,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "367460",
+      "title": "AI Capabilities for Power BI",
+      "description": "With the massive volumes of data generated today about every aspect of a business finding insights from the data can be challenging. This is where AI can help. AI can aid in data exploration, comb through the data to automatically find patterns, help users understand what the data means, and predict future outcomes to help business drive results.\r\n\r\nThere are huge opportunities when workers across an organization can leverage AI for improving business outcomes. But data scientists, who are crucial to deploying AI solutions, don’t have the bandwidth to provide custom solutions to all users at an organization. Businesses need ways to surface the valuable work of data scientists and empower more users to leverage AI in easy and intuitive ways.  \r\n\r\nPower BI has been a pioneer in applying AI through capabilities such as natural language, which enables users to get answers by asking questions in plain English, or Quick Insights, which automatically finds patterns in data.\r\n\r\nThis session is demo intense.\r\n",
+      "startsAt": "2022-10-22T14:40:00",
+      "endsAt": "2022-10-22T15:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8ce1ef18-821f-4cc3-82ad-38aa92df1016"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27269,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "384717",
+      "title": "Unified data governance across your entire data estate",
+      "description": "Establish the foundation for effective data governance with Microsoft Purview . This solution can help manage and govern your on-premises, multi-cloud, and software as a service (SaaS) data. Easily create a holistic, up-to-date map of your data landscape with automated data discovery, sensitive data classification, and end-to-end data lineage. Enable data consumers to access valuable, trustworthy data management.",
+      "startsAt": "2022-10-22T15:40:00",
+      "endsAt": "2022-10-22T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8e47d518-0361-4ae7-a162-699271cfaf6f"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27268,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "373179",
+      "title": "How High Can We Scale SQL Server?",
+      "description": "The world of online learning has been very, very busy in the past year. At my company D2L, we host websites for schools. We just experienced our busiest semester start ever pushing our infrastructure further than we’ve ever pushed it. I’d like to share my own experiences. I’ll describe how busy we got and the lessons we learned, both the ones we anticipated and the ones that took us by surprise.\r\n\r\nAnd what about the future? What practical strategies are we adopting to evolve our database architecture to handle even more growth? I’d like to share the way we understand our scaling challenges and how we plan to tackle them.",
+      "startsAt": "2022-10-22T15:40:00",
+      "endsAt": "2022-10-22T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4b08225a-d812-48e8-b1e9-c398464e0cb7"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27269,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "392985",
+      "title": "Raffle Draw and Closing",
+      "description": "Raffle Draw and Closing",
+      "startsAt": "2022-10-22T16:25:00",
+      "endsAt": "2022-10-22T16:55:00",
+      "isServiceSession": false,
+      "isPlenumSession": true,
+      "speakers": [
+        "df74abce-5dcf-4596-be1e-8dff5eaeb066"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 29641,
+      "liveUrl": null,
+      "recordingUrl": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "df74abce-5dcf-4596-be1e-8dff5eaeb066",
+      "firstName": "Arthur",
+      "lastName": "Zubarev",
+      "bio": "Arthur is into Data Engineering, Data Mining, Data Warehousing, Business Intelligence, creation of analytical applications, teaching, events organization and public speaking. I specialize in the most common RDBMS` and NoSQL databases, on-premises or Cloud. A Data Platform rMVP, an MS Data Platform Advisory member, MCDBA, MCAD and MCITP, AWS Cloud Practitioner. I strive to be an early adopter of cutting edge technologies and like to embrace technical challenges.",
+      "tagLine": "Senior Data Platform Consultant at Parsons Corporation",
+      "profilePicture": "https://sessionize.com/image/0f02-400o400o2-D7j58NRkBRMQRuyDr4hKXw.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        392985
+      ],
+      "fullName": "Arthur Zubarev",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a26b5a88-2428-474f-9fc9-4079561b5e6c",
+      "firstName": "Ashraf",
+      "lastName": "Ghonaim",
+      "bio": "Ashraf Ghonaim is a Strategic Management Consultant at the City of Toronto. He holds a Computer Engineering degree and an MBA degree in Strategic Management with special emphasis on IT-Business Strategic Alignment using Balanced Scorecard. He is also a certified Balanced Scorecard Professional™ from the co-creators Drs. Kaplan and Norton, a Lean Six Sigma Black Belt and a Project Management Professional (PMP).  \r\n\r\nAshraf is passionate about Visual Analytics using Power BI and he is the leader of the Toronto Power Platform (Power BI, PowerApps, Automate) user group. He is also a frequent speaker in the professional meetup groups and Microsoft events like Power BI World Tour, Dynamics 365, SQL Saturdays, etc.\r\n\r\nAshraf also volunteers in several Open Data and Data for Public Good initiatives.",
+      "tagLine": "Strategic Management and Analytics Consultant at the City of Toronto",
+      "profilePicture": "https://sessionize.com/image/f80e-400o400o2-VjtoJZcVrX2u4Afr9Gx2zj.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        365477
+      ],
+      "fullName": "Ashraf Ghonaim",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a78ce4e1-4eff-4d58-86ef-3980f6959556",
+      "firstName": "Christian",
+      "lastName": "Cote",
+      "bio": "Christian Coté is an IT professional with more than 16 years of experience working in data warehouse and business intelligence projects. Before SSIS was released, Christian developed ETL processes using a range of tools on multiple platforms. Christian has been a presenter at a number of conferences and code camps. He currently co-leads the SQL Server PASS chapter in Montreal as well as Global French SQL PASS Chapter. He is also Microsoft Data Platform MVP.",
+      "tagLine": "Avanade",
+      "profilePicture": "https://sessionize.com/image/ddb5-400o400o2-N3hfAZdDvwyzo2EQPQccwu.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        368369
+      ],
+      "fullName": "Christian Cote",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9b6924d9-ab42-4a65-ae59-766bf9e0aa91",
+      "firstName": "Diponkar",
+      "lastName": "Paul",
+      "bio": "Diponkar Paul has 13+ years of experience in the IT industry and specialized in Business Intelligence, big data, and data warehouse domain. He is Microsoft Data Platform MVP. Currently working as a Lead Data Engineer at OMERS, Canada. Throughout his career, he designs and developed medium and large-scale data warehouses and delivered business-critical analytical solutions. He is leading Toronto Data Professionals Community (former Toronto PASS user group). He got a diverse background, has been working and studying in different Geo locations including Canada, Denmark, the UK, Sweden. He writes a technical blog, writes articles on SQLServerCentral, and, does public speaking.",
+      "tagLine": "Lead Data Engineer, Microsoft MVP, Blogger, Speaker",
+      "profilePicture": "https://sessionize.com/image/a059-400o400o2-s2CNKYkZjGZUPP4Wnik1My.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        392984
+      ],
+      "fullName": "Diponkar Paul",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "06111e2f-94a9-4bbe-a977-d96e3e4d8ec0",
+      "firstName": "Ehsan",
+      "lastName": "Eskandari",
+      "bio": "Ehsan Eskandari is a Cloud/.NET developer with over 17 years of experience. He has been developing desktop, mobile and web enterprise applications using Microsoft .NET Framework, SQL Server and Azure in government, banking, insurance and utility sectors. Ehsan has been recognized as a Microsoft Most Valuable Professional (MVP) on Microsoft Azure category for his contributions to the tech community.\r\nHe is running Metro Toronto .NET User group and co-organizer of Toronto .NET Meetup and achieved a couple of Microsoft certifications in Azure, .NET and SQL Server i.e. MCSD, MCPD, MCTS. He's passionate about learning new technologies and sharing his experience with fellow peers in the community. Ehsan can be reached on Twitter @EhsanEskandarim, and has a blog at: http://PassionateCoder.ca.",
+      "tagLine": "Senior Hand-on Consultant",
+      "profilePicture": "https://sessionize.com/image/b0d7-400o400o2-saSZBCn1rHWWK6nsdEayha.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        377910
+      ],
+      "fullName": "Ehsan Eskandari",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9b811558-4593-453d-a363-e5430138aa98",
+      "firstName": "Eric",
+      "lastName": "Overfield",
+      "bio": "Eric Overfield is a Microsoft MVP, a Microsoft Regional Director and a leading expert in SharePoint Development and User Interface design. Mr. Overfield, President and co-founder of PixelMill, has over 18 years experience with web design best practices and techniques, and over 12 years experience with SharePoint branding. Besides his in-depth knowledge of SharePoint’s branding capabilities, his expertise includes general SharePoint technology, design and architecture along with custom coded web parts, solutions, JavaScript, HTML5 and CSS3. He is a co-author of Pro SharePoint 2013 Branding and Responsive Web Development (Apress 2013) and Black Magic Solutions for White Hat SharePoint (EUSP Press 2013). An engaged speaker and organizer of SharePoint events as well as an active blogger (ericoverfield.com), he discusses all things SharePoint Branding and UI Design @ericoverfield.",
+      "tagLine": "PixelMill, RD, MVP",
+      "profilePicture": "https://sessionize.com/image/6a43-400o400o2-eb6b5d75-59bf-4855-be7b-0597336c5ef8.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        375214
+      ],
+      "fullName": "Eric Overfield",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "3cb95698-b434-4705-97c5-acac2dfa49f7",
+      "firstName": "Marcelo",
+      "lastName": "Adade",
+      "bio": "Marcelo is a Microsoft Data Platform Lead Database Consultant at The Pythian Group. He has more than 15 years of experience in several Companies from different branches and sizes. Like financial companies, consultant shops, datacenters and e-commerce sites. Currently holds the MCSE, MCT and MCSA Microsoft Certifications and also the Oracle OCP. Loves technology and enjoys sharing his Database knowledge delivering presentations and official Microsoft Training Courses. Currently he is also the co-leader of the SQLMANIACS PASS User Group, based in Sao Paulo, Brazil.",
+      "tagLine": "Microsoft Data Platform Lead Database Consultant at The Pythian Group",
+      "profilePicture": "https://sessionize.com/image/5e7f-400o400o2-GA8mYsnCthCyUX12ENGaE2.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        366136
+      ],
+      "fullName": "Marcelo Adade",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "4b08225a-d812-48e8-b1e9-c398464e0cb7",
+      "firstName": "Michael",
+      "lastName": "Swart",
+      "bio": "Michael is a passionate database developer and blogger specializing in SQL Server. He’s a Principal Software Developer at D2L and has the most fun when troubleshooting challenging client issues.",
+      "tagLine": "SQL Server developer from Waterloo, Ontario",
+      "profilePicture": "https://sessionize.com/image/9610-400o400o2-neU7iw4sweMBD4XoWooMLh.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        373179
+      ],
+      "fullName": "Michael Swart",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "321b4780-ab1b-4b1b-9fc2-4eef476be732",
+      "firstName": "Noorez",
+      "lastName": "Khamis",
+      "bio": "Noorez Khamis is a Microsoft recognized MVP in SharePoint and Microsoft 365 Technologies. He has a background as a Senior Information Management Consultant & Enterprise Solutions Architect with comprehensive experience in enterprise scale information solutions, portals and cloud applications. His technical background involves the project management, envisioning, architecting and hands-on development of complex on premise and cloud based IT solutions. He has 15+ years of industry experience in a consulting capacity while having been directly involved in hundreds of projects spanning entire Enterprise applications spectrum including line of business applications, reporting, databases, enterprise integration, workflows, collaboration, document management, records management, business process management as well as web and enterprise content management solutions. His latest experience includes the administration and project lead of large development teams in his roles as IT Director and Senior Consulting Manager at enterprise IT consulting companies. As a Microsoft MVP and a highly accomplished applications architect, Noorez has a strong base in on-premises and cloud based information solutions capable of guiding clients to meet their IT needs. Noorez is also an active blogger, speaker, trainer, community contributor and an evangelist of Microsoft Cloud platforms.",
+      "tagLine": "VP Technology at Creospark",
+      "profilePicture": "https://sessionize.com/image/65b1-400o400o2-80-ab1b-4b1b-9fc2-4eef476be732.f56e319f-d2f9-41ee-9744-177de785a68f.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        375214
+      ],
+      "fullName": "Noorez Khamis",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8e47d518-0361-4ae7-a162-699271cfaf6f",
+      "firstName": "Owais ",
+      "lastName": "Hashmi",
+      "bio": "Owais is a Data & AI subject matter expert passionate about helping organizations cross-industry adopt & implement analytics solutions leveraging the power of the cloud. He has led multiple transformational projects globally and is also closely aligned with academia where he lectures on various data science topics.",
+      "tagLine": "Microsoft",
+      "profilePicture": "https://sessionize.com/image/8170-400o400o2-RTEyF8JWjZUztcWJNwewGt.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        384717
+      ],
+      "fullName": "Owais Hashmi",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "45a31f72-8de9-4e2c-8787-d8eba53cfa96",
+      "firstName": "Simon",
+      "lastName": "Nuss",
+      "bio": "Simon is a business intelligence leader with many years of experience deploying advanced analytics, data warehousing and process automation solutions for some of the biggest companies in the world including: Facebook, Domino’s, Deloitte Canada, OMERS, CIBC, TD Bank, Uranium One, and Manulife.",
+      "tagLine": "VP, Data & Analytics",
+      "profilePicture": "https://sessionize.com/image/f2cd-400o400o2-GDtw3UV5WEtg7AuJoZVd43.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        369489
+      ],
+      "fullName": "Simon Nuss",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "558d6d9f-4ad1-431c-a6fd-d231052d354b",
+      "firstName": "Steve",
+      "lastName": "Jones",
+      "bio": "Steve Jones has been working with databases and computers for over two decades. He has worked with SQL Server since 1991, from v4.2 through SQL Server 2016. He has been a DBA, developer, and manager in a variety of large and small companies across multiple industries. In 2001 Steve founded SQLServerCentral with two partners and has been publishing technical articles and facilitating discussions among SQL Server professionals ever since. He currently is the full time editor of SQLServerCentral, as well as an evangelist for Redgate Software. Steve is a 10 year Microsoft Data Platform MVP and lives on a horse ranch in Colorado.",
+      "tagLine": "The Voice of the DBA",
+      "profilePicture": "https://sessionize.com/image/6af2-400o400o2-s4k9B5cJJp6GhwSmuYyyUJ.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        373185
+      ],
+      "fullName": "Steve Jones",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e5101aa2-45bc-4ccf-9389-4e43c684156f",
+      "firstName": "Tamanna ",
+      "lastName": "Karim",
+      "bio": "Tamanna has 6 years of experience working in IT industry. She is currently the Product Manager of an internal data product built to serve and empower employees of OMERS, a privately owned pension fund that manages the retirement benefits of municipal employees of Ontario and one of the largest institutional investors in Canada.\r\n\r\nTamanna started her career at OMERS as a Pension Specialist, processing member events, and quickly transitioned into leading the Pension Calculation team for a project aimed at revamping the Pension Administration System. At OMERS, Tamanna spent 4 years supporting the implementation of several internal and external technology platforms within the Pension division. Following her shift into the OMERS Corporate Data & Technology (D&T) team, she helped evolve and streamline the architecture review process and developed the procedure for publishing technical standards and reference architectures in her role as an Enterprise Architect Analyst.\r\n\r\nIn her current role, Tamanna manages the Knowledge Exchange and supports the development and delivery of the platform to enterprise users with the objectives to foster a culture where employees can discover, apply, and share data in a trusted and governed manner to advance strategic business goals.\r\n\r\nTamanna holds a Bachelor’s degree in Biochemistry and Biomedical Sciences from McMaster University in Hamilton, ON.\r\n",
+      "tagLine": "Product Manager, Strategy & Products, OMERS",
+      "profilePicture": "https://sessionize.com/image/0d2b-400o400o2-9GYNM2GixZFSi7XgiRrUfJ.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        384712
+      ],
+      "fullName": "Tamanna Karim",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8ce1ef18-821f-4cc3-82ad-38aa92df1016",
+      "firstName": "Vivek",
+      "lastName": "Patel",
+      "bio": "Vivek Patel is a Microsoft MVP (Data Platform), Sr. Director North America at Stridely Solutions, Founder at Insight2Actions Inc., User group Community leader-Toronto Power BI, PowerApps and Microsoft flow, Microsoft Power BI user group board of advisors, 2017 and 2018 Power BI world Tour-organizing committee and 19 years of Microsoft/SAP Technology Experience. Currently, He is focused on designing process automation solution utilizing the latest offerings from the Microsoft/SAP/Oracle. He holds a degree in Chemical engineering degree.\r\nHe has successfully completed many small to large scale BI projects, ERP Implementation, Microsoft business intelligence platform and related technologies, such as Power BI, PowerApps, Power Automate, office 365, SharePoint, SQL Server, Azure, Excel, SAP HANA. He has Implemented Power BI/Power Apps enterprise-wide, developing applications and business intelligence solutions tailored to unique and complex business challenges. He is passionate about saving businesses time and resources by doing things right the first time and getting rid of bottlenecks.\r\nHe is capable of handling end to end engagements through different phases as pre-sales, solution design, planning development activities, customer expectations with technology solutions, Proof of concepts, submitting proposals, project planning, leading team to develop & deliver solution on time with zero defects. Being a trusted advisor, he advises each of his customer to follow the recommended and best practices in technology and business domain solutions.\r\nAs a Sr. Director North America at Stridely Solutions, He leads a team of highly skilled experts and helps the business deliver end to end digital transformation projects.\r\nHe is regular speaker at conferences and user group events. His mission is to spread the word and share his knowledge about Power BI.",
+      "tagLine": "Sr. Director North America, Stridely Solutions",
+      "profilePicture": "https://sessionize.com/image/7911-400o400o2-Unso1AoBe56ftHkXymgBMA.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        367460
+      ],
+      "fullName": "Vivek Patel",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": [
+    {
+      "id": 29642,
+      "name": "Lobby",
+      "sort": 0
+    },
+    {
+      "id": 27268,
+      "name": "Room A",
+      "sort": 1
+    },
+    {
+      "id": 29641,
+      "name": "Room B",
+      "sort": 2
+    },
+    {
+      "id": 27269,
+      "name": "Room C",
+      "sort": 3
+    },
+    {
+      "id": 29643,
+      "name": "Lunch Area",
+      "sort": 5
+    }
+  ]
+}

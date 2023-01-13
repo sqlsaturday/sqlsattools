@@ -1,0 +1,1042 @@
+{
+  "sessions": [
+    {
+      "id": "238146",
+      "title": "GitHub DevOps Duet - LA edition",
+      "description": "Welcome to GitHub DevOps Duet, a scenario where two teams (dev and ops) are going to start using GitHub Actions for Data Platform deployments. \r\n\r\nThey need to figure out how to implement their processes within GitHub and make it work for all parties.\r\n\r\nWe will discuss:\r\n- the challenges of implementing DevOps\r\n- setting up a database solution project\r\n- testing your database releases using tSQLt\r\n- setting up your GitHub Actions workflows\r\n- deploy database artifacts to multiple Data Platform solutions \r\n\r\nAs part of the session we will cover the GitHub services you get including:\r\n\r\n- Actions\r\n- Projects\r\n- Security\r\n\r\nThe session will cover how to setup projects for your tasks, set up workflows in Github Actions, security and so much more.\r\n\r\nIf you want to find out more about how Github can be implemented for your DevOps process than come to our session\r\n",
+      "startsAt": "2021-06-12T09:00:00",
+      "endsAt": "2021-06-12T10:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "df54a59d-1371-44ca-8f6c-281cb269141b",
+        "d983fce5-03fd-4f63-83b3-1102110f970a"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 19127,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "247117",
+      "title": "Getting Started with Amazon RDS for SQL Server",
+      "description": "Are you interested in migrating your SQL Server instances over to the cloud? But, not sure how to get started? In this presentation, we will define what Database as a Service (DBaaS) is, build your Amazon RDS for SQL Server instance, administer your instance, migrate a sample database from on-premises over to your instance, and configure backup and restore. \r\n\r\nBy the end of the presentation, you will understand the steps required to get started with your migrations over to Amazon RDS for SQL Server. \r\n",
+      "startsAt": "2021-06-12T09:00:00",
+      "endsAt": "2021-06-12T10:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d10e36a0-baed-480a-b0f5-915bc2656902"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17542,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "238100",
+      "title": "Developer Best Practices in SQL Server",
+      "description": "In this session, you will learn how to write optimized T-SQL code for SQL Server. You will see real-world examples related to Sarg-ability, Re-Writing T-SQL for better performance, SQL Injection, Parameterization and if time permits, we will also see the good and bad of Dynamic SQL.",
+      "startsAt": "2021-06-12T09:00:00",
+      "endsAt": "2021-06-12T10:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ecbd01a9-36dd-4d55-8a5e-f1e4c03d26ea"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17543,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "242192",
+      "title": "Power BI & Synapse - The Art of (im)possible!",
+      "description": "By introducing Azure Synapse Analytics, Microsoft created a whole new perspective when it comes to data treatment. Some core concepts, such as traditional data warehousing, came under more scrutiny, while various fresh approaches started to pop up after data nerds became aware of the new capabilities that Synapse brought to the table.\r\n\r\nNot that Synapse made a strong impact on data ingestion, transformation, and storage options only – it also offered a whole new set of possibilities for data serving and visualization!\r\n\r\nDuring the session, we will try to explore how Power BI works in synergy with the new platform. What options we, Power BI developers, have when working with Synapse? In which data analytics scenarios, Synapse will play on the edge, helping you to achieve the (im)possible? When would you want to take advantage of the innovative solutions within Synapse, and when would you be better sticking with more conventional approaches? What are the best practices when using Power BI – Synapse combo, and which parameters should you evaluate before making a final decision on which path to take.\r\n\r\nOnce we’re done, I believe that you should get a better understanding of the “pros” and “cons” for each of the available options when it comes to integration between Power BI and Synapse.\r\n\r\nSession materials - https://github.com/NikolaIlic/Sessions-materials/tree/main/SQL%20Sat%20LA%202021-06-12",
+      "startsAt": "2021-06-12T09:00:00",
+      "endsAt": "2021-06-12T10:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "760c618d-8818-4666-bbb6-1605cd8af6e8"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17544,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "250448",
+      "title": "Elevating Your Career into IT Leadership",
+      "description": "The skills that make you a brilliant technologist don't always map over when you want to take the next step into a leadership position. In this session, we will look at key skills to develop in order to prepare for the next step in your IT career.",
+      "startsAt": "2021-06-12T09:00:00",
+      "endsAt": "2021-06-12T10:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "bd909004-96e3-4279-a1eb-4a777e8de770"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17545,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "244154",
+      "title": "Getting Started with Extended Events",
+      "description": "Over the years, many DBAs have avoided using Extended Events and continued using Trace. At first, this made sense because Extended Events had no user interface and you had to know XML to work with it. Eventually, Microsoft added a GUI, but many folks continued to use familiar tools. In this session, sponsored by Redgate, learn how to transition from Trace to Extended Events. You’ll find that it’s easy when you take the right approach. \r\n\r\nSession materials - https://github.com/KathiKellenberger/ExtendedEvents.",
+      "startsAt": "2021-06-12T10:15:00",
+      "endsAt": "2021-06-12T11:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "48430170-2d0a-4b05-8635-77e44b3062ed"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 19127,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "244674",
+      "title": "Lightning-fast processing in a relational SQL Server environment",
+      "description": "This session is a showcase of a project where no less than 60 Million new data records per day had to be processed on a relational on-premise SQL Server database. After the explanation of the business case, I will guide you through the solution that is primarily focused on using partitions and some tips and tricks of how to manage them. The goal of this session is not to give you a deep dive into partitioning and indexing, but to give you input on scenarios that could help you in similar projects or with similar business cases.\r\nSession materials - https://github.com/erikmonchen/conferences/tree/main/2021-06-12%20Data%20Sat%20Los%20Angeles%20-%20Partitioning",
+      "startsAt": "2021-06-12T10:15:00",
+      "endsAt": "2021-06-12T11:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "398e8b5e-713e-4a22-a92f-f6cca7fb91b8"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17542,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "245807",
+      "title": "Advanced data types – JSON",
+      "description": "JSON (JavaScript Object Notation) is a language in depended, very popular, open standard format for data exchange between applications and services. On this session accompanied by numerous examples we should pass through the usage of JSON in MS SQL. \r\nMain topics: \r\n- Format MS SQL data in JSON format \r\n- Read JSON data in MS SQL - Modify JSON data using JSON_MODIFY \r\n- JSON functions, tips & tricks\r\nSession materials - https://github.com/matesic-damir/SQLSatLA---Advanced-data-types-JSON.git",
+      "startsAt": "2021-06-12T10:15:00",
+      "endsAt": "2021-06-12T11:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1a2b8e9f-4876-475f-b580-6c059bfb3c55"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17543,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "249078",
+      "title": "Intro to Dataverse inside of Power Automate",
+      "description": "Microsoft Dataverse (formerly known as the Common Data Service) lets you securely store and manage data that's used by business applications. Data within Dataverse is stored within a set of tables (fka entities). A table is a set of records used to store data, just like data is stored within a database. \r\n\r\nLearn how Microsoft Dataverse ties into Power Automate. Create a Flow, see what triggers and actions are available and how you can use this all to move data back and forth between environments such as Microsoft Dynamics and SharePoint!\r\n",
+      "startsAt": "2021-06-12T10:15:00",
+      "endsAt": "2021-06-12T11:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1fb25ae7-3226-4bf5-9c79-aa600340a2d1"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17544,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "258180",
+      "title": "Coworker Communication in the Virtual Office",
+      "description": "While some may love the opportunity to work from home, most are bound to run into communication challenges when working remotely at some point. Miscommunication at work can lead to unnecessary stress, frustration, and potentially negatively impact your performance, or the perception of your performance. In this session I will share best practices to keep communication productive and clear with your coworkers and supervisor, so you are equipped, productive and positive at work. \r\nhttps://github.com/JenLunde/SQLSaturdayLA2021.git",
+      "startsAt": "2021-06-12T10:15:00",
+      "endsAt": "2021-06-12T11:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1ff584b3-1daf-4d71-b9bd-b7de63664e07"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17545,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "239242",
+      "title": "Every Millisecond Counts",
+      "description": "Query optimization is relatively easy when you look at a plan and find table scans, hash match joins, and missing indexes. But how do you find opportunities when all the low hanging fruit has been picked? This session is a case study on improving a procedure that runs 350 million times per day, so any improvement is greatly magnified. We will discuss where we found opportunities to improve a procedure running in 3.1 milliseconds; how effective our attempts were, what didn't work, and the results achieved.",
+      "startsAt": "2021-06-12T11:30:00",
+      "endsAt": "2021-06-12T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "809a6cb2-d5c1-4b77-a7af-e2a5af789194"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 19127,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "238037",
+      "title": "My romantic relation with Powershell generally and DBATools especially",
+      "description": "I was very late to adopt Powershell in my day-to-day work as a DBA. I did some copy/change \"programming\" with Powershell. But it wasn't until I got in touch with DBATools that I really understood the power of Powershell.\r\nIn this session, I will demo some of the reasons I really love Powershell and DBATools.\r\nI will cover a brief overview of DBATools and then jump into some scenarios where DBATools really helped me, including:\r\n- Automatic restore testing\r\n- Homecooked log shipping\r\n- Migration work",
+      "startsAt": "2021-06-12T11:30:00",
+      "endsAt": "2021-06-12T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f6840ffa-c1f4-4338-b7e0-f0cec31693a7"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17542,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "238533",
+      "title": "Lock Picking your SQL Server",
+      "description": "Locking is an essential need to uphold data integrity. Managing locking behaviour is also important when it comes to improving transaction concurrency. In this talk, we will dive into the locking behavior of SQL Server.  We will learn how to uncover performance problems related to locks and lock escalations, when and why deadlocks happen, and the possible steps you can take to prevent deadlocks from happening. Join me in understanding the key to SQL Server’s locking behavior. ",
+      "startsAt": "2021-06-12T11:30:00",
+      "endsAt": "2021-06-12T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ae75d1b3-e1a9-4f45-9b6f-c8c885067de7"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17543,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "237325",
+      "title": "AI and ML imbedded in Azure Data Platform",
+      "description": "You can deploy AI/ML solutions in multiple places: in IoT devices, at the cloud-edge, in cloud API endpoints and a few more locations. In this session will you learn the options available in Azure data platform services and how that can improve transactional systems in the back end as well as BI use cases. We will look into Azure SQL DB and Synapse Analytics and the opportunities to deploy Ai in these services.",
+      "startsAt": "2021-06-12T11:30:00",
+      "endsAt": "2021-06-12T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17544,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "247109",
+      "title": "Automate management tasks using elastic jobs in Azure SQL Database",
+      "description": "The good ol' agent, SQL Server Agent, is known widely in the DBA world. It is powerful, but... Azure SQL Database requires something more, something different. Meet elastic Elastic Database agent and its jobs!",
+      "startsAt": "2021-06-12T11:30:00",
+      "endsAt": "2021-06-12T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "dd5b4b44-e670-4e65-b3b7-9e5ce0bd5d68"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17545,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "236707",
+      "title": "On-Premises or Hybrid Cloud? Questions That Matter When Virtualizing SQL Server on VMware vSphere",
+      "description": "Virtualizing Microsoft SQL Server on vSphere has matured so much that one can almost say that it is now an exact Science (or a Fine Art, if you prefer).\r\n\r\nAs the most virtualized Mission Critical Application, modern versions of Microsoft SQL Server continues to be purpose-built for life in the virtual world, with intelligence and capabilities to efficiently utilize all the benefits of Virtualization without the much-feared \"added complexities\".\r\n\r\nVMware vSphere continues to be the target platform for most MSSQL Server workloads and, with vSphere now being available in all major Public Cloud infrastructure, the trend promises to continue to go.\r\n\r\nThat you will virtualize your MSSQL Server workloads is a given. The degree to which you will be success, though? Well, that's the unknown.\r\n\r\nThis Session will attempt to present all the common pitfalls you need to avoid in your virtualization efforts, regardless of whether your Microsoft SQL Server virtualization is on-premise or in one of the various vSphere-based Hybrid Cloud options available from AWS, Microsoft, Google, Oracle, etc.\r\n\r\nCome with questions. I need to earn my keeps.\r\n\r\nSession materials - https://github.com/iyaburo/PublicSlides/blob/main/Questions%20That%20Matter%20When%20Virtualizing%20SQL%20Server%20on%20vSphere-Git.pptx",
+      "startsAt": "2021-06-12T13:00:00",
+      "endsAt": "2021-06-12T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "759068cb-7081-4ea7-8ec2-6e159ba09d34"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 19127,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "238573",
+      "title": "The Curated Data Platform",
+      "description": "The breadth of data platform options available to us today is staggering: between relational, object, graph, and document databases, we have a wide array of storage options, as well as a huge number of access and analysis tools. This talk will walk you through data platform, data analysis, and data processing options. We'll discuss when to use (and when not to use) Spark, R, Airflow, and Power BI, as well as a range of other interesting tools and technologies. By the end of this talk, you may not have MongoDB or Neo4J, but you will know where they might (or might not!) fit in your environment.",
+      "startsAt": "2021-06-12T13:00:00",
+      "endsAt": "2021-06-12T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7c382501-a37f-49b7-bb28-eb7692995323"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17542,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "239082",
+      "title": "In-memory OLTP Design Principles",
+      "description": "In this session we will look at the design principals of the in-memory OLTP engine. We will understand how the in-memory engine optimizes data storage for main memory, eliminates latches and locks, and uses native compilation to reduce the CPU overhead. \r\nFor this we will compare the traditional on-disk engine with the in-memory engine to decide when it makes sense to use in-memory OLTP.",
+      "startsAt": "2021-06-12T13:00:00",
+      "endsAt": "2021-06-12T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a91e5689-5e60-4b15-b891-565d1b384ae9"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17543,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "238765",
+      "title": "Building database interactions with users through chatbots",
+      "description": "The development of Artificial Intelligence is increasingly present in our lives and as time goes by, its presence will grow thanks to the momentum that enterprises are currently providing.\r\n\r\nOne of the most engaging AI applications is chatbots, which interact with users in real-time to assist them to perform a task -such as booking a hotel, answering a question or looking for specific information on the Internet- while simulating that a real human is behind the scene.\r\n\r\nData is knowledge, and the data that has been stored in your Azure SQL database can be used as an input for a bot which assists a company's customers in order to process the information for them and return expected results.\r\n\r\nThis session will be focused on explaining the actors involved when building a bot capable of obtaining data from your storage, including Azure SQL Database, Microsoft Bot Framework and LUIS (Language Understanding Intelligent Services). And you can integrate your bot on different channels such as Facebook Messenger, Microsoft Teams or even in your own website/app through Direct Line.",
+      "startsAt": "2021-06-12T13:00:00",
+      "endsAt": "2021-06-12T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a782df6e-ce00-46db-9ffa-8cb3f2e9d0ca"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17544,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "239250",
+      "title": "Networking 101: Building professional relationships",
+      "description": "Networking. You keep hearing that word throughout your career development, but you don’t know much about it, much less, how to do it. You want to connect with technical and data professionals, so you attend events such as SQL Saturday and your local user group. But what about your book club, your gym, your church group, or your kid’s soccer game? Those are prime — and overlooked — opportunities to network!\r\n\r\nIn this interactive session, we will discuss networking — what it is, why it’s important, and where opportunities exist. You will even have an opportunity to practice networking within the confines of our room. You might even leave this session with new networking contacts that you didn’t previously have! Bring business cards if you have them!",
+      "startsAt": "2021-06-12T13:00:00",
+      "endsAt": "2021-06-12T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e2716802-bbc7-4403-b470-7e5a12ea5225"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17545,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "239174",
+      "title": "PostgreSQL for the SQL Server DBA: What to Know When You're Called In To Help!",
+      "description": "SQL Server is a leading enterprise database solution for good reason. However, it's not the only popular RDBMS used in an increasingly cloud-first, price conscious world.\r\n\r\nPostgreSQL is arguably becoming one of the most used alternatives today, and in 2021 all three major cloud platforms have one-click deployments for spinning up new instances. All of this adds up to the increased likelihood that you will be asked to manage an alternative RDBMS like PostgreSQL in the next 3-5 years.\r\n\r\nIn this session we'll look at 10 areas of PostgreSQL through the lens of a SQL Server DBA to familiarize yourself with the main differences between the two platforms.\r\n\r\nBy the end of the session you will have enough information to connect to PostgreSQL with free tooling, modify common T-SQL to run correctly, get information about the state of the database, and help with basic query tuning.\r\n",
+      "startsAt": "2021-06-12T14:15:00",
+      "endsAt": "2021-06-12T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0785f402-af78-4d26-a024-a1fb32fefe04"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 19127,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "237552",
+      "title": "Query Store for SQL Server 2019  from zero to an hero & lessons learned from the fields",
+      "description": "Query Store is an important and recent feature in SQL Server that provides insight into the details of query execution and how that execution has changed over time. Query Store helps to identify queries that aren’t performing well, or that have regressed in their performance. Query Store provides detailed information and  wait stats that you need to resolve root causes, and it allows you to force the use of a known good execution plan. With SQL Server 2017 and later you can automate the correction of regressions in performance. \r\n\r\nYou'll Learn\r\n•\tBest  practices in implementing Query Store on production servers\r\n•\tDetect and correct regressions in query performance\r\n•\tLower the risk of performance degradation following an upgrade\r\n•\tUse tools and techniques to get the most from Query Store\r\n•\tAutomate regression correction and other uses of Query Store.\r\nThis is  a demo session only with minimum theory & lessons from the fields   !\r\n",
+      "startsAt": "2021-06-12T14:15:00",
+      "endsAt": "2021-06-12T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "17f90fef-6585-4c16-9e23-850660037b3b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17542,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "251144",
+      "title": "SQL Server \"SANless\" failover clustering with SIOS DataKeeper",
+      "description": "This session sponsored by SIOS technology will give an overview of their Windows and Linux clustering solutions that enables high availability and disaster recovery configurations on-prem, in the cloud and hybrid cloud.\r\n",
+      "startsAt": "2021-06-12T14:15:00",
+      "endsAt": "2021-06-12T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "586c7917-6bfe-4e66-8110-1921be010731"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17543,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "238051",
+      "title": "Advanced ETL with Power Query",
+      "description": "The M language provides to Power Query a very powerful way to develop ETL, way beyond the basic features you know.\r\n\r\nWe can create functions, re-use funcitons, create loops, everything to turn our data transformations easier. During this session you will see many advanced techniques using M and Power Query\r\n\r\nSession materials - https://github.com/DennesTorres/PowerBISQLSatLA",
+      "startsAt": "2021-06-12T14:15:00",
+      "endsAt": "2021-06-12T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e8ad406b-9b1b-4e48-a7a6-cf84b616f2d9"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17544,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "245543",
+      "title": "Using Azure Synapse Pools to Organize and Analyze Data",
+      "description": "This session will provide a introduction into the different pools of Azure Synapse Analytics.  We will look at how you can create a spark virtual database with Apache Spark Pools, create a data warehouse for large amounts of data with Dedicated Pools, perform ETL with Integrated Runtimes a type of Spark Pool, and create virtual databases and query flat files with Serverless Pools. We will look at how you can use these different pools to analyze and develop data in Azure.",
+      "startsAt": "2021-06-12T14:15:00",
+      "endsAt": "2021-06-12T15:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9b0267eb-34b9-49c1-94c0-8ac2adde6f0e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17545,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "248998",
+      "title": "Amazon Aurora PostgreSQL Deep Dive",
+      "description": "Amazon Aurora is a relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. The PostgreSQL-compatible edition of Aurora delivers up to 3X the throughput of standard PostgreSQL running on the same hardware, enabling existing PostgreSQL applications and tools to run without requiring modification. The combination of PostgreSQL compatibility with Aurora enterprise database capabilities provides an ideal target for commercial database migrations.",
+      "startsAt": "2021-06-12T15:30:00",
+      "endsAt": "2021-06-12T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0da0af21-131d-4fd2-ae02-a263d7c55066"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 19127,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "239265",
+      "title": "Starting with Azure SQL Database Edge on Raspberry Pi",
+      "description": "Azure SQL Database Edge is a containerized application that runs on either an ARM64 or an x64-based processor. SQL Database Edge is optimized specifically for IoT and edge workloads running on resource-constrained interactive devices such as cameras, scanners, IoT gateways, and light-weight edge servers.\r\n\r\nHasan will share his experience with installing and connecting Azure SQL Database Edge to Raspberry Pi.",
+      "startsAt": "2021-06-12T15:30:00",
+      "endsAt": "2021-06-12T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6117a19c-2501-4df2-8c07-92c6c309e167"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17542,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "242744",
+      "title": "Don't just code it–Generate it",
+      "description": "Code Generators are all the rage—BIML, JS frameworks, .NET scaffolding, even the humble templates provide by SSMS for views, stored procedures, functions.\r\n\r\nTable-driven applications allow one set of code to handle changing business needs. Metadata-driven code generation takes this a giant step further. If you can describe your code with an algorithm operating against a set of data, you can get a computer to produce the code.\r\n\r\n - Source to Target mapping documents can be used to generate the code to effect the mapping.\r\n - Service Broker activation stored procedures have a clearly defined structure. They can be mass-produced.\r\n - Standard CRUD stored procedures can be stamped out cookie-cutter fashion.\r\n - Business rules can be encoded in data and the code to implement them manufactured.\r\n\r\nGenerated code has systematic errors. Fix the errors at the generator. All the code now works. \r\n\r\nIf the code is so boring that a computer can produce it, why not spend your talent doing something interesting?\r\n\r\nSession materials - https://github.com/kevinjmackey/SQLSaturdayLA2021\r\n",
+      "startsAt": "2021-06-12T15:30:00",
+      "endsAt": "2021-06-12T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "00127ff2-085c-4ac5-b0bf-28237003a285"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17543,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "255743",
+      "title": "Delivering Data Warehouses on Microsoft SQL Server",
+      "description": "Understanding the differences in SQL Server data warehouse architecture, approach, and benefits between leveraging Microsoft SQL Server Integration Services (SSIS) versus WhereScape® RED automation software is integral to choosing the right toolset for your data warehouse or big data integration project. This session gives an overview of both offerings to help you gain a clear grasp of the functionality each offers and which approach is best suited to the development methodologies and vision within your IT organization.\r\n\r\nSession materials - https://github.com/anilm2021/sqlsatla2021",
+      "startsAt": "2021-06-12T15:30:00",
+      "endsAt": "2021-06-12T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "cab507c5-35c2-4516-b8ab-2f966e09622c"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17544,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "239647",
+      "title": "A DBA's Guide to the Proper Handling of Corruption",
+      "description": "Corruption can strike at any time. As DBAs how we alert, investigate, and respond can have a profound impact on our company. In this session we will learn how to detect and respond to various types of corruption.\r\n\r\nFirst we will be focus on ways to detect corruption early. This will include understanding tools available to us like DBCC CheckDB as well as the importance of testing your backups. We’ll look at some sample scripts to automate corruption checks and common alerts we should have set up on our instances.\r\n\r\nThen we will move onto how to respond. We’ll discuss the importance of incident management and the Disaster Recovery mindset and look at how we can analyze the situation safely as well as point out various pitfalls that trip people up. We’ll also discuss when and how we may be able to fix corruption vs restoring the database. Additionally we will look at a few common examples of corruption and how to fix them.",
+      "startsAt": "2021-06-12T15:30:00",
+      "endsAt": "2021-06-12T16:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1d728710-f22c-4ec2-ae0b-66c06d9ee26d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 17545,
+      "liveUrl": null,
+      "recordingUrl": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "ecbd01a9-36dd-4d55-8a5e-f1e4c03d26ea",
+      "firstName": "Amit",
+      "lastName": "Bansal",
+      "bio": "Amit R S Bansal is a SQL Server Specialist at SQLMaestros (brand of eDominer Systems). He leads the SQL and BI practice with a much focused team providing consulting, training and content development services to more than 160+ SQL customers globally. He frequently speaks at international conferences including Data Platform Summit (India), MS Ignite (US), SQLBits (UK), PASS Summit (US) & SQL Saturday events across the globe. Amit is also honored with Microsoft Regional Director status, MVP award and Microsoft Certified Master of SQL Server credential. Amit has been working with SQL Server since 1999 and has been part of countless mission critical SQL deployments. Performance Tuning in SQL Server is his core area of expertise. His videos are available on www.youtube.com/SQLMaestros. To learn more about Amit, visit http://sqlmaestros.com/amit-bansal/",
+      "tagLine": "SQL MCM, SQLMaestros",
+      "profilePicture": "https://sessionize.com/image/519a-400o400o2-a9-36dd-4d55-8a5e-f1e4c03d26ea.7ffc6823-485b-463e-bcf9-d43681f8e8c9.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        238100
+      ],
+      "fullName": "Amit Bansal",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "cab507c5-35c2-4516-b8ab-2f966e09622c",
+      "firstName": "Anil",
+      "lastName": "Mahadev",
+      "bio": "Anil Mahadev is a Cloud Solutions Architect  for the WhereScape  product family in the PreSales Organization of WhereScape North America. \r\nAnil also participates as a Cloud and Database Evangelist and an active community member in leading Database User Groups and Conferences world-wide.",
+      "tagLine": "Senior Solutions Architect",
+      "profilePicture": "https://sessionize.com/image/126f-400o400o2-4gEeAwMbodM33Bfh8QQneJ.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        255743
+      ],
+      "fullName": "Anil Mahadev",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b",
+      "firstName": "Armando",
+      "lastName": "Lacerda",
+      "bio": "http://bit.ly/ALacerdaProfile",
+      "tagLine": "Azure, Data Platform and BI Architect",
+      "profilePicture": "https://sessionize.com/image/0d6b-400o400o2-17-bd56-4cef-9a29-eea5a84dd56b.29bb8247-1f10-4df1-bea5-838eb4f74052.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        237325
+      ],
+      "fullName": "Armando Lacerda",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1d728710-f22c-4ec2-ae0b-66c06d9ee26d",
+      "firstName": "Brandon",
+      "lastName": "Leach",
+      "bio": "A Microsoft Data Platform MVP, Brandon manages the DB Operations team for financial company x. With a data estate of several petabytes across thousands of servers, he puts a high focus on performance tuning and automation at scale. He is a frequent speaker at events like conferences and user groups.",
+      "tagLine": "Microsoft Data Platform MVP",
+      "profilePicture": "https://sessionize.com/image/515a-400o400o2-d4980cae-34b0-4344-b07d-7a98d42bbdf8.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        239647
+      ],
+      "fullName": "Brandon Leach",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1a2b8e9f-4876-475f-b580-6c059bfb3c55",
+      "firstName": "Damir",
+      "lastName": "Matešić",
+      "bio": "For many years Damir is a passionate programmer and a Microsoft SQL Server developer (ver. 2000+). \r\nHe is a certificated Microsoft professional on various technologies. \r\nHe leads the Croatian SQL Server User Group and he introduced and organizes SQL Saturday events in Croatia. \r\nFounder and organizer of #DataWeekender. #DataWeekender is a popup online conference, organized by a group of European based Microsoft data platform professionals. Originally created as a response to Covid-19, this is now a regular online event.\r\nHe is currently working as Senior Database Developer @Span.eu. \r\nDamir speaks on various community events, conferences and user groups. \r\nWhen free he blogs about SQL @ https://blog.matesic.info.",
+      "tagLine": "Microsoft Data Platform MVP | Senior Database Developer @Span | SQL Server User Group Croatia - Lead",
+      "profilePicture": "https://sessionize.com/image/dde2-400o400o2-9f-4876-475f-b580-6c059bfb3c55.7043c649-42ae-46a0-9c52-8123fd599ab5.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        245807
+      ],
+      "fullName": "Damir Matešić",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "586c7917-6bfe-4e66-8110-1921be010731",
+      "firstName": "David",
+      "lastName": "Bermingham",
+      "bio": "Dave Bermingham is the Senior Technical Evangelist at SIOS Technology. He is recognized within the technology community as a high-availability expert and has been honored to be elected a Microsoft MVP for the past 11 years: 6 years as a Cluster MVP and 5 years as a Cloud and Datacenter Management MVP. Dave holds numerous technical certifications and has more than thirty years of IT experience, including in finance, healthcare, and education.",
+      "tagLine": "Microsoft Cloud and Datacenter MVP, SIOS Technology",
+      "profilePicture": "https://sessionize.com/image/54a8-400o400o2-a2d380ae-bfd1-43c1-b621-1fad6b6bdd31.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        251144
+      ],
+      "fullName": "David Bermingham",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1fb25ae7-3226-4bf5-9c79-aa600340a2d1",
+      "firstName": "David",
+      "lastName": "Patrick",
+      "bio": "Dave has been developing database applications for over 30 years. An MCT since 2001, he has taught many classes from Intro to Visual Interdev to Advanced SharePoint Development. Dave is a four time Microsoft MVP and runs three user groups, MAD SharePoint, www.madsharepoint.com, the Mid Atlantic Cybersecurity Experts MeetUp, www.meetup.com/MACEME, and the Baltimore Cloud Meetup, www.meetup.com/Baltimore-Cloud. \r\n\r\nDave does SharePoint training and development for DSA, Inc., a DoD contractor that does great work for the Army over at Aberdeen Proving Ground. Dave has a bunch of certifications, including MCSD App Builder, MSCE for SharePoint, and MCSA SQL Server certification.",
+      "tagLine": "MCT, MCSD, MCSE, MVP",
+      "profilePicture": "https://sessionize.com/image/8200-400o400o2-c7e15dc4-2bea-4cfd-b8f2-41ab48f8953f.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        249078
+      ],
+      "fullName": "David Patrick",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "759068cb-7081-4ea7-8ec2-6e159ba09d34",
+      "firstName": "Dèjì",
+      "lastName": "Akọ́mọláfẹ́",
+      "bio": "Deji is a Virtualization and Cloud Computing Solutions Specialist and a VMware Global Evangelist whose Program incubation and management expertise is rooted in providing technical guidance, mentorship, support and facilitation to help IT Professionals acquire and enhance their knowledge and expertise in the Virtualization and Cloud Computing space, and to freely share same broadly.",
+      "tagLine": "Dejify - The Disambiguation of All Things Technical",
+      "profilePicture": "https://sessionize.com/image/3fe2-400o400o2-UJZ8hK4uDa8jf9zuYmcs8A.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        236707
+      ],
+      "fullName": "Dèjì Akọ́mọláfẹ́",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e8ad406b-9b1b-4e48-a7a6-cf84b616f2d9",
+      "firstName": "Dennes",
+      "lastName": "Torres",
+      "bio": "Dennes is a Brazilian software architect and Data Platform MVP living in Malta who loves SQL Server and software development and has more than 20 years of experience. He moved to Malta after more than 10 years leading devSQL PASS Chapter in Rio de Janeiro and now is a member of the leadership team of MMDPUG PASS Chapter in Malta organizing meetings, events, and webcasts about SQL Server. He is an MCT, MCSE in Data Platforms and BI, with more titles in software development. He can be found working for Ascent Software and speaking in SQL Saturdays around Europe",
+      "tagLine": "Senior Software Developer, Ascent Software",
+      "profilePicture": "https://sessionize.com/image/4c0e-400o400o2-e1c1249c-12e4-4f57-9d6f-bfcffef5c402.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        238051
+      ],
+      "fullName": "Dennes Torres",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "398e8b5e-713e-4a22-a92f-f6cca7fb91b8",
+      "firstName": "Erik",
+      "lastName": "Esmaty",
+      "bio": "Erik Monchen currently manages the Munich office of DYMATRIX Consulting Group and has worked with the Microsoft BI stack for over 12 years at different organizations in The Netherlands, Germany and the United States, responsible in the areas of information gathering to information delivery both with on-premise and Azure cloud solutions. Erik is an international speaker at conferences and workshops, Chapter Leader of the Bavarian chapter of SQL PASS and organizer of the annual SQL Saturday at Microsoft in Munich.",
+      "tagLine": "Team Lead Business Intelligence at DYMATRIX Consulting Group GmbH",
+      "profilePicture": "https://sessionize.com/image/ef43-400o400o2-f895173a-4e3b-4f63-b169-fdd179f61a39.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        244674
+      ],
+      "fullName": "Erik Esmaty",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9b0267eb-34b9-49c1-94c0-8ac2adde6f0e",
+      "firstName": "Ginger",
+      "lastName": "Grant",
+      "bio": "Ginger Grant is a Data Platform MVP who provides consulting services in advanced analytic solutions, including machine learning, data warehousing, and Power BI.  She is an author of articles, books, and at DesertIsleSQL.com and uses her MCT to provide data platform training in topics such as Python, R and Azure Machine Learning.",
+      "tagLine": "Principal Data Geek at Desert Isle Group",
+      "profilePicture": "https://sessionize.com/image/60de-400o400o2-eb-34b9-49c1-94c0-8ac2adde6f0e.4c49b389-30f6-4aa7-a188-ca505179119b.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        245543
+      ],
+      "fullName": "Ginger Grant",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6117a19c-2501-4df2-8c07-92c6c309e167",
+      "firstName": "Hasan",
+      "lastName": "Savran",
+      "bio": "Hasan Savran is Microsoft Data Platform MVP and Microsoft Certified Solutions Developer. He works at Progressive Insurance as a Business Intelligence Manager. He spends his days architecting cutting edge business solutions by using the latest Web and Database technologies.\r\nHasan has spoken at many SQL Saturdays, Code Camps and User groups. He is an active member of the HTML5 and WebAssembly W3C groups. He likes to write about SQL, CosmosDB, C#, and Front End development on his blog. ",
+      "tagLine": "BI Manager",
+      "profilePicture": "https://sessionize.com/image/fba9-400o400o2-9c-2501-4df2-8c07-92c6c309e167.35f69904-99b2-4320-a230-3b94f4212c10.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        239265
+      ],
+      "fullName": "Hasan Savran",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "809a6cb2-d5c1-4b77-a7af-e2a5af789194",
+      "firstName": "Jared",
+      "lastName": "Poche",
+      "bio": "Jared Poche began working with SQL Server as an instructor for certification classes and has a passion for teaching and performance troubleshooting. Jared spent 10 years providing customer support at Microsoft, most recently as a Sr. Support Escalation Engineer. \r\nJared is currently a database engineer working as a Database Engineer for ChannelAdvisor, blogs about his recent experiences, and is developing online SQL Server courses.",
+      "tagLine": "Database Engineer - ChannelAdvisor",
+      "profilePicture": "https://sessionize.com/image/6495-400o400o2-BviSA7nd7CSAgFdHZvrTg7.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        239242
+      ],
+      "fullName": "Jared Poche",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d10e36a0-baed-480a-b0f5-915bc2656902",
+      "firstName": "Jeff ",
+      "lastName": "Duncan",
+      "bio": "JP Chen is the Global Practice Lead of SQL Server at Datavail. He leads a talented team of SQL Server Database Administrators in the US and India working closely with customers around the globe in supporting their SQL Server environments in both on-premises and the clouds such as AWS and Azure. With more than 20 years of experience as an IT professional, JP carries a wealth of customer support, problem solving, writing, and team management experience. He’s an avid blogger and also authored a number of whitepapers and ebooks such as SQL on Linux, Keeping Pace with Change: Prepare for Tomorrow & Advance Your Career, and The 5 Hats Worn By Database Administrators. All are available at www.datavail.com. He had also presented various technical and non-technical topics in major conferences such as SQL PASS, SQL Saturday, RMOUG, and AWS Workshop Series. Outside of work, JP enjoys travelling and sampling exotic foods around the world.",
+      "tagLine": "Global Practice Lead & Director, SQL Services ",
+      "profilePicture": "https://sessionize.com/image/9c80-400o400o2-EESUrFzJBRaWgCFjfLYNG2.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        247117
+      ],
+      "fullName": "Jeff Duncan",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1ff584b3-1daf-4d71-b9bd-b7de63664e07",
+      "firstName": "Jen",
+      "lastName": "Lunde",
+      "bio": "Jen Lunde is a Career Coach and Staffing Expert with 13 years of experience in the professional staffing industry. She has assisted job seekers of all disciplines with a heavy emphasis in technology and digital marketing. Jen has partnered with entry through executive-level professionals to write effective resumes and prepare for interviews so they can achieve their career goals. Having reviewed well over 22,000 resumes and partnered with hundreds of hiring managers and job seekers, she is an expert in the hiring and job search process, and a go-to resource for professional development. ",
+      "tagLine": "Career & Staffing Expert",
+      "profilePicture": "https://sessionize.com/image/8314-400o400o2-Lj2wLxEYwoZhtEAQGkX8kB.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        258180
+      ],
+      "fullName": "Jen Lunde",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "48430170-2d0a-4b05-8635-77e44b3062ed",
+      "firstName": "Kathi",
+      "lastName": "Kellenberger",
+      "bio": "Kathi Kellenberger is the editor of Simple Talk at Redgate and a Data Platform MVP. She has worked with SQL Server since 1998 and has authored, co-authored, or tech edited over twenty technical books. Kathi is the co-leader of the Data Platform Women in Technology Virtual Group and a volunteer at LaunchCode. When Kathi isn’t working, she enjoys spending time with family and friends, cycling, singing, and climbing the stairs of tall buildings.",
+      "tagLine": "Editor of Simple Talk at Redgate",
+      "profilePicture": "https://sessionize.com/image/f581-400o400o2-9ad57a3f-7f81-4c5c-8747-236bc4cfa75f.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        244154
+      ],
+      "fullName": "Kathi Kellenberger",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "df54a59d-1371-44ca-8f6c-281cb269141b",
+      "firstName": "Kevin",
+      "lastName": "Chant",
+      "bio": "Senior Database Architect originally from the UK and now living in the Netherlands. `Currently Microsoft Data Platform MVP and Microsoft Certified Trainer.\r\n\r\nMany years experience in the IT sector, and has supported databases for companies in the top 10 of the fortune 500 list.\r\n\r\nIn addition to a lot of SQL Server experience also has a fair few Microsoft Certifications, and was probably the last ever person in the world to gain the MCSD Azure Architect certification. \r\n\r\nReal life experience with SQL Server and Azure Devops. Currently SQL Server product Owner of around 1,900 instances. In addition, done various things for the Data Platform Community. With the last being one of the organizers of the online DataWeekender conference.\r\n",
+      "tagLine": "Senior Database Architect",
+      "profilePicture": "https://sessionize.com/image/652e-400o400o2-9d-1371-44ca-8f6c-281cb269141b.f53ea170-b3e9-464e-9454-a83b569fa09e.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        238146
+      ],
+      "fullName": "Kevin Chant",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "7c382501-a37f-49b7-bb28-eb7692995323",
+      "firstName": "Kevin",
+      "lastName": "Feasel",
+      "bio": "Kevin Feasel is a Microsoft Data Platform MVP and CTO at Envizage, where he specializes in data analytics with T-SQL and R, forcing Spark clusters to do his bidding, fighting with Kafka, and pulling rabbits out of hats on demand. He is the lead contributor to Curated SQL (https://curatedsql.com), president of the Triangle Area SQL Server Users Group (https://www.meetup.com/tripass), and author of PolyBase Revealed (https://www.apress.com/us/book/9781484254608). A resident of Durham, North Carolina, he can be found cycling the trails along the triangle whenever the weather's nice enough.",
+      "tagLine": "CTO @ Envizage",
+      "profilePicture": "https://sessionize.com/image/55aa-400o400o2-40a9b740-2d82-48f9-8c83-8d9f9f029d94.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        238573
+      ],
+      "fullName": "Kevin Feasel",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "00127ff2-085c-4ac5-b0bf-28237003a285",
+      "firstName": "Kevin",
+      "lastName": "Mackey",
+      "bio": "See LinkedIn link below",
+      "tagLine": "Solution Architect: I write code that writes code and translate data into information.",
+      "profilePicture": "https://sessionize.com/image/5aec-400o400o2-d49e5308-6ea4-432d-8a96-ebd30fb95596.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        242744
+      ],
+      "fullName": "Kevin Mackey",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a782df6e-ce00-46db-9ffa-8cb3f2e9d0ca",
+      "firstName": "Luis",
+      "lastName": "Beltran",
+      "bio": "Hello! My name is Luis. I'm a Microsoft MVP in Developer Technologies and AI. I am currently pursuing a PhD in Engineering Informatics at Tomas Bata University in Zlin, Czech Republic.\r\n\r\nI am a fan of software development, particularly mobile apps with Xamarin integrated with cloud computing services, such as Azure. Moreover, Artificial Intelligence is amazing and one of my favorite topics!\r\n\r\nI've been developing .NET apps for more than 10 years. I find C# a really powerful language which allow us to create different kinds of software. \r\n\r\nI enjoy sharing my knowledge with others, either at writing a blog post or streaming an online session. Of course, activities such as talking for a conference and answering peeps' questions in social networks are included as well.",
+      "tagLine": "Microsoft MVP, Xamarin Certified Mobile Developer",
+      "profilePicture": "https://sessionize.com/image/3b54-400o400o2-6e-ce00-46db-9ffa-8cb3f2e9d0ca.b7115887-cc1d-4635-ac04-f9b9f02c599f.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        238765
+      ],
+      "fullName": "Luis Beltran",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f6840ffa-c1f4-4338-b7e0-f0cec31693a7",
+      "firstName": "Magnus",
+      "lastName": "Ahlkvist",
+      "bio": "20+ year database professional with a passion for sharing.",
+      "tagLine": "SQL Server specialist, Data Platform MVP, SQL Community organizer. Paid work out of Transmokopter SQL AB.",
+      "profilePicture": "https://sessionize.com/image/0ce8-400o400o2-fa-c1f4-4338-b7e0-f0cec31693a7.d589bafb-836b-40b1-b436-87c0a13f8a6b.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        238037
+      ],
+      "fullName": "Magnus Ahlkvist",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "bd909004-96e3-4279-a1eb-4a777e8de770",
+      "firstName": "Mark",
+      "lastName": "Runyon",
+      "bio": "Mark Runyon works as a director of consulting for Improving. For the past 20 years, he has designed and implemented innovative technology solutions for companies in the finance, logistics, and pharmaceutical space. He is a frequent speaker at technology conferences and is a contributing writer at InformationWeek and The Enterprisers Project. Mark holds a Masters of Science in Information Systems from Georgia State University.",
+      "tagLine": "Director of Consulting at Improving",
+      "profilePicture": "https://sessionize.com/image/1917-400o400o2-LZ9AaoVfyLQRzUoHJ1Uyjc.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        250448
+      ],
+      "fullName": "Mark Runyon",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "dd5b4b44-e670-4e65-b3b7-9e5ce0bd5d68",
+      "firstName": "Mikey",
+      "lastName": "Bronowski",
+      "bio": "What do I do? I select, I select stars!\r\n\r\nData enthusiast with a mathematics background in relation with SQL Server for over 10 years. Works as a database administrator (Microsoft SQL Server) responsible for environments upgrades and migrations. Microsoft Certified Trainer with a couple of certificates (MCP, MCSE Data Platform). Blogger at (bronowski.it/blog).\r\n\r\nNot long ago Poland Data Community member, now proud UK Data Platform active member.\r\n\r\nWhen not working or teaching, learns new things or attends various data/technical conferences and meetups.\r\n\r\nItalian Calcio fan and traveller.",
+      "tagLine": "I select stars from the Space.",
+      "profilePicture": "https://sessionize.com/image/8e2c-400o400o2-44-e670-4e65-b3b7-9e5ce0bd5d68.f5fac93d-3661-415d-9826-a3c05b0f78a3.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        247109
+      ],
+      "fullName": "Mikey Bronowski",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "760c618d-8818-4666-bbb6-1605cd8af6e8",
+      "firstName": "Nikola",
+      "lastName": "Ilic",
+      "bio": "I'm making music from the data! PowerBI and SQLServer addict, MCT, Pluralsight Author, blogger, speaker...Interested in everything related to data - always eager to extract valuable info from raw data in the most effective way. Multi-year experience working with (predominantly) Microsoft Data Platform (SQL Server, SSAS, SSIS, SSRS, and Power BI). Father of 2 and true football (and Barca) fan!",
+      "tagLine": "BI Developer, Data Mozart",
+      "profilePicture": "https://sessionize.com/image/961d-400o400o2-8d-8818-4666-bbb6-1605cd8af6e8.ba530aff-9ce1-4ff1-baa2-6f3d7bc17a34.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        242192
+      ],
+      "fullName": "Nikola Ilic",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e2716802-bbc7-4403-b470-7e5a12ea5225",
+      "firstName": "Ray",
+      "lastName": "Kim",
+      "bio": "Ray Kim is an advocate for documentation and technical communication. He is a co-founder of the Albany, NY SQL group (CASSUG), a member of the AlbanyUX user group, and has spoken at numerous SQLSaturdays and at PASS Summit. He has worked various positions in technology, including as a developer, webmaster, analyst, technical writer, and instructor. He holds an MS in technical communication from Rensselaer Polytechnic Institute and a BS in computer science from Syracuse University.\r\n\r\nA musician in his spare time, Ray plays four different instruments. He also enjoys going to ball games and doing CrossFit, and is a two-time SQLServerCentral.com fantasy football champion. He lives in Troy, NY with his wife, Lianne, and their two cats.",
+      "tagLine": "Data analyst and technical writer, SQL Saturday speaker since 2015, specializing in professional development topics.  I'm the professor at MIT who teaches English Lit.",
+      "profilePicture": "https://sessionize.com/image/7035-400o400o2-f479df1d-368f-4dd8-9301-9a8586fc81bb.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        239250
+      ],
+      "fullName": "Ray Kim",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "0785f402-af78-4d26-a024-a1fb32fefe04",
+      "firstName": "Ryan",
+      "lastName": "Booz",
+      "bio": "Ryan is a Developer Advocate at Timescale, the supercharged time-series database built on PostgreSQL Prior to Timescale, Ryan worked for more than 17 years as a developer, DBA and product manager in multiple ISVs delivering SaaS products based on time-series data.\r\n \r\nRyan is a long-time DBA, starting with MySQL and Postgres in the late 90s. He spent more than 15 years working with SQL Server and the #SQLFamily and has a desire to bring some of that community spirit into the growing PostgreSQL world. He’s at the top of his game when he's learning something new about the data platform or teaching others about the technology he loves.",
+      "tagLine": "Developer Advocate at Timescale",
+      "profilePicture": "https://sessionize.com/image/3c9c-400o400o2-02-af78-4d26-a024-a1fb32fefe04.00ad56ff-7b79-4f0d-98b0-9b9796a441e1.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        239174
+      ],
+      "fullName": "Ryan Booz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d983fce5-03fd-4f63-83b3-1102110f970a",
+      "firstName": "Sander",
+      "lastName": "Stad",
+      "bio": "Sander is a SQL Server DBA with over 15 years of experience in IT. He has worked with SQL Server since version 2000 and is a Cloud and Datacenter Management (CDM) MVP.\r\nHe is a huge PowerShell enthusiast and will try to automate processes as much as he can. ",
+      "tagLine": "Waypoint Analytical, PowerShell Underdog",
+      "profilePicture": "https://sessionize.com/image/c02c-400o400o2-e5-03fd-4f63-83b3-1102110f970a.f4601582-2d88-49ac-a9a9-ccdd438b719a.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        238146
+      ],
+      "fullName": "Sander Stad",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "ae75d1b3-e1a9-4f45-9b6f-c8c885067de7",
+      "firstName": "Shane",
+      "lastName": "Welgama",
+      "bio": "From Roomba Salesman to SQL Server Administrator, Shane has found his passion and he is currently the Database Administrator for Compass Education. Shane has become a Microsoft Certified Solutions Associate (MCSA) in Database Development and loves sharing what he learns with anyone that will listen! Feel free to reach out on the below socials:\r\n\r\nLinkedIn: https://www.linkedin.com/in/shanewelgama\r\nTwitter: https://twitter.com/ShaneWelgama",
+      "tagLine": "DBA - Compass Education",
+      "profilePicture": "https://sessionize.com/image/7ba4-400o400o2-f3926f5a-e796-4b5b-b6fd-a93b57dd282d.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        238533
+      ],
+      "fullName": "Shane Welgama",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "0da0af21-131d-4fd2-ae02-a263d7c55066",
+      "firstName": "Shayon",
+      "lastName": "Sanyal",
+      "bio": "Shayon Sanyal is a Senior Database Specialist Solutions Architect for RDS/Aurora PostgreSQL based out of New York and has been with AWS since December 2017. Shayon has overall 10+ years experience in IT Consulting, Delivery, Pre-Sales and Professional Services in IT Infrastructure, IaaS, Database and Cloud domains. He works with AWS customers to provide guidance and technical assistance on both relational and non-relational database services, database migrations, enterprise database strategy and cloud adoption.",
+      "tagLine": "Sr Database Specialist Solutions Architect (AWS)",
+      "profilePicture": "https://sessionize.com/image/fbff-400o400o2-PLYPosjVEDXe3VKQSAP4Wx.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        248998
+      ],
+      "fullName": "Shayon Sanyal",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a91e5689-5e60-4b15-b891-565d1b384ae9",
+      "firstName": "Torsten",
+      "lastName": "Strauß",
+      "bio": "Torsten (MVP, MCSE, MCT) has been working with Microsoft SQL Server since the turn of the millennium and is specialized in performance optimization for large SQL Server environments.\r\nHe has been with bp as a database engineer for over two decades and collaborates closely with Sarpedon Quality Lab as a Principal Microsoft SQL Server Consultant.\r\nTorsten is the founder of inside-sqlserver.com and has given more than 130 presentations on Microsoft SQL Server performance optimization at national and international conferences and user groups. \r\nTorsten has been recognized as a Microsoft Most Valuable Professional for Data Platform since 2018.",
+      "tagLine": "inside-sqlserver.com",
+      "profilePicture": "https://sessionize.com/image/5763-400o400o2-89-5e60-4b15-b891-565d1b384ae9.37584372-49f2-42c5-8633-22b0c0977e93.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        239082
+      ],
+      "fullName": "Torsten Strauß",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "17f90fef-6585-4c16-9e23-850660037b3b",
+      "firstName": "Yitzhak",
+      "lastName": "David",
+      "bio": "David Yitzhak, Team leader of Big Data and Nosql databases\r\nDavid Yitzhak has over 24 years of experience with SQL Server, Oracle, and Sybase. He is an applicative & infrastructure DBA for relational and Nosql solutions (MongoDB, Redis), Hadoop CDH and Spark. David is a specialist in HA and DRP solutions, tuning, Machine learning , security, High Performance Computing, replication (Oracle & SQL Server), BI infrastructure and system engineering. David Yitzhak holds 3 Degrees from Technicon (Israel Institute of Technology): BSC Information System , MBA and ME (System engineering) and research associate in one of the enterprise Organization. He presents in Oracle open world 2010, Organize Oracle ILOUG for 3 years , SQL Server forums, Microsoft BI forums, Sqlsaturday Israel 2016/17/18/19/20 , 3rd Israeli Conference on open source Software Architecture, PASS Global Hebrew Virtual Group, written a dozen of professional articles . ",
+      "tagLine": "DBA  BDA  POWER BI  NOSQL K8s ",
+      "profilePicture": "https://sessionize.com/image/9564-400o400o2-44e5ad98-4451-4b57-aca7-98db8e2d4281.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        237552
+      ],
+      "fullName": "Yitzhak David",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": [
+    {
+      "id": 19127,
+      "name": "Lobby + VMware room (Steve)",
+      "sort": 0
+    },
+    {
+      "id": 17542,
+      "name": "Datavail room (Elaena)",
+      "sort": 1
+    },
+    {
+      "id": 17543,
+      "name": "SIOS room (Brodie)",
+      "sort": 2
+    },
+    {
+      "id": 17544,
+      "name": "WhereScape room (Laurie)",
+      "sort": 3
+    },
+    {
+      "id": 17545,
+      "name": "Lucient room (Maria)",
+      "sort": 4
+    }
+  ]
+}
