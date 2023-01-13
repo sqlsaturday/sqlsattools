@@ -1,0 +1,1161 @@
+{
+  "sessions": [
+    {
+      "id": "345362",
+      "title": "Going Full-time Freelance",
+      "description": "The future of work is freedom of work. So in 2021 I started a company in Baton Rouge - Ruby Research - to connect companies and data scientists interested in #dataforgood and #techforgood freelance work.  Interested in picking up more freelance gigs?  Here are a few important considerations to help you to begin.",
+      "startsAt": "2022-08-06T13:30:00Z",
+      "endsAt": "2022-08-06T14:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "2df090ed-7447-4b84-a0b0-80914daa343e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24551,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "355383",
+      "title": "Agile and Scrum in a $20M company.",
+      "description": "The journey of helping a company change by adapting agile and scrum methodologies.  Everyone is already short on time and now we are asking an entire company to change how the business operates.  Yes, the pain is real but is it worth it?",
+      "startsAt": "2022-08-06T13:30:00Z",
+      "endsAt": "2022-08-06T14:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "71f0f1b3-854e-4e9f-b8ff-babd66424f67"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24552,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "356557",
+      "title": "SQL Security and You - An Overview",
+      "description": "This session will discuss the creation and management of standard SQL security principals and applying those guidelines to SQL Server administration.",
+      "startsAt": "2022-08-06T13:30:00Z",
+      "endsAt": "2022-08-06T14:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8b7929b4-bcdc-487d-a86a-112a134fa4b4"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24553,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "334392",
+      "title": "Getting Data from Dataverse inside of Teams",
+      "description": "Microsoft Dataverse for Teams delivers a no code / low code  out of the box data platform for Microsoft Teams. You get relational data storage, rich data types, enterprise-grade governance, and one-click solution deployment. Dataverse for Teams enables everyone to easily build and deploy apps. Come see what Dataverse for Teams is all about and how to get started building databased apps within Teams. ",
+      "startsAt": "2022-08-06T13:30:00Z",
+      "endsAt": "2022-08-06T14:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1fb25ae7-3226-4bf5-9c79-aa600340a2d1"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26587,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "355422",
+      "title": "How to Effectively Manage Development Teams",
+      "description": "In this session, you will learn how to work effectively with development teams and lead them to reach goals, all while ensuring the development team is exposed to challenges that help enhance their skills and provide an environment where self-improvement is encouraged.",
+      "startsAt": "2022-08-06T13:30:00Z",
+      "endsAt": "2022-08-06T14:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "2684a216-0fa8-4e4a-b7c5-c67b2a99369f"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27032,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "353407",
+      "title": "Be Our Guest: Disney's Approach to UX",
+      "description": "Walt Disney. Dreamer. Animation Pioneer. Filmmaker. UX Designer. This talk introduces the beginner (or beginner-at-heart) to lessons learned from the Disney, such as storytelling, understanding users, and data-driven design, in creating user experiences for guests and how they can be used to create better experiences for users of websites, applications, and other digital products.",
+      "startsAt": "2022-08-06T13:30:00Z",
+      "endsAt": "2022-08-06T14:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5706e39d-8684-41d1-8841-cf2f6c07e20f"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26588,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "335000",
+      "title": "Mastering your Resume & Interview - Tips to Get Hired",
+      "description": "Looking for a job? Learn trade secrets from an HR professional! Resume blunders and interview tips, this session will focus on the most important things you can do to get hired!",
+      "startsAt": "2022-08-06T14:45:00Z",
+      "endsAt": "2022-08-06T15:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6c9ac2bb-a13a-45e3-b5a9-5bca2e918cf1"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24551,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "350839",
+      "title": "Batch Programming for Web Developers",
+      "description": "The far majority of developers are focusing on web development today and for good reason.  Web development is where everything is moving, or is it?  Even the most sophisticated web applications often have operations that happen behind the scenes in large batch processes.\r\n\r\nThe focus of this session is to go over some of the \"forgotten\" strategies that web developers need to keep in mind when designing batch processes. ",
+      "startsAt": "2022-08-06T14:45:00Z",
+      "endsAt": "2022-08-06T15:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "97e8fe38-320c-410f-8348-d53dafa7de15"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24552,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "351055",
+      "title": "Lighting FAST SQL Server Backups and Restores",
+      "description": "This session will talk about SQL Server native back up and how to improve the speed on back up and restores",
+      "startsAt": "2022-08-06T14:45:00Z",
+      "endsAt": "2022-08-06T15:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fcca1680-b352-41d3-a12a-50d2d3679f55"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24553,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "338879",
+      "title": "Power BI Meets Programmability – TOM, XMLA, and C#",
+      "description": "It is rare to find a Power BI developer who has a background in C#, but C# and other programming languages offer a lot of automation and scalability that is lacking in Power BI. XMLA is a powerful tool available in the online Power BI service that allows report developers to connect to their data model and adjust a variety of entities outside the Power BI Desktop application. For example, the XMLA endpoints can be used within a pipeline triggered by an application to update a Power BI model schema. This allows end users to create custom UDFs (user defined fields) on the fly and delete them. Similarly, developers can create and use translations for customer specific column renames without worrying about breaking visuals and complicated data models.",
+      "startsAt": "2022-08-06T14:45:00Z",
+      "endsAt": "2022-08-06T15:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "626abf83-6d24-46d4-9985-1905e8020596"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26586,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "353423",
+      "title": "An Insider’s Guide to IT Audit",
+      "description": "There are unwritten rules in every field; IT audit is no different. In this session we will go over the top 5(ish) things that can make or break an IT Audit.",
+      "startsAt": "2022-08-06T14:45:00Z",
+      "endsAt": "2022-08-06T15:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "654bc5b4-fa8b-4f1e-9654-51eec68e30b1"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26587,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "335939",
+      "title": "Careers in IT Baton Rouge 2022",
+      "description": "Careers in IT will feature a panel of industry leaders and experts who directly interact with participants in a moderated question and answer session. This will allow participants to gain insight into what the IT community sees as valuable (skill-sets, certifications, experience, and etc) so that they can be better prepared for a career transition or to start work in the IT field for the first time.",
+      "startsAt": "2022-08-06T14:45:00Z",
+      "endsAt": "2022-08-06T15:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f3281bba-36d8-4f77-8910-0ecf9d9e0e0d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27032,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "354978",
+      "title": "Back to Basics: Unit Testing",
+      "description": "In this session, we'll discuss the advantages, disadvantages, and best practices of unit tests. We'll then talk about the different unit testing tools and get into demos.",
+      "startsAt": "2022-08-06T14:45:00Z",
+      "endsAt": "2022-08-06T15:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "098f2999-a5b9-4d1c-aa92-11c0fc5c815e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26588,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "358660",
+      "title": "The Spectrum of Failure - What to avoid, what to embrace",
+      "description": "Whether writing code for products, starting and running your own business, or even dating, there are aspects of failure that must be understood. Just like a singles group where the point of joining is to eventually leave, understanding the spectrum of failure will help you capture its lessons, embolden your pursuit, and rejoice in the distance from which you find it. ",
+      "startsAt": "2022-08-06T16:00:00Z",
+      "endsAt": "2022-08-06T17:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "82124ba0-88bc-47c8-857b-7be61b46fcc4"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24551,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "355418",
+      "title": "Practical Domain-Driven Design",
+      "description": "Proponents of Domain-Driven Design (DDD) pitch an attractive way of organizing software that increases developer effectiveness in unknown domains and enables software evolution that matches the business. In this talk, I introduce DDD with a focus on the lessons I learned on my journey from junior engineer to architect.",
+      "startsAt": "2022-08-06T16:00:00Z",
+      "endsAt": "2022-08-06T17:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "53e41d4b-24b0-49b6-a5d6-66c23832cb4f"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24552,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "343337",
+      "title": "A DBA's Guide to the Proper Handling of Corruption",
+      "description": "Corruption can strike at any time. As DBAs how we alert, investigate, and respond can have a profound impact on our company. In this session we will learn how to detect and respond to various types of corruption.\r\n\r\nFirst we will be focus on ways to detect corruption early. This will include understanding tools available to us like DBCC CheckDB as well as the importance of testing your backups. We’ll look at some sample scripts to automate corruption checks and common alerts we should have set up on our instances.\r\n\r\nThen we will move onto how to respond. We’ll discuss the importance of incident management and the Disaster Recovery mindset and look at how we can analyze the situation safely as well as point out various pitfalls that trip people up. We’ll also discuss when and how we may be able to fix corruption vs restoring the database. Additionally we will look at a few common examples of corruption and how to fix them.",
+      "startsAt": "2022-08-06T16:00:00Z",
+      "endsAt": "2022-08-06T17:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1d728710-f22c-4ec2-ae0b-66c06d9ee26d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24553,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "355185",
+      "title": "Brick-by-Brick: An Introduction to Azure Databricks",
+      "description": "Do you want to be a Data Engineer in the next step on your career path? Maybe you're just getting started in the rapidly growing Data Science and Analytics space? Or perhaps you're already doing on-premises analytics and want to take things to the cloud? Then come to this introductory session and see what Azure Databricks can do for you!\r\n\r\nAzure Databricks provides a cloud-based Apache Spark environment that can be scaled up and out to tackle your big data analytics needs. We'll look at how to set up your first Azure Databricks cluster, how to use shared notebooks in a collaborative environment, and how to leverage the integrated Azure Machine Learning capabilities. We'll also discuss where Azure Databricks fits in the modern cloud data",
+      "startsAt": "2022-08-06T16:00:00Z",
+      "endsAt": "2022-08-06T17:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c8bd427f-492a-4882-888c-7e04f18a316d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26586,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "353071",
+      "title": "Introduction to Azure Synapse Studio Development Tools",
+      "description": "Azure Synapse Studio provides tools for working with data in a variety of formats.  This session introduces the development tools in Azure Synapse Studio.\r\n\r\nWe will first look at the SQL editor.  You will see how you can leverage your existing T-SQL skills to view delimited file data.  We will save the queries you write for future work.\r\n\r\nWe will then look at using Notebooks to work with delimited data.  You will see how easy it is to document your work, entering formatted descriptions of what your code should do and storing the results of running your code.  You will see how you can work with different languages from Python to SQL to Scala and even .Net.\r\n\r\nWe will touch on various templates that Microsoft provides.  There is no need to start from scratch.",
+      "startsAt": "2022-08-06T16:00:00Z",
+      "endsAt": "2022-08-06T17:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "15fc7dab-963e-43ce-9bdd-63b6007afce6"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26587,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "356541",
+      "title": "Deep Dive into Azure DevOps",
+      "description": "There are many different tools for tracking your team's work, and many more for maintaining a code base. There are tools for managing deployments, and tools for testing both your work in progress as well as your work in production. Getting these all to work together is difficult and requires learning several different platforms.\r\n\r\nAzure DevOps is a suite of tools that accomplishes all of these things. It replaces Jira, GitHub, Jenkins, and Katalon, bringing all of the power of these tools into one unified interface. We will discuss each of these features, as well as how to set it up, configure a team, create tickets, manage code, and deploy it. No previous experience is required to gain actionable insight into this powerful (and free*) set of tools.",
+      "startsAt": "2022-08-06T16:00:00Z",
+      "endsAt": "2022-08-06T17:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d30c2f62-7508-4f19-9690-c318e7f9e43e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27032,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "334939",
+      "title": "Tabletop Role-playing Games at Work for Fun & Profit",
+      "description": "Tabletop role-playing games, like Dungeons & Dragons, are co-operative storytelling games.\r\nHow can they help us practice design thinking at work? What can we learn about content design, professional communication, teamwork, and diversity? \r\nHow can we bravely practice empathy and build on the success of others?\r\nWhat career lessons can we learn from collaborative storytelling?",
+      "startsAt": "2022-08-06T16:00:00Z",
+      "endsAt": "2022-08-06T17:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "136bda4f-d1f3-47e2-83b3-8683ec888fb4",
+        "327af676-3623-46d7-997c-98fc48cc61f5",
+        "6c9ac2bb-a13a-45e3-b5a9-5bca2e918cf1"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26588,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "334942",
+      "title": "How to Think Like a Certification Exam",
+      "description": "Preparing for Microsoft certification? Do you want insight into how certification exams are written, how questions are designed, and how to follow a logical process of elimination? We'll go through the process of item creation from an item writer's viewpoint, what rules item writers must follow, and why questions sometimes have strange phrasing. For any technical skillset pursuing certification, we'll review non-technical sample questions and walk through the process of using information at your disposal. You'll better understand how to deconstruct the problem statement. We'll leave time for Q&A with a veteran of the Microsoft certification exam writing process.",
+      "startsAt": "2022-08-06T18:30:00Z",
+      "endsAt": "2022-08-06T19:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "136bda4f-d1f3-47e2-83b3-8683ec888fb4"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24551,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "353314",
+      "title": "Modernizing ASP.NET Applications",
+      "description": "As Microsoft has unified around .NET 6, many organizations find themselves with ASP.NET projects that are \"stuck\" on .NET Full Framework. In this talk, we'll look at two case studies for projects that were migrated to ASP.NET Core on .NET 6, the strategies used, and the lessons learned.",
+      "startsAt": "2022-08-06T18:30:00Z",
+      "endsAt": "2022-08-06T19:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f2dbd6f0-bd98-494c-81af-1b9d3a2700d3"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24552,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "345691",
+      "title": "I Broke It So You Don’t Have To - HA/DR Fails and Fun",
+      "description": "You know when you go to a session and the speaker talks about all the times they and their genius has saved the day? This session is the exact opposite of that. Join me as we spend an hour discussing mistakes I’ve made over the years - big and small. We’ll talk through what you would have done better, what I ended up doing, and what we can all learn from my failures and foibles through the years. I’ve seen a lot, done a lot (right and wrong), and look forward to our conversation helping everyone in the room! ",
+      "startsAt": "2022-08-06T18:30:00Z",
+      "endsAt": "2022-08-06T19:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "84f4f0b8-4a32-490b-acf7-e39bde2b99b2"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24553,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "337943",
+      "title": "Perfectly Normal:  An Advanced Primer on Normalization",
+      "description": "Most of us have heard of \"third normal form\" and treat it as a goal to achieve.  In this talk, we will treat third normal form as a speedbump.  Let's get deeper into the concepts of database normalization and understand the types of data problems we can solve with more advanced normal forms.  This talk will briefly cover first normal form as the foundation and then show how to move from first to Boyce-Codd Normal Form.  From there, we will look at 5th and 6th normal forms, as well as intermediate steps along the way.  We will conclude with a discussion of where things are generally \"good enough.\"",
+      "startsAt": "2022-08-06T18:30:00Z",
+      "endsAt": "2022-08-06T19:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7c382501-a37f-49b7-bb28-eb7692995323"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26586,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "334876",
+      "title": "ELT Pipelines in AWS, GCP, and Azure",
+      "description": "Coming into a new cloud environment, you often don’t know what services are available or which to use for building data integrations workflows. With the variety of offerings, from cloud vendor-specific, multi- cloud, or open source, it is difficult to choose the right tool for the cloud you are on. \r\n\r\nIn this session, I will go through an overview of some of the options available on AWS, GCP, and Azure. This will include many of the most common managed ETL/ELT offerings, such as Azure Data Factory, AWS Glue, and GCP Dataflow. Additionally, we will evaluate some open source or multi-cloud alternatives, like Airflow. \r\n\r\nThe session will explore the ease of getting started with each option, go through which languages and infrastructure may be required or supported, and build a short demo of a simple pipeline in each. We will also discuss what the cost differences are to get started and to put into production. ",
+      "startsAt": "2022-08-06T18:30:00Z",
+      "endsAt": "2022-08-06T19:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9972b21f-275e-48f0-a261-be2c0c26436c"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26587,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "355118",
+      "title": "Systems Thinking for Engineering Leaders",
+      "description": "Ever think that something's slowing down your process but can't put your finger on it? Losing candidates in your hiring pipeline but can't spot the leak? Or maybe you know the problem but you're having trouble quantifying it and getting buy in to solve it?\r\n\r\nThis session will serve as an introduction to systems thinking using real world engineering examples. You'll leave understanding what systems thinking is and how it can help you diagnose, quantify, and iteratively improve your processes to gain efficiency no matter which flavor of Agile (or whatever else) you happen to follow.",
+      "startsAt": "2022-08-06T18:30:00Z",
+      "endsAt": "2022-08-06T19:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "327af676-3623-46d7-997c-98fc48cc61f5"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27032,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "338478",
+      "title": "Pelican: Louisiana’s Design System",
+      "description": "Louisiana’s state government has a design. It’s called Pelican. It’s an effort to build standardization an accessibility into web products for Louisiana’s people.",
+      "startsAt": "2022-08-06T18:30:00Z",
+      "endsAt": "2022-08-06T19:30:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d6107972-358f-406a-89b8-1e2e5be5cf14"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26588,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "355172",
+      "title": "Understanding Azure Active Directory for Data Professionals",
+      "description": "Security is more important than ever in our interconnected world. As workloads move into Azure, our security model shifts from on-premises Active Directory to Azure Active Directory (AAD), which uses a different authentication model called OAuth. You will learn about how AAD interacts with SQL resources and other resources in Azure, and how to design authentication models for complex cloud applications and databases.  ",
+      "startsAt": "2022-08-06T19:45:00Z",
+      "endsAt": "2022-08-06T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "60553591-098e-42fe-a5e9-bcae14fcad39"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24551,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "355415",
+      "title": "Application Security for Developers on a Broke Budget",
+      "description": "Attendees will learn about free tools and resources that they can use to start an application security program, whether you are an individual developer, on a team, or part of a large application development organization.",
+      "startsAt": "2022-08-06T19:45:00Z",
+      "endsAt": "2022-08-06T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "358ab0ab-2003-43e7-8ce5-b8936d348ed1"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24552,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "344903",
+      "title": "The Amazing Utility of ROW_NUMBER()",
+      "description": "When it was introduced way back in SQL Server 2005, the lowly ROW_NUMBER() function at first seemed to have little functionality other than simply counting rows.  However, over time we have come to see this humble function is actually surprisingly useful in often unexpected ways.  In this session we will discover the creative uses of ROW_NUMBER() in ways that you may likely not have yet considered.  This session will be filled with little goodies that can you can use, whether you are a writing SQL for application code or for administrative functionality.",
+      "startsAt": "2022-08-06T19:45:00Z",
+      "endsAt": "2022-08-06T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "de5bb528-34f2-44e4-bef1-27af83e45445"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 24553,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "346196",
+      "title": "Microsoft Azure Databricks",
+      "description": "Walkthrough of importing Microsoft Excel files to Azure Databricks.  This process will involve troubleshooting some basic data quality issues, and making basic data transformations.  Finally, we will make the tables accessible in Microsoft Synapse.\r\n\r\nSome basic knowledge of SQL will aid in understanding the presentation, but it's not required.",
+      "startsAt": "2022-08-06T19:45:00Z",
+      "endsAt": "2022-08-06T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f295077e-b23b-44e9-a7b9-e60c6b7904ba"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26586,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "372193",
+      "title": "Automate the administration and management of Azure resources with PowerShell",
+      "description": "Learning to script the administration and management of your cloud resources in an ever-changing IT ecosystem is a required skill in today’s market for career advancement. During this session, you’ll learn the intricacies of administering and managing your Azure resources with PowerShell. What’s the recommended version of PowerShell, which module to use, how to install it along with the release cadence, support lifecycle, and breaking change policies? What’s the difference in preview, generally available, and feature preview modules? How to authenticate and create and manage resources. With over 10,000 PowerShell commands for managing Azure, you’ll also learn how to install and configure Az predictor including specific information about Windows, Linux, and macOS.",
+      "startsAt": "2022-08-06T19:45:00Z",
+      "endsAt": "2022-08-06T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9ee43acd-0d80-43c5-8598-618a0420a9b1"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26587,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "343598",
+      "title": "Insider Threats - Lessons learned from 10 stories",
+      "description": "Come join me on a magical journey as we talk about accidental and non accidental insiders and risk mitigations we can do to keep your business up and running. ",
+      "startsAt": "2022-08-06T19:45:00Z",
+      "endsAt": "2022-08-06T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a23aecdf-8161-4d9f-8388-4db52677998f"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 27032,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "367299",
+      "title": "Facilitating user-centered dashboard ideation sessions",
+      "description": "Take the guess work out of what your users need from a dashboard. These guided  workshops simplify the requirement process and incorporate the needs of not only the end-user, but the entire team.",
+      "startsAt": "2022-08-06T19:45:00Z",
+      "endsAt": "2022-08-06T20:45:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a044491d-eeb8-4dff-b8d1-e0ebaf1498a9"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 26588,
+      "liveUrl": null,
+      "recordingUrl": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "2684a216-0fa8-4e4a-b7c5-c67b2a99369f",
+      "firstName": "Amanda",
+      "lastName": "Alfaro",
+      "bio": "Amanda Alfaro is a Project Manager at Envoc, a local software company that works with a diverse set of clients to bring their technical ideas to life. Amanda enjoys listening to clients and working with development teams to deliver high-quality software using the latest technology and agile practices.\r\n\r\nAmanda's interests include agile development, project management, and analyzing requirements. Amanda has a taste of many roles during her career, including Software Developer, Quality Assurance Engineer, Scrum Master, Agile Business Analyst, and Project Manager. This experience allows her to build a holistic picture of the development team’s needs.\r\n\r\nAmanda holds a BS in Computer Science from Louisiana State University.",
+      "tagLine": "Project Manager That Loves Tech ",
+      "profilePicture": "https://sessionize.com/image/fc65-400o400o2-B5Uh7B4UhdWv3YygnwtSGb.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        355422
+      ],
+      "fullName": "Amanda Alfaro",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "654bc5b4-fa8b-4f1e-9654-51eec68e30b1",
+      "firstName": "Amanda",
+      "lastName": "Tucker",
+      "bio": "Amanda Tucker has over 10 years experience in IT Audit. She routinely makes jokes about using SOC2 reports as her bedtime reading and that NIST control updates are as important as kids’ school events. She’s worked for the LA Legislative Auditor, BCBS of Louisiana, and currently works for the Blue Cross Blue Shield Association. When not running audits, developing audit programs, or questioning her sanity, Amanda likes to travel (mostly to Disney World).",
+      "tagLine": "IT External Audit Program Manager",
+      "profilePicture": "https://sessionize.com/image/2c1e-400o400o2-wN8rqCCRe9YdmzvCfv8kNf.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        353423
+      ],
+      "fullName": "Amanda Tucker",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d30c2f62-7508-4f19-9690-c318e7f9e43e",
+      "firstName": "Andy",
+      "lastName": "Parkerson",
+      "bio": "With a MS in Mathematical Sciences, Andy has spread the joy of business intelligence and analysis wherever he goes. Having transitioned from development to data science, he champions evidence-based programming and bringing reliable data to people who can use it.",
+      "tagLine": "Data Scientist at BBQGuys.com",
+      "profilePicture": "https://sessionize.com/image/719c-400o400o2-Sikxj4AxJDA9kBcJXjrWFJ.jpeg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        356541
+      ],
+      "fullName": "Andy Parkerson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f2dbd6f0-bd98-494c-81af-1b9d3a2700d3",
+      "firstName": "Austin",
+      "lastName": "Webre",
+      "bio": "Austin is a Full Stack .NET Developer with 5 years of experience in Software Consulting. When he's not writing .NET/React code for clients, you'll often find him empowering his fellow developers by automating builds, deployments, and all things infrastructure. In his free time, he co-hosts a Software Development podcast called Use Case.",
+      "tagLine": "Senior Software Developer @ Envoc, Co-Host of Use Case",
+      "profilePicture": "https://sessionize.com/image/d3b5-400o400o2-aXCnUkAX167W9D2nnSTits.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        353314
+      ],
+      "fullName": "Austin Webre",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1d728710-f22c-4ec2-ae0b-66c06d9ee26d",
+      "firstName": "Brandon",
+      "lastName": "Leach",
+      "bio": "A Microsoft Data Platform MVP, Brandon is a senior member of the DB Operations team for financial company x. With a data estate of several petabytes across thousands of servers, he puts a high focus on performance tuning and automation at scale. He is a frequent speaker at events like conferences and user groups.",
+      "tagLine": "Microsoft Data Platform MVP",
+      "profilePicture": "https://sessionize.com/image/6952-400o400o2-HKGRgwyfaesfYtLX2uHEkN.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        343337
+      ],
+      "fullName": "Brandon Leach",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "de5bb528-34f2-44e4-bef1-27af83e45445",
+      "firstName": "Breanna",
+      "lastName": "Hansen",
+      "bio": "Breanna Hansen has been a SQL Server database developer and administrator since 1998, working with versions 6.5 and beyond. She geeks out on internals of the database engine and enjoys troubleshooting, tuning and monitoring, but barely knows BI. She has a passing knowledge of C# and PowerShell -- just enough to write dangerous little database monitoring and analysis tools.",
+      "tagLine": "SQL Server Database Administrator",
+      "profilePicture": "https://sessionize.com/image/a3e4-400o400o2-28-34f2-44e4-bef1-27af83e45445.b282f3e0-8551-4a42-884a-f9ff8af30377.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        344903
+      ],
+      "fullName": "Breanna Hansen",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "82124ba0-88bc-47c8-857b-7be61b46fcc4",
+      "firstName": "Calvin",
+      "lastName": "Fabre",
+      "bio": "Calvin is the founder and President of Envoc (pronounced: \"invoke\"), a 35-person radically creative software development and hosting firm. He is also co-founder of LA Wallet, the first legal digital driver's license app in the United States. \r\n\r\nCalvin graduated from Southeastern Louisiana University in Computer Science and did graduate work studying world religions, philosophy, and apologetics at Southern Evangelical Seminary in North Carolina. He enjoys math problems, word problems, moral dilemmas, and is currently 18 months clean of political social media engagement. His public speaking gigs include Louisiana schools, universities, and church youth groups speaking about technology, digital identity, public safety, company culture, and theology.  Envoc has made the Best Places to Work in Baton Rouge list for seven years in a row. Calvin has no exit strategy from his current position in technology, because after all: Why would he quit doing what he loves? \r\n",
+      "tagLine": "Founder of Envoc",
+      "profilePicture": "https://sessionize.com/image/b3f8-400o400o2-sWXJUyrvW7Y3G4gpD7L3Sf.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        358660
+      ],
+      "fullName": "Calvin Fabre",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c8bd427f-492a-4882-888c-7e04f18a316d",
+      "firstName": "Chris",
+      "lastName": "Hyde",
+      "bio": "Chris Hyde (he/him) is a Microsoft Data Platform MVP based in Albuquerque, New Mexico. He works as an independent SQL Server BI and DBA consultant and is the leader of the Albuquerque PASS local user group. He is also part of the Friends of Redgate program and was a member of the IDERA ACE class of 2018. He loves loud music and cricket, but not usually at the same time.",
+      "tagLine": "Owner and Principal Consultant, Hydrate Technologies LLC",
+      "profilePicture": "https://sessionize.com/image/12f5-400o400o2-7f-492a-4882-888c-7e04f18a316d.369b54f4-aa45-4fae-84dc-592ee4a210a8.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        355185
+      ],
+      "fullName": "Chris Hyde",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6c9ac2bb-a13a-45e3-b5a9-5bca2e918cf1",
+      "firstName": "Christine",
+      "lastName": "Assaf",
+      "bio": "Christine Assaf is an enthusiastic HR consultant with a passion for aligning equity initiatives in HR strategies and practices that drive performance and engagement! She works for Archbright as a Sr. Human Resources Consultant providing onsite consulting services to businesses and non-profits throughout western Washington. A leadership development professional with over 15 years experience in human resources, Christine holds a BS in Business Management, received her HRM certification at LSU, and is currently finishing up her master's degree at Colorado State University in Industrial and Organizational (Business) Psychology. Christine is a member of the Society for Human Resources Management and Seattle Society for Human Resources Management.  \r\n\r\nPrior to joining Archbright, Christine held roles in Human Resources with large organizations like Waste Management and Cumulus Media, to small locally owned organizations as well as non-profits. Christine has delivered and facilitated trainings and workshops all over the country. She is also an active a frequent conference speaker in both HR and technical groups and a certified DDI Trainer in Interaction Management®. \r\n\r\nChristine is passionate about diversity & inclusion, leadership development, organizational development, people strategies, and training & development. Employing her “in the HR trenches” experience, Christine quickly becomes a trusted counselor or adviser to our members and by collaborating and getting hands on with HR projects. Christine’s engages her analytical thinking, business acumen, innovation, and emotional intelligence to quickly become a commodity to any of our members. She is an experienced coach and counseled various levels of management (from senior leaders to first-time managers) on effective people strategies and DEIB focuses. ",
+      "tagLine": "Sr. HR Consultant",
+      "profilePicture": "https://sessionize.com/image/5b09-400o400o2-HUsvK7bFk2oF6RwGno4GAs.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        335000,
+        334939
+      ],
+      "fullName": "Christine Assaf",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f295077e-b23b-44e9-a7b9-e60c6b7904ba",
+      "firstName": "Christopher",
+      "lastName": "Hyde",
+      "bio": "Over 18 years of experience with Data Management with a passion for SQL.  Currently working in the Healthcare industry as a Data Engineer.",
+      "tagLine": "Data Engineer",
+      "profilePicture": "https://sessionize.com/image/e042-400o400o2-W2aQJGatN3cgn1GWahvtDc.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        346196
+      ],
+      "fullName": "Christopher Hyde",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1fb25ae7-3226-4bf5-9c79-aa600340a2d1",
+      "firstName": "David",
+      "lastName": "Patrick",
+      "bio": "Dave has been developing database applications for over 30 years. A Microsoft Certifed Trainer (MCT) since 2001, he has taught many classes from Intro to Programming to Advanced SharePoint Development. Dave is a five time Microsoft MVP and runs three user groups, MAD SharePoint, www.madsharepoint.com, the Mid Atlantic Cybersecurity Experts MeetUp, www.meetup.com/MACEME, and the Baltimore Cloud Meetup, www.meetup.com/Baltimore-Cloud.\r\n\r\nDave does SharePoint training and application development for DSA, Inc., a DoD contractor that does great work for the U.S. Army over at Aberdeen Proving Ground. Dave has a bunch of certifications, including MCSD App Builder, MSCE for SharePoint, and MCSA SQL Server certification.\r\n\r\nIn his spare time, Dave teaches as an Adjunct Professor at the University of Maryland College Park's iSchool, Towson University and Stevenson University.\r\n\r\nCheck out www.PatrickPerspective.com to hear about Dave and his daughter Sarah's different views on tech!",
+      "tagLine": "MCT, MCSD, MCSE, MVP",
+      "profilePicture": "https://sessionize.com/image/ad72-400o400o2-HtvxPR2wXMzo3Q91R5aDNA.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        334392
+      ],
+      "fullName": "David Patrick",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "71f0f1b3-854e-4e9f-b8ff-babd66424f67",
+      "firstName": "Doug",
+      "lastName": "Lubey",
+      "bio": "\r\nI have been part of the technology movement since the 1990s.   Over the past 30 years; I have been honored to work with great team members which have helped manage digital infrastructure, databases, software and corporate projects. I am also very proud  to be married for 20+ years and have 3 great kids.",
+      "tagLine": "IT Director- Learning from life using one data point at a time!",
+      "profilePicture": "https://sessionize.com/image/866d-400o400o2-X4vLvP6gtYxRPrxA5d7XSp.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        355383
+      ],
+      "fullName": "Doug Lubey",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "53e41d4b-24b0-49b6-a5d6-66c23832cb4f",
+      "firstName": "Drake",
+      "lastName": "Lambert",
+      "bio": "I’m a software engineer with experience delivering solutions in consulting, self employed product development, and SaaS. I help teams deliver the best solutions by using tech to tighten feedback loops and meet the expectations of developers and users alike.",
+      "tagLine": "Director of Architecture at Netchex",
+      "profilePicture": "https://sessionize.com/image/87f3-400o400o2-XBmCdXXN4pDZjm5ZW2CB3U.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        355418
+      ],
+      "fullName": "Drake Lambert",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9972b21f-275e-48f0-a261-be2c0c26436c",
+      "firstName": "Ed",
+      "lastName": "Pearson",
+      "bio": "Data engineer building large data warehouses primarily in SQL and Azure for analytics. Designed and created cloud native database to report and analyze all US consumer for large marketing firm. \r\n20+ years in IT with last 15 focused on data and databases with last 6 years in the cloud.",
+      "tagLine": "Senior Data Engineer",
+      "profilePicture": "https://sessionize.com/image/d808-400o400o2-UKzPioq7vR6NuQL5KH16P.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        334876
+      ],
+      "fullName": "Ed Pearson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a23aecdf-8161-4d9f-8388-4db52677998f",
+      "firstName": "Ian",
+      "lastName": "Trimble",
+      "bio": "Goal-driven, multi-faceted, process-oriented Cybersecurity leader with a proven track record of successfully delivering \r\nholistic information security solutions that effectively anticipate and mitigate cybersecurity risks on a global scale. \r\nDevelops robust and operationally compliant business continuity, incident response, and risk management plans that \r\nclose security gaps in internal systems through partnering with vulnerability management and application owners",
+      "tagLine": "Booz Allen Hamilton, Associate - Insider Threat ",
+      "profilePicture": "https://sessionize.com/image/1ac5-400o400o2-PMQoUw4Hb2ng5Rb8nYrUMv.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        343598
+      ],
+      "fullName": "Ian Trimble",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d6107972-358f-406a-89b8-1e2e5be5cf14",
+      "firstName": "Isral",
+      "lastName": "Duke",
+      "bio": "Your products will be the obvious choices to your future customers because I design them to be easy to use.",
+      "tagLine": "UI / UX / Interaction Designer",
+      "profilePicture": "https://sessionize.com/image/8d82-400o400o2-YrcPWh9AHNUhEWPbEuJR93.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        338478
+      ],
+      "fullName": "Isral Duke",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "97e8fe38-320c-410f-8348-d53dafa7de15",
+      "firstName": "Jeremy",
+      "lastName": "Beckham",
+      "bio": "Jeremy Beckham has 20 years of IT experience with 15 years of software development experience.  He has worked on everything from WinForms applications to 3D Renderings of data to Web Applications. ",
+      "tagLine": "Susco, Senior Software Architect",
+      "profilePicture": "https://sessionize.com/image/cf6d-400o400o2-pedGk6hLznrc8rgQgjqAvg.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        350839
+      ],
+      "fullName": "Jeremy Beckham",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "098f2999-a5b9-4d1c-aa92-11c0fc5c815e",
+      "firstName": "Jeremy",
+      "lastName": "Knight",
+      "bio": "Jeremy Knight is a software developer/architect/craftsman from the greater New Orleans area. He has worked extensively with Microsoft technologies and has a passion for mentoring. Since 2011, he has been a speaker and coordinator for local user groups.",
+      "tagLine": "Software Craftsman / .NET Developer",
+      "profilePicture": "https://sessionize.com/image/071e-400o400o2-PQ4XQVUBr2A387hhZ9Rv7Y.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        354978
+      ],
+      "fullName": "Jeremy Knight",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "60553591-098e-42fe-a5e9-bcae14fcad39",
+      "firstName": "Joey",
+      "lastName": "D'Antoni",
+      "bio": "Joseph D'Antoni is a Principal Consultant at Denny Cherry and Associates Consulting, and a Microsoft Data Platform MVP with over 20 years of experience working in both Fortune 500 and smaller firms.  He is a frequent speaker at major tech events like Microsoft Ignite, PASS Summit and Enterprise Data World. He blogs  about all topics technology at joeydantoni.com. He believes that no single platform is the answer to all technology problems. He lives in Malvern, PA and holds a BS in Computer Information Systems from Louisiana Tech University and an MBA from North Carolina State University, and is the co-author of the Microsoft book \"Introducing SQL Server 2016\"\r\n",
+      "tagLine": "Joey Dantoni Principal Consultant Denny Cherry and Associates Consulting",
+      "profilePicture": "https://sessionize.com/image/8e4a-400o400o2-91-098e-42fe-a5e9-bcae14fcad39.c0fbf290-1d58-4320-95bf-2258fe96cba2.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        355172
+      ],
+      "fullName": "Joey D'Antoni",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8b7929b4-bcdc-487d-a86a-112a134fa4b4",
+      "firstName": "Jonathan",
+      "lastName": "Jefferson",
+      "bio": "Former Cybersecurity analyst / current SQL Server enthusiast; occasionally straddling the line between the two.",
+      "tagLine": "Database Administrator - Blue Cross / Blue Shield of LA",
+      "profilePicture": "https://sessionize.com/image/6e4b-400o400o2-hK4pdwg27bADkty9vwBCir.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        356557
+      ],
+      "fullName": "Jonathan Jefferson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "7c382501-a37f-49b7-bb28-eb7692995323",
+      "firstName": "Kevin",
+      "lastName": "Feasel",
+      "bio": "Kevin Feasel is a Microsoft Data Platform MVP and CTO at FareGame Inc, where he specializes in data analytics with T-SQL and R, forcing Spark clusters to do his bidding, fighting with Kafka, and pulling rabbits out of hats on demand. He is the lead contributor to Curated SQL (https://curatedsql.com), president of the Triangle Area SQL Server Users Group (https://www.meetup.com/tripass), and author of PolyBase Revealed (https://www.apress.com/us/book/9781484254608). A resident of Durham, North Carolina, he can be found cycling the trails along the triangle whenever the weather's nice enough.",
+      "tagLine": "CTO @ FareGame Inc",
+      "profilePicture": "https://sessionize.com/image/d43b-400o400o2-MgcGnBx48Vi57GYguPazNP.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        337943
+      ],
+      "fullName": "Kevin Feasel",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "626abf83-6d24-46d4-9985-1905e8020596",
+      "firstName": "Kristyna",
+      "lastName": "Hughes",
+      "bio": "Kristyna Hughes is a data & analytics consultant at 3Cloud. Her experience includes implementing and managing enterprise-level Power BI instance, training teams on reporting best practices, and building templates for scalable analytics.",
+      "tagLine": "Data & Analytics Consultant at 3Cloud",
+      "profilePicture": "https://sessionize.com/image/5507-400o400o2-b1ae01b3-5d4f-43f1-937a-6771ddd019b9.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        338879
+      ],
+      "fullName": "Kristyna Hughes",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "84f4f0b8-4a32-490b-acf7-e39bde2b99b2",
+      "firstName": "Matt",
+      "lastName": "Gordon",
+      "bio": "Matt is a Microsoft Data Platform MVP and has worked with SQL Server since 2000. He is the leader of the Lexington, KY Data Technology Group and a frequent domestic and international community speaker. He's an IDERA ACE alumnus and 2021 Friend of Redgate. His original data professional role was in database development, which quickly evolved into query tuning work that further evolved into being a DBA in the healthcare realm. He has supported several critical systems utilizing SQL Server and managed dozens of 24/7/365 SQL Server implementations. Following several years as a consultant, he is now the Director of Data and Infrastructure for rev.io, where he is implementing data governance, DevOps, and performance improvements enterprise-wide.",
+      "tagLine": "Director of Data and Infrastructure at Rev.io",
+      "profilePicture": "https://sessionize.com/image/972c-400o400o2-b8-4a32-490b-acf7-e39bde2b99b2.55807fca-95b6-4ce9-bdb1-62766f7a1694.jpeg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        345691
+      ],
+      "fullName": "Matt Gordon",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f3281bba-36d8-4f77-8910-0ecf9d9e0e0d",
+      "firstName": "Michael",
+      "lastName": "Viron",
+      "bio": "Over the years, I have gained a wide variety of experience as a senior IT director, business owner, speaker, volunteer, and event organizer. Since 1995, I’ve helped launch numerous startups, company divisions, product lines, professional user groups, and technology events.\r\n\r\nIn 2010, I launched the Northwest Florida Software Architecture Summit (designed to bring developers & IT professionals together) and complimented it with the launch of Careers in Tech in 2011. Careers in Tech underwent a successful reboot in 2015 and regularly holds events virtually and across the southeastern US.\r\n\r\nMy wide range of experience covers many key areas, including operations (both business & IT), project management, security, and software engineering. In addition to my full time job, I also continue to be heavily involved as an alumni volunteer, presenter, and mentor at the University of West Florida and in various leadership and consulting roles for projects and organizations nationwide.\r\n\r\nIn my role as Director of IT & Software Engineering at KAMedData, Inc / KontactIntelligence, I've been heavily involved in coordinating numerous product launches and both company and division startups. A key member of the company's management team, I have a wide range of responsibilities including day-to-day technical operations, project management, security, short and long range technical planning, and development.\r\n\r\nIn addition, I founded General Education Online (GEO), handling a wide variety of business and technical operations. GEO has been recognized for quality and excellence, and as an industry innovator and leader by the Chronicle for Higher Education, the US Department of Education, and LibrarySpot.com .\r\n\r\nI also spend time as a volunteer with a wide variety of professional organizations and user groups at both a local and national level, including IEEE Northwest Florida (IEEE NWF), the Computer & Communications Joint Society of IEEE NWF (as Chair since 2009), the international IEEE Computer Society (currently serving on the Awards & Recognition Committee), and IT Gulf Coast. As part of my efforts to give back to the community, I also serve on advisory boards covering IT, computer science, and cyberforensics for Pensacola State College (since 1/2015) and the Escambia County School District (since 09/2015).\r\n\r\nIn my sparse spare time, you'll find me active on social media, as a photographer and writer, and as a consultant / advisor for Fortune 500 companies and startups nationwide.",
+      "tagLine": "Multi-faceted IT Executive & Entrepreneur",
+      "profilePicture": "https://sessionize.com/image/6b4e-400o400o2-JLY23YjEFMRgDYmVdKrLRE.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        335939
+      ],
+      "fullName": "Michael Viron",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "358ab0ab-2003-43e7-8ce5-b8936d348ed1",
+      "firstName": "Mike",
+      "lastName": "Pritchard",
+      "bio": "Mike Pritchard is the Director of Security at a nationwide technology company with over a decade of experience implementing, managing, and building security technologies in both public and private sectors.",
+      "tagLine": "Director of Security @ Netchex",
+      "profilePicture": "https://sessionize.com/image/e148-400o400o2-Ns7gPkmSjB332wW9uD9BFE.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        355415
+      ],
+      "fullName": "Mike Pritchard",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9ee43acd-0d80-43c5-8598-618a0420a9b1",
+      "firstName": "Mike",
+      "lastName": "Robbins",
+      "bio": "Mike F. Robbins is the lead technical writer for Azure PowerShell at Microsoft. He is a former Microsoft MVP, creator of The PowerShell Conference Book, author of PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell, co-author of Windows PowerShell TFM 4th Edition, and a contributing author of a chapter in the PowerShell Deep Dives book. Mike is also a co-founder of the Mississippi PowerShell User Group. He blogs at mikefrobbins.com and can be found on twitter @mikefrobbins.",
+      "tagLine": "Lead writer for #Azure #PowerShell @Microsoft  | former Microsoft MVP | Automator | Efficiency Expert | Published Author | Lifelong Learner",
+      "profilePicture": "https://sessionize.com/image/32c1-400o400o2-KcLUkMn7trssqLPXqNJ3wP.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        372193
+      ],
+      "fullName": "Mike Robbins",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "2df090ed-7447-4b84-a0b0-80914daa343e",
+      "firstName": "Rachel",
+      "lastName": "Veron",
+      "bio": "Rachel is a social scientist and founder of Ruby Research, a company that organizes freelance specialists dedicated to studying public problems and advancing evidence-based practice through rigorous research and data analysis.  Prior to her work with Ruby, she served as lead fundraising analyst for the LSU Foundation, a workforce and economic development analyst with the State of Louisiana, and an academic policy researcher.  She earned a B.S. in Economics from LSU and a MPAff and PhD from the University of Texas at Austin.\r\n",
+      "tagLine": "Founder & CEO, Ruby Research",
+      "profilePicture": "https://sessionize.com/image/4657-400o400o2-pfnHkQDjjQR4ie3kZYJi7V.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        345362
+      ],
+      "fullName": "Rachel Veron",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5706e39d-8684-41d1-8841-cf2f6c07e20f",
+      "firstName": "Ricky",
+      "lastName": "Tucker",
+      "bio": "Ricky Tucker is UX/UI designer for Louisiana's Office of Technology Services. In addition to contributing the state's Design System, Pelican, he works daily with state agencies to develop digital products with the goal of improving the lives of Louisiana residents. Ricky holds multiple Interactive Design Foundation certificates, was well as the W3Cx Introduction to Web Accessibility certificate. ",
+      "tagLine": "UX/UI Designer - Louisiana OTS",
+      "profilePicture": "https://sessionize.com/image/992d-400o400o2-XMQ4DHh9nAck3asZ1LYEhU.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        353407
+      ],
+      "fullName": "Ricky Tucker",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "fcca1680-b352-41d3-a12a-50d2d3679f55",
+      "firstName": "Robert",
+      "lastName": "Canzonire",
+      "bio": "\r\nMicrosoft Certified Solutions Expert - Data Platform SQL Server 2012 - Microsoft (MCSE)Microsoft Certified Solutions Expert - Data Platform SQL Server 2012 - Microsoft (MCSE)\r\n\r\nMicrosoft Certified Solution Associate - SQL Server 2012 - Microsoft (MCSA)Microsoft Certified Solution Associate - SQL Server 2012 - Microsoft (MCSA)\r\n\r\nPMP (Project Management Institute)PMP (Project Management Institute)\r\n\r\nSybase Adaptive Server Enterprise Administrator Associate (Version 15.0) (Sybase)Sybase Adaptive Server Enterprise Administrator Associate (Version 15.0) (Sybase)\r\n\r\nOracle 10g DBA Certified ProfessionalOracle 10g DBA Certified Professional\r\n\r\nSQL Server 2005 DBA Certified ProfessionalSQL Server 2005 DBA Certified Professional\r\n\r\nSQL Server 2000 DBA Certified ProfessionalSQL Server 2000 DBA Certified Professional\r\n\r\nMicrosoft MCTS for SQL Server 2008Microsoft MCTS for SQL Server 2008\r\n\r\nMicrosoft MCITP Database Administrator SQL Server 2008",
+      "tagLine": "IT Manager of Database Administration",
+      "profilePicture": "https://sessionize.com/image/16a4-400o400o2-78AJs1Zn4r7tKLfe4kNE4H.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        351055
+      ],
+      "fullName": "Robert Canzonire",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "15fc7dab-963e-43ce-9bdd-63b6007afce6",
+      "firstName": "Russ",
+      "lastName": "Loski",
+      "bio": "Russ has been working with SQL Server since version 6.5.  He has focused primarily on moving data from one source to another, beginning with DTS  and moving on to SSIS and now learning Azure Data Factory.\r\n\r\nRuss has worked in a variety of industries from healthcare to insurance as well as sports.  He is currently doing freelance work.\r\n\r\nRuss lives in the Dallas-Fort Worth region of Texas with his wife.  He enjoys time with his daughters and two grandchildren.",
+      "tagLine": "Data Engineer and trainer",
+      "profilePicture": "https://sessionize.com/image/32f9-400o400o2-3BfNZheDuTqHaH71YxJfBe.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        353071
+      ],
+      "fullName": "Russ Loski",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "327af676-3623-46d7-997c-98fc48cc61f5",
+      "firstName": "Stacy",
+      "lastName": "Vicknair",
+      "bio": "Hi! I’m Stacy Vicknair and I am an engineering leader who has helped small B2B SaaS teams scale up for the better part of nine years. I'm an award winning speaker who has given talks about leadership in software development at conferences and for organizations online and throughout the south central United States.\r\n\r\nI'm particularly passionate about helping first-time leaders and organizations in the early stage of team growth where decisions create a blueprint for each future team. I've gone through early growth several times with several SaaS businesses and I want to help you through it!",
+      "tagLine": "I help engineering teams scale without sacrificing their culture.",
+      "profilePicture": "https://sessionize.com/image/27ee-400o400o2-EmG1xZHWLLtnDHsm7pRxqG.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        334939,
+        355118
+      ],
+      "fullName": "Stacy Vicknair",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a044491d-eeb8-4dff-b8d1-e0ebaf1498a9",
+      "firstName": "Thelma ",
+      "lastName": "Van",
+      "bio": "Thelma Van is a user experience strategist, product designer, and UX leader. She currently serves as a UX design innovation expert for Excella. Thelma has served as product director for elections and campaign systems, designed experiences for aviation and nuclear chemistry management, and more recently began applying human-centered design to machine learning. For the past decade, she has used logic and creativity to make complex systems easy to use and understand. \r\n\r\nThelma has a passion for helping others achieve their career goals. Through mentorship, she provides growth opportunities for designers at all levels. In her last role as Director of Product, she implemented a six-month internship program for aspiring UX designers and product managers. Partnering with local non-profits, Thelma conducts human-centered design workshops with the premise of believing that HCD principles can help reshape how we define problems and find solutions in multiple areas of life.",
+      "tagLine": "It should just make sense.",
+      "profilePicture": "https://sessionize.com/image/63a0-400o400o2-SdTcT7eRN5eiPGZK7HSemX.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        367299
+      ],
+      "fullName": "Thelma Van",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "136bda4f-d1f3-47e2-83b3-8683ec888fb4",
+      "firstName": "William",
+      "lastName": "Assaf",
+      "bio": "William Assaf is a senior content developer on the SQL-Docs team at Microsoft. Formerly a Data Platform MVP and a consultant, and before that a .NET developer, William currently works with Microsoft product groups on content related to Microsoft SQL offerings, specifically over SQL performance, and Azure SQL DB, Big Data Clusters, and Azure Synapse. As a consultant for 13 years he worked with clients on SQL Server and Azure SQL platform optimization, management, disaster recovery, and high availability, and led a multi-city team of senior consulting SQL DBA's. William has written for Microsoft SQL certification exams since 2011 and was the team lead author of the 2017 and 2019 editions of \"SQL Server Administration Inside Out\" by Microsoft Press. William is a past lead of the annual SQLSaturday Baton Rouge Planning Committee and is a big fan of data platform communities far and wide.",
+      "tagLine": "Senior Content Developer, Microsoft",
+      "profilePicture": "https://sessionize.com/image/2471-400o400o2-4f-d1f3-47e2-83b3-8683ec888fb4.02df7d92-4869-4a09-97ab-c12bd45d2eb2.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        334939,
+        334942
+      ],
+      "fullName": "William Assaf",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": [
+    {
+      "id": 27049,
+      "name": "Atrium",
+      "sort": 0
+    },
+    {
+      "id": 24551,
+      "name": "1510 (Auditorium) - Misc",
+      "sort": 1
+    },
+    {
+      "id": 24552,
+      "name": "1220 - DEV",
+      "sort": 2
+    },
+    {
+      "id": 24553,
+      "name": "1225 - DBA",
+      "sort": 3
+    },
+    {
+      "id": 26586,
+      "name": "1305 - Analytics",
+      "sort": 4
+    },
+    {
+      "id": 26587,
+      "name": "1325 - Data",
+      "sort": 5
+    },
+    {
+      "id": 27032,
+      "name": "1409 - IT Management",
+      "sort": 6
+    },
+    {
+      "id": 26588,
+      "name": "1425 - Design and UI/UX",
+      "sort": 7
+    }
+  ]
+}
