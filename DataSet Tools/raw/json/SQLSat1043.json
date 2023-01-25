@@ -1,0 +1,626 @@
+{
+  "sessions": [
+    {
+      "id": "426831",
+      "title": "Batch Mode Improvements Leveraging Modern Hardware",
+      "description": "Batch mode was introduced in SQL 2012 and it revolutionized query performance on analytical data.  We don't speak that often on this, but the SQL team does do improvements each release to make scenarios faster.  This talk will go into some details about how modern hardware is evolving and how SQL leverages those advances to deliver best-in-class performance through its batch mode engine.  This talk will go deep into hardware design and behavior, but it is intended to be accessible to those without a deep computer science background.",
+      "startsAt": "2023-02-25T15:00:00Z",
+      "endsAt": "2023-02-25T16:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": true,
+      "speakers": [
+        "7966407c-5e3b-4b5c-bdf2-0bec737b8934"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30665,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "423806",
+      "title": "Defeating Parameter Sniffing With Dynamic SQL",
+      "description": "Parameter sniffing can be a huge performance problem, and fixing it can feel like an exercise in futility.\r\n\r\nIf you're ready to go beyond recompiles and unknowns and solve problems for real, come to this session.\r\n\r\nI'll teach you techniques to fix parameter sniffing problems for good.",
+      "startsAt": "2023-02-25T16:15:00Z",
+      "endsAt": "2023-02-25T17:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8e86f6f8-00fa-4cb5-825b-d9be91279531"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30664,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "414495",
+      "title": "SQL Server 2022: The hybrid data platform",
+      "description": "Come learn about the latest major release of SQL Server and its hybrid capabilities to connect to Azure. SQL Server has a proud tradition for innovation so this session will also cover built-in query intelligence, new engine capabilities, data virtualization, and T-SQL enhancements.",
+      "startsAt": "2023-02-25T16:15:00Z",
+      "endsAt": "2023-02-25T17:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e7a1974e-4b3d-4283-a6f9-2e432eefe3fa"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30665,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "414438",
+      "title": "Introduction to Azure Synapse",
+      "description": "The purpose of this session is to provide a good overview of exactly what is Synapse and is primary features it offers.  This session includes demonstrations.",
+      "startsAt": "2023-02-25T16:15:00Z",
+      "endsAt": "2023-02-25T17:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9c6095d6-ebe1-4c5d-9fca-16116bf5f9cd"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30666,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "421355",
+      "title": "Ground to Cloud: Your Migration Success Checklist",
+      "description": "Cloud migration projects are often massive projects with sprawling scopes. Even with experienced project leadership it can be very difficult to know that all preliminary preparations are complete. Worse yet, with such a large and complicated project, it can be very difficult to know when the project has actually been successfully completed. \r\n\r\nDon't you want some help sorting through this enormous pile of work? You need to zero in on the critical items that need to be prepared, executed, and completed to ensure a successful cloud migration project. Join an experienced cloud migration consultant for a targeted walkthrough of their cloud migration success checklist so you can make sure your project gets off to a good start and reaches a successful completion. ",
+      "startsAt": "2023-02-25T16:15:00Z",
+      "endsAt": "2023-02-25T17:15:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "84f4f0b8-4a32-490b-acf7-e39bde2b99b2"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 32130,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "409549",
+      "title": "Faster Transactions: Query Tuning for Data Manipulation",
+      "description": "Your server has dozens of CPUs, terabytes of RAM, and uses solid-state drives…and yet your UPDATE statement still takes hours. Why? \r\n\r\nIn this demo-filled session, we examine common pitfalls for any SQL Server professional who manipulates large sets of data with INSERT, UPDATE, and DELETE statements, and explore techniques you can use to improve performance.",
+      "startsAt": "2023-02-25T17:25:00Z",
+      "endsAt": "2023-02-25T18:25:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e4c161d4-b482-45ae-9a79-390e4d7b2658"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30664,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "408748",
+      "title": "SQL Server 2022 - Next Level Scalability and Availability",
+      "description": "In this session we will focus on the scalability and availability improvements in SQL Server 2022 driving advances for mission critical applications. \r\n\r\nWe will highlight scalability improvements in tempdb, buffer pool parallel scan and other engine improvements designed for predicable scalability and performance. \r\n\r\nWe will also focus on availability improvements in AlwaysOn Availability Groups with Contained availability group, parallel redo enhancements, and improved throughput for Distributed Availability Groups (DAG). \r\n\r\nFinally, we will cover multi-write replication to enable multi-master writes across multiple locations. \r\n\r\nWe look forward to seeing you! Join us to talk about how your applications can maximize scalability and availability with SQL Server 2022.",
+      "startsAt": "2023-02-25T17:25:00Z",
+      "endsAt": "2023-02-25T18:25:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "55407a4b-1adf-4899-9a48-44856fb421ae",
+        "475fcff5-6c38-45ae-b73f-5e6742ce3cc6"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30665,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "407003",
+      "title": "Performance Tuning Power BI",
+      "description": "This session will review the areas of performance problems and helpful tools. From data refreshes to model calculations and visual rendering to data model design, performance tuning is vital to keep the attention of a report user. More than 5 or 6 seconds for a refresh can drive someone to not use a report. There are many ways to handle tuning, but it should start in the design. This is not always the case, so internal and external tools are there to guide the current developer. We will talk about query folding, minimizing data loaded as well seeing the difference between the storage and formula engines. Come join me for tuning Power BI reports and the data models.",
+      "startsAt": "2023-02-25T17:25:00Z",
+      "endsAt": "2023-02-25T18:25:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "86dfe147-4a63-4ef7-88f9-4e6dc1ca5ddf"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30666,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "410714",
+      "title": "Why You Should Be Standing Here: Learning to Present a Session",
+      "description": "You should know how to present a session. In fact, you should be standing up on the stage where I will be standing while presenting this session. It's not about becoming an industry expert, an MVP or an AWS Community Builder. No, it's about learning how to take an idea to your management team and convince them that you can help the business. It's about teaching new techniques to your peers. It's about expanding your own knowledge on a topic as you prepare a session, present it, and then answer questions. There are very good, career driven, reasons for you to learn to present.\r\n\r\nThis session will go over how to put together a session. From choosing meaningful titles to putting together abstracts, you'll get the information you need to get started. We'll discuss how to build the slides, demonstrations, and more. You'll learn about how to rehearse to get ready for your session. Finally, we'll cover actually giving the session, handling questions, hecklers and other points.\r\n\r\nYou should be standing at the front of the room, giving your own session. Please, come here, learn why, and learn how. It will help you in your career.",
+      "startsAt": "2023-02-25T17:25:00Z",
+      "endsAt": "2023-02-25T18:25:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3ee8f419-819e-4496-bfec-412f779eadab"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 32130,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "426827",
+      "title": "Austin SQL Team's Contributions to SQL Server/Azure/Synapse",
+      "description": "We now have an engineering team in Austin that is building features that have landed in SQL Server 2022, Azure SQL Database, and Synapse DW.  This talk will outline the new features in SQL that the team built and we'll even take your suggestions for future features as well.",
+      "startsAt": "2023-02-25T18:40:00Z",
+      "endsAt": "2023-02-25T19:40:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7966407c-5e3b-4b5c-bdf2-0bec737b8934"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30665,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "431594",
+      "title": "A Process for Securing SQL Server and Azure SQL DB Solutions",
+      "description": "In this session, Michael will explain how to design and develop secure SQL DB solutions using tried and tested security discipline. At the end of the session, you will have a much better understanding of the core elements for designing secure solutions.",
+      "startsAt": "2023-02-25T19:50:00Z",
+      "endsAt": "2023-02-25T20:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "dcc15bac-c565-4226-bdce-8ed73400186f"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30664,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "428821",
+      "title": "Using Backup Compression with SQL Server 2022",
+      "description": "Native SQL Server Backup compression has been in the product since SQL Server 2008, so many people have experience with it. SQL Server 2022 introduces hardware-assisted backup compression using Intel Quick Assist Technology (QAT) that gives you additional backup compression options. You can do full hardware-assisted backup compression, use just the Intel QAT software backup compression, or use traditional Microsoft software backup compression. If your storage subsystem is fast enough, you might decide not to use any form of backup compression.\r\n\r\nHow do you decide what is best for your particular situation and environment? There are many factors to consider, but this session will give you the knowledge and tools to make the best choices for your environment and infrastructure. This is based on extensive testing of most of the available methods and options. You will also learn exactly how to enable and use Intel QAT for backup compression.\r\n",
+      "startsAt": "2023-02-25T19:50:00Z",
+      "endsAt": "2023-02-25T20:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e6e3dc59-ddc6-41c1-a100-ca613a07e731"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30665,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "416744",
+      "title": "Data Lake, Data Warehouse, Data Lakehouse an Architectural Discussion",
+      "description": "It's the alphabet soup of architectures so how do you make heads or tails of it all?  Do these architectures even work for your business or are they all industry buzz words?  We will look at all three of these architectures along with their pros and cons and I'll share real customer scenarios and why they chose the route they did.",
+      "startsAt": "2023-02-25T19:50:00Z",
+      "endsAt": "2023-02-25T20:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "717891fa-1554-495c-b542-64ee1183b68a"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30666,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "422304",
+      "title": "Introduction to Automated Deployments with Azure DevOps",
+      "description": "Moving code from development to QA to UAT and eventually production can be a project itself.  This is especially true when there are multiple projects that might be across multiple repositories.  Keeping track of the correct set of builds for a release can be a challenge.  With Azure DevOps, this challenge can be eliminated with pipelines.  This session will step through the process to build and release multiple projects in the same pipeline.  Opportunities for adding approvals will be also be covered.",
+      "startsAt": "2023-02-25T19:50:00Z",
+      "endsAt": "2023-02-25T20:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5377995d-8eb2-4e7c-a656-7afeb835eb42"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 32130,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "420168",
+      "title": "Storage Options for building a SQL Server FCI in Azure",
+      "description": "Wanting to deploy a SQL Server Failover Cluster Instance (FCI) in Azure? You'll need to get yourself some shared storage. Your options include: Azure Shared Disk, Azure Premium Files and third party cluster storage class resources. \r\n\r\nIn this session Microsoft Cloud and Datacenter MVP, Dave Bermingham, will compare the three options in terms of price, performance and reliability. A configuration walk through of each option will also be demonstrated.",
+      "startsAt": "2023-02-25T21:00:00Z",
+      "endsAt": "2023-02-25T22:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "586c7917-6bfe-4e66-8110-1921be010731"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30664,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "420499",
+      "title": "SQL Server 2022 Contained Availability Groups",
+      "description": "In this session we will take a look into one of the long awaited new features of SQL Server 2022 and unearth the good, the bad, and the ugly. We will look at how the feature works, when and why we would use it, and how to avoid getting ourselves into trouble with it.  After this session you will have a firm grasp on how, when, and why (or why not) to implement this feature.",
+      "startsAt": "2023-02-25T21:00:00Z",
+      "endsAt": "2023-02-25T22:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1d728710-f22c-4ec2-ae0b-66c06d9ee26d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30665,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "423479",
+      "title": "From Zero to Hero on Synapse Spark pool",
+      "description": "The \"no-code\" approach of SQL server SSIS can find a close parallel in Synapse Transformation Pipelines. There are cases, though, when we do need to code some complex, out of the curve, very specific data transformations. In this session you will learn the foundations of Synapse Spark Pools and how to benefit from it through many demos.",
+      "startsAt": "2023-02-25T21:00:00Z",
+      "endsAt": "2023-02-25T22:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 30666,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "427071",
+      "title": "Encrypting Data within SQL Server",
+      "description": "Data breaches abound! Do you want to keep off of the data breach list? What are some of the data privacy laws affecting you? How will encrypting data affect your database performance? What data fields should you encrypt?  What else can you do to protect your sensitive data?\r\n\r\nIn this session, we will review each option to encrypt data within SQL Server, Transparent Data Encryption, Cell Level Encryption, and Always Encrypted. The session will deep dive into setting up Always Encrypted encryption and share my experiences implementing the encryption. \r\n\r\nYou will leave the session with a deeper understanding of SQL Server encryption options and how encryption can affect your performance.  In addition, you will gather information on how to fully protect your sensitive data usage.\r\n\r\nPrerequisites: Have an understanding that data privacy is required and a desire to learn how to protect data you have been trusted with. \r\n",
+      "startsAt": "2023-02-25T21:00:00Z",
+      "endsAt": "2023-02-25T22:00:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9dd6c36a-1e57-400c-a5bd-d7f083147bdb"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 32130,
+      "liveUrl": null,
+      "recordingUrl": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b",
+      "firstName": "Armando",
+      "lastName": "Lacerda",
+      "bio": "http://bit.ly/ALacerdaProfile",
+      "tagLine": "Azure, Data Platform and BI Architect",
+      "profilePicture": "https://sessionize.com/image/0d6b-400o400o2-17-bd56-4cef-9a29-eea5a84dd56b.29bb8247-1f10-4df1-bea5-838eb4f74052.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        423479
+      ],
+      "fullName": "Armando Lacerda",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e7a1974e-4b3d-4283-a6f9-2e432eefe3fa",
+      "firstName": "Bob",
+      "lastName": "Ward",
+      "bio": "Bob Ward is a Principal Architect for the Microsoft Azure Data team, which owns the development for all SQL Server versions. Bob has worked for Microsoft for 29 years on every version of SQL Server shipped from OS/2 1.1 to SQL Server 2022 including Azure SQL. Bob is a well-known speaker on SQL Server and Azure SQL, often presenting talks on new releases, internals, and specialized topics at events such as  SQLBits, Azure Data Conference, Microsoft Build, Microsoft Inspire, Microsoft Ignite, PASS Summit, and many different events. You can also learn Azure SQL from him on the popular series https://aka.ms/azuresql4beginners. You can follow him at @bobwardms or linkedin.com/in/bobwardms. Bob is the author of the books Pro SQL Server on Linux, SQL Server 2019 Revealed, and Azure SQL Revealed available from Apress Media.",
+      "tagLine": "Principal Architect, Microsoft Azure Data",
+      "profilePicture": "https://sessionize.com/image/af87-400o400o2-JYhDEDRxd9ikWdR6z1Y8MF.jpg",
+      "isTopSpeaker": true,
+      "links": [],
+      "sessions": [
+        414495
+      ],
+      "fullName": "Bob Ward",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1d728710-f22c-4ec2-ae0b-66c06d9ee26d",
+      "firstName": "Brandon",
+      "lastName": "Leach",
+      "bio": "A Microsoft Data Platform MVP, Brandon is a senior member of the DB Operations team for financial company x. With a data estate of several petabytes across thousands of servers, he puts a high focus on performance tuning and automation at scale. He is a frequent speaker at events like conferences and user groups.",
+      "tagLine": "Microsoft Data Platform MVP",
+      "profilePicture": "https://sessionize.com/image/4ad4-400o400o2-WRWvy9CvkSGDszEVXZNvxX.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        420499
+      ],
+      "fullName": "Brandon Leach",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "7966407c-5e3b-4b5c-bdf2-0bec737b8934",
+      "firstName": "Conor",
+      "lastName": "Cunningham",
+      "bio": "Conor has been working on building database engines for 25 years at Microsoft.  He has worked on features such as the Query Store, Table Partitioning, Window Functions, PIVOT/UNPIVOT, DMVs, and many others.  Conor served as the Breadth Architect for shipping SQL Server 2016, 2017 and 2019 and still serves as an architect across the engine on challenging architectural issues.  Conor is based in Austin, Texas (USA) and also serves as the Engineering Site Leader as we build a new engineering site there.  His team there recently delivered a number of T-SQL language extensions into SQL Server 2022 and SQL Azure as well as doing the AVX-512 performance improvements that shipped in SQL Server 2022.  Currently he is working on Synapse Data Warehouse and future database architectures.",
+      "tagLine": "Partner Architect, Microsoft",
+      "profilePicture": "https://sessionize.com/image/0053-400o400o2-rfxBD6a59XCedSq7B3643E.jpg",
+      "isTopSpeaker": true,
+      "links": [],
+      "sessions": [
+        426831,
+        426827
+      ],
+      "fullName": "Conor Cunningham",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "586c7917-6bfe-4e66-8110-1921be010731",
+      "firstName": "David",
+      "lastName": "Bermingham",
+      "bio": "Dave Bermingham is the Senior Technical Evangelist at SIOS Technology. He is recognized within the technology community as a high-availability expert and has been honored to be elected a Microsoft MVP for the past 12 years: 6 years as a Cluster MVP and 6 years as a Cloud and Datacenter Management MVP. Dave holds numerous technical certifications and has more than thirty years of IT experience, including in finance, healthcare, and education.",
+      "tagLine": "Microsoft Cloud and Datacenter MVP, SIOS Technology",
+      "profilePicture": "https://sessionize.com/image/d83b-400o400o2-9FjMt9gyC2R9qLbTnCx4Ce.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        420168
+      ],
+      "fullName": "David Bermingham",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "55407a4b-1adf-4899-9a48-44856fb421ae",
+      "firstName": "David",
+      "lastName": "Pless",
+      "bio": "David Pless is a Principal Program Manager in Azure Data, based in Titusville, Florida with over twenty years of experience in data technologies. David has been with Microsoft since 2006 and is currently responsible for the SQL Server storage engine. David has a background in SQL Server performance tuning and optimization, Azure Data technologies, SQL Server on Azure SQL Virtual Machines, Power BI and High Availability solutions. \r\n\r\nAt Microsoft David has worked as a Technology Specialist as well as a Premier Field Engineer in Customer Support Services. \r\n\r\nBefore Microsoft, David Pless was a MCS partner consultant and a Database Administrator in Norcross, Georgia.  \r\n \r\nDavid is a Microsoft Certified Master (MCM) and has spoken a SQLSaturdays, SQLPASS, SQLintersection, Tech Ready, and regularly speaks at the local user groups in the Southeast. ",
+      "tagLine": "Principal Program Manager - Microsoft Corporation",
+      "profilePicture": "https://sessionize.com/image/a887-400o400o2-GfEBRu8meUGJmPtBySAQAK.jpg",
+      "isTopSpeaker": true,
+      "links": [],
+      "sessions": [
+        408748
+      ],
+      "fullName": "David Pless",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8e86f6f8-00fa-4cb5-825b-d9be91279531",
+      "firstName": "Erik",
+      "lastName": "Darling",
+      "bio": "Erik Darling started using SQL Server after a dispute with Excel over a vlookup. Since then he's had some terribly boring DBA jobs, and been a consultant for Some Guy You've Never Heard Of™. \r\nHe enjoys public arguments with the optimizer and wine photography.",
+      "tagLine": "Restoring tempdb since GETDATE()™",
+      "profilePicture": "https://sessionize.com/image/add3-400o400o2-f8-00fa-4cb5-825b-d9be91279531.a233376f-7521-4993-a177-59fe9b64db75.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        423806
+      ],
+      "fullName": "Erik Darling",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5377995d-8eb2-4e7c-a656-7afeb835eb42",
+      "firstName": "Erin",
+      "lastName": "Dempster",
+      "bio": "Erin is currently the Data Operations Team Lead at Trean Corporation in Wayzata, MN, USA.  She has been working with SQL Server for nearly 20 years, both as a developer and a database administrator.  Over the past several years, PowerShell and Azure have become areas of interest.",
+      "tagLine": "IT Data Operations Team Lead - Trean Corporation",
+      "profilePicture": "https://sessionize.com/image/12aa-400o400o2-zWXyUwm63bSxFL2yBqix2.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        422304
+      ],
+      "fullName": "Erin Dempster",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e6e3dc59-ddc6-41c1-a100-ca613a07e731",
+      "firstName": "Glenn",
+      "lastName": "Berry",
+      "bio": "Glenn works as a Services Database Engineer in Elizabeth, CO. He is a Microsoft Data Platform MVP.  He is also an Adjunct Faculty member at University College - University of Denver, where has been teaching since 2000. He has completed the Master Teacher Program at Denver University - University College. He is the author of the book SQL Server Hardware. Glenn blogs regularly at https://glennsqlperformance.com/. He is active on Twitter as @GlennAlanBerry.",
+      "tagLine": "Glenn Berry, Services Database Engineer",
+      "profilePicture": "https://sessionize.com/image/c9b8-400o400o2-59-ddc6-41c1-a100-ca613a07e731.e43ef74a-a036-4e9d-a330-83b024fad775.JPEG",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        428821
+      ],
+      "fullName": "Glenn Berry",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "3ee8f419-819e-4496-bfec-412f779eadab",
+      "firstName": "Grant",
+      "lastName": "Fritchey",
+      "bio": "Grant Fritchey is a Data Platform MVP and AWS Community Builder with over 30 years’ experience in IT, including time spent in support and development. He has worked with SQL Server since 6.0 back in 1995. He has also developed in VB, VB.NET, C#, and Java. Grant has written books for Apress and Simple-Talk. Grant presents at conferences and user groups, large and small, all over the world. He joined Redgate Software as a product advocate in January 2011.",
+      "tagLine": "Redgate Software",
+      "profilePicture": "https://sessionize.com/image/e757-400o400o2-VoTuSfv49GC4dQvyrtVJo.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        410714
+      ],
+      "fullName": "Grant Fritchey",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e4c161d4-b482-45ae-9a79-390e4d7b2658",
+      "firstName": "Jeff",
+      "lastName": "Iannucci",
+      "bio": "Jeff Iannucci is a Senior Consultant with Straight Path Solutions. With over 20 years of experience with SQL Server development and administration, he enjoys sharing what he's learned by speaking, blogging, and creating video content. He is a speaker at PASS Data Community Summit 2022, a content author for Pluralsight, and author of the upcoming book \"Learn SQL in a Month of Lunches\".",
+      "tagLine": "Senior Consultant at Straight Path Solutions",
+      "profilePicture": "https://sessionize.com/image/ff78-400o400o2-nwrbLQfgtzTamJENkXWpLP.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        409549
+      ],
+      "fullName": "Jeff Iannucci",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "475fcff5-6c38-45ae-b73f-5e6742ce3cc6",
+      "firstName": "Kevin",
+      "lastName": "Farlee",
+      "bio": "Kevin Farlee has over 30 years in the industry, in both database as well as storage management software.  In his current role as a Principal Program Manager on the Microsoft Data Platform team, he is responsible for developing features in the SQL server platform focusing on HA/DR for SQL Server solutions across platforms.",
+      "tagLine": "Principal Program Manager at Microsoft focused on SQL HA technologies",
+      "profilePicture": "https://sessionize.com/image/61b5-400o400o2-NE593QZt9taLp8p5WgoUU2.jpg",
+      "isTopSpeaker": true,
+      "links": [],
+      "sessions": [
+        408748
+      ],
+      "fullName": "Kevin Farlee",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "84f4f0b8-4a32-490b-acf7-e39bde2b99b2",
+      "firstName": "Matt",
+      "lastName": "Gordon",
+      "bio": "Matt is a Microsoft Data Platform MVP and has worked with SQL Server since 2000. He is the leader of the Lexington, KY Data Technology Group and a frequent domestic and international community speaker. He's an IDERA ACE alumnus and Friend of Redgate. His original data professional role was in database development, which quickly evolved into query tuning work that further evolved into being a DBA in the healthcare realm. He has supported several critical systems utilizing SQL Server and managed dozens of 24/7/365 SQL Server implementations. As a consultant, he works with customers large, medium, and small to migrate to the cloud, make their data estate operate efficiently, and find the right tools and solutions within the Microsoft Data Platform.",
+      "tagLine": "Senior Architect at Centric Consulting",
+      "profilePicture": "https://sessionize.com/image/972c-400o400o2-b8-4a32-490b-acf7-e39bde2b99b2.55807fca-95b6-4ce9-bdb1-62766f7a1694.jpeg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        421355
+      ],
+      "fullName": "Matt Gordon",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "dcc15bac-c565-4226-bdce-8ed73400186f",
+      "firstName": "Michael",
+      "lastName": "Howard",
+      "bio": "Michael's career at Microsoft spans over 30 years, working exclusively in Security. He is the co-architect of the Microsoft Security Development Lifecycle. His latest book is Designing and Developing Secure Azure Solutions, and he is a co-host of the Azure Security Podcast.",
+      "tagLine": "Microsoft Corp, Principal Program Manager, Azure DB",
+      "profilePicture": "https://sessionize.com/image/a91c-400o400o2-auFDhT47CMB1tn7tQPQ3Mv.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        431594
+      ],
+      "fullName": "Michael Howard",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "717891fa-1554-495c-b542-64ee1183b68a",
+      "firstName": "Ryan",
+      "lastName": "Adams",
+      "bio": "Ryan Adams is a Senior Cloud Solution Architect for Microsoft.  His focus on Data & AI allows him to work with many technologies like SQL, Azure SQL IaaS and PaaS, Databricks, and Synapse Analytics.  Ryan is currently working with the Customer Success Engineering team focused on our Synapse product offerings.",
+      "tagLine": "Microsoft Senior Cloud Solution Architect",
+      "profilePicture": "https://sessionize.com/image/b736-400o400o2-ML6ecnJQR8KaSvmJDm6QBM.jpg",
+      "isTopSpeaker": true,
+      "links": [],
+      "sessions": [
+        416744
+      ],
+      "fullName": "Ryan Adams",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "86dfe147-4a63-4ef7-88f9-4e6dc1ca5ddf",
+      "firstName": "Thomas",
+      "lastName": "LeBlanc",
+      "bio": "Thomas LeBlanc is a Microsoft Data Platform MVP and has spent 15+ years as a Data Warehouse Manager and Business Intelligence Architect in Baton Rouge, LA along with 15+ year as a Database Administrator specializing in SQL Server, Microsoft Business Intelligence Services (SSIS, SSAS & SSRS) and Power BI. Starting as a COBOL while in college as Louisiana State University, he has also been a developer, report writer, trainer and documentation writer. Thomas has been a recent and frequent speaker at PASS Summit, SQLSaturday, Live360, VSLive and Power Platform events. Microsoft has recognized Thomas as a Data Platform MVP for the past 2 years.",
+      "tagLine": "Data Warehouse Architect/MVP at Data on the Geaux ",
+      "profilePicture": "https://sessionize.com/image/8508-400o400o2-47-4a63-4ef7-88f9-4e6dc1ca5ddf.8f8f9bfd-0dc9-42be-b789-ce2848d6bb1c.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        407003
+      ],
+      "fullName": "Thomas LeBlanc",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9dd6c36a-1e57-400c-a5bd-d7f083147bdb",
+      "firstName": "Thomas ",
+      "lastName": "Norman",
+      "bio": "In 1998, Tom changed his career focus to begin working with SQL Server after working in the airline industry for fourteen years. He has worked in all aspects of SQL Server including Administration, Database Development, BI, and Reporting Services. Working in the Finance and Compliance industry, he has specialized in data protection and encryption for PII, PCI, and HIPAA data while adhering to GDPR, CCPA, and other government laws and regulations. His working career has included working for an international corporation serving multiple international clients while working in the United States and Europe.\r\n\r\nData protection, especially encryption, is the hallmark of his career while working in SQL Server since SQL Server 2000. However new governing laws have expanded the requirement to protect the data more. He has now expanded into the classification of the data in the database which is now required by new laws.  In addition to protecting the data, he has built a strong consistent database code deployment process.\r\n\r\nEncryption is critical for organizations of any size and level and that is why this book was edited with great care. Encrypting data at rest and in flight is now required by a number of regulations, and knowing how to do that properly without impacting database performance is the key. Data protection is our responsibility and we must not take it lightly.! Let’s get the data encrypted now!\r\n",
+      "tagLine": "Database Architect / DBA, KPA.  KPA Technology Employee of the Year",
+      "profilePicture": "https://sessionize.com/image/8f1e-400o400o2-hr258C1KBgz2kWz2RD8qJm.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        427071
+      ],
+      "fullName": "Thomas Norman",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9c6095d6-ebe1-4c5d-9fca-16116bf5f9cd",
+      "firstName": "Warren",
+      "lastName": "Sifre",
+      "bio": "Warren Sifre has been in the IT community since 1998 and has worked in a variety of industries deploying solutions utilizing a variety of technologies.  Currently, Directory of Strategy for the Data and Analytics Division as Moser Consulting.  He is responsible for Data Solutions Architecture and the mentorship of organizations going through the journey of adopting a Data and Analytic Strategy.  He has been a SQLSaturday Speaker since 2012, Azure Bootcamps, and frequent presenter for user groups around the world.  He is Indy's Power BI and BI user groups' Chapter leader.",
+      "tagLine": "Broadstroke Consulting, Owner",
+      "profilePicture": "https://sessionize.com/image/f8b9-400o400o2-BX9WZSUGjq1EJKowptVcxU.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        414438
+      ],
+      "fullName": "Warren Sifre",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": [
+    {
+      "id": 30664,
+      "name": "Cedar",
+      "sort": -2
+    },
+    {
+      "id": 30665,
+      "name": "Mesquite",
+      "sort": 0
+    },
+    {
+      "id": 30666,
+      "name": "Live Oak",
+      "sort": 2
+    },
+    {
+      "id": 32130,
+      "name": "Cypress",
+      "sort": 3
+    }
+  ]
+}
