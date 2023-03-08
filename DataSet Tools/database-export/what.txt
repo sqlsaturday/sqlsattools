@@ -1,0 +1,6 @@
+
+A simple set of scripts to allow you to import the raw XML blobs into a normalized, relational schema in SQL Server.
+
+You'll need to create the database manually.
+
+Make sure your conection string in the Powershell script is set accordingly.
