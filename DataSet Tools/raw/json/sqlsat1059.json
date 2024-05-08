@@ -1,0 +1,567 @@
+{
+  "sessions": [
+    {
+      "id": "631364",
+      "title": "Demystifying GA4. Lessons Learned on Designing a Robust Data Model for Actionable Insights",
+      "description": "This is a deep dive into building a robust data pipeline for the Google Analytics 4 (GA4) data coming from Big Query to extract actionable insights at scale. This is a real-world case study of our practical application, offering a roadmap for organizations seeking to leverage GA4 for informed decision-making.\r\n\r\nSome of the challenges we overcame include\r\n- Leveraging Snowflake to make data ingestion more cost-effective and performant (moving off Matilion)\r\n- Identifying and overcoming inconsistencies with UTM tagging over time\r\n- Leveraging attribution to account for excessive direct traffic\r\n- Harmonizing advertising platform data with Google Analytics session data",
+      "startsAt": "2024-04-05T09:00:00",
+      "endsAt": "2024-04-05T10:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "29f9cd35-0945-4072-81db-459b63e42668"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43656,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": false
+    },
+    {
+      "id": "600097",
+      "title": "SQL Server Query Store - Why SQL Server 2022 Turned it on by default.",
+      "description": "This session isn't specifically about Query Store in SQL Server 2022, but rather it is about why you should be using it, period. There is a reason Microsoft enabled it by default in SQL Server 2022, and this demo-heavy session will help you understand why. This session will first look at what Query Store is, and then spend a good amount of time showcasing how to use to identify problem queries, understand different query plans, and how to use Query Store to gain a better view into what the query engine is actually doing. This session will also look at how to appropriately configure Query Store for optimal metric gathering.",
+      "startsAt": "2024-04-05T09:00:00",
+      "endsAt": "2024-04-05T10:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9df7339f-f2b2-4ec1-ac12-28ac13d5928d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43655,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "608335",
+      "title": "Migrating AdventureWorks to Postgres",
+      "description": "One of the advantages that SQL Server developers have enjoyed is a comprehensive sample database that touches on all aspects and operations of a database. That same sample database, AdventureWorks, is now available for Postgres! However, it is not just the data in tables but all views, triggers, procedures, functions, and other database objects. Data type differences, procedural differences, and others are highlighted and discussed. This session highlights several differences between SQL Server and Postgres using AdventureWorks as an example.",
+      "startsAt": "2024-04-05T09:00:00",
+      "endsAt": "2024-04-05T10:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "052dca4e-e8ad-44d5-88ad-f4bdc3714968"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43657,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "651382",
+      "title": "What is in a SQL Server Database? Database Insights Deep Dive",
+      "description": "We all work with databases in SQL Server. We mostly take things for granted and think we know all the ins and outs of the database. This session is going to be a deep dive about what is in a database and how to get more in depth information out of a database. Meaning I will go over Configuration of the database and best practices around it, including Filegroups, Compatibility Settings, Recovery Models and much more. Settings you may not know of. DMVs to get information about that database out. I will show you TSQL that will help you get insights about your database and what they mean. I will also attempt to illustrate what a \"Healthy\" database looks like. Join me for a wonderful in-depth look at a SQL Server Database.",
+      "startsAt": "2024-04-05T09:00:00",
+      "endsAt": "2024-04-05T10:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9d0a0d9d-bef7-40b6-a81a-ff09cdefa74e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 47525,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": false
+    },
+    {
+      "id": "652783",
+      "title": "Learn how databases parse SQL and use this knowledge to optimize your schema and queries.",
+      "description": "All programming languages convert code into instructions that it needs to execute. Though SQL tells a database what data to read or write, it works the same.\r\n\r\nOver the past several years, I’ve been writing tools to understand how queries perform. One such tool is Lantern, an open-source project that parses SQL and performs static analysis on the queries. Currently, it determines which queries ran the most and which caused the most strain on the database. Future work will analyze data access patterns such as table and column usage to help inform schema and query optimizations.\r\n\r\nUsing Lantern as an example, we’ll discuss the different components a database uses to understand SQL, namely tokens, lexers, scanners, parsers, ASTs, evaluators, etc.\r\n\r\nA deeper understanding of how databases work will give you more tools to make the right design decisions for your projects.",
+      "startsAt": "2024-04-05T10:15:00",
+      "endsAt": "2024-04-05T11:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "2b1fd18c-23b5-40b8-83c7-2790bd0c8645"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43656,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": false
+    },
+    {
+      "id": "615935",
+      "title": "Architecting Zero Downtime Database Deployments",
+      "description": "Achieving zero downtime for application deployments is commonplace these days, but the database still presents challenges, especially for legacy systems. This session will discuss the challenges of database deployments and protecting customer data while presenting patterns and practices that can be used to approach new zero downtime deployments for your applications",
+      "startsAt": "2024-04-05T10:15:00",
+      "endsAt": "2024-04-05T11:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "558d6d9f-4ad1-431c-a6fd-d231052d354b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43655,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "639882",
+      "title": "An end-to-end data project in Microsoft Fabric",
+      "description": "In this session, you'll learn the overview of Microsoft Fabric as well as how to build an end-to-end data project, from ingesting data, building transformations, and to building Power BI reports in Fabric. ",
+      "startsAt": "2024-04-05T10:15:00",
+      "endsAt": "2024-04-05T11:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "22bbdc57-5411-4372-b9e8-5b0c4628e569"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43657,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "640743",
+      "title": "Challenges of Running Mission-critical PostgreSQL Databases on Kubernetes",
+      "description": "Organizations today have greater demands of data, uptime, and reliability, requiring automation across the board to deploy databases with fail over, healing, monitoring, backups, and disaster recovery. Containerization has made those expectations a reality, but require trained teams and reliable tools for success.\r\n   \r\nWhat are the main challenges to running reliable and scalable databases under Kubernetes? What skills and tools are required for success? Having supported organizations with multi-terabyte, mission-critical databases on Kubernetes, I will answer these questions and offer strategies to conquer these challenges, providing attendees with practical understanding of tools and practices they can use to deploy databases with high availability, scalability, backup and restore, and monitoring at scale, using open-source software. Leave this talk with insights into strategies to conquer even the most challenging obstacles of cloud-native PostgresQL databases.",
+      "startsAt": "2024-04-05T10:15:00",
+      "endsAt": "2024-04-05T11:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b72e1521-08bb-4ee2-90a4-d071707d9523"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 47525,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": false
+    },
+    {
+      "id": "614081",
+      "title": "Hybrid Disaster Recovery with SQL Server 2022",
+      "description": "Having a backup site for your disaster recovery strategy can be expensive, time consuming and hard to maintain. SQL Server 2022 offers the ability to setup an Azure environment to server as your backup disaster recovery site. In this session we will discuss the options and demo how to create one in minutes. ",
+      "startsAt": "2024-04-05T12:00:00",
+      "endsAt": "2024-04-05T13:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43656,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "640637",
+      "title": "Do More, Quicker: Data Work Using AI Assist Tools",
+      "description": "Data work should be faster with AI tools !  This session will go over the most common tools (today), how to use those to your advantage to improve speed of development and a peak into upcoming AI developer-assist tools. ",
+      "startsAt": "2024-04-05T12:00:00",
+      "endsAt": "2024-04-05T13:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7e76b5c0-a406-472e-b4d0-e7f56bde6222"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43655,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "628181",
+      "title": "Reporting 101",
+      "description": "Basic walk-through of importing data into a DB, querying the data using T-SQL and displaying the data using Power BI.",
+      "startsAt": "2024-04-05T12:00:00",
+      "endsAt": "2024-04-05T13:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fea0146a-3cae-4a18-8eb6-bb0c22268c5e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43657,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "640748",
+      "title": "Real Enterprise-grade PostgreSQL backups with pgBackRest",
+      "description": "pgBackrest is an open source solution for reliable PostgreSQL backup and restore.  It scales to large databases and is optimized for postgresql-specific requirements to properly handle scenarios that would otherwise cause data corruption.\r\n\r\nIt is flexible and provides many options. In this talk we will provide a overview of pgBackRest, its components and functioning. We will also cover questions and scenarios that are often overlooked or less known.\r\n\r\nThose attending this talk will leave with:\r\n- An understanding of importance of backups and how they work with PostgreSQL\r\n- An overview of pgBackRest and how it works\r\n- Answers to burning questions such as \"Can you copy repo from prod and restore in dev/staging?\", \"Can a repository be comprised of multiple file systems?\" and many others",
+      "startsAt": "2024-04-05T13:15:00",
+      "endsAt": "2024-04-05T14:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b72e1521-08bb-4ee2-90a4-d071707d9523"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43656,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "651390",
+      "title": "The Ultimate Guide to Ola Hallengren's Maintenance Solution",
+      "description": "You must have heard about Ola Hallengren by now. There are defaults running so many maintenance solutions today. This session is to take you through the maintenance solution from top to bottom and present some insights into how to get the most out of this solution. When you get done with this session you won't need or want to use the defaults for this solution again. Join me for a power packed session that will give you all you need to know about this solution. See you there.",
+      "startsAt": "2024-04-05T13:15:00",
+      "endsAt": "2024-04-05T14:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9d0a0d9d-bef7-40b6-a81a-ff09cdefa74e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43655,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": false
+    },
+    {
+      "id": "655050",
+      "title": "How to Change SQL from Procedural to Set-Based",
+      "description": "Most relational databases (like SQL Server, Postgres, etc.) are designed around processing data in sets. This is evident with the declarative nature of Structured Query Language(SQL). Yet, many developers need help transitioning from the procedural programming methodologies they learned in school or while working in procedural languages. Therefore, how can we turn database stored procedures and functions that were written procedurally into more efficient set-based processing? This session will review those issues and help identify helpful tips while working through a real-life example in Postgres.",
+      "startsAt": "2024-04-05T13:15:00",
+      "endsAt": "2024-04-05T14:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "052dca4e-e8ad-44d5-88ad-f4bdc3714968"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43657,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "628180",
+      "title": "SQL Database Deployments with Azure Dev Ops",
+      "description": "Showing how a GIT Repo and Azure Pipelines can be used to automate SQL Server Database deployments",
+      "startsAt": "2024-04-05T14:30:00",
+      "endsAt": "2024-04-05T15:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fea0146a-3cae-4a18-8eb6-bb0c22268c5e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43656,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "600096",
+      "title": "SQL Server Performance with Polybase - Querying data external to SQL Server",
+      "description": "For ages, SQL Server has supported Linked Servers to connect to a myriad of different data sources. SQL Server Polybase now supports querying different SQL Server instances, and this session will look at the differences of using Polybase vs. Linked Servers to query a different SQL instance and the deep performance differences between the two, and how to get the best performance out of Polybase. It will also look at using Polybase to query non-relational data as a data archival and other data solution.",
+      "startsAt": "2024-04-05T14:30:00",
+      "endsAt": "2024-04-05T15:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9df7339f-f2b2-4ec1-ac12-28ac13d5928d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43655,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": false
+    },
+    {
+      "id": "655020",
+      "title": "Navigating High Availability Challenges and Preventive Strategies",
+      "description": "In today's data-centric world, maintaining continuous access to critical databases is essential for organizations of all sizes. SQL Server, the backbone of numerous applications, offers powerful high availability and disaster recovery solutions to ensure uninterrupted service. \r\n\r\nHowever, a lesser-known challenge, known as \"Split Brain,\" can disrupt these robust systems. Throughout the session, we will explore the underlying causes that can trigger Split Brain scenarios. From network failures to quorum-related issues, understanding the root causes is crucial to building resilient architectures. By the end of this session, participants will be well-equipped to navigate the SQL Server Split Brain dilemmas. \r\n\r\nWhether you are a seasoned database administrator, a system architect, or a technology enthusiast, this presentation promises to be an engaging exploration of high availability challenges and effective preventive measures. Join us as we delve into the depths of Split Brain and empower ourselves with the knowledge to ensure the resiliency and availability of our SQL Server environments.",
+      "startsAt": "2024-04-05T14:30:00",
+      "endsAt": "2024-04-05T15:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f55e2739-bccb-4c4f-9882-ee0fc7c7a0d4"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 43657,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    }
+  ],
+  "speakers": [
+    {
+      "id": "052dca4e-e8ad-44d5-88ad-f4bdc3714968",
+      "firstName": "Aaron",
+      "lastName": "Cutshall, DHA, MSHI",
+      "bio": "Dr. Aaron N. Cutshall is an Enterprise Data Architect with nearly 40 years of experience in analysis, design, and development for applications and databases. He specializes in Healthcare Informatics, focusing on clinical quality and massive databases.  He actively speaks nationwide at conferences and user group sessions on data-related and professional development topics.",
+      "tagLine": "Healthcare Enterprise Data Architect",
+      "profilePicture": "https://sessionize.com/image/6d58-400o400o1-HBqjho47u1yfxeS72VA5t9.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        608335,
+        655050
+      ],
+      "fullName": "Aaron Cutshall, DHA, MSHI",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f55e2739-bccb-4c4f-9882-ee0fc7c7a0d4",
+      "firstName": "Amy",
+      "lastName": "Abel",
+      "bio": "Amy is a Sr. Database Administrator for AdvancedMD, a medical software company. She is passionate about solving complex SQL server problems and is always up for a new challenge.  In her free time, you can find her off-roading in her Jeep or creating new scents for her soap business.",
+      "tagLine": "Sr. Database Administrator ",
+      "profilePicture": "https://sessionize.com/image/6536-400o400o1-BKSyy7R6FU3QQxrfYm4fSM.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        655020
+      ],
+      "fullName": "Amy Abel",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8fbb3d17-bd56-4cef-9a29-eea5a84dd56b",
+      "firstName": "Armando",
+      "lastName": "Lacerda",
+      "bio": "http://bit.ly/ALacerdaProfile",
+      "tagLine": "Cloud Data Platform Architect & Engineer",
+      "profilePicture": "https://sessionize.com/image/b9ce-400o400o1-17-bd56-4cef-9a29-eea5a84dd56b.29bb8247-1f10-4df1-bea5-838eb4f74052.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        614081
+      ],
+      "fullName": "Armando Lacerda",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9d0a0d9d-bef7-40b6-a81a-ff09cdefa74e",
+      "firstName": "Ben",
+      "lastName": "Miller",
+      "bio": "Ben has been a member of the SQL Server Community since 1999. He also consults on SQL Server problems. He is a SQL Server MVP a SQL Server MCM, and has spent time in the field using SQL Server since 1997. He has worked at various companies throughout the US, as well as at Microsoft for 7 years. He is passionate about SQL Server and automation and integration and uses SMO and PowerShell regularly. He teaches DBAs how to use PowerShell as well. He is @DBAduck all around the web (Twitter, LinkedIn, Facebook)",
+      "tagLine": "DBAduck",
+      "profilePicture": "https://sessionize.com/image/7b83-400o400o1-HQDkfT4NPCF1TuNj99bns.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        651382,
+        651390
+      ],
+      "fullName": "Ben Miller",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "2b1fd18c-23b5-40b8-83c7-2790bd0c8645",
+      "firstName": "Brian",
+      "lastName": "Broderick",
+      "bio": "Codes in Golang, Elixir, and Ruby. Enjoys pushing the limits of database systems. Has fun skiing & hiking. Teaches how to code efficiently and kludge-free",
+      "tagLine": "Principal Data Engineer at Entrata",
+      "profilePicture": "https://sessionize.com/image/1e2d-400o400o1-RiJwLTjLUV1YEPWBxfQKQ9.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        652783
+      ],
+      "fullName": "Brian Broderick",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "fea0146a-3cae-4a18-8eb6-bb0c22268c5e",
+      "firstName": "Matt",
+      "lastName": "Horton",
+      "bio": "MS SQL Professional with 20+ years of experience.  I enjoy everything data!  I also an adjunct professor for Weber State University.  I have lived in Utah almost my whole life.  I love spending time with my family traveling, playing video games or watching movies.",
+      "tagLine": "Enterprise Data Architect",
+      "profilePicture": "https://sessionize.com/image/3608-400o400o1-4c8c951b-e0fb-4fdd-8f2f-b8e93ae016c3.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        628181,
+        628180
+      ],
+      "fullName": "Matt Horton",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "7e76b5c0-a406-472e-b4d0-e7f56bde6222",
+      "firstName": "Norm",
+      "lastName": "Warren",
+      "bio": "My name is Norm Warren. ",
+      "tagLine": "Data engineer, mountian biker, former break-dancer !",
+      "profilePicture": "https://sessionize.com/image/300b-400o400o1-s2cLjzveyK9vwEg5nFHVK3.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        640637
+      ],
+      "fullName": "Norm Warren",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b72e1521-08bb-4ee2-90a4-d071707d9523",
+      "firstName": "Roberto",
+      "lastName": "Mello",
+      "bio": "Roberto has been passionate about data and databases since his college days, when he got hooked on PostgreSQL 6. He enjoyed PostgreSQL so much that he eventually became Senior Data Systems Manager and then a Principal Solutions Architect. His family says he's a nice guy who's always willing to help others (maybe because of the free IT support?). Originally from Brazil, he loves tinkering with raspberry pis, snowboarding, photography, Austrian economics, scouting, and traveling.",
+      "tagLine": "Principal Solutions Architect, Crunchy Data",
+      "profilePicture": "https://sessionize.com/image/fbfd-400o400o1-9QgTSNF5gN1xNmhvUF12JG.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        640743,
+        640748
+      ],
+      "fullName": "Roberto Mello",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9df7339f-f2b2-4ec1-ac12-28ac13d5928d",
+      "firstName": "Scott",
+      "lastName": "Klein",
+      "bio": "Scott Klein is a senior consultant with SQL Solutions Group, with nearly three decades of experience working with Microsoft SQL Server. Prior to SQL Solutions Group, Scott spent nearly 8 years at Microsoft, traveling the globe as a technical evangelist training and speaking about SQL Server and Microsoft’s Azure data services. Scott’s recent focus has been on advanced analytics, including big data and IoT, providing real-world training to help bring intelligence to your data. Scott has authored several books, his latest which focuses on using Microsoft’s IoT suite to process and analyze data. Scott is continuously striving and looking for ways to help developers and companies grok the wonderful world of data.",
+      "tagLine": "SQL Server ROCKS!",
+      "profilePicture": "https://sessionize.com/image/7a5e-400o400o1-9DD7tWvxJg61392jRzjPgg.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        600097,
+        600096
+      ],
+      "fullName": "Scott Klein",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "558d6d9f-4ad1-431c-a6fd-d231052d354b",
+      "firstName": "Steve",
+      "lastName": "Jones",
+      "bio": "Steve Jones has been working with databases and computers for over two decades. He has worked with SQL Server since 1991, from v4.2 through SQL Server 2016. He has been a DBA, developer, and manager in a variety of large and small companies across multiple industries. In 2001 Steve founded SQLServerCentral with two partners and has been publishing technical articles and facilitating discussions among SQL Server professionals ever since. He currently is the full time editor of SQLServerCentral, as well as an evangelist for Redgate Software. Steve is a 10 year Microsoft Data Platform MVP and lives on a horse ranch in Colorado.",
+      "tagLine": "The Voice of the DBA",
+      "profilePicture": "https://sessionize.com/image/0973-400o400o1-s4k9B5cJJp6GhwSmuYyyUJ.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        615935
+      ],
+      "fullName": "Steve Jones",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "29f9cd35-0945-4072-81db-459b63e42668",
+      "firstName": "Tyler",
+      "lastName": "Bartholomew",
+      "bio": "Tyler is Data Engineer at Purple Innovation and lecturer at Utah Valley University. Tyler shoots sacred cows to reach optimal solutions regarding data access and data ingestion by internalizes methodologies of first principles. He teaches these methodologies in his coursework on python, data engineering and data warehousing.",
+      "tagLine": "Data Engineer for Purple Innovations",
+      "profilePicture": "https://sessionize.com/image/4d58-400o400o1-B9MdUmH9744gruCmLkzLD9.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        631364
+      ],
+      "fullName": "Tyler Bartholomew",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "22bbdc57-5411-4372-b9e8-5b0c4628e569",
+      "firstName": "Yuki",
+      "lastName": "Kakegawa",
+      "bio": "Yuki is a data professional with a background in Computer Science. He specializes in building data pipelines as well as delivering BI/analytics solutions. ",
+      "tagLine": "Analytics Engineer | Independent Consultant",
+      "profilePicture": "https://sessionize.com/image/1fd8-400o400o1-R1S89yy56cVyNNgnxkUpqA.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        639882
+      ],
+      "fullName": "Yuki Kakegawa",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": [
+    {
+      "id": 43656,
+      "name": "Room 150AB",
+      "sort": 0
+    },
+    {
+      "id": 43655,
+      "name": "Room 150DC",
+      "sort": 1
+    },
+    {
+      "id": 43657,
+      "name": "Room 150GH",
+      "sort": 2
+    },
+    {
+      "id": 47525,
+      "name": "Room 150EF",
+      "sort": 3
+    }
+  ]
+}
