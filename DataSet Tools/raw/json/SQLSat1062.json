@@ -1,0 +1,673 @@
+[
+  {
+    "date": "2023-08-19T00:00:00",
+    "isDefault": true,
+    "rooms": [
+      {
+        "id": 37631,
+        "name": "Room 2",
+        "sessions": [
+          {
+            "id": "59a74bec-ac89-47c8-81b4-70d7b041bd6d",
+            "title": "Introduction",
+            "description": null,
+            "startsAt": "2023-08-19T09:15:00",
+            "endsAt": "2023-08-19T09:40:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": null
+          },
+          {
+            "id": "523367",
+            "title": "Introduction to Azure SQL",
+            "description": "Azure SQL is a family of managed, secure, and intelligent products that use the SQL Server database engine in the Azure cloud. In this module, you'll learn about the various deployment options and service tiers, and about the benefits of moving to the cloud.\r\n\r\n1.Describe the evolution of SQL Server in Azure.\r\n2. Determine which deployment option is best for workloads in your organization.\r\n3. Select the purchasing models, service tiers, and hardware that best fit a workload.",
+            "startsAt": "2023-08-19T09:40:00",
+            "endsAt": "2023-08-19T10:20:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "6cc5f3b8-2f2c-4217-a33f-86acab5e757d",
+                "name": "Saifullah Al Azad"
+              }
+            ],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": "Accepted"
+          },
+          {
+            "id": "513998",
+            "title": "The magnificent seven and beyond- Intelligent Query Processing in SQL Server",
+            "description": "Can we fix query performance issues without any code changes? Making application changes can be an expensive undertaking. Hence, developers and DBAs want the query processor to adapt to their workload needs vs. using options and trace flags to gain performance. Adaptation is the idea behind Intelligent Query Processing (IQP) in the newer versions of SQL Server. In this demo-heavy presentation, I will walk you through seven intelligent query processing features introduced in SQL 2022, 2019, and 2017. I will help you identify features built on top of Query Store that you must enable in the user database. We will look at the pros and cons of using these features and control them if you are not ready to use them.\r\n\r\nBy attending this session, you learn the new capabilities of Intelligent Query Processing. You equip yourself with powerful tools to convince your peers to change the database compatibility level to 160 for the Azure SQL Databases or upgrade to SQL Server 2022 for on-premises databases.",
+            "startsAt": "2023-08-19T10:20:00",
+            "endsAt": "2023-08-19T11:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "a2f0eb34-7f63-4df3-bedd-6b268aea9ba4",
+                "name": "Taiob Ali"
+              }
+            ],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": "Accepted"
+          },
+          {
+            "id": "524938",
+            "title": "Troubleshoot AzureSQL Performance Issues",
+            "description": "To monitor the performance of a database in Azure SQL Database and Azure SQL Managed Instance, start by monitoring the CPU and IO resources used by your workload relative to the level of database performance you chose in selecting a particular service tier and performance level. To accomplish this, Azure SQL Database and Azure SQL Managed Instance emit resource metrics that can be viewed in the Azure portal.\r\nAzure SQL Database and Azure SQL Managed Instance provide advanced monitoring and tuning capabilities backed by artificial intelligence to assist you in troubleshooting and maximizing the performance of your databases and solutions. You can choose to configure the streaming export of these Intelligent Insights and other database resource logs and metrics to one of several destinations for consumption and analysis.\r\n\r\nOutside of the Azure portal, the database engine has its own monitoring and diagnostic capabilities that Azure SQL Database and SQL Managed Instance leverage, such as query store and dynamic management views (DMVs). See Monitoring using DMVs for scripts to monitor for a variety of performance issues in Azure SQL Database and Azure SQL Managed Instance. ",
+            "startsAt": "2023-08-19T11:00:00",
+            "endsAt": "2023-08-19T11:40:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "c8c578ff-e445-4513-ba6d-2b067abec067",
+                "name": "Ahsan Kabir"
+              }
+            ],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": "Accepted"
+          },
+          {
+            "id": "518919",
+            "title": "Complete Overview of Azure AI Ecosystem (Everything You Need To Know)",
+            "description": "Azure is offering tons of AI services from open AI services to custom machine learning training options. In this presentation, we will cover all the features of Azure AI services and how to use them through some demos. We will also talk about monetization, cost, security options within Azure AI platform. ",
+            "startsAt": "2023-08-19T11:40:00",
+            "endsAt": "2023-08-19T12:20:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "cc83d986-8baa-4982-9a77-600b5471e785",
+                "name": "Rahat Yasir"
+              }
+            ],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": "Accepted"
+          },
+          {
+            "id": "523920",
+            "title": "Microservice Data Decomposition",
+            "description": "Split Monolithic Databases Across Microservices",
+            "startsAt": "2023-08-19T12:20:00",
+            "endsAt": "2023-08-19T12:50:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "62513ca5-27fe-4084-9b05-e2f8c3e5508d",
+                "name": "Shahadat Hossain Hemel"
+              }
+            ],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": "Accepted"
+          },
+          {
+            "id": "521989",
+            "title": "Empowering Data Insights: Real-time Ingestion & Historical Access in Fabric with SaaS Capabilities",
+            "description": "In this session, we see an exciting demonstration on achieving real-time data ingestion from Orchestra Azure-AppInsights event logs into Microsoft Fabric OneLake. Learn how to effortlessly append event logs for accessing historical data within OneLake. Gain insights into accessing both real-time and historical Event log data directly from Power BI. Don't miss this opportunity to explore the seamless integration of these powerful tools!",
+            "startsAt": "2023-08-19T12:50:00",
+            "endsAt": "2023-08-19T13:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "024a2501-f134-4cf8-b2e6-55b80a2525ca",
+                "name": "Dharmendra Keshari"
+              }
+            ],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": "Accepted"
+          },
+          {
+            "id": "3fe19b2d-f643-4aaf-9737-7a97aa7a318f",
+            "title": "Launch Break",
+            "description": null,
+            "startsAt": "2023-08-19T13:30:00",
+            "endsAt": "2023-08-19T14:10:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": null
+          },
+          {
+            "id": "523977",
+            "title": "Big data Management with Azure Synapse",
+            "description": "How can we store and manage product comparative data in azure synapse platform. Data preprocessing, scraping storing and finally discovering patterns. ",
+            "startsAt": "2023-08-19T14:10:00",
+            "endsAt": "2023-08-19T14:50:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "d3c46460-2217-488e-8287-63b9acda0514",
+                "name": "Rifat Jahan Azad"
+              }
+            ],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": "Accepted"
+          },
+          {
+            "id": "514671",
+            "title": "Closing in on OpenAI",
+            "description": "Have data? Don't know what to do with it? You can process it using OpenAI.\r\nYou probably already tried ChatGPT, but there is much more to OpenAI.\r\nIn this demo driven session we'll see a few practical examples on how you can use it.\r\nDisclaimer: Be nice to bots, and they'll treat you better when they take over the world.\r\n",
+            "startsAt": "2023-08-19T14:50:00",
+            "endsAt": "2023-08-19T15:40:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "f3921f66-7c67-4961-9c5d-e8706292aaaf",
+                "name": "André Melancia"
+              }
+            ],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": "Accepted"
+          },
+          {
+            "id": "523036",
+            "title": "Integrate power Bi with Power pages",
+            "description": "In this session, my co-host Ahsan Kabir and I will demonstrate a complete data cycle, covering data insertion, storage procedures, and visualization in a report format. We'll leverage Power BI's Power Query to insert data, which will be stored in an MS-SQL database. Using Power BI, we'll then create a comprehensive report showcasing insights derived from the stored data. Finally, we'll explore how to publish the report publicly using Power Pages. Throughout the session, each step of this data lifecycle will be thoroughly explained and illustrated.",
+            "startsAt": "2023-08-19T15:40:00",
+            "endsAt": "2023-08-19T16:10:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "bc3d315c-76fd-4d10-b6da-bbe394069750",
+                "name": "Md Tahmidul Abedin"
+              }
+            ],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": "Accepted"
+          },
+          {
+            "id": "517921",
+            "title": "Artificial Intelligence Programming with T-SQL",
+            "description": "Artificial Intelligence has been available to developers via API or libraries for integration with Code.  Now SQL Server offers Artificial Intelligence via T-SQL. In this session we'll look at specifying a model for making decisions about time series data, programming the model using T-SQL, and evaluating the results of the model.\r\n",
+            "startsAt": "2023-08-19T16:10:00",
+            "endsAt": "2023-08-19T16:50:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "4b7bb039-5122-421b-a7ef-d57b51e88c64",
+                "name": "Sam Nasr"
+              }
+            ],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": "Accepted"
+          },
+          {
+            "id": "515040",
+            "title": "Producing and Consuming LLM in Microsoft Fabric",
+            "description": "This session will introduce attendees to the technical background of Large Language Models (LLM) the new features in Microsoft Fabric that either empower developer productivity using LLMs behind the scenes or empower developers to create LLM for their own specialized usage",
+            "startsAt": "2023-08-19T16:50:00",
+            "endsAt": "2023-08-19T17:40:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "751b319b-e760-4a8a-9ab2-193121c29427",
+                "name": "Andrew Minkin"
+              }
+            ],
+            "categories": [],
+            "roomId": 37631,
+            "room": "Room 2",
+            "liveUrl": null,
+            "recordingUrl": null,
+            "status": "Accepted"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      }
+    ],
+    "timeSlots": [
+      {
+        "slotStart": "09:15:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "59a74bec-ac89-47c8-81b4-70d7b041bd6d",
+              "title": "Introduction",
+              "description": null,
+              "startsAt": "2023-08-19T09:15:00",
+              "endsAt": "2023-08-19T09:40:00",
+              "isServiceSession": true,
+              "isPlenumSession": false,
+              "speakers": [],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": null
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "09:40:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "523367",
+              "title": "Introduction to Azure SQL",
+              "description": "Azure SQL is a family of managed, secure, and intelligent products that use the SQL Server database engine in the Azure cloud. In this module, you'll learn about the various deployment options and service tiers, and about the benefits of moving to the cloud.\r\n\r\n1.Describe the evolution of SQL Server in Azure.\r\n2. Determine which deployment option is best for workloads in your organization.\r\n3. Select the purchasing models, service tiers, and hardware that best fit a workload.",
+              "startsAt": "2023-08-19T09:40:00",
+              "endsAt": "2023-08-19T10:20:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "6cc5f3b8-2f2c-4217-a33f-86acab5e757d",
+                  "name": "Saifullah Al Azad"
+                }
+              ],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": "Accepted"
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "10:20:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "513998",
+              "title": "The magnificent seven and beyond- Intelligent Query Processing in SQL Server",
+              "description": "Can we fix query performance issues without any code changes? Making application changes can be an expensive undertaking. Hence, developers and DBAs want the query processor to adapt to their workload needs vs. using options and trace flags to gain performance. Adaptation is the idea behind Intelligent Query Processing (IQP) in the newer versions of SQL Server. In this demo-heavy presentation, I will walk you through seven intelligent query processing features introduced in SQL 2022, 2019, and 2017. I will help you identify features built on top of Query Store that you must enable in the user database. We will look at the pros and cons of using these features and control them if you are not ready to use them.\r\n\r\nBy attending this session, you learn the new capabilities of Intelligent Query Processing. You equip yourself with powerful tools to convince your peers to change the database compatibility level to 160 for the Azure SQL Databases or upgrade to SQL Server 2022 for on-premises databases.",
+              "startsAt": "2023-08-19T10:20:00",
+              "endsAt": "2023-08-19T11:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "a2f0eb34-7f63-4df3-bedd-6b268aea9ba4",
+                  "name": "Taiob Ali"
+                }
+              ],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": "Accepted"
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "11:00:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "524938",
+              "title": "Troubleshoot AzureSQL Performance Issues",
+              "description": "To monitor the performance of a database in Azure SQL Database and Azure SQL Managed Instance, start by monitoring the CPU and IO resources used by your workload relative to the level of database performance you chose in selecting a particular service tier and performance level. To accomplish this, Azure SQL Database and Azure SQL Managed Instance emit resource metrics that can be viewed in the Azure portal.\r\nAzure SQL Database and Azure SQL Managed Instance provide advanced monitoring and tuning capabilities backed by artificial intelligence to assist you in troubleshooting and maximizing the performance of your databases and solutions. You can choose to configure the streaming export of these Intelligent Insights and other database resource logs and metrics to one of several destinations for consumption and analysis.\r\n\r\nOutside of the Azure portal, the database engine has its own monitoring and diagnostic capabilities that Azure SQL Database and SQL Managed Instance leverage, such as query store and dynamic management views (DMVs). See Monitoring using DMVs for scripts to monitor for a variety of performance issues in Azure SQL Database and Azure SQL Managed Instance. ",
+              "startsAt": "2023-08-19T11:00:00",
+              "endsAt": "2023-08-19T11:40:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "c8c578ff-e445-4513-ba6d-2b067abec067",
+                  "name": "Ahsan Kabir"
+                }
+              ],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": "Accepted"
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "11:40:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "518919",
+              "title": "Complete Overview of Azure AI Ecosystem (Everything You Need To Know)",
+              "description": "Azure is offering tons of AI services from open AI services to custom machine learning training options. In this presentation, we will cover all the features of Azure AI services and how to use them through some demos. We will also talk about monetization, cost, security options within Azure AI platform. ",
+              "startsAt": "2023-08-19T11:40:00",
+              "endsAt": "2023-08-19T12:20:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "cc83d986-8baa-4982-9a77-600b5471e785",
+                  "name": "Rahat Yasir"
+                }
+              ],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": "Accepted"
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "12:20:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "523920",
+              "title": "Microservice Data Decomposition",
+              "description": "Split Monolithic Databases Across Microservices",
+              "startsAt": "2023-08-19T12:20:00",
+              "endsAt": "2023-08-19T12:50:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "62513ca5-27fe-4084-9b05-e2f8c3e5508d",
+                  "name": "Shahadat Hossain Hemel"
+                }
+              ],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": "Accepted"
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "12:50:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "521989",
+              "title": "Empowering Data Insights: Real-time Ingestion & Historical Access in Fabric with SaaS Capabilities",
+              "description": "In this session, we see an exciting demonstration on achieving real-time data ingestion from Orchestra Azure-AppInsights event logs into Microsoft Fabric OneLake. Learn how to effortlessly append event logs for accessing historical data within OneLake. Gain insights into accessing both real-time and historical Event log data directly from Power BI. Don't miss this opportunity to explore the seamless integration of these powerful tools!",
+              "startsAt": "2023-08-19T12:50:00",
+              "endsAt": "2023-08-19T13:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "024a2501-f134-4cf8-b2e6-55b80a2525ca",
+                  "name": "Dharmendra Keshari"
+                }
+              ],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": "Accepted"
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "13:30:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "3fe19b2d-f643-4aaf-9737-7a97aa7a318f",
+              "title": "Launch Break",
+              "description": null,
+              "startsAt": "2023-08-19T13:30:00",
+              "endsAt": "2023-08-19T14:10:00",
+              "isServiceSession": true,
+              "isPlenumSession": false,
+              "speakers": [],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": null
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "14:10:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "523977",
+              "title": "Big data Management with Azure Synapse",
+              "description": "How can we store and manage product comparative data in azure synapse platform. Data preprocessing, scraping storing and finally discovering patterns. ",
+              "startsAt": "2023-08-19T14:10:00",
+              "endsAt": "2023-08-19T14:50:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "d3c46460-2217-488e-8287-63b9acda0514",
+                  "name": "Rifat Jahan Azad"
+                }
+              ],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": "Accepted"
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "14:50:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "514671",
+              "title": "Closing in on OpenAI",
+              "description": "Have data? Don't know what to do with it? You can process it using OpenAI.\r\nYou probably already tried ChatGPT, but there is much more to OpenAI.\r\nIn this demo driven session we'll see a few practical examples on how you can use it.\r\nDisclaimer: Be nice to bots, and they'll treat you better when they take over the world.\r\n",
+              "startsAt": "2023-08-19T14:50:00",
+              "endsAt": "2023-08-19T15:40:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "f3921f66-7c67-4961-9c5d-e8706292aaaf",
+                  "name": "André Melancia"
+                }
+              ],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": "Accepted"
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "15:40:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "523036",
+              "title": "Integrate power Bi with Power pages",
+              "description": "In this session, my co-host Ahsan Kabir and I will demonstrate a complete data cycle, covering data insertion, storage procedures, and visualization in a report format. We'll leverage Power BI's Power Query to insert data, which will be stored in an MS-SQL database. Using Power BI, we'll then create a comprehensive report showcasing insights derived from the stored data. Finally, we'll explore how to publish the report publicly using Power Pages. Throughout the session, each step of this data lifecycle will be thoroughly explained and illustrated.",
+              "startsAt": "2023-08-19T15:40:00",
+              "endsAt": "2023-08-19T16:10:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "bc3d315c-76fd-4d10-b6da-bbe394069750",
+                  "name": "Md Tahmidul Abedin"
+                }
+              ],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": "Accepted"
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "16:10:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "517921",
+              "title": "Artificial Intelligence Programming with T-SQL",
+              "description": "Artificial Intelligence has been available to developers via API or libraries for integration with Code.  Now SQL Server offers Artificial Intelligence via T-SQL. In this session we'll look at specifying a model for making decisions about time series data, programming the model using T-SQL, and evaluating the results of the model.\r\n",
+              "startsAt": "2023-08-19T16:10:00",
+              "endsAt": "2023-08-19T16:50:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "4b7bb039-5122-421b-a7ef-d57b51e88c64",
+                  "name": "Sam Nasr"
+                }
+              ],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": "Accepted"
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "16:50:00",
+        "rooms": [
+          {
+            "id": 37631,
+            "name": "Room 2",
+            "session": {
+              "id": "515040",
+              "title": "Producing and Consuming LLM in Microsoft Fabric",
+              "description": "This session will introduce attendees to the technical background of Large Language Models (LLM) the new features in Microsoft Fabric that either empower developer productivity using LLMs behind the scenes or empower developers to create LLM for their own specialized usage",
+              "startsAt": "2023-08-19T16:50:00",
+              "endsAt": "2023-08-19T17:40:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "751b319b-e760-4a8a-9ab2-193121c29427",
+                  "name": "Andrew Minkin"
+                }
+              ],
+              "categories": [],
+              "roomId": 37631,
+              "room": "Room 2",
+              "liveUrl": null,
+              "recordingUrl": null,
+              "status": "Accepted"
+            },
+            "index": 0
+          }
+        ]
+      }
+    ]
+  }
+]
