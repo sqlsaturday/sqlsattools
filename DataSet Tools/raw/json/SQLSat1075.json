@@ -1,0 +1,552 @@
+{
+  "sessions": [
+    {
+      "id": "590268",
+      "title": "Creando un Chat Bot con .NET 8 y Azure Open IA",
+      "description": "En este workshop realizaremos un Chat Bot utilizando .NET 8 y utilizaremos los servicios de Azure Open IA. Lo cual permitirá dotar a nuestro Chat Bot de la tecnología de ChatGPT. Para la parte de UI trabajaremos con Blazor en .NET 8. \r\n\r\nPrerequisitos:\r\n\r\nSDK de .NET 8 (El más reciente)\r\nVisual Studio 2022 (El más reciente) o Visual Studio Code\r\nOpcional: Una cuenta de Azure",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b71d554a-b95f-4a3c-adc8-3a9455596c9f"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "591617",
+      "title": "DevOps: Más alla de la cultura, expectativa vs realidad",
+      "description": "En esta apasionante sesion, exploraremos el mundo de DevOps desde una perspectiva única: La brecha entre expectativas y realidad. \r\n\r\nDesmitificaremos la cultura DevOps a través de experiencias prácticas, destacando los desafíos reales que los profesionales enfrentan diariamente. Desde la teoría hasta la aplicación, analizaremos cómo las expectativas iniciales chocan con la realidad al integrar desarrollo y operaciones. Desglosaremos herramientas clave y casos de estudio, proporcionando una visión completa de cómo DevOps transforma la forma en que desarrollamos, entregamos y mantenemos software.\r\n\r\nÚnete a esta sesión interactiva y descubre cómo superar las expectativas iniciales para abrazar la verdadera esencia de DevOps. Desde la automatización hasta la cultura, exploraremos los aspectos prácticos y desafiantes de la implementación de DevOps, ofreciendo ideas valiosas para optimizar procesos de desarrollo y operaciones. ¡Prepárate para un viaje a través de la realidad de DevOps!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4e72cedd-0bae-4ec5-ba95-0dc498c0eda4"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "590455",
+      "title": "Git y GitHub para todos: Dominando Control de Versiones en todos los niveles",
+      "description": "¿Quieres dominar las herramientas esenciales para el desarrollo de software moderno? Únete a nuestro workshop interactivo Domina Git y GitHub. Este taller está diseñado tanto para principiantes que dan sus primeros pasos, como para desarrolladores que buscan afianzar y expandir sus habilidades.\r\n\r\nFundamentos de Git y GitHub\r\n    -Comandos básicos de Git (clone, commit, push, pull).\r\n    -Creación de repositorios en GitHub, issues básicos.\r\n    -Ejercicio práctico: Contribuir a un repositorio simple.\r\nMejorando la Eficiencia con Git y GitHub\r\n    -Ramificaciones y gestión de branches.\r\n    -Pull requests y revisión de código básica.\r\n    -Ejercicio práctico: Trabajar en un proyecto colaborativo.\r\nEstrategias Expertas y Automatización\r\n    -Técnicas avanzadas de merge y rebase.\r\n    -GitHub Actions y automatización de flujos de trabajo.\r\n    -Ejercicio práctico: Configuración de CI/CD en un proyecto.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d1c154f0-363d-4cd3-90ca-dd4025500118"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "591883",
+      "title": "GitOps en GCP: Desplegando Aplicaciones con Argo CD y Config Connector",
+      "description": "Descubre el poder de GitOps y la automatización en Google Cloud Platform (GCP) con Argo CD y Config Connector. Exploraremos cómo desplegar aplicaciones de manera eficiente, utilizando un enfoque centrado en Git para gestionar recursos en GCP. \r\n\r\nAprende a simplificar la gestión de los recursos necesarios para ejecutar tu aplicación, todo con la eficacia de Argo CD y la integración perfecta de Config Connector en Google Kubernetes Engine (GKE).",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a582c739-47e8-4848-b92e-cb725d66baee"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "591615",
+      "title": "Hablemos de Operadores de Kubernetes",
+      "description": "Muchas veces le huimos a la idea de adentrarnos al mundo de Kubernetes solo porque se ve muy complejo. \r\n\r\nPero ¿qué pensarías si te digo que como desarrollador es mucho más sencillo aprender de Kubernetes e inclusive llegar a extenderlo para cubrir hasta los casos de uso más creativos?\r\n\r\nSi tienes curiosidad y traes tu propia computadora tendremos la oportunidad de escribir nuestros propios operadores de Kubernetes juntos.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "207533d9-57ab-422c-9ede-4a61f79e85cd"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "588897",
+      "title": "Infraestructura moderna como código con Pulumi",
+      "description": "En este workshop, aprenderás los fundamentos de la infraestructura como código a través de ejercicios guiados. \r\n\r\nTe familiarizarás con Pulumi, una plataforma de infraestructura como código, donde podrás utilizar lenguajes de programación familiares para aprovisionar infraestructura en la nube de manera moderna. \r\n\r\nAprenderás las mejores prácticas para aprovisionar, actualizar y eliminar, así como la creación de canalizaciones de infraestructura CI/CD con Github Actions.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1abc0b6c-3307-41d5-96fe-ec4ed9cf093b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "592030",
+      "title": "Integrando LLMs en la Nube de AWS: Un Enfoque Práctico",
+      "description": "En esta sesión, se realizará una introducción a los Modelos de Lenguaje de Gran Escala (LLM) y su revolución en el procesamiento del lenguaje natural. Se explorará la integración de modelos, como los proporcionados por Hugging Face, en la infraestructura de AWS para el desarrollo y despliegue de aplicaciones de inteligencia artificial.\r\n\r\nPuntos clave de la sesión:\r\n- Eficiencia de los LLM en AWS, \r\n- Ventajas de la utilización de un LLM privado \r\n- Técnicas de recuperación de información con generación de lenguaje para la mejora la generación de contenido.\r\n\r\nDemo:\r\n- Implementación de un LLM en AWS con ejemplos de código y resultados.\r\n-Integración de un modelo de Hugging Face en AWS para un LLM privado. \r\n- Mostrar RAG impacta positivamente en la calidad y relevancia de las respuestas generadas.\r\n\r\nObjetivos de la sesión:\r\n\r\n - Explorar la combinación de LLMs en AWS optimiza el rendimiento y la escalabilidad. \r\n- Uso de un LLM privado para mejorar personalización y seguridad.\r\n\r\n-Impacto de RAG en la mejora de la generación de texto para eficiencia de precision. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "560a2ba4-212f-4dd4-a38e-01b0e072a2f6"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "592139",
+      "title": "Transferir datos de Snowflake a Azure Blob usando Synapse Analytics",
+      "description": "Una premisa de un almacén moderno es interconectar fácilmente los servicios en la nube para procesar y analizar datos de cualquier proveedor. Dos de los principales servicios en la nube en este momento son Azure Synapse y Snowflake. Independientemente de lo que esté implementando su organización o si necesita transferir datos hacia/desde esos servicios, es importante saber cómo interconectarlos y poder transferir datos entre servicios. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "120a2ba4-210f0-5dd4-b30e-01b0e075a5f6"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "592220",
+      "title": "Utilizando Azure SQL para Azure DevOps",
+      "description": "En esta sesión trabajaremos en Azure SQL como una plataforma de datos que interactúa en colaboración con diferentes equipos en Azure Devops acelerando el valor de su flujo de trabajo. La implementación de la práctica de DevOps ayuda a las organizaciones a desarrollar y entregar productos más rápido, manteniendo la estabilidad y la confianza, aumentando la confianza en las aplicaciones que crean y logrando objetivos comerciales más rápido. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "500b2bc5-215a-0dd3-b38f-11b0e072a277"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "592340",
+      "title": "Generative Deep Learning con Azure Databricks: 10 Tecnicas que debes conocer",
+      "description": " Hugo Estrada nos compartira ejemplos prácticos, a través de las bases del Generative Deep Learning: La siguiente generación de Algoritmos basados en ML. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "260b1aa5-213c-4de5-a37e-12c4e071a3c5"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+
+
+
+    {
+      "id": "592130",
+      "title": "Microsoft Fabric Onelake Shortcuts",
+      "description": "En esta charla, exploraremos cómo los accesos directos de Microsoft OneLake están revolucionando la gestión de datos corporativos, permitiendo una integración sin precedentes entre plataformas como Azure y AWS. \r\n\r\nProfundizaremos en su capacidad para crear un lago de datos virtual unificado, simplificando enormemente la administración de permisos y mejorando la eficiencia al reducir la latencia en el manejo de datos.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "80459117-63b1-4f52-9e9d-dd20458d9171"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "583906",
+      "title": "Optimización de costos y despliegue de sitios web en GCP",
+      "description": "Descubre estrategias eficientes para desplegar sitios web en Google Cloud Platform (GCP)! Exploraremos un enfoque minucioso que tiene como objetivo principal minimizar costos en la infraestructura, ofreciendo valiosas insights sobre cómo lograr una implementación eficiente y económica. \r\n\r\nAcompañame en esta sesión para obtener ideas prácticas sobre orquestación de infraestructuras en GCP y maximizar el rendimiento de tus sitios web mientras optimizas tus recursos.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1993597e-d9c0-4af4-a1d8-fa045a6a4726"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "584603",
+      "title": "Páginas multi-Idioma en Next.js en Google Cloud Run",
+      "description": "Descubre cómo utilizar Next.js para crear páginas web multi-idioma eficientes y cómo desplegarlas en Google Cloud Run. \r\n\r\nEsta sesión se centra en las técnicas de internacionalización en Next.js y en las estrategias de despliegue óptimas en la nube, ofreciendo una guía práctica para desarrolladores y entusiastas de la tecnología.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "23fe7f6d-9e1b-4d14-b367-857fd9607c07"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "590463",
+      "title": "Potencia tu carrera: Guia para aumentar tu valor laboral",
+      "description": "Taller Intensivo diseñado para ayudarte a potenciar tu perfil laboral en la industria tecnológica, aumentar tu valor salarial y atraer la atención de los mejores reclutadores de la industria. \r\n\r\nEste taller está especialmente diseñado para aquellos que desean destacar en su campo de especialización (aplicable a todas las áreas operativas, gerencias y Direcciones dentro de la industria del software)  y maximizar su potencial en el mercado laboral.\r\n\r\nDurante el taller, abordaremos temas como la construcción de un perfil atractivo en línea, la optimización del currículum vitae y la preparación para entrevistas de trabajo de alto nivel.\r\n\r\nAdemás,  brindaremos herramientas para identificar las fortalezas y debilidades, y proporcionaremos estrategias para ser encontrados por el algoritmo de linkedin y ser mostrado a los reclutadores.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7c049a07-04b9-4451-a167-f9dc937cd277"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    },
+    {
+      "id": "591995",
+      "title": "Visión Global de Prompt Flow y AI Studio en el uso de LLMs",
+      "description": "En esta sesión utilizaremos una visión general de Prompt Flow y AI Studio, que es un conjunto de herramientas de desarrollo diseñadas para optimizar el ciclo completo de desarrollo de aplicaciones basadas en IA, específicamente en Modelos de Lenguaje de Gran Escala (LLM). \r\nEstas herramientas abarcan desde la ideación, la creación de prototipos, las pruebas, la evaluación, hasta la implementación y el monitoreo de producción.\r\n\r\nDemo:\r\nEnfoca en la demostración práctica, detallando la creación de flujos LLM y su evaluación.\r\n\r\nObjetivos de la sesion:\r\n\r\n- Comprender qué es Prompt Flow, AI Studio  y para qué sirve.\r\n\r\n- Revisar buenas prácticas de ingeniería de prompts.\r\n\r\n- Revisar diferentes tipos de flujos.\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "10409335-be68-4bf6-8aa7-e78434d16a24"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": null,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": false,
+      "isConfirmed": false
+    }
+  ],
+  "speakers": [
+    {
+      "id": "7c049a07-04b9-4451-a167-f9dc937cd277",
+      "firstName": "",
+      "lastName": "",
+      "bio": "Cazador de Talento especializado en la industria tecnológica con más de 15 años de experiencia en el desarrollo de software. Durante mi carrera laboral he trabajado en diversos países, lo que me ha brindado una perspectiva multicultural de las necesidades del mercado laboral.\r\n\r\nA lo largo de mi carrera, he liderado equipos multidisciplinarios en áreas como Comercial, Operaciones, Gestión de Proyectos y Preventa. Esta experiencia me ha proporcionado un amplio conocimiento en la implementación de soluciones empresariales, abarcando aspectos como el ciclo de vida del software, infraestructura y bases de datos.\r\n\r\nHoy en día mi misión es encontrar el mejor talento a nivel técnico y posicionarlo dentro de las mejores empresas en la región.\r\n\r\nComo conferencista, busco compartir mis conocimientos y experiencias para apoyar a los profesionales de esta noble industria y brindarles información valiosa sobre las últimas tendencias  que busca el mercado laboral.\r\n\r\nBrindando información valiosa para destacarse de mejor manera entre otros candidatos, como generar su plan de carrera de mediano y largo plazo, medias salariales acordes al nivel de conocimiento, como resaltar las habilidades blandas  y Los  puntos estratágicos mas relevantes para crecer dentro de las empresas donde ya se encuentran laborando.\r\n",
+      "tagLine": "El talento lo tenemos, solo hay que descubrirlo...",
+      "profilePicture": "https://sessionize.com/image/996e-400o400o1-3pMkQCtbgZkDCYMVyBhcic.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        590463
+      ],
+      "fullName": "Amada Hernández",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "4e72cedd-0bae-4ec5-ba95-0dc498c0eda4",
+      "firstName": "",
+      "lastName": "",
+      "bio": "Como apasionado Ingeniero DevOps Senior, destaco en la optimización de los ciclos de vida del desarrollo de software, especializándome en integración/despliegue continuo (CI/CD) con GitHub Actions. En 3Pillar Global, lidero los esfuerzos de DevOps para un cliente fintech en Canadá y Arizona, centrándome en CI/CD, monitoreo de aplicaciones con Grafana e Infraestructura como Código (IAC) utilizando Terraform en AWS. En mi rol universitario en la Universidad Mariano Gálvez, he sido un profesor dedicado durante seis años, impartiendo varios cursos en Ingeniería de Sistemas e Informática. Anteriormente, como Líder DevOps y Líder Técnico de Desarrollo Backend en Plus Technologies, pionero en la implementación de DevOps y desempeñé un papel clave en la transición a microservicios y tecnologías modernas. Mi trayectoria incluye liderar un equipo durante la transformación de Monitor Plus, optimizando recursos e introduciendo microservicios.\r\n\r\nPortafolio\r\nhttps://bayron-carranza.info/\r\n",
+      "tagLine": "Sr Devops Engineer en 3Pillar Global",
+      "profilePicture": "https://sessionize.com/image/3abc-400o400o1-YJRbcHgB9WsySvtnG3Ziv3.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        591617
+      ],
+      "fullName": "BC",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d1c154f0-363d-4cd3-90ca-dd4025500118",
+      "firstName": "",
+      "lastName": "",
+      "bio": "He has worked in the software build cycle for over 6 years in various industries.\r\n\r\nHe has experience in developing .NET Framework web applications, DotNet, and mobile applications with Xamarin Forms, from building to the distribution and monitoring process.\r\n\r\nIn addition, he has served as Head of Retail Systems and has extensive knowledge of integration with SAP and its technology DI API, B1IF, SAP SDK. \r\n\r\nHe currently works as a DevOps Engineer, managing the integration of new processes, tools, etc. between the stages of software development and its automation.\r\n\r\nHe is always exploring new technologies, participating in projects, helping and sharing about the various technology services and IT Security.",
+      "tagLine": "PlusTI, DevOps Engineer",
+      "profilePicture": "https://sessionize.com/image/aba2-400o400o1-qFAFZfc4hWhTp5gJLzqvp.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        590455
+      ],
+      "fullName": "Elvis Batzibal",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1993597e-d9c0-4af4-a1d8-fa045a6a4726",
+      "firstName": "",
+      "lastName": "",
+      "bio": "Francisco es un DevOps Engineer que ha trabajado en despliegues de infraestructura, cloud migrations, y tareas de automation y pipelines de aplicaciones serverless. \r\nFrancisco se ha especializado en trabajar infraestructura en GCP y AWS. Asimismo cuenta con experiencia en el uso de Terraform para el desarrollo de sus tareas.",
+      "tagLine": "DevOps Engineer",
+      "profilePicture": "https://sessionize.com/image/3ece-400o400o1-SJfqkF3KzyQ9WT6FW8Z6RB.jpeg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        583906
+      ],
+      "fullName": "https://www.linkedin.com/in/francisco-ardon/",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "80459117-63b1-4f52-9e9d-dd20458d9171",
+      "firstName": "",
+      "lastName": "",
+      "bio": "Hola soy Francisco Rodriguez",
+      "tagLine": "Data Analyst ",
+      "profilePicture": "https://sessionize.com/image/2014-400o400o1-EBQ85dVUmbGBnhKgWjJ29q.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        592130
+      ],
+      "fullName": "Francisco Rodriguez",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a582c739-47e8-4848-b92e-cb725d66baee",
+      "firstName": "",
+      "lastName": "",
+      "bio": "Lead Software Engineer con más de 11 años de experiencia en la industria tecnológica, trabajando para compañíaas internacionales como PayPal, Google y Telus. \r\nEspecializado en tecnologías Nube y Kubernetes.",
+      "tagLine": "PayPal, Member of Technical Staff, Software Engineer",
+      "profilePicture": "https://sessionize.com/image/c68d-400o400o1-T7VtMubxrmFRC4wpcsJJED.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        591883
+      ],
+      "fullName": "Gabriel Garoz",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b71d554a-b95f-4a3c-adc8-3a9455596c9f",
+      "firstName": "",
+      "lastName": "",
+      "bio": "Docente Universitario, Ingeniero de Software en con 8+ años de experiencia en el área de análisis, desarrollo y arquitectura de software, en proyectos con entidades privadas y gubernamentales en Guatemala. Utilizando plataformas y tecnologías como ASP .NET, Entity Framework, Java, Spring Framework, Angular, Ionic Framework, Azure, Linux, PostgreSQL, Oracle, SQL Server. En la actualidad evangelizador de .NET Core.\r\n\r\nLíder de la Comunidad Microsoft Dev Group Cobán y Tech Community (Guatemala)\r\n\r\nApasionado por las nuevas tecnologías, autodidacta y músico ocasional. ",
+      "tagLine": "Senior Software Developer at PlusTI",
+      "profilePicture": "https://sessionize.com/image/3720-400o400o1-4a-b95f-4a3c-adc8-3a9455596c9f.adf313ee-e664-4761-943c-760960d16ebc.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        590268
+      ],
+      "fullName": "YovaFree",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "23fe7f6d-9e1b-4d14-b367-857fd9607c07",
+      "firstName": "",
+      "lastName": "",
+      "bio": "Analista Programador con más de 3 años de experiencia en tecnologías de vanguardia como React, Angular, Next.js, Node.js, Spring Boot, y plataformas de nube como GCP y AWS. Graduado en Ingeniería en Sistemas, he liderado el equipo de front-end en Fundación Génesis Empresarial, desarrollando soluciones eficaces para clientes externos. Mi trabajo se ha centrado en proyectos orientados al público, lo que ha enriquecido mi habilidad para entregar aplicaciones web que no solo son técnicamente sólidas, sino también orientadas al usuario final.",
+      "tagLine": "Full-stack developer",
+      "profilePicture": "https://sessionize.com/image/6414-400o400o1-f2F5B9KH3tj75kNTzJSkMV.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        584603
+      ],
+      "fullName": "Hector Martinez",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "207533d9-57ab-422c-9ede-4a61f79e85cd",
+      "firstName": "",
+      "lastName": "",
+      "bio": "- Maker\r\n- Engineering Manager\r\n- Solving problems with code since 2010\r\n- Amateur radio presenter and stand up comedian, not joking ;)",
+      "tagLine": "DevOps and OSS enthusiast",
+      "profilePicture": "https://sessionize.com/image/e786-400o400o1-W3xiTJrV25RdJiMVUgD3Rq.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        591615
+      ],
+      "fullName": "Jossemar Cordero",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1abc0b6c-3307-41d5-96fe-ec4ed9cf093b",
+      "firstName": "",
+      "lastName": "",
+      "bio": "Profesional Apasionado en Tecnología, con Postgrado en Administración tecnológica por la Universidad de San Carlos de Guatemala. Con más de 9 años de experiencia trabajando en el área Cloud. Entusiasta de la metodología DevOps y tecnologías opensource. ",
+      "tagLine": "Cloud Enginner - CSN-",
+      "profilePicture": "https://sessionize.com/image/3884-400o400o1-s17evv8rPwoyrrYEMqhsWq.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        588897
+      ],
+      "fullName": "Marlon Coti",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "10409335-be68-4bf6-8aa7-e78434d16a24",
+      "firstName": "",
+      "lastName": "",
+      "bio": "Con más de 20 años de experiencia en IT, ayuda a los clientes en Latinoamérica a diseñar y desarrollar aplicaciones de software usando las tecnologías de Microsoft.\r\n",
+      "tagLine": "Microsoft, Technical Specialist",
+      "profilePicture": "https://sessionize.com/image/99c5-400o400o1-PQEkgifE4Anwtx4SM2j9HX.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        591995
+      ],
+      "fullName": "Marlon Ramos",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "560a2ba4-212f-4dd4-a38e-01b0e072a2f6",
+      "firstName": "",
+      "lastName": "",
+      "bio": "www.linkedin.com/in/alvaradopaulo",
+      "tagLine": "DevSecOps",
+      "profilePicture": "https://sessionize.com/image/9376-400o400o1-Y2AxCvxJqCPcedUcLW3UTA.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        592030
+      ],
+      "fullName": "Paulo Alvarado",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "120a2ba4-210f0-5dd4-b30e-01b0e075a5f6",
+      "firstName": "",
+      "lastName": "",
+      "bio": "https://www.linkedin.com/in/eduardo-pivaral",
+      "tagLine": "Data Engineer",
+      "profilePicture": "",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        592139
+      ],
+      "fullName": "Eduardo Pivaral",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "500b2bc5-215a-0dd3-b38f-11b0e072a277",
+      "firstName": "",
+      "lastName": "",
+      "bio": "https://www.linkedin.com/in/carlos-lopez-taks/",
+      "tagLine": "Cloud Data Architect",
+      "profilePicture": "",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        592220
+      ],
+      "fullName": "Carlos Lopez",
+      "categoryItems": [],
+      "questionAnswers": []
+    }, 
+    {
+      "id": "260b1aa5-213c-4de5-a37e-12c4e071a3c5",
+      "firstName": "",
+      "lastName": "",
+      "bio": "https://www.linkedin.com/in/hugoestradas",
+      "tagLine": "Data Scientist",
+      "profilePicture": "",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        592340
+      ],
+      "fullName": "Hugo Estrada",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": []
+}
