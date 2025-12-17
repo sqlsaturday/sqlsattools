@@ -1,0 +1,320 @@
+{
+  "event": "SQL Saturday 1106",
+  "rooms": {
+    "Lobby": "Lobby",
+    "108": "Room 108 (Auditorium)",
+    "138": "Room 138",
+    "210": "Room 210",
+    "218": "Room 218",
+    "220": "Room 220",
+    "223": "Room 223"
+  },
+  "schedule": [
+    {
+      "time": "8:30 am",
+      "duration": 95,
+      "type": "general",
+      "title": "Check-in",
+      "room": "Lobby",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Move Data Using Microsoft Fabric Data Factory",
+      "room": "108",
+      "speaker": "Andy Leonard",
+      "level": "Beginner"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Let's Get Scary and Continuously Deploy Database Changes!",
+      "room": "138",
+      "speaker": "Dan Mallott",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "PostgreSQL Monitoring & Health Checks: Ensuring Optimal Performance and Stability",
+      "room": "210",
+      "speaker": "Chandra Pathivada, Venkataramanan Govindarajan",
+      "level": "Advanced"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 180,
+      "type": "session",
+      "title": "Improve SQL 2022 Performance through TempDB Optimization",
+      "room": "218",
+      "speaker": "Haripriya Naidu",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Query Hints ... What's the Worst That Can Happen",
+      "room": "220",
+      "speaker": "Rick Lowe",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Customize your managed SQL Server database on AWS Cloud",
+      "room": "223",
+      "speaker": "Minesh Chande",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Break",
+      "room": "Lobby",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "What is all the fuss about Microsoft Fabric?",
+      "room": "108",
+      "speaker": "Carlos Chacon",
+      "level": "Beginner"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Tracking Copilot for Microsoft 365 Utilization with Fabric",
+      "room": "138",
+      "speaker": "Dominick Raimato",
+      "level": "Beginner"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "PostgreSQL Partitioning - Beyond the obvious",
+      "room": "210",
+      "speaker": "Ranjan Burman",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Model Ideation for Power BI",
+      "room": "220",
+      "speaker": "Leslie Welch",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "HA/DR options on Amazon RDS and RDS Custom for SQL Server",
+      "room": "223",
+      "speaker": "Minesh Chande",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 10,
+      "type": "break",
+      "title": "Break",
+      "room": "Lobby",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "11:25 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "room": "108",
+      "speaker": "Devin Jaiswal",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 120,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "Lobby",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "11:30 am",
+      "duration": 120,
+      "type": "lunch",
+      "title": "Lunch Seating",
+      "room": "Lobby",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "11:55 am",
+      "duration": 30,
+      "type": "activity",
+      "title": "SQL Saturday Pub Quiz - Session 1",
+      "room": "138",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "12:35 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Can co-pilot help me do more as a data professional?",
+      "room": "108",
+      "speaker": "Carlos Chacon",
+      "level": "Beginner"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 30,
+      "type": "activity",
+      "title": "SQL Saturday Pub Quiz - Session 2",
+      "room": "138",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "1:35 pm",
+      "duration": 10,
+      "type": "break",
+      "title": "Break",
+      "room": "Lobby",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Avoiding the \"Grey Box of Death\": Automatically Checking For Broken Visuals in Power BI",
+      "room": "108",
+      "speaker": "John Kerski",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "ChatGPT said what?!?",
+      "room": "138",
+      "speaker": "Tracey Kroll",
+      "level": "Beginner"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Secure Asynchronous ETL Using OAuth 2.0 in Azure Data Factory",
+      "room": "210",
+      "speaker": "Russel Loski",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Parameter Sensitive Plan Optimization and Query Store",
+      "room": "218",
+      "speaker": "Jared Poche",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Empowering AI Applications with Vector Search in SQL Server and Azure Cosmos DB",
+      "room": "220",
+      "speaker": "Leonard Lobel",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "PowerApp Power!!!",
+      "room": "223",
+      "speaker": "Warren Sifre",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Break",
+      "room": "Lobby",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "How SQL Server and AI work together?",
+      "room": "108",
+      "speaker": "Armando Lacerda",
+      "level": "Intermediate"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "The Data Must Flow",
+      "room": "138",
+      "speaker": "Leslie Welch",
+      "level": "Advanced"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Building Your First CRUD App using Dataverse for Teams with Copilot",
+      "room": "210",
+      "speaker": "David Patrick",
+      "level": "Beginner"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "First PostgreSQL stumbling blocks for SQL Server DBAs",
+      "room": "220",
+      "speaker": "Rick Lowe",
+      "level": "Intermediate"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Getting Started with DuckDB",
+      "room": "223",
+      "speaker": "Kevin Feasel",
+      "level": "Beginner"
+    },
+    {
+      "time": "4:05 pm",
+      "duration": 30,
+      "type": "closing",
+      "title": "Prize Drawing & Closing Announcements",
+      "room": "108",
+      "speaker": null,
+      "level": null
+    }
+  ]
+}

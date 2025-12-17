@@ -1,0 +1,130 @@
+{
+  "schedule": [
+    {
+      "time": "6:45 am",
+      "duration": "15 min",
+      "room": "Room 1",
+      "title": "Coffee and intro",
+      "speakers": []
+    },
+    {
+      "time": "7:00 am",
+      "duration": "60 min",
+      "room": "Room 1",
+      "title": "Complete Overview of Azure AI Ecosystem (Everything You Need To Know)",
+      "speakers": ["Rahat Yasir"]
+    },
+    {
+      "time": "7:00 am",
+      "duration": "60 min",
+      "room": "Room 2",
+      "title": "Navigating the 1,000-Item Limit in Fabric Workspaces: A Data Engineer's Perspective",
+      "speakers": ["Thimantha Vidanagamage"]
+    },
+    {
+      "time": "8:00 am",
+      "duration": "10 min",
+      "room": "Room 1",
+      "title": "Break",
+      "speakers": []
+    },
+    {
+      "time": "8:10 am",
+      "duration": "60 min",
+      "room": "Room 1",
+      "title": "Maximizing the impact of Power BI applications through improved user experience",
+      "speakers": ["Joel Gagnon"]
+    },
+    {
+      "time": "8:10 am",
+      "duration": "60 min",
+      "room": "Room 2",
+      "title": "Unleashing Data Insights: Building a Chatbot Companion with Databricks' AI/BI Genie",
+      "speakers": ["Wilson Mok"]
+    },
+    {
+      "time": "9:10 am",
+      "duration": "10 min",
+      "room": "Room 1",
+      "title": "Break",
+      "speakers": []
+    },
+    {
+      "time": "9:20 am",
+      "duration": "60 min",
+      "room": "Room 1",
+      "title": "L'architecture ultime d'un projet Power BI",
+      "speakers": ["Joel Gagnon"]
+    },
+    {
+      "time": "9:20 am",
+      "duration": "60 min",
+      "room": "Room 2",
+      "title": "Networking 101: Building professional relationships",
+      "speakers": ["Ray Kim"]
+    },
+    {
+      "time": "10:20 am",
+      "duration": "40 min",
+      "room": "Room 1",
+      "title": "Lunch",
+      "speakers": []
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "room": "Room 1",
+      "title": "Better Together: Amazon SageMaker Lakehouse and RDS SQL Server, a Gen-AI data integration use case",
+      "speakers": ["Camilo Leon"]
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "room": "Room 2",
+      "title": "I lost my job! Now what?!? A survival guide for the unemployed",
+      "speakers": ["Ray Kim"]
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "10 min",
+      "room": "Room 1",
+      "title": "Break",
+      "speakers": []
+    },
+    {
+      "time": "12:10 pm",
+      "duration": "60 min",
+      "room": "Room 1",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "speakers": ["Christian Cote"]
+    },
+    {
+      "time": "12:10 pm",
+      "duration": "60 min",
+      "room": "Room 2",
+      "title": "Building Real-Time Fraud Detection with Microsoft Fabric and AI",
+      "speakers": ["Rahul Ganti"]
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "10 min",
+      "room": "Room 1",
+      "title": "Break",
+      "speakers": []
+    },
+    {
+      "time": "1:20 pm",
+      "duration": "60 min",
+      "room": "Room 1",
+      "title": "Fabric Copilot /Python integration",
+      "speakers": []
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "30 min",
+      "room": "Room 1",
+      "title": "Final words and raffle",
+      "speakers": []
+    }
+  ]
+}

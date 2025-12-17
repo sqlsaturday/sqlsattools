@@ -1,0 +1,170 @@
+{
+  "event": "SQL Saturday 1101",
+  "rooms": {
+    "Zeevonk": "Zeevonk Room",
+    "Zeehond": "Zeehond Room",
+    "Zeekraal": "Zeekraal Room"
+  },
+  "schedule": [
+    {
+      "time": "08:15",
+      "duration": 30,
+      "type": "general",
+      "title": "Welcome / Registration",
+      "room": "Zeekraal",
+      "speaker": null
+    },
+    {
+      "time": "08:45",
+      "duration": 15,
+      "type": "keynote",
+      "title": "Keynote",
+      "room": "Zeevonk",
+      "speaker": null
+    },
+    {
+      "time": "09:00",
+      "duration": 60,
+      "type": "session",
+      "title": "Database Deployment Automation using Database Projects & Azure DevOps",
+      "room": "Zeevonk",
+      "speaker": "Olivier Van Steenlandt"
+    },
+    {
+      "time": "09:00",
+      "duration": 60,
+      "type": "session",
+      "title": "Migrating a production SQL Server database with minimal downtime",
+      "room": "Zeehond",
+      "speaker": "Christophe Platteeuw"
+    },
+    {
+      "time": "10:00",
+      "duration": 15,
+      "type": "break",
+      "title": "Coffee break",
+      "room": "Zeekraal",
+      "speaker": null
+    },
+    {
+      "time": "10:15",
+      "duration": 60,
+      "type": "session",
+      "title": "Disaster Recovery Strategies for SQL Server",
+      "room": "Zeevonk",
+      "speaker": "Andrew Pruski"
+    },
+    {
+      "time": "10:15",
+      "duration": 60,
+      "type": "session",
+      "title": "Essential Practices For Seamless Database Deployment",
+      "room": "Zeehond",
+      "speaker": "Laura Copeland"
+    },
+    {
+      "time": "11:15",
+      "duration": 15,
+      "type": "break",
+      "title": "Coffee break",
+      "room": "Zeekraal",
+      "speaker": null
+    },
+    {
+      "time": "11:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Advanced Indexing",
+      "room": "Zeevonk",
+      "speaker": "Hugo Kornelis"
+    },
+    {
+      "time": "11:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Maintaining Fast Database Performance as things change",
+      "room": "Zeehond",
+      "speaker": "Martin Pinner"
+    },
+    {
+      "time": "12:30",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch break",
+      "room": "Zeekraal",
+      "speaker": null
+    },
+    {
+      "time": "13:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Confidential computing with Always Encrypted using enclaves",
+      "room": "Zeevonk",
+      "speaker": "Pieter Vanhove"
+    },
+    {
+      "time": "13:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Database testing with tSQLt",
+      "room": "Zeehond",
+      "speaker": "Sander van der Hoeff"
+    },
+    {
+      "time": "14:30",
+      "duration": 15,
+      "type": "break",
+      "title": "More Coffee",
+      "room": "Zeekraal",
+      "speaker": null
+    },
+    {
+      "time": "14:45",
+      "duration": 60,
+      "type": "session",
+      "title": "Using WorkloadTools to Modernize your SQL Server Instances",
+      "room": "Zeevonk",
+      "speaker": "Gianluca Sartori"
+    },
+    {
+      "time": "14:45",
+      "duration": 60,
+      "type": "session",
+      "title": "Implementing Feature Flags in Databases for Dynamic Product Management",
+      "room": "Zeehond",
+      "speaker": "Karim Ourtani"
+    },
+    {
+      "time": "15:45",
+      "duration": 15,
+      "type": "break",
+      "title": "Last Coffee break",
+      "room": "Zeekraal",
+      "speaker": null
+    },
+    {
+      "time": "16:00",
+      "duration": 60,
+      "type": "session",
+      "title": "How to properly handle LOB data in SQL Server",
+      "room": "Zeevonk",
+      "speaker": "Uwe Ricken"
+    },
+    {
+      "time": "16:00",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure SQL Copilot, what the query is this!?",
+      "room": "Zeehond",
+      "speaker": "Reitse Eskens"
+    },
+    {
+      "time": "17:00",
+      "duration": 60,
+      "type": "closing",
+      "title": "Raffle and drinks",
+      "room": "Zeekraal",
+      "speaker": null
+    }
+  ]
+}

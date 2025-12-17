@@ -1,0 +1,89 @@
+{
+  "event": "SQL Saturday 1109",
+  "rooms": {
+    "suivi en direct": "Main Room (Live Stream)"
+  },
+  "schedule": [
+    {
+      "time": "7:00 am",
+      "duration": 15,
+      "type": "general",
+      "title": "ouverture & accueil",
+      "room": "suivi en direct",
+      "speaker": null
+    },
+    {
+      "time": "7:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server 2025 : une plateforme de base de données prête pour l'IA en entreprise",
+      "room": "suivi en direct",
+      "speaker": "Jean Joseph"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "De SQL à NoSQL : Une Brève Introduction à Azure Cosmos DB",
+      "room": "suivi en direct",
+      "speaker": "Jean-François Bilodeau"
+    },
+    {
+      "time": "9:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Simplify Data with Microsoft Fabric AI Functions",
+      "room": "suivi en direct",
+      "speaker": "Charles-Henri Sauget, Matthieu Roy"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 25,
+      "type": "break",
+      "title": "pause déjeuner",
+      "room": "suivi en direct",
+      "speaker": null
+    },
+    {
+      "time": "10:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Démarrer avec SQL Analytics sur Azure Databricks",
+      "room": "suivi en direct",
+      "speaker": "Davidson Astrel"
+    },
+    {
+      "time": "11:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "The secret of Direct Lake",
+      "room": "suivi en direct",
+      "speaker": "Amar Adghar"
+    },
+    {
+      "time": "12:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "L'IA Éthique : La Subtile Limite entre Censure et Modération",
+      "room": "suivi en direct",
+      "speaker": "Anna Vanyan"
+    },
+    {
+      "time": "1:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Leverage AI to enhance your experience with Fabric Data Warehouse Copilot and AI Skills",
+      "room": "suivi en direct",
+      "speaker": "Christian Cote"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Révolutionner l'Apprentissage des Langues avec l'IA",
+      "room": "suivi en direct",
+      "speaker": "Georges Richard Joseph"
+    }
+  ]
+}
+

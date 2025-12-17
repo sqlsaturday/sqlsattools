@@ -1,0 +1,294 @@
+{
+  "event": "SQL Saturday 1103",
+  "rooms": {
+    "SQL Clinic": "Bldg 51 - RM 1201",
+    "Fernandina Beach": "Bldg 51 - Rm 1205 - 81 - Fabric",
+    "American Beach": "Bldg 51 - Rm 1209 - 81 - Database",
+    "Boneyard Beach": "Bldg 51 - Rm 1101 - 46 - DevOps/Developer",
+    "Atlantic Beach": "Bldg 51 - Rm 1102 - 46 - Security",
+    "Neptune Beach": "Bldg 51 - Rm 1103 - 46 - 101 Track",
+    "Jacksonville Beach": "Bldg 51 - Rm 1104 - 46 - Analytics",
+    "Ponte Vedra Beach": "Bldg 4 - Rm 1706 - 80 - Data Engineering",
+    "Vilano Beach": "Bldg 4 - Rm 1705 - 80 - PowerBI/Reporting",
+    "St. Augustine Beach": "Bldg 4 - Rm 1704 - 100 - Database",
+    "Flagler Beach": "Bldg 4 - Rm 1703 - 50 - AI",
+    "Ormond Beach": "Bldg 4 - Rm 1702 - 38 - Career/PowerApps",
+    "Daytona Beach": "Bldg 59 - Rm 1701 - Performance",
+    "Lunch/Ice Cream": "Bldg 51 - RM 1202",
+    "Raffle": "Bldg 59 - Rm 1701 - 190 - Raffle"
+  },
+  "schedule": [
+    {
+      "time": "8:00 am",
+      "duration": 60,
+      "type": "general",
+      "title": "Registration - Breakfast",
+      "room": "Registration Desk",
+      "speaker": null
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Microsoft Fabric 101: The All-in-One Data Platform",
+      "room": "Fernandina Beach",
+      "speaker": "Daniel Taylor, Bradley Schacht"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Blocking: How to Find and Fight LCK* Waits",
+      "room": "St. Augustine Beach",
+      "speaker": "Brent Ozar"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "T-SQL Tips, Tricks, Hacks, and Backdoors - the undocumented goodies",
+      "room": "American Beach",
+      "speaker": "Jared Kirkpatrick"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to SQL Server Essential Concepts",
+      "room": "Neptune Beach",
+      "speaker": "Bradley Ball"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Exception Reporting in Power BI: Catch the Error Rows in Power Query",
+      "room": "Vilano Beach",
+      "speaker": "Reza Rad"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Finding Your Spark: Unleashing Analytics with Python in Fabric and Databricks",
+      "room": "Ponte Vedra Beach",
+      "speaker": "Ed Pearson"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "PowerBI for the accidental Data Analyst",
+      "room": "Jacksonville Beach",
+      "speaker": "David Seis"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Migrating SQL Server from on-premises to Azure MI using DMS / Log replay",
+      "room": "Atlantic Beach",
+      "speaker": "Gilda Alvarez"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Cutting Through the Buzz: LLM, Agents, RAG, and GPT - Making Sense of Generative AI",
+      "room": "Flagler Beach",
+      "speaker": "Doug Leal"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building & Managing a DBA Team",
+      "room": "Ormond Beach",
+      "speaker": "Andy Warren"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Advanced T-SQL Pattern Matching: Leveraging LIKE and Regular Expressions",
+      "room": "Boneyard Beach",
+      "speaker": "Jeff Foushee"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - Visit Sponsors",
+      "room": "Hallway - Sponsors",
+      "speaker": null
+    },
+    {
+      "time": "10:00 am",
+      "duration": 15,
+      "type": "clinic",
+      "title": "SQL Clinic Open",
+      "room": "SQL Clinic",
+      "speaker": null
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Fast and Furious: Power BI Direct Lake in Fabric",
+      "room": "Vilano Beach",
+      "speaker": "Reza Rad"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Watch Brent Tune a Query in SQL Server 2022",
+      "room": "St. Augustine Beach",
+      "speaker": "Brent Ozar"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Streamlining DataOps in Fabric: Implementing Azure DevOps CI/CD Pipelines for Fabric SQL DB",
+      "room": "Ponte Vedra Beach",
+      "speaker": "Kevin Pereira"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Maximizing SSMS for Developers and DBAs",
+      "room": "American Beach",
+      "speaker": "Nem Schlecht"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Getting started with Power BI for the Data Analyst",
+      "room": "Jacksonville Beach",
+      "speaker": "Cecilia Brusatori"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Top 10 List of MUST-DOs for Power BI End-User Adoption",
+      "room": "Ormond Beach",
+      "speaker": "Belinda Allen"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Fabric & Azure Data Factory Revealed",
+      "room": "Fernandina Beach",
+      "speaker": "Darius Liktorius"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "You have the reports, but no Action - Microsoft Fabric's Activator for the win!",
+      "room": "Neptune Beach",
+      "speaker": "Trey Johnson"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Best Practices Assessment (BPA) for SQL Server enabled by Azure Arc",
+      "room": "Atlantic Beach",
+      "speaker": "Abdullah Mamun, David Pless"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "End-to-End MLOps in Azure Databricks",
+      "room": "Flagler Beach",
+      "speaker": "Doug Leal"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Dataverse: Everything, Everywhere, Here and There",
+      "room": "Boneyard Beach",
+      "speaker": "Charles Lakes II"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure Backup - ready for prime time?",
+      "room": "Daytona Beach",
+      "speaker": "Michael Wall"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - Visit Sponsors",
+      "room": "Hallway - Sponsors",
+      "speaker": null
+    },
+    {
+      "time": "11:15 am",
+      "duration": 90,
+      "type": "clinic",
+      "title": "SQL Clinic Open",
+      "room": "SQL Clinic",
+      "speaker": null
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "Lunch/Ice Cream",
+      "speaker": null
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "room": "Fernandina Beach",
+      "speaker": "Bradley Ball, Daniel Taylor"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - Visit Sponsors",
+      "room": "Hallway - Sponsors",
+      "speaker": null
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Building a Data Warehouse on Microsoft Fabric",
+      "room": "Fernandina Beach",
+      "speaker": "Daniel Taylor"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Final Break - Head to Raffle",
+      "room": "Hallway - Sponsors",
+      "speaker": null
+    },
+    {
+      "time": "4:45 pm",
+      "duration": 60,
+      "type": "closing",
+      "title": "Raffle",
+      "room": "Raffle",
+      "speaker": null
+    }
+  ]
+}

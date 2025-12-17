@@ -1,0 +1,207 @@
+{
+  "schedule": [
+    {
+      "time": "8:00 am",
+      "duration": "30 min",
+      "room": "1002 (Auditorium)",
+      "title": "Registration",
+      "speakers": []
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "room": "1002 (Auditorium)",
+      "title": "Building a Brand by Sharing Your Work",
+      "speakers": ["Brent Ozar"]
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "room": "3288 (Training room)",
+      "title": "Automating SQL Server Management with DBATools and PowerShell",
+      "speakers": ["Phil Bossman"]
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "room": "2204 (Board room)",
+      "title": "Building a framework for orchestration in Azure Data Factory",
+      "speakers": ["Martin Schoombee"]
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "room": "2202 (Conference room)",
+      "title": "Ingesting REST API data with Microsoft Fabric",
+      "speakers": ["Dominick Raimato"]
+    },
+    {
+      "time": "9:30 am",
+      "duration": "15 min",
+      "room": "1002 (Auditorium)",
+      "title": "Break",
+      "speakers": []
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "room": "1002 (Auditorium)",
+      "title": "T-SQL : Bad Habits and Best Practices",
+      "speakers": ["Aaron Bertrand"]
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "room": "3288 (Training room)",
+      "title": "BI versus Relational Design",
+      "speakers": ["Louis Davidson"]
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "room": "2204 (Board room)",
+      "title": "It's Only a Model: Demystifying Row Level Security in Power BI",
+      "speakers": ["Leslie Welch"]
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "room": "2202 (Conference room)",
+      "title": "Getting to Know a Brick House: When You Move From SQL Server to Azure Databricks",
+      "speakers": ["Chris Voss"]
+    },
+    {
+      "time": "10:45 am",
+      "duration": "15 min",
+      "room": "1002 (Auditorium)",
+      "title": "Break",
+      "speakers": []
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "room": "1002 (Auditorium)",
+      "title": "dbatools PowerShell Module Deep Dive",
+      "speakers": ["Ben Miller"]
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "room": "3288 (Training room)",
+      "title": "DataOps 101 – A Better Way to Develop and Deliver Data Analytics",
+      "speakers": ["John Kerski"]
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "room": "2204 (Board room)",
+      "title": "Schrödinger's Backup: Is Your Backup Really a Backup?",
+      "speakers": ["Shawn Oden"]
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "room": "2202 (Conference room)",
+      "title": "Mastering the BI Mullet – Managed Self Service BI",
+      "speakers": ["Lenore Flower"]
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "room": "1002 (Auditorium)",
+      "title": "Lunch",
+      "speakers": []
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "room": "1002 (Auditorium)",
+      "title": "Not If, but When: The Risk to Critical Data with AI",
+      "speakers": ["Kellyn Gorman"]
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "room": "3288 (Training room)",
+      "title": "Make Your Power BI Reports Pop",
+      "speakers": ["Angela Henry"]
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "room": "2204 (Board room)",
+      "title": "Migrating SQL Server from on-premises to Azure MI using DMS / Log replay",
+      "speakers": ["Gilda Alvarez"]
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "15 min",
+      "room": "1002 (Auditorium)",
+      "title": "Break",
+      "speakers": []
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "room": "1002 (Auditorium)",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "speakers": ["Jason Hall (CSA - Azure SQL, Purview, Fabric)"]
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "room": "3288 (Training room)",
+      "title": "Module Signing: Use Certificates to Grant Higher-level Permissions Without Compromising Security",
+      "speakers": ["Solomon Rutzky"]
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "room": "2204 (Board room)",
+      "title": "From Flying to SQL, one accidental DBAs journey",
+      "speakers": ["Anders Pedersen"]
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "15 min",
+      "room": "1002 (Auditorium)",
+      "title": "Break",
+      "speakers": []
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "room": "1002 (Auditorium)",
+      "title": "Parameter Sensitive Plan Optimization and Query Store",
+      "speakers": ["Jared Poche"]
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "room": "3288 (Training room)",
+      "title": "The T-SQL PIVOT/UNPIVOT Operators",
+      "speakers": ["Jeff Foushee"]
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "room": "2204 (Board room)",
+      "title": "Transactional Replication - From Expletives to Excellence",
+      "speakers": ["Joseph Fleming"]
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "room": "2202 (Conference room)",
+      "title": "Visualization Alterations to Help Tell Your Power BI Data Story",
+      "speakers": ["Belinda Allen"]
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "30 min",
+      "room": "1002 (Auditorium)",
+      "title": "Closing Remarks and Raffles",
+      "speakers": []
+    }
+  ]
+}

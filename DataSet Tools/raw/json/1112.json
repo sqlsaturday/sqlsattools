@@ -1,0 +1,195 @@
+{
+  "event": "SQL Saturday 1112",
+  "rooms": {
+    "Cedar": "Cedar Room",
+    "Mesquite": "Mesquite Room",
+    "Live Oak": "Live Oak Room",
+    "Cypress": "Cypress Room"
+  },
+  "schedule": [
+    {
+      "time": "8:35 am",
+      "duration": 30,
+      "type": "general",
+      "title": "Registration",
+      "room": "Cedar",
+      "speaker": null
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "What Does the Microsoft Team in Austin Build?",
+      "room": "Mesquite",
+      "speaker": "Conor Cunningham"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server Migrations made easy with PowerShell",
+      "room": "Cedar",
+      "speaker": "Ben Miller"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Leveraging the power of Microsoft Fabric with SQL",
+      "room": "Mesquite",
+      "speaker": "Bob Ward"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building SQL databases in Fabric for Dashboards and Datamarts: Design, Indexing, and Compression",
+      "room": "Live Oak",
+      "speaker": "Joey Dantoni"
+    },
+    {
+      "time": "11:20 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Modern SQL Server Features That Make Life Better",
+      "room": "Cedar",
+      "speaker": "Lee Markum"
+    },
+    {
+      "time": "11:20 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Fabric Mirroring",
+      "room": "Mesquite",
+      "speaker": "Cory Brown"
+    },
+    {
+      "time": "11:20 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Understanding and Using AI for the Data Professional",
+      "room": "Live Oak",
+      "speaker": "Ginger Grant"
+    },
+    {
+      "time": "11:20 am",
+      "duration": 60,
+      "type": "session",
+      "title": "From the Audience to a Speaker on the Stage",
+      "room": "Cypress",
+      "speaker": "Dominick Raimato"
+    },
+    {
+      "time": "12:20 pm",
+      "duration": 85,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "Cedar",
+      "speaker": null
+    },
+    {
+      "time": "12:35 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server 2025: The Enterprise AI ready database",
+      "room": "Mesquite",
+      "speaker": "Bob Ward"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Architecting Zero Downtime Database Deployments",
+      "room": "Cedar",
+      "speaker": "Steve Jones"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Recent Advances in Fabric DW",
+      "room": "Mesquite",
+      "speaker": "Conor Cunningham"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Migrating Tableau to Power BI backed by Fabric",
+      "room": "Live Oak",
+      "speaker": "Kevin Arnold"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "First steps into Postgres for the SQL Server DBA",
+      "room": "Cypress",
+      "speaker": "Rick Lowe"
+    },
+    {
+      "time": "2:50 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Availability Group Listener Best Practices",
+      "room": "Cedar",
+      "speaker": "Ryan Adams"
+    },
+    {
+      "time": "2:50 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Defending Your SQL Server against Ransomware",
+      "room": "Mesquite",
+      "speaker": "Jeff Iannucci"
+    },
+    {
+      "time": "2:50 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Direct Lake Best Practices and Lessons Learned from the Past Year",
+      "room": "Live Oak",
+      "speaker": "Chaudhary Ahmad Ali"
+    },
+    {
+      "time": "2:50 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server and T-SQL Developer Tricks I Wish I'd Known 20 Years Ago",
+      "room": "Cypress",
+      "speaker": "Tim Mitchell"
+    },
+    {
+      "time": "3:55 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Transactional Replication - From Expletives to Excellence",
+      "room": "Cedar",
+      "speaker": "Joseph Fleming"
+    },
+    {
+      "time": "3:55 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "20 Stupid Things To Avoid as a DBA",
+      "room": "Mesquite",
+      "speaker": "Paresh Motiwala"
+    },
+    {
+      "time": "3:55 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Accessing Government API Data using Power BI",
+      "room": "Live Oak",
+      "speaker": "Russel Loski"
+    },
+    {
+      "time": "5:00 pm",
+      "duration": 25,
+      "type": "closing",
+      "title": "Raffle / End of Day",
+      "room": "Cedar",
+      "speaker": null
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "event_name": "Auditorio Virtual",
+  "schedule": [
+    {
+      "time": "9:00 am",
+      "duration": "30 min",
+      "activity": "Registro"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "30 min",
+      "activity": "Keynote"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "activity": "SQL Server 2025 An enterprise AI-ready database platform",
+      "speaker": "Segundo Morales Rubio"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "activity": "Unified DataOps: Integrating Power BI, Azure DevOps, and Git for Advanced Analytics Workflows",
+      "speaker": "Alan Ferrandiz"
+    },
+    {
+      "time": "11:50 am",
+      "duration": "45 min",
+      "activity": "¿Cómo obtener mi certificación en Ingenieria de Datos en Azure?",
+      "speaker": "Raul Sarachaga"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "activity": "Construye tu Primer Lakehouse en Azure con Databricks y Unity Catalog",
+      "speaker": "Alejandro Humberto Sanchez Nuñez"
+    },
+    {
+      "time": "12:40 pm",
+      "duration": "45 min",
+      "activity": "Power BI to Project Online | ABC Today",
+      "speaker": "Mayra Badillo Villamizar"
+    },
+    {
+      "time": "12:50 pm",
+      "duration": "70 min",
+      "activity": "Almuerzo"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "activity": "SQL Supercharged: Azure, Fabric & Copilot in Action",
+      "speaker": "Javier Villegas"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": "30 min",
+      "activity": "FabricOps: Pipelines, ML y Visualización Unificada",
+      "speaker": "Mayte Castillo García"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "activity": "Business Analytics en Power BI",
+      "speaker": "Renzo Roca Ramos"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "60 min",
+      "activity": "Link to Synapse en Dynamics 365 Finance and Operations",
+      "speaker": "Juan Rafael"
+    },
+    {
+      "time": "5:30 pm",
+      "duration": "50 min",
+      "activity": "Power Automate en Acción: Soluciones Reales para Tareas Cotidianas",
+      "speaker": "Pedro Castillo"
+    },
+    {
+      "time": "6:20 pm",
+      "duration": "20 min",
+      "activity": "Cierre y sorteos"
+    }
+  ]
+}

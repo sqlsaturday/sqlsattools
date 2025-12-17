@@ -1,0 +1,227 @@
+{
+  "event": "SQL Saturday 1098",
+  "rooms": {
+    "Room 1": "Room 1",
+    "Room 2": "Room 2",
+    "Room 3": "Room 3",
+    "Room 4": "Room 4"
+  },
+  "schedule": [
+    {
+      "time": "8:20 am",
+      "duration": 35,
+      "type": "general",
+      "title": "Kick off and Keynote",
+      "room": "Room 1",
+      "speaker": null
+    },
+    {
+      "time": "8:55 am",
+      "duration": 60,
+      "type": "session",
+      "title": "A Slice of Time: Window Functions in SQL Server",
+      "room": "Room 1",
+      "speaker": "Kevin Feasel"
+    },
+    {
+      "time": "8:55 am",
+      "duration": 60,
+      "type": "session",
+      "title": "A Step-by-Step Guide to Building a Data-Driven Culture",
+      "room": "Room 2",
+      "speaker": "Gethyn Ellis"
+    },
+    {
+      "time": "8:55 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building a Data Warehouse on the shores of OneLake in Microsoft Fabric",
+      "room": "Room 3",
+      "speaker": "Kevin Arnold"
+    },
+    {
+      "time": "8:55 am",
+      "duration": 60,
+      "type": "session",
+      "title": "DBA Basics: Getting Started with Performance Tuning",
+      "room": "Room 4",
+      "speaker": "John Sterrett"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Exploring Public Health Data: A Practical Guide to API Access in Power BI",
+      "room": "Room 1",
+      "speaker": "Russel Loski"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Fabric for the Power BI Developer and Consumer",
+      "room": "Room 2",
+      "speaker": "Adam Saxton, Patrick LeBlanc"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Go Faster Sooner! Discover SQL Server Index Improvements with the biggest gain for the least pain",
+      "room": "Room 3",
+      "speaker": "Bill Sanscrainte"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Snowflake concepts and architecture for data professionals",
+      "room": "Room 4",
+      "speaker": "Surbhi Pokharna"
+    },
+    {
+      "time": "11:05 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Leveraging Azure AI and Python for Data-Driven Decision Making",
+      "room": "Room 1",
+      "speaker": "Taiob Ali"
+    },
+    {
+      "time": "11:05 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Infrastructure for Data Professionals: An Introduction",
+      "room": "Room 2",
+      "speaker": "Peter Shore"
+    },
+    {
+      "time": "11:05 am",
+      "duration": 60,
+      "type": "session",
+      "title": "How do I make my dashboards prettier?",
+      "room": "Room 3",
+      "speaker": "Toni Haag"
+    },
+    {
+      "time": "11:05 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Maximizing Data Efficiency: Mastering Snowflake's Databases, Tables, and Views",
+      "room": "Room 4",
+      "speaker": "Surbhi Pokharna"
+    },
+    {
+      "time": "12:10 pm",
+      "duration": 65,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "Room 1",
+      "speaker": null
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "The magnificent seven and beyond- Intelligent Query Processing in SQL Server",
+      "room": "Room 1",
+      "speaker": "Taiob Ali"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Leverage AI to enhance your experience with Fabric Data Warehouse Copilot and AI Skills",
+      "room": "Room 2",
+      "speaker": "Christian Cote"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Leadership 101",
+      "room": "Room 3",
+      "speaker": "James Phillips"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Intro to Forecasting using Machine Learning and Python",
+      "room": "Room 4",
+      "speaker": "Bogdan Tesileanu"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Making Power BI Run Faster!!!",
+      "room": "Room 1",
+      "speaker": "Thomas LeBlanc"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Microsoft Fabric: What's new and what's next?",
+      "room": "Room 2",
+      "speaker": "Paul DeCarlo"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Securing Your Data in Microsoft Fabric: Best Practices and Strategies",
+      "room": "Room 3",
+      "speaker": "Amy Herold"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Simplify Database Security: Ditch Passwords, Embrace Zero Trust",
+      "room": "Room 4",
+      "speaker": "Manish Shah"
+    },
+    {
+      "time": "3:25 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "The Who, What, and Why of Data Lake Table Formats",
+      "room": "Room 1",
+      "speaker": "Andrew Madson"
+    },
+    {
+      "time": "3:25 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Understanding file formats within the Lakehouse",
+      "room": "Room 2",
+      "speaker": "John Miner"
+    },
+    {
+      "time": "3:25 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Using AI to Analyze Execution Query Plans",
+      "room": "Room 3",
+      "speaker": "Todd Kleinhans"
+    },
+    {
+      "time": "3:25 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "TBD",
+      "room": "Room 4",
+      "speaker": null
+    },
+    {
+      "time": "4:30 pm",
+      "duration": 30,
+      "type": "closing",
+      "title": "Wrap Up and Prizes",
+      "room": "Room 1",
+      "speaker": null
+    }
+  ]
+}

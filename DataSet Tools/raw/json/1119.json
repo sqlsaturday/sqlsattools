@@ -1,0 +1,385 @@
+{
+  "event": "SQL Saturday Event",
+  "rooms": [
+    "Room 1",
+    "Room 2",
+    "Room 3",
+    "Room 4",
+    "Room 5",
+    "Room 6",
+    "Room 7"
+  ],
+  "sessions": [
+    {
+      "time": "8:00 am",
+      "duration": "45 min",
+      "title": "Registration",
+      "room": "Room 1",
+      "type": "registration"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "30 min",
+      "title": "Announcement",
+      "room": "Room 1",
+      "type": "opening"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "The Elephant in the Room. The culture shock of moving from SQL Server to Postgres. DBA Edition",
+      "speaker": "Alex Bolenok",
+      "room": "Room 1"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "Using Data API Builder to Speed Up Application Development",
+      "speaker": "Steve Jones",
+      "room": "Room 2"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "SQL Server Internals & Architecture - 2025",
+      "speaker": "Kevin Kline",
+      "room": "Room 3"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "ChatGPT said what?!?",
+      "speaker": "Tracey Kroll",
+      "room": "Room 4"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "SQL Server Management Studio - Beyond the basics",
+      "speaker": "Adrian Mee",
+      "room": "Room 5"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "Query Hints ... What's the Worst That Can Happen",
+      "speaker": "Rick Lowe",
+      "room": "Room 6"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "Quality AI Requires Quality Data",
+      "speaker": "Edward Pollack",
+      "room": "Room 7"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Azure-ish SQL and Azure AI 101",
+      "speaker": "Matt Gordon",
+      "room": "Room 1"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "The Ascending Key Problem",
+      "speaker": "Brent Ozar",
+      "room": "Room 2"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Unlocking the Power of Data Agents and Copilot in Microsoft Fabric",
+      "speaker": "Joshua Higginbotham",
+      "room": "Room 3"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Unlocking Data Insights with Kusto Query Language (KQL)",
+      "speaker": "Paresh Motiwala",
+      "room": "Room 4"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Leveraging Large Language Models with Power BI",
+      "speaker": "John Kerski",
+      "room": "Room 5"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "A Modern Approach to Patching, Upgrades, and Technical Debt",
+      "speaker": "Allan Hirt",
+      "room": "Room 6"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Improving Analytics Performance With Columnstore Indexes",
+      "speaker": "Edward Pollack",
+      "room": "Room 7"
+    },
+    {
+      "time": "11:45 am",
+      "duration": "15 min",
+      "title": "Lunch (Grab and go)",
+      "room": "Room 1",
+      "type": "lunch"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "45 min",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform (Microsoft|AMD)",
+      "speaker": "George Walters",
+      "room": "Room 1",
+      "sponsor": "Microsoft|AMD"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "45 min",
+      "title": "Women in Tech (WIT) Panel",
+      "speaker": "Deborah Melkin",
+      "room": "Room 2",
+      "type": "panel"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "45 min",
+      "title": "Cloud HA/DR Without Breaking the Bank (SIOS)",
+      "speaker": "David Bermingham",
+      "room": "Room 3",
+      "sponsor": "SIOS"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "45 min",
+      "title": "Four Habits of Highly Successful Database and Admin Teams (SolarWinds)",
+      "speaker": "Kevin Kline",
+      "room": "Room 4",
+      "sponsor": "SolarWinds"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "45 min",
+      "title": "Breaking Free from On-Premises: Real-World SQL Orchestration Migration Challenges and JAMS Solutions",
+      "speaker": "Kevin Casey",
+      "room": "Room 5",
+      "sponsor": "JAMS"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "45 min",
+      "title": "Breaking Free From Cloud Managed SQL Server- Take Back Control and Lower Costs",
+      "speaker": "Brian Tobia",
+      "room": "Room 6"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Running a Local GenAI Model on your Laptop",
+      "speaker": "Steve Jones",
+      "room": "Room 1"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Cloud Cost Optimization in Azure: Smart Strategies with Snowflake, SQL Server, Azure SQL Hyperscale",
+      "speaker": "Surbhi Pokharna",
+      "room": "Room 2"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Conquering the Monster Proc - How to Combat Legacy Code",
+      "speaker": "Deborah Melkin",
+      "room": "Room 3"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Azure AI Search Service + Azure AI Agent Service: Building AI Agents with Intelligent Search",
+      "speaker": "Talles Valiatti",
+      "room": "Room 4"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Getting Started with DuckDB",
+      "speaker": "Kevin Feasel",
+      "room": "Room 5"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "High Quality T-SQL Deployments (CI/CD)",
+      "speaker": "Gregory Kinne",
+      "room": "Room 6"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Introduction to Microsoft Copilot Studio: Empowering AI Agents 🤖",
+      "speaker": "Jean Joseph",
+      "room": "Room 1"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Modernize your old database-heavy application to cloud architecture!",
+      "speaker": "George Walters",
+      "room": "Room 2"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "A Practical Introduction to Vector Search in SQL Server 2025",
+      "speaker": "Andy Yun",
+      "room": "Room 3"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Automating Microsoft Fabric Deployments with Azure DevOps",
+      "speaker": "Christian Cote",
+      "room": "Room 4"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "SQL Server Hosting on AWS: Options and Considerations",
+      "speaker": "Alvaro Costa-Neto",
+      "room": "Room 5"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Maximize SQL Server Performance with Read Committed Snapshot Isolation",
+      "speaker": "Haripriya Naidu",
+      "room": "Room 6"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Data API Builder - What Is It and What Can It Do for Me?",
+      "speaker": "Tony DiPesa",
+      "room": "Room 7"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "SQL Server HA and DR in Azure IaaS",
+      "speaker": "David Bermingham",
+      "room": "Room 1"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "How To Tune A Multi-Terabyte Database For Optimum Performance",
+      "speaker": "Jeff Taylor",
+      "room": "Room 2"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Scaling AI Responsibly: Why Data Governance is the First Step to Sustainable AI Adoption",
+      "speaker": "Yashasvi Singh",
+      "room": "Room 3"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Leveraging Query Store for Improved Performance",
+      "speaker": "Lee Markum",
+      "room": "Room 4"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Leveraging Microsoft Power Platform: Techniques for Integrated Low-Code Development",
+      "speaker": "Sunil Kadimdiwan",
+      "room": "Room 5"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Data Engineering with Microsoft Fabric",
+      "speaker": "John Miner",
+      "room": "Room 6"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Fabric & AIO: Unified Device Data",
+      "speaker": "Jared Rhodes",
+      "room": "Room 7"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "30 min",
+      "title": "Closing / giveaways",
+      "room": "Room 1",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 44,
+    "technical_sessions": 37,
+    "sponsored_sessions": 5,
+    "event_activities": 5,
+    "panel_discussion": 1,
+    "total_rooms": 7,
+    "session_slots": {
+      "9:30 am": 7,
+      "10:45 am": 7,
+      "12:00 pm": 6,
+      "1:00 pm": 6,
+      "2:15 pm": 7,
+      "3:30 pm": 7
+    },
+    "topics": [
+      "SQL Server 2025",
+      "Microsoft Fabric",
+      "AI and Copilot",
+      "PostgreSQL Migration",
+      "Azure Services",
+      "Power BI",
+      "Data API Builder",
+      "Vector Search",
+      "Performance Tuning",
+      "Cloud Cost Optimization",
+      "Data Governance",
+      "DuckDB",
+      "Kusto Query Language (KQL)",
+      "CI/CD",
+      "AWS"
+    ],
+    "session_types": {
+      "standard": 37,
+      "sponsored": 5,
+      "panel": 1,
+      "event_activities": 4
+    },
+    "notable_speakers": [
+      "Kevin Kline (2 sessions)",
+      "Edward Pollack (2 sessions)",
+      "Steve Jones (2 sessions)",
+      "George Walters (2 sessions)"
+    ],
+    "sponsors": [
+      "Microsoft|AMD",
+      "SIOS",
+      "SolarWinds",
+      "JAMS"
+    ],
+    "unique_features": [
+      "Women in Tech (WIT) Panel",
+      "Grab and go lunch format",
+      "Multiple sponsor sessions during lunch slot",
+      "7 parallel tracks throughout",
+      "Mix of 45-min and 60-min sessions"
+    ]
+  }
+}

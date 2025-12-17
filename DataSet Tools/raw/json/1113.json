@@ -1,0 +1,254 @@
+{
+  "event": "SQL Saturday Atlanta",
+  "rooms": [
+    "115",
+    "313 (50)",
+    "118 (32)"
+  ],
+  "sessions": [
+    {
+      "time": "9:00 am",
+      "duration": "15 min",
+      "title": "Registration",
+      "room": "313 (50)",
+      "type": "registration"
+    },
+    {
+      "time": "9:15 am",
+      "duration": "15 min",
+      "title": "Keynote - Armando Lacerda MVP",
+      "room": "313 (50)",
+      "type": "keynote"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "Introduction to Azure Databricks and Apache Spark for the absolute beginner",
+      "speaker": "Ike Ellis",
+      "room": "115"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "The Who, What, and Why of Data Lake Table Formats",
+      "speaker": "Andrew Madson",
+      "room": "313 (50)"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "Simplify your SQL with the new BigQuery pipe syntax",
+      "speaker": "Zdravko Danev",
+      "room": "118 (32)"
+    },
+    {
+      "time": "10:30 am",
+      "duration": "15 min",
+      "title": "Break",
+      "room": "313 (50)",
+      "type": "break"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Data processing with Databricks SQL",
+      "speaker": "Dustin Vannoy",
+      "room": "115"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Scalable Sentiment Analysis for Hospitals with OpenAI and Azure Fabric",
+      "speaker": "Iurii Iurchenko",
+      "room": "313 (50)"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Leadership Principles Uncovered...",
+      "speaker": "Warren Sifre",
+      "room": "118 (32)"
+    },
+    {
+      "time": "11:45 am",
+      "duration": "15 min",
+      "title": "Break",
+      "room": "313 (50)",
+      "type": "break"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "Data Lake or Data Warehouse? Which one makes sense?",
+      "speaker": "Ginger Grant",
+      "room": "115"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "Better Together: Amazon SageMaker Lakehouse and RDS SQL Server, a Gen AI data integration use case",
+      "speaker": "Camilo Leon",
+      "room": "313 (50)"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "SQL Server Hosting on AWS: Options and Considerations",
+      "speaker": "Alvaro Costa-Neto",
+      "room": "118 (32)"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Lunch",
+      "room": "313 (50)",
+      "type": "lunch"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "speaker": "Armando Lacerda",
+      "room": "115"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "title": "Direct Lake Best Practices and Lessons Learned from the Past Year",
+      "speaker": "Chaudhary Ahmad Ali",
+      "room": "313 (50)"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "title": "LangChain: A Crash Course",
+      "speaker": "Scott Reed",
+      "room": "118 (32)"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": "15 min",
+      "title": "Break",
+      "room": "313 (50)",
+      "type": "break"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "title": "Unified and open governance for data and AI",
+      "speaker": "Scott Grzybowski",
+      "room": "115"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "title": "AI-Powered Data Masking and Safety: A Technical Perspective",
+      "speakers": ["Arun Kumar Agunuru", "Christopher Tiomico"],
+      "room": "313 (50)"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "title": "How SQL Server and AI work together?",
+      "speaker": "Armando Lacerda",
+      "room": "118 (32)"
+    },
+    {
+      "time": "4:15 pm",
+      "duration": "15 min",
+      "title": "Break",
+      "room": "313 (50)",
+      "type": "break"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "60 min",
+      "title": "AI Meets SQL: Machine Learning Strategies on Databricks Data Intelligence Platform",
+      "speaker": "Ali Mostafizi",
+      "room": "115"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "60 min",
+      "title": "Lock It Down: Database Security Best Practices",
+      "speaker": "Thomas Hull",
+      "room": "313 (50)"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "60 min",
+      "title": "Optimizing System Performance in the Modern Software Ecosystem",
+      "speaker": "Sai prasad Veluru",
+      "room": "118 (32)"
+    },
+    {
+      "time": "5:30 pm",
+      "duration": "30 min",
+      "title": "Raffle",
+      "room": "313 (50)",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 26,
+    "technical_sessions": 18,
+    "event_activities": 8,
+    "total_rooms": 3,
+    "room_capacities": {
+      "115": "Unknown",
+      "313": "50 capacity",
+      "118": "32 capacity"
+    },
+    "session_slots": {
+      "9:30 am": 3,
+      "10:45 am": 3,
+      "12:00 pm": 3,
+      "2:00 pm": 3,
+      "3:15 pm": 3,
+      "4:30 pm": 3
+    },
+    "topics": [
+      "Azure Databricks",
+      "Apache Spark",
+      "Data Lake Table Formats",
+      "BigQuery",
+      "SQL Server 2025",
+      "AI and Machine Learning",
+      "Microsoft Fabric",
+      "AWS Services",
+      "Data Governance",
+      "LangChain",
+      "Data Masking",
+      "Database Security",
+      "Sentiment Analysis",
+      "Leadership"
+    ],
+    "session_types": {
+      "standard": 17,
+      "co_presented": 1,
+      "event_activities": 8
+    },
+    "notable_speakers": [
+      "Armando Lacerda (3 appearances - Keynote + 2 sessions)",
+      "Camilo Leon",
+      "Ginger Grant"
+    ],
+    "unique_features": [
+      "Short 15-minute keynote",
+      "Frequent 15-minute breaks",
+      "Room capacities specified in names",
+      "3 parallel tracks throughout",
+      "Healthcare-specific AI session",
+      "Leadership development content",
+      "Multi-vendor content (Azure, AWS, Google BigQuery)"
+    ],
+    "schedule_pattern": {
+      "registration": "9:00 am (15 min)",
+      "keynote": "9:15 am (15 min)",
+      "technical_blocks": 6,
+      "breaks": 5,
+      "lunch": "1:00 pm (60 min)",
+      "closing": "5:30 pm (30 min)"
+    }
+  }
+}

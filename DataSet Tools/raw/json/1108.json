@@ -1,0 +1,171 @@
+{
+  "event": "SQL Saturday 1108",
+  "rooms": {
+    "Room 1": "Room 1",
+    "Room 2": "Room 2", 
+    "Room 3": "Room 3",
+    "Room 4": "Room 4"
+  },
+  "schedule": [
+    {
+      "time": "8:20 am",
+      "duration": 35,
+      "type": "general",
+      "title": "Opening",
+      "room": "Room 1",
+      "speaker": null
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "room": "Room 1",
+      "speaker": "Paul DeCarlo"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Analytics Operating Model - Value Realization Best Practices",
+      "room": "Room 2",
+      "speaker": "Tommy Ogden"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Node to Note: Transforming Speech into Text Magic with Node.js",
+      "room": "Room 3",
+      "speaker": "Erez Carmel"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Ensuring Data Integrity and Privacy \"A Guide for Database Administrators\"",
+      "room": "Room 4",
+      "speaker": "Balakrishna Boddu"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Fabric: What's new and what's next?",
+      "room": "Room 1",
+      "speaker": "Geraldine Caszo"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Automating Your Data Infrastructure for Faster AI & Analytics",
+      "room": "Room 2",
+      "speaker": "Patrick O'Halloran"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Security in the Era of AI: How Do We Protect Our Personal Information?",
+      "room": "Room 3",
+      "speaker": "Abbas Rianat"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "R.A.G. to Riches: Mastering Data Selection for Remarkable LLMs",
+      "room": "Room 4",
+      "speaker": "Zac Brown"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Modernization and Future Power of Automated for Database Administration Essential Best Practices",
+      "room": "Room 1",
+      "speaker": "Sethu Sesha Synam Neeli"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Leverage AI to enhance your experience with Fabric Data Warehouse Copilot and AI Skills",
+      "room": "Room 2",
+      "speaker": "Christian Cote"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "The Linguistics of Large Language Models: What Your AI's Mistakes Reveal",
+      "room": "Room 3",
+      "speaker": "Chaitanya Rahalkar"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "Room 1",
+      "speaker": null
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Real-Time Query Magic: Leveraging Vector Indexing for Lightning quick AI and Analytics",
+      "room": "Room 1",
+      "speaker": "Barkha Herman"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Copilot for Fabric Data Engineering",
+      "room": "Room 2",
+      "speaker": "Christian Cote"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Developing Conversational AI Applications with the AWS Bedrock Platform",
+      "room": "Room 3",
+      "speaker": "Sainath Muvva"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "The Evolution of AI: Agents, Autonomy, and Beyond",
+      "room": "Room 1",
+      "speaker": "Naveen Krishnan"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Leading for Impact: 7 Behaviors of Transformational Leaders",
+      "room": "Room 2",
+      "speaker": "N.J. Robinson"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Customizing Azure Open AI models with fine-tuning",
+      "room": "Room 3",
+      "speaker": "Talles Valiatti"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 35,
+      "type": "closing",
+      "title": "Wrap Up",
+      "room": "Room 1",
+      "speaker": null
+    }
+  ]
+}

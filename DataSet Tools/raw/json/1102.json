@@ -1,0 +1,350 @@
+{
+  "event": "SQL Saturday 1102",
+  "rooms": {
+    "Room 251": "Room 251",
+    "Room 252": "Room 252",
+    "Room 253": "Room 253",
+    "Room 258": "Room 258",
+    "Room 293": "Room 293",
+    "Room 294": "Room 294",
+    "Room 122": "Room 122",
+    "Room 281": "Room 281 (Hub 3)",
+    "Room 282": "Room 282 (Hub 4)",
+    "Auditorium": "Auditorium"
+  },
+  "schedule": [
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power Hour- Introduction to Power BI",
+      "room": "Room 251",
+      "speaker": "Christopher Small",
+      "track": "Power BI"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Show your KPIs in an enticing way",
+      "room": "Room 252",
+      "speaker": "Fernando Calero",
+      "track": "Power BI"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "AI in Action: Supercharging Power BI Development and Troubleshooting",
+      "room": "Room 253",
+      "speaker": "Michael McKinley",
+      "track": "AI"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Fabric Semantic Link Labs: A Link to the Future",
+      "room": "Room 258",
+      "speaker": "Jason Romans",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Powershell DBATools for SQL Developers",
+      "room": "Room 293",
+      "speaker": "Mike Burek",
+      "track": "Powershell"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Streamlining DataOps in Fabric: Implementing Azure DevOps CI/CD Pipelines for Fabric SQL DB",
+      "room": "Room 294",
+      "speaker": "Kevin Pereira",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "BI versus Relational Design",
+      "room": "Room 122",
+      "speaker": "Louis Davidson",
+      "track": "Data Modeling"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Telling stories with data (it's more than charts and graphs)",
+      "room": "Room 281",
+      "speaker": "Tim Costello",
+      "track": "Storytelling * Visualization"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "How SQL Server and AI work together?",
+      "room": "Room 282",
+      "speaker": "Armando Lacerda",
+      "track": "SQL"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Automated Testing with DAX Query View and Git Integration",
+      "room": "Room 251",
+      "speaker": "Roshini Damodaran, John Kerski",
+      "track": "Power BI"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Exploring Writeback in Power BI and Fabric",
+      "room": "Room 252",
+      "speaker": "Greg Kramer, Belinda Allen",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Harnessing Hidden Potential in Power Query",
+      "room": "Room 253",
+      "speaker": "Dominick Raimato",
+      "track": "Power BI"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Integrate OpenAI into Your Code with Semantic Kernel",
+      "room": "Room 258",
+      "speaker": "Kevin Feasel",
+      "track": "AI"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "PowerShell Output Formatting That Doesn't Suck",
+      "room": "Room 293",
+      "speaker": "James Petty",
+      "track": "Powershell"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "AI in Action: Unlocking Excel's Potential with Copilot",
+      "room": "Room 294",
+      "speaker": "Charles Faulkner",
+      "track": "Advanced Analytics"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Modern Data Quality Practices For Your Analytics Environment",
+      "room": "Room 122",
+      "speaker": "Preston Mesarvey",
+      "track": "Data Development"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Management Knowledge for Business Professionals",
+      "room": "Room 281",
+      "speaker": "Lisa Horne",
+      "track": "Architecture"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "DAX 201: CALCULATE, Unfolding the Swiss Army Knife of DAX Functions",
+      "room": "Room 251",
+      "speaker": "Michael Hewitt, Mark Walter",
+      "track": "Power BI"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI monitoring with Log Analytics Workspace",
+      "room": "Room 252",
+      "speaker": "Akshata Revankar",
+      "track": "Power BI"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Lightning Talks",
+      "room": "Room 253",
+      "speaker": "Santhana Lakshmi Ponnurasan, Deborah Melkin, Jason Romans, Andy Yun, Jared Rhodes",
+      "track": "Lightning Talk"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Leveraging Copilot for Live Data Analytics in Microsoft Fabric",
+      "room": "Room 258",
+      "speaker": "Anupama Natarajan",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "PowerShell Essentials: Automating Data Tasks with ImportExcel",
+      "room": "Room 293",
+      "speaker": "Phil Bossman",
+      "track": "Powershell"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Stop Dreading DAX",
+      "room": "Room 294",
+      "speaker": "Jackie Kiadii",
+      "track": "DAX"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Best Practices for Building a Data Warehouse",
+      "room": "Room 122",
+      "speaker": "Daniel Taylor, Bradley Schacht",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Fabric Warehouse vs. Fabric Lakehouse: Choosing the Right Architecture for Your Environment",
+      "room": "Room 281",
+      "speaker": "Jeff Levy",
+      "track": "Azure"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "room": "Room 282",
+      "speaker": "Daniel Taylor, Armando Lacerda",
+      "track": "Sponsor"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Mastering Data Quality Validation in Fabric for Power BI Reports",
+      "room": "Room 251",
+      "speaker": "Sukhwant Kaur, Bradley Schacht",
+      "track": "SQL"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "PowerBI for the Database Administrator",
+      "room": "Room 252",
+      "speaker": "Peter Shore",
+      "track": "Power BI"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure Data Factory (ADF) - Your New SSIS",
+      "room": "Room 253",
+      "speaker": "Jeff Taylor",
+      "track": "ETL"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Make Your Power BI Reports Pop",
+      "room": "Room 251",
+      "speaker": "Angela Henry",
+      "track": "Power BI"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Dataverse: Everything, Everywhere, Here and There",
+      "room": "Room 252",
+      "speaker": "Charles Lakes II",
+      "track": "Data Development"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Databricks Unity Catalog - Data Governance and lot more",
+      "room": "Room 253",
+      "speaker": "Chandan Dutta",
+      "track": "Databricks"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "You have the reports, but no Action - Microsoft Fabric's Activator for the win!",
+      "room": "Room 258",
+      "speaker": "Trey Johnson",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Unlocking Real-Time Intelligence with Microsoft Fabric: From Purpose to Practical Use",
+      "room": "Room 293",
+      "speaker": "Joshua Higginbotham",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Microsoft Fabric: Complete Data Security for Data Warehousing",
+      "room": "Room 294",
+      "speaker": "Jean Joseph",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Governance with Microsoft Purview and Fabric",
+      "room": "Room 122",
+      "speaker": "Jared Rhodes",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "5:05 pm",
+      "duration": 30,
+      "type": "closing",
+      "title": "Raffles & Closing @ Auditorium",
+      "room": "Auditorium",
+      "speaker": "Damodaran (Damu) Venkatesan, Preston Mesarvey",
+      "track": null
+    }
+  ]
+}

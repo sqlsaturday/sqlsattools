@@ -1,0 +1,365 @@
+{
+  "event": "SQL Saturday 1105",
+  "rooms": [
+    {
+      "name": "Central Park West 6501",
+      "capacity": 200
+    },
+    {
+      "name": "Central Park East 6501a",
+      "capacity": 80
+    },
+    {
+      "name": "Radio City 6604",
+      "capacity": 48
+    },
+    {
+      "name": "Belasco 6203",
+      "capacity": 20
+    },
+    {
+      "name": "Ambassador 6202",
+      "capacity": 18
+    },
+    {
+      "name": "Booth 6201",
+      "capacity": 10
+    },
+    {
+      "name": "Jacobs 6110",
+      "capacity": 16,
+      "track": "Student/Beginner Track"
+    }
+  ],
+  "schedule": [
+    {
+      "time": "8:20 am",
+      "duration": 25,
+      "sessions": [
+        {
+          "title": "Meet the Sponsors and Breakfast",
+          "room": "Central Park West 6501",
+          "speakers": [],
+          "type": "breakfast"
+        }
+      ]
+    },
+    {
+      "time": "8:45 am",
+      "duration": 60,
+      "sessions": [
+        {
+          "title": "Debating Two Viewpoints on Indexing - Development vs Operations",
+          "room": "Central Park West 6501",
+          "speakers": ["Deborah Melkin", "Andy Yun"]
+        },
+        {
+          "title": "Let's keep it private - Azure networking cases",
+          "room": "Central Park East 6501a",
+          "speakers": ["Armando Lacerda"]
+        },
+        {
+          "title": "Data Virtualization in SQL Server 2022",
+          "room": "Radio City 6604",
+          "speakers": ["Kevin Feasel"]
+        },
+        {
+          "title": "Load Data Faster into SQL Server Tables",
+          "room": "Belasco 6203",
+          "speakers": ["Haripriya Naidu"]
+        },
+        {
+          "title": "Everything You Know About Isolation Levels Is Wrong",
+          "room": "Ambassador 6202",
+          "speakers": ["Erik Darling"]
+        },
+        {
+          "title": "SQL101 -- Learning about SQL: Building a Sandbox",
+          "room": "Booth 6201",
+          "speakers": ["Ray Kim"]
+        },
+        {
+          "title": "Roadmap for Technology Today & Tomorrow",
+          "room": "Jacobs 6110",
+          "speakers": ["Jaimie Fox", "Thomas Grohser", "Brandon Leach", "Erik Darling", "Art Pugach"]
+        }
+      ]
+    },
+    {
+      "time": "9:45 am",
+      "duration": 15,
+      "sessions": [
+        {
+          "title": "Break 1",
+          "room": "Central Park West 6501",
+          "speakers": [],
+          "type": "break"
+        }
+      ]
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "sessions": [
+        {
+          "title": "SQL Server Detective: Investigating Logs and Traces for Optimal Performance",
+          "room": "Central Park West 6501",
+          "speakers": ["Taiob Ali"]
+        },
+        {
+          "title": "Mastering Microsoft Fabric Data Warehousing: Tips & Tricks You Need to Know",
+          "room": "Central Park East 6501a",
+          "speakers": ["Kristyna Ferris"]
+        },
+        {
+          "title": "Database Development in a 24/7 Environment",
+          "room": "Radio City 6604",
+          "speakers": ["Milos Radivojevic"]
+        },
+        {
+          "title": "Terraform + Microsoft Fabric = OneLove",
+          "room": "Belasco 6203",
+          "speakers": ["Rune Ovlien Rakeie"]
+        },
+        {
+          "title": "Like a Version - System Versioned Temporal Tables",
+          "room": "Ambassador 6202",
+          "speakers": ["Adrian Mee"]
+        },
+        {
+          "title": "Azure Database: Cost Optimization and Beyond",
+          "room": "Booth 6201",
+          "speakers": ["Art Pugach"]
+        },
+        {
+          "title": "Career Exploration Panel",
+          "room": "Jacobs 6110",
+          "speakers": ["Jaimie Fox"]
+        }
+      ]
+    },
+    {
+      "time": "11:00 am",
+      "duration": 15,
+      "sessions": [
+        {
+          "title": "Break 2",
+          "room": "Central Park West 6501",
+          "speakers": [],
+          "type": "break"
+        }
+      ]
+    },
+    {
+      "time": "11:15 am",
+      "duration": 75,
+      "sessions": [
+        {
+          "title": "But Why Shouldn't We Do That? Reasoning Behind Some of Our Favorite Best Practices.",
+          "room": "Central Park West 6501",
+          "speakers": ["Rick Lowe"]
+        },
+        {
+          "title": "Create an analytics foundation using Fabric Warehouse",
+          "room": "Central Park East 6501a",
+          "speakers": ["John Miner"]
+        },
+        {
+          "title": "Unlocking Real-Time Intelligence with Microsoft Fabric: From Purpose to Practical Use",
+          "room": "Belasco 6203",
+          "speakers": ["Joshua Higginbotham"]
+        },
+        {
+          "title": "What makes Data Enterprise Data",
+          "room": "Jacobs 6110",
+          "speakers": ["Thomas Grohser"]
+        }
+      ]
+    },
+    {
+      "time": "11:15 am",
+      "duration": 60,
+      "sessions": [
+        {
+          "title": "From Code to Leadership: Navigating the Tech Landscape as a Woman",
+          "room": "Radio City 6604",
+          "speakers": ["Shannon C. Ryan"]
+        },
+        {
+          "title": "Using Data API Builder to Speed Up Application Development",
+          "room": "Ambassador 6202",
+          "speakers": ["Steve Jones"]
+        },
+        {
+          "title": "Microsoft Fabric Spark SQL Tutorial: An Introductory Guide for Beginners",
+          "room": "Booth 6201",
+          "speakers": ["Jean Joseph"]
+        }
+      ]
+    },
+    {
+      "time": "12:15 pm",
+      "duration": 30,
+      "sessions": [
+        {
+          "title": "Lunch Pickup",
+          "room": "Central Park West 6501",
+          "speakers": [],
+          "type": "lunch"
+        }
+      ]
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "sessions": [
+        {
+          "title": "SQL Server 2025: an enterprise AI-ready database platform",
+          "room": "Central Park West 6501",
+          "speakers": ["George Walters"]
+        },
+        {
+          "title": "Safeguard business-critical data and optimize performance with Redgate Monitor",
+          "room": "Central Park East 6501a",
+          "speakers": ["Stas Khromoy"]
+        },
+        {
+          "title": "Women in Tech (WIT) Panel",
+          "room": "Radio City 6604",
+          "speakers": ["Deborah Melkin"]
+        }
+      ]
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 15,
+      "sessions": [
+        {
+          "title": "Break 3",
+          "room": "Central Park West 6501",
+          "speakers": [],
+          "type": "break"
+        }
+      ]
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "sessions": [
+        {
+          "title": "What is Microsoft Fabric?",
+          "room": "Central Park West 6501",
+          "speakers": ["David Patrick"]
+        },
+        {
+          "title": "Principles of architecting a cloud data migration",
+          "room": "Central Park East 6501a",
+          "speakers": ["Surbhi Pokharna"]
+        },
+        {
+          "title": "Learnings from the latest breaches: Approaching security for SQL Server and Azure SQL strategically",
+          "room": "Radio City 6604",
+          "speakers": ["Andreas Wolter"]
+        },
+        {
+          "title": "Data Governance with Microsoft Purview and Fabric",
+          "room": "Belasco 6203",
+          "speakers": ["Jared Rhodes"]
+        },
+        {
+          "title": "An introduction to SQL Server database projects",
+          "room": "Ambassador 6202",
+          "speakers": ["Magnus Ahlkvist"]
+        },
+        {
+          "title": "Running SQL Server on Linux",
+          "room": "Booth 6201",
+          "speakers": ["Andrew Pruski"]
+        },
+        {
+          "title": "Career Perspectives of Technologists",
+          "room": "Jacobs 6110",
+          "speakers": ["Jaimie Fox", "Jean Joseph"]
+        }
+      ]
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 15,
+      "sessions": [
+        {
+          "title": "Break 4",
+          "room": "Central Park West 6501",
+          "speakers": [],
+          "type": "break"
+        }
+      ]
+    },
+    {
+      "time": "3:15 pm",
+      "duration": 75,
+      "sessions": [
+        {
+          "title": "Professional DP-700 exam guide for Fabricators in 75 minutes",
+          "room": "Radio City 6604",
+          "speakers": ["Frank Geisler"]
+        },
+        {
+          "title": "Unveiling the Future: Dive into Cloud Databases and Analytics with Fabric",
+          "room": "Belasco 6203",
+          "speakers": ["George Walters"]
+        },
+        {
+          "title": "Moving from Power BI to Microsoft Fabric",
+          "room": "Ambassador 6202",
+          "speakers": ["Paul Turley"]
+        }
+      ]
+    },
+    {
+      "time": "3:15 pm",
+      "duration": 60,
+      "sessions": [
+        {
+          "title": "Wait Wait Do Tell Me: A Look At SQL Server Wait Stats",
+          "room": "Central Park West 6501",
+          "speakers": ["Peter Shore"]
+        },
+        {
+          "title": "Protect Your Data's Privacy! Data Encryption with SQL Server",
+          "room": "Central Park East 6501a",
+          "speakers": ["Joe Kuemerle"]
+        },
+        {
+          "title": "Mastering the Soft Side of your Technical Role: Mastering Meetings",
+          "room": "Booth 6201",
+          "speakers": ["Kristen B. Hubler"]
+        }
+      ]
+    },
+    {
+      "time": "4:15 pm",
+      "duration": 20,
+      "sessions": [
+        {
+          "title": "Break 5",
+          "room": "Central Park West 6501",
+          "speakers": [],
+          "type": "break"
+        }
+      ]
+    },
+    {
+      "time": "4:35 pm",
+      "duration": 25,
+      "sessions": [
+        {
+          "title": "Closing & Giveaways",
+          "room": "Central Park West 6501",
+          "speakers": [],
+          "type": "closing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "event": "SQL Saturday 1115",
+  "rooms": {
+    "W": "Quest Software Nook (kitchen area)",
+    "X": "Microsoft Terrace (classroom by kitchen)",
+    "Y": "Databricks Den (faraway conference room)",
+    "Z": "AWS Lounge (reception conference room)"
+  },
+  "schedule": [
+    {
+      "time": "9:00 am",
+      "duration": 30,
+      "type": "general",
+      "title": "Registration + Caffeine + Visit sponsors",
+      "room": "All",
+      "speaker": null
+    },
+    {
+      "time": "9:30 am",
+      "duration": 15,
+      "type": "keynote",
+      "title": "Keynote (#SQLSaturday, #SQLFamily, #UserGroup)",
+      "room": "All",
+      "speaker": null
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "ABC is for kids, SQL is for you",
+      "room": "X",
+      "speaker": "Atcha Abe"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Observing and Deploying Trino on Kubernetes with Pulumi",
+      "room": "Y",
+      "speaker": "Matt Stephenson"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Database Evolution: Migrating from Monolithic SQL to Serverless Data Architecture on AWS",
+      "room": "Z",
+      "speaker": "Srikar Kompella"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 20,
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffles",
+      "room": "W",
+      "speaker": null
+    },
+    {
+      "time": "11:05 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Optimizing Power BI Workloads for Fabric Capacities",
+      "room": "X",
+      "speaker": "Samson Truong"
+    },
+    {
+      "time": "11:05 am",
+      "duration": 60,
+      "type": "session",
+      "title": "AI-Powered Cybersecurity: A Strategic Framework for Automated Threat Management & Protection",
+      "room": "Y",
+      "speaker": "Venkata Krishna Ramesh Kumar Koppireddy"
+    },
+    {
+      "time": "11:05 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Simplify your SQL with the new BigQuery pipe syntax",
+      "room": "Z",
+      "speaker": "Zdravko Danev"
+    },
+    {
+      "time": "12:05 pm",
+      "duration": 20,
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffles",
+      "room": "W",
+      "speaker": null
+    },
+    {
+      "time": "12:25 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "room": "X",
+      "speaker": "Armando Lacerda"
+    },
+    {
+      "time": "12:25 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "dbt + Databricks: SQL based ELT",
+      "room": "Y",
+      "speaker": "Dustin Vannoy"
+    },
+    {
+      "time": "12:25 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Better Together: Amazon SageMaker Lakehouse and RDS SQL Server, a Gen AI data integration use case",
+      "room": "Z",
+      "speaker": "Camilo Leon"
+    },
+    {
+      "time": "1:25 pm",
+      "duration": 45,
+      "type": "lunch",
+      "title": "Lunch Break - network, visit sponsors, and register for raffles",
+      "room": "W",
+      "speaker": null
+    },
+    {
+      "time": "2:10 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Practical Insights on SQL Server Consolidation and Migration",
+      "room": "X",
+      "speaker": "Andreas Wolter"
+    },
+    {
+      "time": "2:10 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "How to succeed as a Power BI consultant",
+      "room": "Y",
+      "speaker": "Ike Ellis"
+    },
+    {
+      "time": "2:10 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Mastering Data Orchestration with Azure Data Factory: Streamlining Ops & Boosting Scalability",
+      "room": "Z",
+      "speaker": "Lokesh kumar Madabathula"
+    },
+    {
+      "time": "3:10 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffles",
+      "room": "W",
+      "speaker": null
+    },
+    {
+      "time": "3:25 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "How much SQL do you need to know as developer?",
+      "room": "X",
+      "speaker": "Hasan Savran"
+    },
+    {
+      "time": "3:25 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Harnessing Generative AI to Optimize Hybrid Cloud Workloads: A New Era in Enterprise Infrastructure",
+      "room": "Y",
+      "speaker": "Vijayakumar Jayaseelan"
+    },
+    {
+      "time": "3:25 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Development Challenges in Today's Database Environment",
+      "room": "Z",
+      "speaker": "Janis Griffin"
+    },
+    {
+      "time": "4:25 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffles",
+      "room": "W",
+      "speaker": null
+    },
+    {
+      "time": "4:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Harnessing Advanced Machine Learning to Enhance MCCA Reimbursement Protection & Fight Fraud",
+      "room": "X",
+      "speaker": "Sasidhar Reddy Somula"
+    },
+    {
+      "time": "4:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Safeguarding PII in Cloud Environments: Advanced Security Tactics and Best Practices",
+      "room": "Y",
+      "speaker": "Sharath Chandra Adupa"
+    },
+    {
+      "time": "4:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Transforming Test Automation: The Universal Automation Framework for the Future of Software Testing",
+      "room": "Z",
+      "speaker": "Sujeeth Venkata Rama Manchikanti"
+    },
+    {
+      "time": "5:40 pm",
+      "duration": 30,
+      "type": "closing",
+      "title": "Raffle and closing",
+      "room": "All",
+      "speaker": null
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "event": "SQL Saturday Chicago",
+  "rooms": [
+    "Theater",
+    "Room 1506",
+    "Room 1508",
+    "Room 1510",
+    "Room 1512",
+    "Room 1514",
+    "Cafeteria"
+  ],
+  "sessions": [
+    {
+      "time": "8:00 am",
+      "duration": "30 min",
+      "title": "Registration and Networking",
+      "type": "registration"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "20 min",
+      "title": "Welcome",
+      "type": "opening"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "speaker": "John Deardurff",
+      "room": "Theater"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "The Underdog of Automation: Why VBA Still Powers Critical Data Workflows in 2025",
+      "speaker": "Venkat Kokku",
+      "room": "Room 1506"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "10 Visual Studio Hidden Gems for Database Development",
+      "speaker": "Erin Dempster",
+      "room": "Room 1508"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Build modern Apps with GenAI Capabilities on PostgreSQL",
+      "speaker": "Varun Dhawan",
+      "room": "Room 1510"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Scoping Data and AI Projects",
+      "speaker": "Ross McNeely",
+      "room": "Room 1512"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Translytical Task Flows in Fabric: Breaking Silos for Real-Time Insight and Action",
+      "speaker": "Matt Stenzel",
+      "room": "Room 1514"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "GitHub Coding Agent - Your new teammate",
+      "speaker": "Cameron Vetter",
+      "room": "Theater"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Unmasking SQL Server - Side Channel Attacks",
+      "speaker": "Ben Johnston",
+      "room": "Room 1506"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "All-in-One Data Platform? A Deep Dive into Microsoft Fabric",
+      "speakers": ["Sai mounika Yedlapalli", "Chinni Krishna Abburi"],
+      "room": "Room 1508"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Copilot in Microsoft Fabric",
+      "speaker": "Dan English",
+      "room": "Room 1510"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Sales Forecasting with Microsoft Fabric Notebooks and Fabric Data Science",
+      "speaker": "Belinda Allen",
+      "room": "Room 1512"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Build a Better PowerBI Data Dictionary",
+      "speaker": "Brent Meulebroeck",
+      "room": "Room 1514"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Lunch",
+      "room": "Cafeteria",
+      "type": "lunch"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Unified and open governance for data and AI",
+      "speaker": "Scott Grzybowski",
+      "room": "Theater"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Machine Learning Madness: ML Capabilities in Microsoft Fabric",
+      "speaker": "Luke McElroy",
+      "room": "Room 1506"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Power BI Model and Report Optimization Tips",
+      "speaker": "Dan English",
+      "room": "Room 1508"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "From Ingestion to Insights: Building Robust Data Pipelines in AWS",
+      "speaker": "Santosh Durgam",
+      "room": "Room 1510"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Talk to Your Data: Building a Sales Operations Copilot Using Azure SQL and Copilot Studio",
+      "speaker": "Samir Makwana",
+      "room": "Room 1512"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "AI-Ready: Preparing for and Using AI in Power BI and Microsoft Fabric",
+      "speakers": ["Belinda Allen", "Stacey Rudoy"],
+      "room": "Room 1514"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "title": "Real-World EF Core: Common Problems, Modern Solutions",
+      "speaker": "Brian Gorman",
+      "room": "Theater"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "title": "Parse Trees, Memos, Transformation Rules and Other Hidden Objects in SQL Server",
+      "speaker": "Breanna Hansen",
+      "room": "Room 1506"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "title": "Metadata-driven Data Quality Frameworks in Fabric",
+      "speakers": ["Alex Cook", "Chad Losee", "Cheryl Protas"],
+      "room": "Room 1508"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "title": "SSMS Copilot - A New Tool for your Database",
+      "speaker": "Jared Kuehn",
+      "room": "Room 1510"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "title": "Designing for Scale: Best Practices for Microsoft Fabric Capacity Planning",
+      "speaker": "Matt Stenzel",
+      "room": "Room 1512"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "title": "Fabric Semantic Models are the Foundation for good math with AI",
+      "speaker": "Greg Beaumont",
+      "room": "Room 1514"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "title": "Microsoft Graph API with VBA",
+      "speaker": "Maria Barnes",
+      "room": "Theater"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "title": "Data-Driven ROI: How SQL Server Powers Digital Transformation in Healthcare and Finance",
+      "speaker": "Venkata Mogili",
+      "room": "Room 1506"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "title": "Getting Started: Writing Stored Procedures",
+      "speaker": "John Deardurff",
+      "room": "Room 1508"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "title": "Securing Your Data Estate: Modern Cybersecurity Strategies for SQL Server and Cloud Data Platforms",
+      "speaker": "Divakar Duraiyan",
+      "room": "Room 1510"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "60 min",
+      "title": "Closing and Raffle",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 33,
+    "technical_sessions": 28,
+    "event_activities": 5,
+    "total_rooms": 7,
+    "session_slots": {
+      "9:00 am": 6,
+      "10:15 am": 6,
+      "12:45 pm": 6,
+      "2:00 pm": 6,
+      "3:15 pm": 4
+    },
+    "topics": [
+      "SQL Server 2025",
+      "Microsoft Fabric",
+      "AI and Copilot",
+      "Power BI",
+      "Machine Learning",
+      "Data Quality",
+      "PostgreSQL",
+      "AWS Data Pipelines",
+      "VBA and Graph API",
+      "Security and Cybersecurity",
+      "Entity Framework Core",
+      "GitHub Coding Agent"
+    ],
+    "session_types": {
+      "standard": 25,
+      "co_presented_2": 2,
+      "co_presented_3": 1,
+      "event_activities": 5
+    },
+    "notable_speakers": [
+      "John Deardurff (2 sessions)",
+      "Belinda Allen (2 sessions)",
+      "Dan English (2 sessions)",
+      "Matt Stenzel (2 sessions)"
+    ],
+    "unique_topics": [
+      "VBA automation in 2025",
+      "Side Channel Attacks on SQL Server",
+      "Microsoft Graph API with VBA",
+      "Translytical Task Flows"
+    ]
+  }

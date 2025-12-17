@@ -1,0 +1,424 @@
+{
+  "event": "SQL Saturday Miami",
+  "main_venue": "Cotilla Gallery (2nd. floor)",
+  "room_codes": {
+    "100": "Beginner/Introductory",
+    "200": "Intermediate",
+    "300": "Advanced",
+    "400": "Expert"
+  },
+  "sessions": [
+    {
+      "time": "8:05 am",
+      "duration": "60 min",
+      "title": "Registration",
+      "venue": "Cotilla Gallery (2nd. floor)",
+      "type": "registration"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Beyond Copilot: The Unique Power of Microsoft Fabric Data Agent",
+      "speaker": "Daphne Champagne",
+      "level": ["200"]
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "A Step-by-Step Guide to Building a Data-Driven Culture",
+      "speaker": "Gethyn Ellis",
+      "level": ["100"]
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Cutting Through the Buzz: LLM, Agents, RAG, and GPT - Making Sense of Generative AI",
+      "speaker": "Doug Leal",
+      "level": ["100"]
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Intro to PowerShell Automation for the SQL Server DBA",
+      "speaker": "David Seis",
+      "level": ["100"]
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Walkthrough of Medallion : Why Organizations Need the Medallion Architecture",
+      "speaker": "Nilanjan Chatterjee",
+      "level": ["200", "300"]
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "The Anatomy of a Data Lakehouse",
+      "speaker": "Alex Merced",
+      "level": ["200"]
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Unlocking EPIC: Healthcare Analytics in Action",
+      "speaker": "Aikerim Belispayeva",
+      "level": ["100", "200"]
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "You Want To PaaS(SaaS) Up Your Database(Revised) Migration",
+      "speakers": ["Bradley Schacht", "Daniel Taylor"],
+      "level": ["200"]
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "speaker": "Armando Lacerda",
+      "level": ["200"]
+    },
+    {
+      "time": "10:00 am",
+      "duration": "15 min",
+      "title": "Morning Break - Visit our Sponsors",
+      "venue": "Cotilla Gallery (2nd. floor)",
+      "type": "break"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Analytic Style Guides: The Blueprint for Scalable Data Storytelling",
+      "speaker": "Daphne Champagne",
+      "level": ["200"]
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Dax Functions and Patterns",
+      "speaker": "Kevin Mason",
+      "level": ["100", "200"]
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Behind the Lag: True Stories of SQL Server Performance Tuning",
+      "speaker": "Kenneth Urena",
+      "level": ["200"]
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Practical SQL Server Security: Deploying Built-In Protections with Ease",
+      "speaker": "Sam Mesel",
+      "level": ["200", "300", "400"]
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "First steps into Postgres for the SQL Server DBA",
+      "speaker": "Rick Lowe",
+      "level": ["300"]
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Better Together: Amazon SageMaker Lakehouse and RDS SQL Server, a Gen-AI data integration use case",
+      "speaker": "Camilo Leon",
+      "level": ["300"]
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "The State of Artificial Intelligence in Project Management",
+      "speaker": "Patricia Monica Ojeda",
+      "level": ["200", "300", "400"]
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Maximizing SSMS for Developers and DBAs",
+      "speaker": "Nem Schlecht",
+      "level": ["200"]
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Be a Better DBA with Database Watcher: A Proactive Approach to Database Monitoring",
+      "speaker": "Daniel Taylor",
+      "level": ["200"]
+    },
+    {
+      "time": "11:15 am",
+      "duration": "15 min",
+      "title": "Networking Break - Visit our sponsors!",
+      "venue": "Cotilla Gallery (2nd. floor)",
+      "type": "break"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Power BI API: Automating the Analytics Lifecycle",
+      "speaker": "Michael McKinley",
+      "level": ["300", "400"]
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Bringing Data to Life: Azure SQL to Power BI Provision, Ingest, ETL, Visualize",
+      "speakers": ["Nicolas Nakasone", "Lucrecia Krause MVP"],
+      "level": ["300"]
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Build a Custom Monitoring Solution for your SQL Server Environment",
+      "speaker": "David Seis",
+      "level": ["200"]
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Migrating SQL Server from on-premises to Azure MI using DMS / Log replay",
+      "speaker": "Gilda Alvarez",
+      "level": ["200"]
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Building CI/CD pipeline using Databricks Asset Bundles",
+      "speaker": "Chandan Dutta",
+      "level": ["200"]
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Lakehouse Catalogs 101 - Governing and Transporting your Iceberg, Delta and Hudi tables",
+      "speaker": "Alex Merced",
+      "level": ["200"]
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Future-Proof Your Database Skills: Unlocking the Power of PostgreSQL in Multi-Platform Environments",
+      "speaker": "Gethyn Ellis",
+      "level": ["200"]
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Microsoft Fabric 101: The All-in-One Analytics Solution",
+      "speakers": ["Daniel Taylor", "Bradley Schacht"],
+      "level": ["100"]
+    },
+    {
+      "time": "12:30 pm",
+      "duration": "60 min",
+      "title": "Lunch Break",
+      "venue": "Cotilla Gallery (2nd. floor)",
+      "type": "lunch"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Women in Technology Panel",
+      "venue": "Cotilla Gallery (2nd. floor)",
+      "type": "panel"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Data Modeling 101 for Power BI",
+      "speaker": "Cecilia Brusatori",
+      "level": ["100"]
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "From SQL Server to Fabric - The basics",
+      "speaker": "Armando Lacerda",
+      "level": ["200"]
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Implementing Azure Arc for SQL Server",
+      "speaker": "Gilda Alvarez",
+      "level": ["200"]
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Why Should I Care About ... The Plan Cache",
+      "speaker": "Rick Lowe",
+      "level": ["200"]
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Unlocking Real-Time Intelligence with Microsoft Fabric: From Purpose to Practical Use",
+      "speaker": "Joshua Higginbotham",
+      "level": ["200"]
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Product Team of ONE? Exploring the frontier of solo app development with AI",
+      "speaker": "Reneida Leon",
+      "level": ["100"]
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Querying the Bitcoin and Ethereum Blockchains",
+      "speaker": "Joe Homnick",
+      "level": ["200", "300"]
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Building a Data Warehouse on Microsoft Fabric",
+      "speakers": ["Daniel Taylor", "Bradley Schacht"],
+      "level": ["100"]
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Fabric integration with Databricks and other 3rd party solutions",
+      "speaker": "Mark Spurlock",
+      "level": ["400"]
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "15 min",
+      "title": "Afternoon Break - Visit our sponsors",
+      "venue": "Cotilla Gallery (2nd. floor)",
+      "type": "break"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "AI in Action: Supercharging Power BI Development and Troubleshooting",
+      "speaker": "Michael McKinley",
+      "level": ["100", "200", "300", "400"]
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "SQL Indexes - Boon or Bane?",
+      "speaker": "Nilanjan Chatterjee",
+      "level": ["200", "300"]
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Go Faster Sooner! Discover SQL Server index prescriptions for the biggest performance improvements",
+      "speaker": "Bill Sanscrainte",
+      "level": ["400"]
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Unicode and SQL Server",
+      "speaker": "Wayne Erfling",
+      "level": ["200", "300"]
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Best Practices of Implementing Azure Data Factory",
+      "speaker": "Eddy Djaja",
+      "level": ["200"]
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Real life Microsoft Fabric Lakehouse Architecture Use Case from the field",
+      "speaker": "Andrew Wong",
+      "level": ["100"]
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Building Bulletproof SAP Systems in the Cloud",
+      "speaker": "Naveen Karuturi",
+      "level": ["200"]
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Advanced SQL Server Security: Enforcing Access Control with Confidence",
+      "speaker": "Sam Mesel",
+      "level": ["300", "400"]
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "30 min",
+      "title": "Raffle & Prizes from our Sponsors",
+      "venue": "Cotilla Gallery (2nd. floor)",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 50,
+    "technical_sessions": 44,
+    "event_activities": 6,
+    "session_slots": {
+      "9:00 am": 9,
+      "10:15 am": 9,
+      "11:30 am": 8,
+      "2:15 pm": 9,
+      "3:30 pm": 8
+    },
+    "session_levels": {
+      "100_beginner": 12,
+      "200_intermediate": 39,
+      "300_advanced": 14,
+      "400_expert": 8
+    },
+    "topics": [
+      "Microsoft Fabric",
+      "SQL Server 2025",
+      "AI and Copilot",
+      "Power BI",
+      "PostgreSQL",
+      "Lakehouse Architecture",
+      "Azure Services",
+      "Databricks",
+      "Performance Tuning",
+      "Security",
+      "Data Warehousing",
+      "Healthcare Analytics",
+      "Blockchain",
+      "SAP Systems"
+    ],
+    "session_types": {
+      "standard": 40,
+      "co_presented": 4,
+      "panel_discussion": 1,
+      "event_activities": 6
+    },
+    "notable_speakers": [
+      "Daniel Taylor (4 sessions)",
+      "Bradley Schacht (3 sessions)",
+      "Daphne Champagne (2 sessions)",
+      "Gethyn Ellis (2 sessions)",
+      "Alex Merced (2 sessions)",
+      "David Seis (2 sessions)",
+      "Gilda Alvarez (2 sessions)",
+      "Rick Lowe (2 sessions)",
+      "Michael McKinley (2 sessions)",
+      "Sam Mesel (2 sessions)",
+      "Nilanjan Chatterjee (2 sessions)",
+      "Armando Lacerda (2 sessions)"
+    ],
+    "unique_features": [
+      "Sessions tagged with difficulty levels (100-400)",
+      "Women in Technology Panel during lunch",
+      "Multiple breaks encouraging sponsor engagement",
+      "Healthcare-specific analytics session",
+      "Blockchain querying session",
+      "SAP systems in cloud"
+    ]
+  }
+}
