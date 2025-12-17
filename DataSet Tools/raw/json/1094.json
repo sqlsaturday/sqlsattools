@@ -1,0 +1,284 @@
+{
+  "event": "SQL Saturday 1094",
+  "rooms": {
+    "Room 1 (100)": "Room 1 (100)",
+    "Room 2 (25)": "Room 2 (25)",
+    "Room 3 (25)": "Room 3 (25)",
+    "Room 4 (20)": "Room 4 (20)",
+    "Room 5 (15)": "Room 5 (15)"
+  },
+  "schedule": [
+    {
+      "time": "7:30 am",
+      "duration": 30,
+      "type": "registration",
+      "title": "Doors/Registration Open!",
+      "room": "General",
+      "speaker": null
+    },
+    {
+      "time": "8:00 am",
+      "duration": 10,
+      "type": "opening",
+      "title": "Welcome and Opening Remarks!",
+      "room": "General",
+      "speaker": null
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Move Data Using Microsoft Fabric Data Factory",
+      "room": "Room 1 (100)",
+      "speaker": "Andy Leonard"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "How to Manage Your Azure Infrastructure Like an Expert: Top Best Practices",
+      "room": "Room 2 (25)",
+      "speaker": "Joey D'Antoni"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Raw to Refined: Data Curation with Fabric Notebooks",
+      "room": "Room 3 (25)",
+      "speaker": "Justin Cunningham"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Custom Admin Monitoring for Microsoft Fabric & Power BI",
+      "room": "Room 4 (20)",
+      "speaker": "Andrew Boerger"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "DBA - What's Most Important",
+      "room": "Room 5 (15)",
+      "speaker": "Ed Wagner"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Unlock the AI Playground: A Fun Workshop with Azure AI and Copilot Studio!",
+      "room": "Room 1 (100)",
+      "speaker": "Katie Novotny"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Intro to PostgreSQL: What to Know When You're Called In To Help!",
+      "room": "Room 2 (25)",
+      "speaker": "Ryan Booz"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Three things to know before going Independent",
+      "room": "Room 3 (25)",
+      "speaker": "John Sterrett"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Bring Azure to Your Workload by Using Azure Arc",
+      "room": "Room 4 (20)",
+      "speaker": "Rick Heiges"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Infrastructure for Data Professionals: An Introduction",
+      "room": "Room 5 (15)",
+      "speaker": "Peter Shore"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Populate Your Data Warehouse with a Metadata-Driven, Pattern-based Approach",
+      "room": "Room 1 (100)",
+      "speaker": "Meagan Longoria"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "DAX Queries in Power BI Desktop",
+      "room": "Room 2 (25)",
+      "speaker": "Kevin Arnold"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server Security Overview",
+      "room": "Room 3 (25)",
+      "speaker": "Allen Kinsel"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Joe the Axolotl, Clever Closet, & Demonic Robots - Weird Projects of Tech-Savvy Middle School Girls",
+      "room": "Room 4 (20)",
+      "speaker": "Ashley Holcomb"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Simple Linear Regression in SQL",
+      "room": "Room 5 (15)",
+      "speaker": "Jeff Moden"
+    },
+    {
+      "time": "11:50 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Reasons Why You Need A Managed Service Provider",
+      "room": "Room 1 (100)",
+      "speaker": "Konstantin Melamud"
+    },
+    {
+      "time": "11:50 am",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch Break",
+      "room": "General",
+      "speaker": null
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Level Up Your DBA Career with Database Watcher",
+      "room": "Room 1 (100)",
+      "speaker": "Matt Gordon"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Leadership Without Borders: Working with Global Teams",
+      "room": "Room 2 (25)",
+      "speaker": "Mike Hillwig-Shea"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Governance Microsoft Purview",
+      "room": "Room 3 (25)",
+      "speaker": "Kiley Papa"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Building an ETL project. From RAW data to Data Warehouse.",
+      "room": "Room 4 (20)",
+      "speaker": "Slava Murygin"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Harnessing Hidden Potential in Power Query",
+      "room": "Room 5 (15)",
+      "speaker": "Dominick Raimato"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Best Practices for Seamless Database Deployments",
+      "room": "Room 1 (100)",
+      "speaker": "Steve Jones"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Optimizing SQL Server and PostgreSQL for Power BI",
+      "room": "Room 2 (25)",
+      "speaker": "Eugene Meidinger"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Ethical Data Storytelling & Visualization Amidst Crisis and Complexity",
+      "room": "Room 3 (25)",
+      "speaker": "Jonathan Stewart"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "An opinionated guide to development practices for Semantic Models",
+      "room": "Room 4 (20)",
+      "speaker": "Greg Baldini"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Cloud Carnival: Weaving Microsoft Fabric with Snowflake and Databricks for a Data Extravaganza",
+      "room": "Room 1 (100)",
+      "speaker": "Stephanie Bruno, Shannon Lindsay"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Transferring your knowledge to Azure with Executable Docs and GitHub Copilot",
+      "room": "Room 2 (25)",
+      "speaker": "Naman Parikh"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Visual Storytelling: Crafting Compelling PowerPoint Presentations",
+      "room": "Room 3 (25)",
+      "speaker": "Gabby Fiffick"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Avoiding the \"Grey Box of Death\": Automatically Checking For Broken Visuals in Power BI",
+      "room": "Room 4 (20)",
+      "speaker": "John Kerski"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Microsoft Fabric: Data analytics for the era of AI",
+      "room": "Room 5 (15)",
+      "speaker": "Alan Ferrandiz"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": 30,
+      "type": "raffle",
+      "title": "Raffle",
+      "room": "General",
+      "speaker": null
+    }
+  ]
+}

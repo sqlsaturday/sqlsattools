@@ -1,0 +1,170 @@
+{
+  "event": "SQL Saturday 1095",
+  "rooms": {
+    "1st Floor: Community Room": "1st Floor: Community Room",
+    "2nd Floor: Computer Lab": "2nd Floor: Computer Lab",
+    "3rd Floor: Conference Room": "3rd Floor: Conference Room"
+  },
+  "schedule": [
+    {
+      "time": "9:30 am",
+      "duration": 30,
+      "type": "registration",
+      "title": "Breakfast & Registration",
+      "room": "General",
+      "speaker": null
+    },
+    {
+      "time": "10:05 am",
+      "duration": 10,
+      "type": "opening",
+      "title": "Greeting & Kickoff",
+      "room": "General",
+      "speaker": null
+    },
+    {
+      "time": "10:20 am",
+      "duration": 55,
+      "type": "session",
+      "title": "Database Design Fundamentals",
+      "room": "1st Floor: Community Room",
+      "speaker": "Edward Pollack"
+    },
+    {
+      "time": "10:20 am",
+      "duration": 55,
+      "type": "session",
+      "title": "CTE: The Secret Sauce to SQL Mastery",
+      "room": "2nd Floor: Computer Lab",
+      "speaker": "Pallavi Varandani"
+    },
+    {
+      "time": "10:20 am",
+      "duration": 55,
+      "type": "session",
+      "title": "Using SQL with Syracuse's Open Data Portal",
+      "room": "3rd Floor: Conference Room",
+      "speaker": "Jason Scharf"
+    },
+    {
+      "time": "11:25 am",
+      "duration": 55,
+      "type": "session",
+      "title": "Branding Yourself for a Dream Job",
+      "room": "1st Floor: Community Room",
+      "speaker": "Steve Jones"
+    },
+    {
+      "time": "11:25 am",
+      "duration": 55,
+      "type": "session",
+      "title": "Copilot for Fabric Data Engineering",
+      "room": "2nd Floor: Computer Lab",
+      "speaker": "Christian Cote"
+    },
+    {
+      "time": "11:25 am",
+      "duration": 55,
+      "type": "session",
+      "title": "The Streaming Plane",
+      "room": "3rd Floor: Conference Room",
+      "speaker": "Hubert Dulay"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "1st Floor: Community Room",
+      "speaker": null
+    },
+    {
+      "time": "12:35 pm",
+      "duration": 50,
+      "type": "session",
+      "title": "Architecting Your Microsoft SQL Server Workloads on VMware Cloud Foundation",
+      "room": "1st Floor: Community Room",
+      "speaker": "Edwin M Sarmiento"
+    },
+    {
+      "time": "1:35 pm",
+      "duration": 55,
+      "type": "session",
+      "title": "Modernize your old database-heavy application to cloud architecture!",
+      "room": "1st Floor: Community Room",
+      "speaker": "George Walters"
+    },
+    {
+      "time": "1:35 pm",
+      "duration": 55,
+      "type": "session",
+      "title": "Answering the Auditor's Call with Automation",
+      "room": "2nd Floor: Computer Lab",
+      "speaker": "Andy Levy"
+    },
+    {
+      "time": "1:35 pm",
+      "duration": 55,
+      "type": "session",
+      "title": "Beyond the GUI: Power Query and M techniques",
+      "room": "3rd Floor: Conference Room",
+      "speaker": "Greg Baldini"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": 50,
+      "type": "session",
+      "title": "Bridge the gap between Power BI and Data Engineering with Semantic links",
+      "room": "1st Floor: Community Room",
+      "speaker": "Christian Cote"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": 50,
+      "type": "session",
+      "title": "All About Data Retention",
+      "room": "2nd Floor: Computer Lab",
+      "speaker": "Edward Pollack"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": 50,
+      "type": "session",
+      "title": "Unveiling the Future: Dive into Cloud Databases and Analytics with Fabric",
+      "room": "3rd Floor: Conference Room",
+      "speaker": "George Walters"
+    },
+    {
+      "time": "3:40 pm",
+      "duration": 50,
+      "type": "session",
+      "title": "Introduction to Retrieval Augmented Generation with SQL",
+      "room": "1st Floor: Community Room",
+      "speaker": "Jasmine Greenaway"
+    },
+    {
+      "time": "3:40 pm",
+      "duration": 50,
+      "type": "session",
+      "title": "Power BI operations: Monitoring and administration at scale",
+      "room": "2nd Floor: Computer Lab",
+      "speaker": "Greg Baldini"
+    },
+    {
+      "time": "3:40 pm",
+      "duration": 50,
+      "type": "session",
+      "title": "Migrate Your On-Premises SQL Server Databases to Microsoft Azure",
+      "room": "3rd Floor: Conference Room",
+      "speaker": "Edwin M Sarmiento"
+    },
+    {
+      "time": "4:40 pm",
+      "duration": 20,
+      "type": "closing",
+      "title": "Raffles & Closing",
+      "room": "General",
+      "speaker": null
+    }
+  ]
+}

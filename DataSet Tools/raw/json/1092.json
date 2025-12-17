@@ -1,0 +1,267 @@
+{
+  "event": "SQL Saturday 1092",
+  "rooms": {
+    "317": "317",
+    "313": "313",
+    "308": "308",
+    "306": "306"
+  },
+  "schedule": [
+    {
+      "time": "8:00 am",
+      "duration": 15,
+      "type": "registration",
+      "title": "Registration + Caffeine + Visit sponsors",
+      "room": "308",
+      "speaker": null
+    },
+    {
+      "time": "8:15 am",
+      "duration": 15,
+      "type": "keynote",
+      "title": "Keynote (#SQLSaturday, #SQLFamily, #UserGroup)",
+      "room": "308",
+      "speaker": null
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Watch Brent Tune a Query in SQL Server 2022",
+      "room": "317",
+      "speaker": "Brent Ozar"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Supercharge your Power BI Dashboards with Powerviz visuals​",
+      "room": "313",
+      "speaker": "Santhana Lakshmi Ponnurasan"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Can your database be turned into a GenAI machine?",
+      "room": "308",
+      "speaker": "Rony Chatterjee"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "IMPORTANCE OF POSTGRESQL VACUUM TUNING TO OPTIMIZE DATABASE PERFORMANCE",
+      "room": "306",
+      "speaker": "Suyog Pagare"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffle",
+      "room": "308",
+      "speaker": null
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Storytelling with Power BI",
+      "room": "317",
+      "speaker": "Ike Ellis"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Mastering PostgreSQL: Advanced Techniques for SQL Server DBAs",
+      "room": "313",
+      "speaker": "Chandra Pathivada, Venkataramanan Govindarajan, Alvaro Costa-Neto"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "More than Just Maps: Unleashing Geospatial Intelligence",
+      "room": "308",
+      "speaker": "Britton Gray"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Quickstart into Performance Monitoring & Troubleshooting for SQL databases in Azure and Fabric",
+      "room": "306",
+      "speaker": "Andreas Wolter"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffle",
+      "room": "308",
+      "speaker": null
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "dbt + Databricks: SQL based ELT",
+      "room": "317",
+      "speaker": "Dustin Vannoy, Isabela Sobral"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI Development Framework Post Fabric Launch",
+      "room": "313",
+      "speaker": "Chaudhary Ahmad Ali"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Successfully Virtualizing SQL Server: It's Beyond Query Tuning",
+      "room": "308",
+      "speaker": "Dèjì Akọ́mọláfẹ́"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Discover Powerops Desktop- Your Free Power BI Sidekick",
+      "room": "306",
+      "speaker": "Santhana Lakshmi Ponnurasan"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch Break - network, visit sponsors, and register for raffles",
+      "room": "308",
+      "speaker": null
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure SQL Server flavors, which one is right for my scenario?",
+      "room": "317",
+      "speaker": "Armando Lacerda"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Demystifying SQL Window Functions in Healthcare, Sales, Marketing, and Beyond",
+      "room": "313",
+      "speaker": "Iurii Iurchenko"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Practical Solutions to Protect Data Privacy",
+      "room": "308",
+      "speaker": "Britton Gray"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Harnessing the Power of Databricks + PowerBI Today",
+      "room": "306",
+      "speaker": "Jeff Ramos"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffle",
+      "room": "308",
+      "speaker": null
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Accelerate Your Analytics with SQL Server + Data Lakehouse",
+      "room": "317",
+      "speaker": "Andrew Madson"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Harnessing the Power of MySQL HeatWave for Industry-Level Data Management: A Comparative Analysis",
+      "room": "313",
+      "speaker": "Vijay Panwar"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Concurrency - \"SQL Server Traffic Control\" - Avoiding Data Collisions",
+      "room": "308",
+      "speaker": "Thomas Hull"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "TempDB Contention: How to Identify and Resolve it",
+      "room": "306",
+      "speaker": "Haripriya Naidu"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffle",
+      "room": "308",
+      "speaker": null
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Massively Accelerated AI Migrations",
+      "room": "317",
+      "speaker": "Franco Patano"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Fabric Security - Everything you need to know",
+      "room": "313",
+      "speaker": "Vengatesh Parasuraman"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Leadership Principles Uncovered...",
+      "room": "308",
+      "speaker": "Warren Sifre"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Power up your Fabric Development with DAX Studio and Tabular Editor",
+      "room": "306",
+      "speaker": "Jason Romans"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": 30,
+      "type": "raffle",
+      "title": "Raffle",
+      "room": "308",
+      "speaker": null
+    }
+  ]
+}

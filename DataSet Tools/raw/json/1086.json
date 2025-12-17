@@ -1,0 +1,428 @@
+{
+  "event": "SQL Saturday 1086",
+  "rooms": {
+    "Room 1": "Room 1",
+    "Room 2": "Room 2",
+    "Room 3": "Room 3",
+    "Room 4": "Room 4",
+    "Room 5": "Room 5",
+    "Room 6": "Room 6",
+    "Room 7": "Room 7"
+  },
+  "schedule": [
+    {
+      "time": "8:00 am",
+      "duration": 45,
+      "type": "registration",
+      "title": "Registration",
+      "room": "Room 1",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "8:45 am",
+      "duration": 45,
+      "type": "opening",
+      "title": "Opening",
+      "room": "Room 1",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "9:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Go Faster Sooner! Discover SQL Server Index Improvements with the biggest gain for the least pain",
+      "room": "Room 1",
+      "speaker": "Bill Sanscrainte",
+      "level": "Advanced"
+    },
+    {
+      "time": "9:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Experience the Story of SQL and Microsoft Fabric",
+      "room": "Room 2",
+      "speaker": "Bob Ward",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Virtualization in SQL Server 2022",
+      "room": "Room 3",
+      "speaker": "Kevin Feasel",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Automate Your Daily Database Checks with PowerShell",
+      "room": "Room 4",
+      "speaker": "Jordan Sassi, Edwin M Sarmiento",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Networking 101: Building professional relationships",
+      "room": "Room 5",
+      "speaker": "Ray Kim",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "9:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Weird Stuff I Saw While… Working with Multi Subnet Availability Groups",
+      "room": "Room 6",
+      "speaker": "Rick Lowe",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Best Practices for Seamless Database Deployments",
+      "room": "Room 7",
+      "speaker": "Steve Jones",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Getting More from Query Store",
+      "room": "Room 1",
+      "speaker": "Jeff Iannucci",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Database Design Fundamentals",
+      "room": "Room 2",
+      "speaker": "Edward Pollack",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Copilot for Fabric Data Engineering",
+      "room": "Room 3",
+      "speaker": "Christian Cote",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Completing a Performance Assessment and Creating a Monitoring Tool using SSMS, SSRS and PowerShell",
+      "room": "Room 4",
+      "speaker": "Dave Bland",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "TempDB Contention: How to Identify and Resolve it",
+      "room": "Room 5",
+      "speaker": "Haripriya Naidu",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Thank you, we have received your inquiry. Stream processing in SQL Server",
+      "room": "Room 6",
+      "speaker": "Alex Bolenok",
+      "level": "Advanced"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Microsoft AutoGen: Revolutionizing T-SQL Database Development in the Workplace",
+      "room": "Room 7",
+      "speaker": "Jean Joseph",
+      "level": "Intermediate"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": 15,
+      "type": "lunch",
+      "title": "Lunch (grab & go)",
+      "room": "Room 1",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "12:15 pm",
+      "duration": 45,
+      "type": "panel",
+      "title": "WIT Panel Discussion",
+      "room": "Room 1",
+      "speaker": "Deborah Melkin",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": 45,
+      "type": "session",
+      "title": "SQL Server in the era of AI",
+      "room": "Room 2",
+      "speaker": "Bob Ward",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": 45,
+      "type": "session",
+      "title": "SQL Server \"SANless\" failover clustering with SIOS DataKeeper",
+      "room": "Room 3",
+      "speaker": "David Bermingham",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": 45,
+      "type": "session",
+      "title": "Rubrik for Databases",
+      "room": "Room 4",
+      "speaker": "Chris Lumnah",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": 45,
+      "type": "session",
+      "title": "Free Tools to Defend SQL Server",
+      "room": "Room 5",
+      "speaker": "Mike Walsh",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": 45,
+      "type": "session",
+      "title": "Architecting Your Microsoft SQL Server Workloads on VMware Cloud Foundation",
+      "room": "Room 6",
+      "speaker": "Edwin M Sarmiento",
+      "level": "Intermediate"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": 45,
+      "type": "session",
+      "title": "Strengthen Azure & on-premises SQL Server access with passwordless methods",
+      "room": "Room 7",
+      "speaker": "Manish Shah",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Understanding and resolving high query compilation problems",
+      "room": "Room 1",
+      "speaker": "Fabiano Amorim",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Exploring Whether Storage is the Root Cause of Your Performance Woes",
+      "room": "Room 2",
+      "speaker": "Andy Yun",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Simulating Scenarios with Power BI",
+      "room": "Room 3",
+      "speaker": "Dominick Raimato",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Intro to Forecasting using Machine Learning and Python",
+      "room": "Room 4",
+      "speaker": "Bogdan Tesileanu",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "1:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Interview with a Scampire",
+      "room": "Room 5",
+      "speaker": "Eric Cameron",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "1:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Leveraging Instant Extracts from Relational Databases for Azure Fabric",
+      "room": "Room 6",
+      "speaker": "Kellyn Gorman",
+      "level": "Advanced"
+    },
+    {
+      "time": "1:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Migrate Your On-Premises SQL Server Databases to Microsoft Azure",
+      "room": "Room 7",
+      "speaker": "Edwin M Sarmiento",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Mastering Dynamic SQL",
+      "room": "Room 1",
+      "speaker": "Deborah Melkin",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Modernize in place with SQL Server 2022 and AMD",
+      "room": "Room 2",
+      "speaker": "Bob Ward",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Mastering PostgreSQL: Advanced Techniques for SQL Server DBAs",
+      "room": "Room 3",
+      "speaker": "Alvaro Costa-Neto, Venkataramanan Govindarajan, Chandra Pathivada",
+      "level": "Advanced"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Modernize your old database-heavy application to cloud architecture",
+      "room": "Room 4",
+      "speaker": "George Walters",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Control your data lake with Databricks SQL Warehouse",
+      "room": "Room 5",
+      "speaker": "John Miner",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Optimizing SQL Server HA/DR Costs in Azure: Key Strategies & Demos",
+      "room": "Room 6",
+      "speaker": "David Bermingham",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Retention - Improving Performance, Compliance, and Data Architecture",
+      "room": "Room 7",
+      "speaker": "Edward Pollack",
+      "level": "Intermediate"
+    },
+    {
+      "time": "3:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server 2022: Advancing Modern Hybrid Relational Databases",
+      "room": "Room 1",
+      "speaker": "Surbhi Pokharna",
+      "level": "Advanced"
+    },
+    {
+      "time": "3:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Come see the future of SQL and AI",
+      "room": "Room 2",
+      "speaker": "Bob Ward",
+      "level": "Intermediate"
+    },
+    {
+      "time": "3:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Surviving SQL Server: Guidance for new or accidental DBAs",
+      "room": "Room 3",
+      "speaker": "Jeff Iannucci",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "3:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Be a Better DBA with Database Watcher: A Proactive Approach to Database Monitoring",
+      "room": "Room 4",
+      "speaker": "Daniel Taylor",
+      "level": "Intermediate"
+    },
+    {
+      "time": "3:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Importance of Postgresql Vacuum Tuning to Optimize DB Performance",
+      "room": "Room 5",
+      "speaker": "Suyog Pagare",
+      "level": "Intermediate"
+    },
+    {
+      "time": "3:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Balance in Life with a Career",
+      "room": "Room 6",
+      "speaker": "Steve Jones",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "3:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Mastering Data Transformation: Unleash the Potential of Power Query and M Language",
+      "room": "Room 7",
+      "speaker": "Varsham Papikian",
+      "level": "Intermediate"
+    },
+    {
+      "time": "4:45 pm",
+      "duration": 30,
+      "type": "closing",
+      "title": "Closing / giveaways",
+      "room": "Room 1",
+      "speaker": null,
+      "level": null
+    }
+  ]
+}

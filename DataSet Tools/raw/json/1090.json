@@ -1,0 +1,320 @@
+{
+  "event": "SQL Saturday 1090",
+  "rooms": {
+    "Room 200A (Sponsor Room)": "Room 200A (Sponsor Room)",
+    "Room 100A-C (PowerShell)": "Room 100A-C (PowerShell)",
+    "Room 104 (SolarWinds DBA)": "Room 104 (SolarWinds DBA)",
+    "Room 105 (Postgres)": "Room 105 (Postgres)",
+    "Room 106": "Room 106",
+    "Room 107 (DataOps/DevOps)": "Room 107 (DataOps/DevOps)",
+    "Room 108 (Analytics)": "Room 108 (Analytics)",
+    "Room 109 (Fabric/Power BI)": "Room 109 (Fabric/Power BI)",
+    "Room 110 (Speaker Room)": "Room 110 (Speaker Room)"
+  },
+  "schedule": [
+    {
+      "time": "8:00 am - 4:00 pm",
+      "duration": 480,
+      "type": "registration",
+      "title": "Registration/Sponsors/Snacks & Drinks",
+      "room": "Room 200A (Sponsor Room)",
+      "speaker": null
+    },
+    {
+      "time": "8:30 am - 4:00 pm",
+      "duration": 450,
+      "type": "speaker",
+      "title": "Speaker Room (not accessible for attendees)",
+      "room": "Room 110 (Speaker Room)",
+      "speaker": null
+    },
+    {
+      "time": "9:00 am",
+      "duration": 25,
+      "type": "opening",
+      "title": "Opening",
+      "room": "General",
+      "speaker": null
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Beginning Powershell, Part 1",
+      "room": "Room 100A-C (PowerShell)",
+      "speaker": "Sean McCown"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Stop Indexing the Query!",
+      "room": "Room 104 (SolarWinds DBA)",
+      "speaker": "Ash Recksiedler"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Mastering PostgreSQL: Advanced Techniques for SQL Server DBAs",
+      "room": "Room 105 (Postgres)",
+      "speaker": "Chandra Pathivada, Ramesh Kumar Venkatraman"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "A 101 in time series analytics with Apache Arrow, Pandas and Parquet",
+      "room": "Room 106",
+      "speaker": "Zoe Steinkamp"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Build an Enterprise-ready Data API for Azure SQL, then take the rest of the day off.",
+      "room": "Room 107 (DataOps/DevOps)",
+      "speaker": "Jerry Nixon"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Accelerate Your Analytics with SQL Server + Data Lakehouse",
+      "room": "Room 108 (Analytics)",
+      "speaker": "Andrew Madson"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Discover Powerops Desktop- Your Free Power BI Sidekick",
+      "room": "Room 109 (Fabric/Power BI)",
+      "speaker": "Santhana Lakshmi Ponnurasan"
+    },
+    {
+      "time": "10:30 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Refreshment/Sponsor Break",
+      "room": "Room 200A (Sponsor Room)",
+      "speaker": null
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Beginning Powershell, Part 2",
+      "room": "Room 100A-C (PowerShell)",
+      "speaker": "Sean McCown"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Learnings from the latest breaches: building a data security strategy for SQL Server and Azure SQL",
+      "room": "Room 104 (SolarWinds DBA)",
+      "speaker": "Andreas Wolter"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "First steps into Postgres for the SQL Server DBA",
+      "room": "Room 105 (Postgres)",
+      "speaker": "Rick Lowe"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Apache Iceberg: An Architectural Look Under the Covers",
+      "room": "Room 106",
+      "speaker": "Alex Merced"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Dynamic SQL. Awesome or Awful? Hint: it's awesome",
+      "room": "Room 107 (DataOps/DevOps)",
+      "speaker": "Scot Reagin"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Maximizing Organizational Potential: The Essential Role of Data Strategy",
+      "room": "Room 108 (Analytics)",
+      "speaker": "Cher Fox"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI Development Framework Post Fabric Launch",
+      "room": "Room 109 (Fabric/Power BI)",
+      "speaker": "Chaudhary Ahmad Ali"
+    },
+    {
+      "time": "11:45 am",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "Room 200A (Sponsor Room)",
+      "speaker": null
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Beginning Powershell, Part 3: Functions and Contracts",
+      "room": "Room 100A-C (PowerShell)",
+      "speaker": "Sean McCown"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "IMPORTANCE OF POSTGRESQL VACUUM TUNING TO OPTIMIZE DATABASE PERFORMANCE",
+      "room": "Room 105 (Postgres)",
+      "speaker": "Suyog Pagare"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Best Practices for Seamless Database Deployments",
+      "room": "Room 107 (DataOps/DevOps)",
+      "speaker": "Steve Jones"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Building and Scaling Analytics Products",
+      "room": "Room 108 (Analytics)",
+      "speaker": "Andrew Madson"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Supercharge your Power BI Dashboards with Powerviz visuals​",
+      "room": "Room 109 (Fabric/Power BI)",
+      "speaker": "Santhana Lakshmi Ponnurasan"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Refreshment/Sponsor Break",
+      "room": "Room 200A (Sponsor Room)",
+      "speaker": null
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "PowerShell: Custom Classes: Object-oriented Concepts",
+      "room": "Room 100A-C (PowerShell)",
+      "speaker": "Sean McCown"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "How to: Never be on call as a DBA!",
+      "room": "Room 104 (SolarWinds DBA)",
+      "speaker": "Pat Wright"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Why Should I Care About ... The Plan Cache",
+      "room": "Room 105 (Postgres)",
+      "speaker": "Rick Lowe"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "The Anatomy of a Data Lakehouse",
+      "room": "Room 106",
+      "speaker": "Alex Merced"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Ground to Cloud: Simplifying the Developer Experience with Azure SQL",
+      "room": "Room 107 (DataOps/DevOps)",
+      "speaker": "Carlos Robles"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "The Real Requirements",
+      "room": "Room 108 (Analytics)",
+      "speaker": "Rose Zarling"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Can Databases be transformed into GenAI Machines?",
+      "room": "Room 109 (Fabric/Power BI)",
+      "speaker": "Rony Chatterjee"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Refreshment/Sponsor Break",
+      "room": "Room 200A (Sponsor Room)",
+      "speaker": null
+    },
+    {
+      "time": "3:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "PowerShell: Custom Classes 2: Object-oriented Concepts",
+      "room": "Room 100A-C (PowerShell)",
+      "speaker": "Sean McCown"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Postgres for the Sql Server DBA",
+      "room": "Room 105 (Postgres)",
+      "speaker": "Pat Wright"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Architecting Zero Downtime Database Deployments",
+      "room": "Room 107 (DataOps/DevOps)",
+      "speaker": "Steve Jones"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Quality Management Best Practices",
+      "room": "Room 108 (Analytics)",
+      "speaker": "Cher Fox"
+    },
+    {
+      "time": "4:15 pm",
+      "duration": 45,
+      "type": "closing",
+      "title": "Closing & Giveaways",
+      "room": "General",
+      "speaker": null
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "event": "SQL Saturday 1087",
+  "rooms": {
+    "Theater": "Theater",
+    "Room 1514": "Room 1514",
+    "Room 1512": "Room 1512",
+    "Room 1508": "Room 1508",
+    "Room 1506": "Room 1506",
+    "Cafeteria": "Cafeteria"
+  },
+  "schedule": [
+    {
+      "time": "8:00 am",
+      "duration": 30,
+      "type": "registration",
+      "title": "Registration and Networking",
+      "room": "Theater",
+      "speaker": null
+    },
+    {
+      "time": "8:30 am",
+      "duration": 20,
+      "type": "opening",
+      "title": "Welcome",
+      "room": "Theater",
+      "speaker": null
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Fabric Implementations",
+      "room": "Theater",
+      "speaker": "Ross McNeely"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Leverage your Data engineering work with Direct Lake in Microsoft Fabric",
+      "room": "Room 1514",
+      "speaker": "Sanjay Raut"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Automated Deployments with GitHub",
+      "room": "Room 1512",
+      "speaker": "Erin Dempster"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building an Analytics Hub",
+      "room": "Room 1508",
+      "speaker": "Alex Cook"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "An opinionated guide to development practices for Semantic Models",
+      "room": "Room 1506",
+      "speaker": "Greg Baldini"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Security In Microsoft Fabric",
+      "room": "Theater",
+      "speaker": "Matt Stenzel"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI Model and Report Optimization Tips",
+      "room": "Room 1514",
+      "speaker": "Dan English"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Unit Testing Your Transactional Database",
+      "room": "Room 1512",
+      "speaker": "Dan Mallott"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "First steps into Postgres for the SQL Server DBA",
+      "room": "Room 1508",
+      "speaker": "Rick Lowe"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Heterogenous Migration Techniques",
+      "room": "Room 1506",
+      "speaker": "Chandra Pathivada, Karunakar Kotha"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "Cafeteria",
+      "speaker": null
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Building a Data Warehouse on the shores of OneLake in Microsoft Fabric",
+      "room": "Theater",
+      "speaker": "Kevin Arnold"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Gateways to Power BI",
+      "room": "Room 1514",
+      "speaker": "Sanjay Raut"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Star Schema: a 40-year Retrospective",
+      "room": "Room 1512",
+      "speaker": "Donald Parish"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Semantic Model Management in Fabric with Semantic Link",
+      "room": "Theater",
+      "speaker": "Brent Meulebroeck"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Building a Power BI Data Model – No Model Glue Required",
+      "room": "Room 1514",
+      "speaker": "Jason Romans"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Ways to reduce your SQL Server costs in AWS without giving up performance and availability",
+      "room": "Room 1512",
+      "speaker": "Phil Ekins"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Establishing T-SQL Formatting Standards",
+      "room": "Room 1508",
+      "speaker": "Jared Kuehn"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Warehousing - An Adventure with Snowflake",
+      "room": "Room 1506",
+      "speaker": "Nadir Doctor"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "5 Key Reasons Why Power BI Efforts Fail",
+      "room": "Theater",
+      "speaker": "Robert Gerads"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Go Faster Sooner! Discover SQL Server Index Improvements with the biggest gain for the least pain",
+      "room": "Room 1514",
+      "speaker": "Bill Sanscrainte"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Performance Tuning strategies for Cosmos DB",
+      "room": "Room 1512",
+      "speaker": "Mike Benkovich"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": 60,
+      "type": "closing",
+      "title": "Closing and Raffle",
+      "room": "Theater",
+      "speaker": null
+    }
+  ]
+}
