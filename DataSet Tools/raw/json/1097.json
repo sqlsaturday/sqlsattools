@@ -1,0 +1,301 @@
+{
+  "event": "SQL Saturday 1097",
+  "rooms": {
+    "Auditório": "Auditório",
+    "Sala 1": "Sala 1",
+    "Sala 2": "Sala 2",
+    "Sala 3": "Sala 3"
+  },
+  "schedule": [
+    {
+      "time": "07:00",
+      "duration": 90,
+      "type": "general",
+      "title": "Credenciamento",
+      "room": "Auditório",
+      "speaker": null,
+      "level": null,
+      "vendor": null
+    },
+    {
+      "time": "08:30",
+      "duration": 25,
+      "type": "general",
+      "title": "Abertura",
+      "room": "Auditório",
+      "speaker": null,
+      "level": null,
+      "vendor": null
+    },
+    {
+      "time": "09:00",
+      "duration": 45,
+      "type": "session",
+      "title": "No PhD Required: Generative AI with Keras",
+      "room": "Auditório",
+      "speaker": "Ahirton Lopes",
+      "level": "Beginner",
+      "vendor": "Google"
+    },
+    {
+      "time": "09:00",
+      "duration": 45,
+      "type": "session",
+      "title": "Inteligência Artificial - como está sua JORNADA COM A I.A?",
+      "room": "Sala 1",
+      "speaker": "Angel Guimarães",
+      "level": "Intermediate",
+      "vendor": "Others"
+    },
+    {
+      "time": "09:00",
+      "duration": 45,
+      "type": "session",
+      "title": "Apache NiFi 2 e Python: Simplificando Projetos de Dados",
+      "room": "Sala 2",
+      "speaker": "Renato Coelho",
+      "level": "Beginner",
+      "vendor": "Others"
+    },
+    {
+      "time": "09:00",
+      "duration": 45,
+      "type": "session",
+      "title": "Implementando Segurança no Microsoft Fabric: Do Power BI ao OneLake",
+      "room": "Sala 3",
+      "speaker": "Renato Lira",
+      "level": "Intermediate",
+      "vendor": "Microsoft"
+    },
+    {
+      "time": "09:50",
+      "duration": 45,
+      "type": "session",
+      "title": "DuckDB - O Patinho no Lago de Dados",
+      "room": "Auditório",
+      "speaker": "Danilo Santos",
+      "level": "Intermediate",
+      "vendor": "Others"
+    },
+    {
+      "time": "09:50",
+      "duration": 45,
+      "type": "session",
+      "title": "MLOps with MLFlow",
+      "room": "Sala 1",
+      "speaker": "Matheus Barcelos de Oliveira",
+      "level": "Intermediate",
+      "vendor": "Others"
+    },
+    {
+      "time": "09:50",
+      "duration": 45,
+      "type": "session",
+      "title": "Apache Iceberg: Como Modernizar e Potencializar seu Data Lake",
+      "room": "Sala 2",
+      "speaker": "Filipe Lima",
+      "level": "Intermediate",
+      "vendor": "AWS"
+    },
+    {
+      "time": "09:50",
+      "duration": 45,
+      "type": "session",
+      "title": "Eleve seu CosmosDB ao Sétimo Sentido",
+      "room": "Sala 3",
+      "speaker": "Thiago Zavaschi",
+      "level": "Advanced",
+      "vendor": "Microsoft"
+    },
+    {
+      "time": "10:40",
+      "duration": 45,
+      "type": "session",
+      "title": "AI Agents: Next Big Thing in AI Era.",
+      "room": "Auditório",
+      "speaker": "Nilton Kazuyuki Ueda",
+      "level": "Intermediate",
+      "vendor": "Microsoft"
+    },
+    {
+      "time": "10:40",
+      "duration": 45,
+      "type": "session",
+      "title": "Linguagens de programação computacional: Aplicação na Ciência do Esporte",
+      "room": "Sala 1",
+      "speaker": "Luiz Maculan",
+      "level": "Beginner",
+      "vendor": "Others"
+    },
+    {
+      "time": "10:40",
+      "duration": 45,
+      "type": "session",
+      "title": "Análise de Dados em Tempo Real com Apache Pinot",
+      "room": "Sala 2",
+      "speaker": "Victor Grudtner Boell",
+      "level": "Advanced",
+      "vendor": "Others"
+    },
+    {
+      "time": "10:40",
+      "duration": 45,
+      "type": "session",
+      "title": "Singularidade: O que é e como se preparar para a nova Revolução Tecnológica",
+      "room": "Sala 3",
+      "speaker": "Igor de Paula",
+      "level": "Beginner",
+      "vendor": "Others"
+    },
+    {
+      "time": "11:30",
+      "duration": 45,
+      "type": "session",
+      "title": "Busca de arquivos nos Assistentes do Azure OpenAI: Ampliando o conhecimento com Informações externas",
+      "room": "Auditório",
+      "speaker": "Talles Valiatti",
+      "level": "Intermediate",
+      "vendor": "Microsoft"
+    },
+    {
+      "time": "11:30",
+      "duration": 45,
+      "type": "session",
+      "title": "Consultas Inteligentes: Como Usar IA para Acessar seus Dados sem SQL",
+      "room": "Sala 1",
+      "speaker": "Paulo Ricardo Santos",
+      "level": "Beginner",
+      "vendor": "Others"
+    },
+    {
+      "time": "11:30",
+      "duration": 45,
+      "type": "session",
+      "title": "eVTOL - Quem Estará No Controle?",
+      "room": "Sala 2",
+      "speaker": "Leonardo Côco",
+      "level": "Beginner",
+      "vendor": "Others"
+    },
+    {
+      "time": "11:30",
+      "duration": 45,
+      "type": "session",
+      "title": "SQL Curiosities: A Curiosidade Matou o Gato",
+      "room": "Sala 3",
+      "speaker": "André Melancia",
+      "level": "Beginner",
+      "vendor": "Microsoft"
+    },
+    {
+      "time": "12:15",
+      "duration": 45,
+      "type": "lunch",
+      "title": "Intervalo de almoço",
+      "room": "Auditório",
+      "speaker": null,
+      "level": null,
+      "vendor": null
+    },
+    {
+      "time": "13:00",
+      "duration": 45,
+      "type": "session",
+      "title": "Integração API Open IA + Power BI para documentação e análise de modelo semântico. Hands-On",
+      "room": "Auditório",
+      "speaker": "Rafael Gobbi",
+      "level": "Intermediate",
+      "vendor": "Microsoft"
+    },
+    {
+      "time": "13:00",
+      "duration": 45,
+      "type": "session",
+      "title": "Futuro da carreira em Dados: O que esperar?",
+      "room": "Sala 1",
+      "speaker": "Pollyanna Gonçalves",
+      "level": "Intermediate",
+      "vendor": "Others"
+    },
+    {
+      "time": "13:00",
+      "duration": 45,
+      "type": "session",
+      "title": "Streaming Analytics com Kafka, Flink & Pinot no K8s",
+      "room": "Sala 2",
+      "speaker": "Mateus Oliveira",
+      "level": "Intermediate",
+      "vendor": "Others"
+    },
+    {
+      "time": "13:50",
+      "duration": 45,
+      "type": "session",
+      "title": "Qualidade de Dados em Foco: O Papel dos Testes Unitários na Engenharia de Dados",
+      "room": "Auditório",
+      "speaker": "Igor Tavares",
+      "level": "Beginner",
+      "vendor": "AWS"
+    },
+    {
+      "time": "13:50",
+      "duration": 45,
+      "type": "session",
+      "title": "Hacking Azure",
+      "room": "Sala 1",
+      "speaker": "André Melancia",
+      "level": "Intermediate",
+      "vendor": "Microsoft"
+    },
+    {
+      "time": "13:50",
+      "duration": 45,
+      "type": "session",
+      "title": "Always On: Lições (que a Microsoft não te contou)!",
+      "room": "Sala 2",
+      "speaker": "Marcelo Adade, Roberto Fonseca",
+      "level": "Intermediate",
+      "vendor": "Microsoft"
+    },
+    {
+      "time": "14:40",
+      "duration": 45,
+      "type": "session",
+      "title": "Modelagem de Dados Data Vault 2.0 no Databricks",
+      "room": "Auditório",
+      "speaker": "Mateus Oliveira, Luan Moreno Medeiros Maciel",
+      "level": "Intermediate",
+      "vendor": "Others"
+    },
+    {
+      "time": "14:40",
+      "duration": 45,
+      "type": "session",
+      "title": "Decisões Inteligentes no Futebol: Análise e Visualização de Dados com Python",
+      "room": "Sala 1",
+      "speaker": "Leonardo Barbosa",
+      "level": "Advanced",
+      "vendor": "Others"
+    },
+    {
+      "time": "14:40",
+      "duration": 45,
+      "type": "session",
+      "title": "Transformando Dados em Insights Com Ferramentas da Microsoft",
+      "room": "Sala 2",
+      "speaker": "Sulamita Dantas, Thiago Generoso",
+      "level": "Beginner",
+      "vendor": "Microsoft"
+    },
+    {
+      "time": "15:30",
+      "duration": 30,
+      "type": "closing",
+      "title": "Encerramento",
+      "room": "Auditório",
+      "speaker": null,
+      "level": null,
+      "vendor": null
+    }
+  ]
+}

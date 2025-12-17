@@ -1,0 +1,367 @@
+{
+  "event": "SQL Saturday 1089",
+  "rooms": {
+    "2102 - MS Fabric": "2102 - MS Fabric",
+    "2103 - Architecture": "2103 - Architecture",
+    "2104 - AI/ML/Cloud": "2104 - AI/ML/Cloud",
+    "2105 - Optimization": "2105 - Optimization",
+    "2205 - PowerBI + SQL": "2205 - PowerBI + SQL",
+    "2208 - SQL Server": "2208 - SQL Server",
+    "2207 - General": "2207 - General",
+    "MAIN LOBBY AREA": "MAIN LOBBY AREA",
+    "COVERED WALKWAY": "COVERED WALKWAY"
+  },
+  "schedule": [
+    {
+      "time": "6:00 am",
+      "duration": 60,
+      "type": "registration",
+      "title": "Registration and Meet the Sponsors",
+      "room": "MAIN LOBBY AREA",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Fabric and Microsoft Dynamics - Better Together!",
+      "room": "2102 - MS Fabric",
+      "speaker": "Trey Johnson",
+      "level": "Introductory"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Optimize Your SQL Database",
+      "room": "2103 - Architecture",
+      "speaker": "Darius Liktorius",
+      "level": "Intermediate"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Harness the Power of Microsoft Fabric and Notebooks",
+      "room": "2104 - AI/ML/Cloud",
+      "speaker": "Bradley Ball",
+      "level": "Intermediate"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Prepare for Power BI Data Analyst Associate using free resources",
+      "room": "2105 - Optimization",
+      "speaker": "Lucrecia Krause MVP",
+      "level": "Intermediate"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "T-SQL Tips, Tricks, Hacks, and Backdoors - the undocumented goodies",
+      "room": "2205 - PowerBI + SQL",
+      "speaker": "Jared Kirkpatrick",
+      "level": "Intermediate"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Revenge: The SQL!",
+      "room": "2208 - SQL Server",
+      "speaker": "Rob Volk",
+      "level": "Intermediate"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI and External Tools: This is the way!",
+      "room": "2207 - General",
+      "speaker": "Jason Romans",
+      "level": "Introductory"
+    },
+    {
+      "time": "8:00 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - 15 Min.",
+      "room": "MAIN LOBBY AREA",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "From PaaS to Fabric: Unleashing Instant Analytics!",
+      "room": "2102 - MS Fabric",
+      "speaker": "Daniel Taylor, Bradley Schacht",
+      "level": "Introductory"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "The Anatomy of a Data Lakehouse",
+      "room": "2103 - Architecture",
+      "speaker": "Alex Merced",
+      "level": "Introductory"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "AI-Powered Reports: Transforming Power BI Insights",
+      "room": "2104 - AI/ML/Cloud",
+      "speaker": "Priscilla Camp",
+      "level": "Intermediate"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Virtualization in SQL Server 2022",
+      "room": "2105 - Optimization",
+      "speaker": "Kevin Feasel",
+      "level": "Intermediate"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI Report Design Process",
+      "room": "2205 - PowerBI + SQL",
+      "speaker": "Kate Boss",
+      "level": "Intermediate"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Exceptions, Transactions, Temp Tables and Regression",
+      "room": "2208 - SQL Server",
+      "speaker": "Victor Ivantsov",
+      "level": "Intermediate"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Using Docker for Data Platform Testing",
+      "room": "2207 - General",
+      "speaker": "Ian Lanham",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:15 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - 15 Min.",
+      "room": "MAIN LOBBY AREA",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "panel",
+      "title": "Open Panel with Tales from the Field Team",
+      "room": "2102 - MS Fabric",
+      "speaker": "Bradley Ball, Daniel Taylor, Bradley Schacht",
+      "level": "Introductory"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "The Intelligence Life Cycle Model and the Limitations of AI and pitfalls of Big Data",
+      "room": "2103 - Architecture",
+      "speaker": "Frank Quintana",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Keeping it Classy: Designing a Great Classifier",
+      "room": "2104 - AI/ML/Cloud",
+      "speaker": "Kevin Feasel",
+      "level": "Introductory"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "A Self-Tuning Fill Factor Technique for SQL Server",
+      "room": "2105 - Optimization",
+      "speaker": "Mike Byrd",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power up your Fabric Development with DAX Studio and Tabular Editor",
+      "room": "2205 - PowerBI + SQL",
+      "speaker": "Jason Romans",
+      "level": "Introductory"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Intro to PowerShell Automation for the SQL Server DBA",
+      "room": "2208 - SQL Server",
+      "speaker": "David Seis",
+      "level": "Introductory"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Welcome to the Age of SQL Copilots",
+      "room": "2207 - General",
+      "speaker": "Kendal Van Dyke",
+      "level": "Introductory"
+    },
+    {
+      "time": "10:30 am",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "COVERED WALKWAY",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building a Data Warehouse on Microsoft Fabric",
+      "room": "2102 - MS Fabric",
+      "speaker": "Bradley Schacht, Daniel Taylor",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Unlocking Performance and Scalability with Azure SQL VM v.Next + Storage Capabilities",
+      "room": "2103 - Architecture",
+      "speaker": "David Pless",
+      "level": "Advanced"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL in the Cloud",
+      "room": "2104 - AI/ML/Cloud",
+      "speaker": "Darius Liktorius",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Who Cares About Relational Database Design?",
+      "room": "2105 - Optimization",
+      "speaker": "Louis Davidson",
+      "level": "Introductory"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Power BI for Data Analysis & Visualization",
+      "room": "2205 - PowerBI + SQL",
+      "speaker": "Cecilia Brusatori",
+      "level": "Introductory"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "What's New In SQL Server For The Developer",
+      "room": "2208 - SQL Server",
+      "speaker": "Jeff Taylor",
+      "level": "Introductory"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Migrating from on-premises to Azure MI using Log replay",
+      "room": "2207 - General",
+      "speaker": "Gilda Alvarez",
+      "level": "Intermediate"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - 15 Min.",
+      "room": "MAIN LOBBY AREA",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Deciphering Data Architectures (Modern Data Warehouse, Data Fabric, Data Lakehouse, Data Mesh)",
+      "room": "2102 - MS Fabric",
+      "speaker": "James Serra",
+      "level": "Introductory"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Discover the Magic of Copilot in Power BI",
+      "room": "2104 - AI/ML/Cloud",
+      "speaker": "Angie Rudduck",
+      "level": "Intermediate"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure Data Factory (ADF) - Your New SSIS",
+      "room": "2105 - Optimization",
+      "speaker": "Jeff Taylor",
+      "level": "Intermediate"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Modeling 101 for Power BI",
+      "room": "2205 - PowerBI + SQL",
+      "speaker": "Cecilia Brusatori",
+      "level": "Introductory"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Maximizing SSMS for Developers and DBAs",
+      "room": "2208 - SQL Server",
+      "speaker": "Nem Schlecht",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 15,
+      "type": "closing",
+      "title": "COSING AND RAFFLE",
+      "room": "COVERED WALKWAY",
+      "speaker": null,
+      "level": null
+    }
+  ]
+}

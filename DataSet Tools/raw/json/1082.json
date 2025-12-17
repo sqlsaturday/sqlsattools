@@ -1,0 +1,309 @@
+{
+  "event": "SQL Saturday 1082",
+  "rooms": {
+    "PUB 258A": "PUB 258A",
+    "PUB 258B": "PUB 258B",
+    "PUB 258C": "PUB 258C",
+    "GHL 161": "GHL 161",
+    "GHL CTR": "GHL CTR",
+    "GHL 213": "GHL 213"
+  },
+  "schedule": [
+    {
+      "time": "8:00 am",
+      "duration": 60,
+      "type": "registration",
+      "title": "Registration",
+      "room": "General",
+      "speaker": null
+    },
+    {
+      "time": "9:00 am",
+      "duration": 45,
+      "type": "keynote",
+      "title": "Can't AI do the Dishes Already??",
+      "room": "General",
+      "speaker": "Kellyn Gorman"
+    },
+    {
+      "time": "9:55 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Encryption in SQL Server",
+      "room": "PUB 258A",
+      "speaker": "Eric Peterson"
+    },
+    {
+      "time": "9:55 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Analytics at the speed of Direct Lake",
+      "room": "PUB 258B",
+      "speaker": "Philip Seamark"
+    },
+    {
+      "time": "9:55 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Fabric Semantic Link Labs: A Link to the Future",
+      "room": "PUB 258C",
+      "speaker": "Jason Romans"
+    },
+    {
+      "time": "9:55 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Team Six: How to Build Effective Teams",
+      "room": "GHL 161",
+      "speaker": "Aaron Cutshall, DHA, MSHI"
+    },
+    {
+      "time": "9:55 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introducing Fabric Real-Time Intelligence",
+      "room": "GHL CTR",
+      "speaker": "Johan Ludvig Brattås, Devang Shah"
+    },
+    {
+      "time": "9:55 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Exploring Whether Storage is the Root Cause of Your Performance Woes",
+      "room": "GHL 213",
+      "speaker": "Andy Yun"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Modernize in Place with SQL Server 2022 and AMD",
+      "room": "PUB 258A",
+      "speaker": "Brandon Leach"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Fabric houses, when to go for Lakehouse or Warehouse (or both)?",
+      "room": "PUB 258B",
+      "speaker": "Armando Lacerda"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Make Fabric the Gold layer of your multi-cloud medallion architecture!",
+      "room": "PUB 258C",
+      "speaker": "Johan Ludvig Brattås"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Navigating the Data Jungle: Meet Your New Best Friends, Microsoft Fabric Copilots!",
+      "room": "GHL 161",
+      "speaker": "Heidi Hasting"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "IaC Thunderdome: Bicep vs. Terraform!",
+      "room": "GHL CTR",
+      "speaker": "Frank Geisler, Rune Ovlien Rakeie"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "The Ultimate Guide to Ola Hallengren's Maintenance Solution",
+      "room": "GHL 213",
+      "speaker": "Ben Miller"
+    },
+    {
+      "time": "12:05 pm",
+      "duration": 30,
+      "type": "marquee",
+      "title": "Marquee Session 1 - Interject",
+      "room": "GHL CTR",
+      "speaker": null
+    },
+    {
+      "time": "12:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Always On: Lessons learned (that Microsoft doesn't tell you)!",
+      "room": "PUB 258A",
+      "speaker": "Marcelo Adade, Roberto Fonseca"
+    },
+    {
+      "time": "12:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "An introduction to Snowflake - the data cloud",
+      "room": "PUB 258B",
+      "speaker": "Johan Ludvig Brattås"
+    },
+    {
+      "time": "12:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "How to use AI, in your professional and personal life",
+      "room": "PUB 258C",
+      "speaker": "Tonie Huizer, Peter Kruis"
+    },
+    {
+      "time": "12:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Double Vision with Copilot: Enhancing Your Code Twice as Fast",
+      "room": "GHL 161",
+      "speaker": "Mikey Bronowski"
+    },
+    {
+      "time": "12:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Fabric for the Power BI Developer and Consumer",
+      "room": "GHL CTR",
+      "speaker": "Patrick LeBlanc"
+    },
+    {
+      "time": "12:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Here's the execution plan … now what?",
+      "room": "GHL 213",
+      "speaker": "Hugo Kornelis"
+    },
+    {
+      "time": "1:40 pm",
+      "duration": 30,
+      "type": "lunch",
+      "title": "Lunch -",
+      "room": "GHL CTR",
+      "speaker": null
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Building and Managing High Performing Teams",
+      "room": "PUB 258A",
+      "speaker": "John Martin"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Reporting & Modeling with a Lot of Data Using Power BI and Fabric",
+      "room": "PUB 258B",
+      "speaker": "Paul Turley"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Bite Your Gold (Layer) - Data Quality Checks in Fabric Notebooks between Power BI & SQL",
+      "room": "PUB 258C",
+      "speaker": "Kristyna Ferris"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "AI inside of the Microsoft Power Platform",
+      "room": "GHL 161",
+      "speaker": "David Patrick"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "The intersection of artificial intelligence and testing data",
+      "room": "GHL CTR",
+      "speaker": "Hamish Watson"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "How To Tune A Multi-Terabyte Database For Optimum Performance",
+      "room": "GHL 213",
+      "speaker": "Jeff Taylor"
+    },
+    {
+      "time": "3:20 pm",
+      "duration": 30,
+      "type": "marquee",
+      "title": "Marquee Session 2 - OmniData",
+      "room": "GHL CTR",
+      "speaker": null
+    },
+    {
+      "time": "3:55 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "When Things go Wrong - Error and Transaction Handling in SQL Server",
+      "room": "PUB 258A",
+      "speaker": "Erland Sommarskog"
+    },
+    {
+      "time": "3:55 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Demystifying Delta Parquet - The Foundation of the Lakehouse",
+      "room": "PUB 258B",
+      "speaker": "Jarid McKenzie"
+    },
+    {
+      "time": "3:55 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Log Shipping for SQL Server",
+      "room": "PUB 258C",
+      "speaker": "Rob Volk"
+    },
+    {
+      "time": "3:55 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Securing your data with private networking in Azure",
+      "room": "GHL 161",
+      "speaker": "Rune Ovlien Rakeie"
+    },
+    {
+      "time": "3:55 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "My Brain Has Blue Screened - Let's Laugh",
+      "room": "GHL CTR",
+      "speaker": "Tony Wilhelm"
+    },
+    {
+      "time": "3:55 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Conquering the Monster Proc - How to Combat Legacy Code",
+      "room": "GHL 213",
+      "speaker": "Deborah Melkin"
+    },
+    {
+      "time": "5:00 pm",
+      "duration": 30,
+      "type": "marquee",
+      "title": "Marquee Session 3 - SQL Server in the Era of AI",
+      "room": "GHL CTR",
+      "speaker": null
+    },
+    {
+      "time": "5:30 pm",
+      "duration": 60,
+      "type": "closing",
+      "title": "Closing and Raffle",
+      "room": "General",
+      "speaker": null
+    }
+  ]
+}

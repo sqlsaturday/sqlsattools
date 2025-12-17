@@ -1,0 +1,289 @@
+{
+  "event": "SQL Saturday 1096",
+  "rooms": {
+    "Auditorio": "Auditorio",
+    "Salon Virtual": "Salon Virtual"
+  },
+  "schedule": [
+    {
+      "time": "06:00",
+      "duration": 60,
+      "type": "general",
+      "title": "Registro",
+      "room": "Auditorio",
+      "speaker": null
+    },
+    {
+      "time": "07:00",
+      "duration": 15,
+      "type": "keynote",
+      "title": "Keynote y bienvenida",
+      "room": "Auditorio",
+      "speaker": null
+    },
+    {
+      "time": "07:00",
+      "duration": 30,
+      "type": "general",
+      "title": "Bienvenida (virtual)",
+      "room": "Salon Virtual",
+      "speaker": null
+    },
+    {
+      "time": "07:15",
+      "duration": 15,
+      "type": "session",
+      "title": "Presentación IEEE Computer Society UPC",
+      "room": "Auditorio",
+      "speaker": "Luis Angel Umiña Navia"
+    },
+    {
+      "time": "07:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Incremental Refresh en Power BI",
+      "room": "Auditorio",
+      "speaker": "Vivian Santisteban Montalvan"
+    },
+    {
+      "time": "07:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Transformación Digital con Microsoft Fabric: Integrando Inteligencia Artificial en el Proceso de BI",
+      "room": "Salon Virtual",
+      "speaker": "Hector Loja Alvarado"
+    },
+    {
+      "time": "07:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Aprende y prepárate para tomar el Data Analyst Associate Exam -l",
+      "room": "Salon Virtual",
+      "speaker": "Lucrecia Krause MVP"
+    },
+    {
+      "time": "08:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Mi primera Arquitectura de IA Generativa con Azure Open AI",
+      "room": "Auditorio",
+      "speaker": "Tony Trujillo Dávila"
+    },
+    {
+      "time": "08:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Construye tu Lakehouse de manera Escalable y Sostenible en Azure",
+      "room": "Salon Virtual",
+      "speaker": "Raul Sarachaga"
+    },
+    {
+      "time": "08:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Introducción a Azure Machine Learning Prompt Flow",
+      "room": "Salon Virtual",
+      "speaker": "Patricio Cofre"
+    },
+    {
+      "time": "09:30",
+      "duration": 30,
+      "type": "break",
+      "title": "Break 1",
+      "room": "Auditorio",
+      "speaker": null
+    },
+    {
+      "time": "09:30",
+      "duration": 30,
+      "type": "break",
+      "title": "Break 1",
+      "room": "Salon Virtual",
+      "speaker": null
+    },
+    {
+      "time": "09:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Troubleshooting Azure SQL & SQL Server using Extended Events",
+      "room": "Salon Virtual",
+      "speaker": "Javier Villegas"
+    },
+    {
+      "time": "10:00",
+      "duration": 30,
+      "type": "session",
+      "title": "Construyendo con Notion",
+      "room": "Auditorio",
+      "speaker": "Luis Mateo Chacaliaza Silva, Douglas Lovera, Lucero Obispo"
+    },
+    {
+      "time": "10:00",
+      "duration": 60,
+      "type": "session",
+      "title": "DataOps - Evolucionando nuestras capacidades con data",
+      "room": "Salon Virtual",
+      "speaker": "Urbano Quispe Flores"
+    },
+    {
+      "time": "10:30",
+      "duration": 30,
+      "type": "session",
+      "title": "Conoce más sobre GitHub",
+      "room": "Auditorio",
+      "speaker": "James Hurtado"
+    },
+    {
+      "time": "10:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Get started with Copilot in Azure for SQL database",
+      "room": "Salon Virtual",
+      "speaker": "Dave Rendon"
+    },
+    {
+      "time": "11:00",
+      "duration": 90,
+      "type": "lunch",
+      "title": "Almuerzo libre",
+      "room": "Auditorio",
+      "speaker": null
+    },
+    {
+      "time": "11:00",
+      "duration": 90,
+      "type": "lunch",
+      "title": "Almuerzo libre",
+      "room": "Salon Virtual",
+      "speaker": null
+    },
+    {
+      "time": "11:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Revolucionando el Futuro: Aplicaciones y Oportunidades de la Inteligencia Artificial Generativa",
+      "room": "Salon Virtual",
+      "speaker": "Adrian Miranda Cordero"
+    },
+    {
+      "time": "12:30",
+      "duration": 60,
+      "type": "session",
+      "title": "People Analytics en Power BI",
+      "room": "Auditorio",
+      "speaker": "Renzo Roca Ramos"
+    },
+    {
+      "time": "12:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Desarrollando API desde Dynamics Business Central para consumirla desde Power BI",
+      "room": "Salon Virtual",
+      "speaker": "Andrés Arias Falcón"
+    },
+    {
+      "time": "12:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Migracion de on-premise SQL Server a Azure MI usando DMS and LRS",
+      "room": "Salon Virtual",
+      "speaker": "Gilda Alvarez"
+    },
+    {
+      "time": "13:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Unified DataOps: Integrating Power BI, Azure DevOps, and Git for Advanced Analytics Workflows",
+      "room": "Auditorio",
+      "speaker": "Alan Ferrandiz"
+    },
+    {
+      "time": "13:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Deneb y Vega Lite | Potencia y Flexibilidad en la Visualización de Datos",
+      "room": "Salon Virtual",
+      "speaker": "Pedro Castillo"
+    },
+    {
+      "time": "13:30",
+      "duration": 60,
+      "type": "session",
+      "title": "Microsoft Fabric + PowerPlatform + Azure Open AI = Magic Mix",
+      "room": "Salon Virtual",
+      "speaker": "Alex Rostan, Gaston Cruz"
+    },
+    {
+      "time": "14:30",
+      "duration": 30,
+      "type": "break",
+      "title": "Break 2",
+      "room": "Auditorio",
+      "speaker": null
+    },
+    {
+      "time": "14:30",
+      "duration": 30,
+      "type": "break",
+      "title": "Break 2",
+      "room": "Salon Virtual",
+      "speaker": null
+    },
+    {
+      "time": "14:30",
+      "duration": 30,
+      "type": "general",
+      "title": "Despedida (virtual)",
+      "room": "Salon Virtual",
+      "speaker": null
+    },
+    {
+      "time": "15:00",
+      "duration": 40,
+      "type": "session",
+      "title": "Más Allá de lo Básico: Controla Fechas en Power BI con Lenguaje M y Filtrado Bidireccional",
+      "room": "Auditorio",
+      "speaker": "Segundo Morales Rubio"
+    },
+    {
+      "time": "15:00",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI & A.I.: How to build insights",
+      "room": "Salon Virtual",
+      "speaker": "Yordy Garcia"
+    },
+    {
+      "time": "15:40",
+      "duration": 40,
+      "type": "session",
+      "title": "Export to Azure Data Lake for Dynamics 365 F&O",
+      "room": "Auditorio",
+      "speaker": "Juan Rafael"
+    },
+    {
+      "time": "16:00",
+      "duration": 60,
+      "type": "session",
+      "title": "Visualización de datos aplicando ibcs",
+      "room": "Salon Virtual",
+      "speaker": "Horacio Lewis"
+    },
+    {
+      "time": "16:20",
+      "duration": 40,
+      "type": "session",
+      "title": "Azure AI Services: Casos prácticos",
+      "room": "Auditorio",
+      "speaker": "Marlon Leandro"
+    },
+    {
+      "time": "17:00",
+      "duration": 30,
+      "type": "closing",
+      "title": "Clausura del evento",
+      "room": "Auditorio",
+      "speaker": null
+    }
+  ]
+}

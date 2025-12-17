@@ -1,0 +1,218 @@
+{
+  "event": "SQL Saturday 1093",
+  "rooms": {
+    "Lobby": "Lobby",
+    "Room A": "Room A",
+    "Room B": "Room B",
+    "Room C": "Room C"
+  },
+  "schedule": [
+    {
+      "time": "7:00 am",
+      "duration": 30,
+      "type": "registration",
+      "title": "Registration and Breakfast",
+      "room": "Lobby",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "7:30 am",
+      "duration": 20,
+      "type": "opening",
+      "title": "Opening",
+      "room": "Room A",
+      "speaker": "Diponkar Paul",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "8:00 am",
+      "duration": 50,
+      "type": "session",
+      "title": "SQL Server vs Oracle: The Showdown",
+      "room": "Room A",
+      "speaker": "Marcelo Adade",
+      "level": "Intermediate"
+    },
+    {
+      "time": "8:00 am",
+      "duration": 50,
+      "type": "session",
+      "title": "Fabric Security - Everything you need to know",
+      "room": "Room B",
+      "speaker": "Vengatesh Parasuraman",
+      "level": "Advanced"
+    },
+    {
+      "time": "8:00 am",
+      "duration": 50,
+      "type": "session",
+      "title": "Quality AI Requires Quality Data",
+      "room": "Room C",
+      "speaker": "Edward Pollack",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 50,
+      "type": "session",
+      "title": "Serverless LLM Fine-tuning using Snowflake Cortex AI",
+      "room": "Room A",
+      "speaker": "Ahmad Qinneh",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 50,
+      "type": "session",
+      "title": "Fabric Real-Time Intelligence Deep-Dive",
+      "room": "Room B",
+      "speaker": "Simon Nuss",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 50,
+      "type": "session",
+      "title": "Introduction to Data Movement using Fabric Metadata-Driven Pipelines",
+      "room": "Room C",
+      "speaker": "Dazana Hasan, Trish Arora",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 50,
+      "type": "session",
+      "title": "Data Preparation Strategies for Accelerated AI Pipelines",
+      "room": "Room A",
+      "speaker": "Melody Zacharias",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 50,
+      "type": "session",
+      "title": "Fabric for Power BI Users",
+      "room": "Room B",
+      "speaker": "Ashraf Ghonaim",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 50,
+      "type": "session",
+      "title": "Lucid Data Hub | Accelerate Enterprise Data Journey using Azure OpenAI",
+      "room": "Room C",
+      "speaker": "Venu Amancha",
+      "level": "Advanced"
+    },
+    {
+      "time": "10:50 am",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch Break",
+      "room": "General",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "11:50 am",
+      "duration": 50,
+      "type": "session",
+      "title": "Moving on up, to the Azure cloud, with a PostgreSQL database in the sky.",
+      "room": "Room A",
+      "speaker": "John Miner",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:50 am",
+      "duration": 50,
+      "type": "session",
+      "title": "Leverage AI to enhance your experience with Fabric Data Warehouse Copilot and AI Skills",
+      "room": "Room B",
+      "speaker": "Christian Cote",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:50 am",
+      "duration": 50,
+      "type": "session",
+      "title": "Hi AI, Who stole my car? Find my car thieves!",
+      "room": "Room C",
+      "speaker": "Shahriar Nikkhah, Sidharth Warrier",
+      "level": "Intermediate"
+    },
+    {
+      "time": "12:50 pm",
+      "duration": 50,
+      "type": "session",
+      "title": "Unified Data Governance with Microsoft Purview",
+      "room": "Room A",
+      "speaker": "Owais Hashmi",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "12:50 pm",
+      "duration": 50,
+      "type": "session",
+      "title": "Extend your SQL estate with Microsoft Fabric",
+      "room": "Room B",
+      "speaker": "Neha Sharma",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "12:50 pm",
+      "duration": 50,
+      "type": "session",
+      "title": "Unlocking the Power of AI: Integrating Multimodal Models with Advanced Prompt Engineering",
+      "room": "Room C",
+      "speaker": "Chloe Zacharias",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:40 pm",
+      "duration": 20,
+      "type": "break",
+      "title": "Snack break",
+      "room": "General",
+      "speaker": null,
+      "level": null
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 45,
+      "type": "session",
+      "title": "Transactional Replication - From Expletives to Excellence",
+      "room": "Room A",
+      "speaker": "Joseph Fleming",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 45,
+      "type": "session",
+      "title": "Unity Catalog- Unified, open governance for data and AI",
+      "room": "Room B",
+      "speaker": "Subhadip Chanda, Wesley Dias",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 45,
+      "type": "session",
+      "title": "Leveraging Azure Cloud Native applications for Real-Time Stream Data Ingestion",
+      "room": "Room C",
+      "speaker": "Ehsan Eskandari",
+      "level": "Advanced"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 20,
+      "type": "closing",
+      "title": "Closing and Raffle Draw",
+      "room": "Room B",
+      "speaker": null,
+      "level": null
+    }
+  ]
+}
