@@ -1,0 +1,351 @@
+{
+  "event": "SQL Saturday St. Louis",
+  "rooms": [
+    "Gateway Arch I",
+    "Gateway Arch II",
+    "Tesla",
+    "Johnson",
+    "Busch Stadium",
+    "World's Fair",
+    "Union Station"
+  ],
+  "sessions": [
+    {
+      "time": "7:45 am",
+      "duration": "60 min",
+      "title": "Building a Data Warehouse on the shores of OneLake in Microsoft Fabric",
+      "speaker": "Kevin Arnold",
+      "track": "Fabric",
+      "room": "Gateway Arch I"
+    },
+    {
+      "time": "7:45 am",
+      "duration": "60 min",
+      "title": "Teaching Old Dogs New Tricks: Revitalizing a SQL Server Code Base One Version at a Time",
+      "speaker": "Kevin Feasel",
+      "track": "SQL Server/Azure: Dev",
+      "room": "Gateway Arch II"
+    },
+    {
+      "time": "7:45 am",
+      "duration": "60 min",
+      "title": "CI/CD for SQL Database in Fabric using Azure DevOps",
+      "speaker": "Kevin Pereira",
+      "track": "Fabric",
+      "room": "Tesla"
+    },
+    {
+      "time": "7:45 am",
+      "duration": "60 min",
+      "title": "Implementing Zero-Trust Security for Cloud Applications with Microsoft Azure",
+      "speaker": "Phanindra Gangina",
+      "track": "SQL Server/Azure: Dev",
+      "room": "Johnson"
+    },
+    {
+      "time": "7:45 am",
+      "duration": "60 min",
+      "title": "Don't Bring a Screwdriver to a Nail Fight",
+      "speaker": "Erika Haase Nalley",
+      "track": "BI",
+      "room": "Busch Stadium"
+    },
+    {
+      "time": "7:45 am",
+      "duration": "60 min",
+      "title": "Modern Integration, Classic Toolset: A Practical Look at SSIS",
+      "speaker": "Courtney Woolum",
+      "track": "Data Engineering",
+      "room": "World's Fair"
+    },
+    {
+      "time": "7:45 am",
+      "duration": "60 min",
+      "title": "Copilot Studio Agents and Experiences",
+      "speaker": "Kurt Rolland",
+      "track": "AI",
+      "room": "Union Station"
+    },
+    {
+      "time": "8:55 am",
+      "duration": "60 min",
+      "title": "Fabric Fast Track End-to-End Implementation in 60 Minutes",
+      "speaker": "Belinda Allen",
+      "track": "Fabric",
+      "room": "Gateway Arch I"
+    },
+    {
+      "time": "8:55 am",
+      "duration": "60 min",
+      "title": "SQL Server Indexing Strategies",
+      "speaker": "Dan Guzman",
+      "track": "SQL Server/Azure: Dev",
+      "room": "Gateway Arch II"
+    },
+    {
+      "time": "8:55 am",
+      "duration": "60 min",
+      "title": "Governance First - Enable Secure and Trusted Fabric Deployments",
+      "speaker": "Stacey Rudoy",
+      "track": "Fabric",
+      "room": "Tesla"
+    },
+    {
+      "time": "8:55 am",
+      "duration": "60 min",
+      "title": "Encrypt those connections! How to increase SQL Server security",
+      "speaker": "Sharon Reid",
+      "track": "SQL Server/Azure: Admin",
+      "room": "Johnson"
+    },
+    {
+      "time": "8:55 am",
+      "duration": "60 min",
+      "title": "From Hocus Pocus to Focus: Contextualize Your Power BI Data",
+      "speaker": "Stephanie Bruno",
+      "track": "BI",
+      "room": "Busch Stadium"
+    },
+    {
+      "time": "8:55 am",
+      "duration": "60 min",
+      "title": "Power BI API: Automating the Analytics Lifecycle",
+      "speaker": "Michael McKinley",
+      "track": "Data Engineering",
+      "room": "World's Fair"
+    },
+    {
+      "time": "8:55 am",
+      "duration": "60 min",
+      "title": "Autonomous Agents - The New Workflow Paradigm",
+      "speaker": "Kurt Rolland",
+      "track": "AI",
+      "room": "Union Station"
+    },
+    {
+      "time": "10:05 am",
+      "duration": "60 min",
+      "title": "Applying Medallion Architecture in Microsoft Fabric: Principles, Patterns, and Pitfalls",
+      "speaker": "Pierre LaFromboise",
+      "track": "Fabric",
+      "room": "Gateway Arch I"
+    },
+    {
+      "time": "10:05 am",
+      "duration": "60 min",
+      "title": "Intro to PowerShell with dbatools for the DBA",
+      "speaker": "Tony Wilhelm",
+      "track": "SQL Server/Azure: Admin",
+      "room": "Gateway Arch II"
+    },
+    {
+      "time": "10:05 am",
+      "duration": "60 min",
+      "title": "Unlocking the Power of TMDL: Enhancing Power BI Development",
+      "speaker": "Jason Romans",
+      "track": "Fabric",
+      "room": "Tesla"
+    },
+    {
+      "time": "10:05 am",
+      "duration": "60 min",
+      "title": "Presence Over Pixels: How to Stay Human in a Hyper-Digital Workflow",
+      "speaker": "Ashley René Casey",
+      "track": "Professional Development",
+      "room": "Johnson"
+    },
+    {
+      "time": "10:05 am",
+      "duration": "60 min",
+      "title": "DataOps 101 – A Better Way to Develop and Deliver Data Analytics",
+      "speaker": "John Kerski",
+      "track": null,
+      "room": "Busch Stadium"
+    },
+    {
+      "time": "10:05 am",
+      "duration": "60 min",
+      "title": "Architecting the Modern Data Pipeline with Microsoft Fabric",
+      "speaker": "Joshua Higginbotham",
+      "track": "Data Engineering",
+      "room": "World's Fair"
+    },
+    {
+      "time": "10:05 am",
+      "duration": "60 min",
+      "title": "Why Should I Care About ... The Plan Cache",
+      "speaker": "Rick Lowe",
+      "track": "SQL Server/Azure: Admin",
+      "room": "Union Station"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "speaker": "Kevin Feasel",
+      "track": "SQL Server/Azure: Dev",
+      "room": "Gateway Arch I"
+    },
+    {
+      "time": "12:20 pm",
+      "duration": "60 min",
+      "title": "Tips and Tricks for Microsoft Fabric Data Warehouse",
+      "speaker": "Chris Hyde",
+      "track": "Fabric",
+      "room": "Gateway Arch I"
+    },
+    {
+      "time": "12:20 pm",
+      "duration": "60 min",
+      "title": "First steps into Postgres for the SQL Server DBA",
+      "speaker": "Rick Lowe",
+      "track": "SQL Server/Azure: Admin",
+      "room": "Gateway Arch II"
+    },
+    {
+      "time": "12:20 pm",
+      "duration": "60 min",
+      "title": "Supercharge Your Power BI Development with AI, Agents, and MPCs",
+      "speaker": "Michael McKinley",
+      "track": "Fabric",
+      "room": "Tesla"
+    },
+    {
+      "time": "12:20 pm",
+      "duration": "60 min",
+      "title": "Real-World EF Core: Common Problems, Modern Solutions",
+      "speaker": "Brian Gorman",
+      "track": "SQL Server/Azure: Dev",
+      "room": "Johnson"
+    },
+    {
+      "time": "12:20 pm",
+      "duration": "60 min",
+      "title": "Breaking Bad….Governance in Power BI: Free & Open-Source Solution",
+      "speaker": "Chris Cusumano",
+      "track": "BI",
+      "room": "Busch Stadium"
+    },
+    {
+      "time": "12:20 pm",
+      "duration": "60 min",
+      "title": "Unlocking Real-Time Intelligence with Microsoft Fabric: From Purpose to Practical Use",
+      "speaker": "Joshua Higginbotham",
+      "track": "Fabric",
+      "room": "World's Fair"
+    },
+    {
+      "time": "12:20 pm",
+      "duration": "60 min",
+      "title": "Telling Stories With Your Data",
+      "speaker": "Austin Bristow",
+      "track": "Professional Development",
+      "room": "Union Station"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Trust, but Verify: Data Quality in Microsoft Fabric",
+      "speaker": "Andrew Boerger",
+      "track": "Fabric",
+      "room": "Gateway Arch I"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Buttons, Levers, and Dials: What to Do With Common SQL Server Settings!",
+      "speaker": "Lee Markum",
+      "track": "SQL Server/Azure: Dev",
+      "room": "Gateway Arch II"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "How to Diagnose a Slow Power BI Report",
+      "speaker": "Jason Romans",
+      "track": "Fabric",
+      "room": "Tesla"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Cognitive Load Is Killing Your Workflow (and What to Do About It)",
+      "speaker": "Ashley René Casey",
+      "track": "Professional Development",
+      "room": "Johnson"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Fabric and Power BI Licensing and Capacity Planning",
+      "speaker": "Stephanie Bruno",
+      "track": "BI",
+      "room": "Busch Stadium"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Modernizing Legacy Applications with Azure: Strategies and Lessons Learned",
+      "speaker": "Phanindra Gangina",
+      "track": "SQL Server/Azure: Admin",
+      "room": "World's Fair"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "What is Power BI Developer Mode?",
+      "speaker": "John Kerski",
+      "track": null,
+      "room": "Union Station"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": "60 min",
+      "title": "AI-Ready: Preparing for and Using AI in Power BI and Microsoft Fabric",
+      "speaker": "Belinda Allen",
+      "track": "Fabric",
+      "room": "Gateway Arch I"
+    }
+  ],
+  "summary": {
+    "total_sessions": 37,
+    "total_rooms": 7,
+    "session_slots": {
+      "7:45 am": 7,
+      "8:55 am": 7,
+      "10:05 am": 7,
+      "11:15 am": 1,
+      "12:20 pm": 7,
+      "1:30 pm": 7,
+      "2:40 pm": 1
+    },
+    "tracks": {
+      "Fabric": 14,
+      "SQL Server/Azure: Dev": 5,
+      "SQL Server/Azure: Admin": 5,
+      "BI": 4,
+      "Data Engineering": 3,
+      "AI": 2,
+      "Professional Development": 3,
+      "Other": 1
+    },
+    "topics": [
+      "Microsoft Fabric",
+      "SQL Server 2025",
+      "Power BI",
+      "Azure DevOps",
+      "AI and Agents",
+      "Data Warehousing",
+      "Security",
+      "Performance Tuning",
+      "Professional Development"
+    ],
+    "notable_speakers": [
+      "Kurt Rolland (2 sessions on AI)",
+      "Kevin Feasel (2 sessions)",
+      "Rick Lowe (2 sessions)",
+      "Jason Romans (2 sessions)",
+      "Ashley René Casey (2 sessions on Professional Development)"
+    ]
+  }
+}

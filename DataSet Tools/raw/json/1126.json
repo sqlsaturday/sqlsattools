@@ -1,0 +1,78 @@
+{
+  "event": "SQL Saturday Event (Spanish)",
+  "language": "Spanish/English",
+  "sessions": [
+    {
+      "speaker": "Andrés Arias Falcón",
+      "title": "Agentes inteligentes para ERP: creando asistentes con Copilot Studio y Business Central",
+      "description": "Exploraremos cómo diseñar agentes personalizados que entienden el lenguaje natural y ejecutan acciones reales dentro de Business Central."
+    },
+    {
+      "speaker": "Tony Trujillo Dávila",
+      "title": "Creando mi Arquitectura de IA Generativa en Segundos con Azure BIcep",
+      "description": "Creando mi Arquitectura de IA Generativa en Segundos con Azure BIcep"
+    },
+    {
+      "speaker": "Mayte Castillo García",
+      "title": "E2E Smart Flow: de OneLake de Fabric a la IA",
+      "description": "Imagina consultar tus tablas en tiempo real usando lenguaje natural. En esta sesión exploraremos cómo conectar Microsoft Fabric, Power Platform y Azure AI Foundry para crear un flujo inteligente que valida, responde consultas sobre datos y automatiza decisiones. Una demo práctica donde la IA deja de ser teoría y se convierte en un copiloto real para tus procesos empresariales."
+    },
+    {
+      "speaker": "Juan Rafael",
+      "title": "El poder de Copilot en MS Dynamics 365 Finance and Operations",
+      "description": "Veremos como Copilot ayuda desde el soporte y guia a un usuairo, hasta la prductividad en finance, scm y commerce, finalmente en desarrollo X++"
+    },
+    {
+      "speaker": "Ray Espinoza",
+      "title": "fuga de clientes con modelos de Machine Learning en Fabric y modelos generativos de OpenAI",
+      "full_title": "De la predicción a la acción: cómo llevamos la analítica de fuga de clientes con modelos de Machine Learning en Fabric y modelos generativos de OpenAI en Azure",
+      "description": "En esta charla mostraré cómo un modelo de churn prediction genera un impacto real positivo en un entorno de producción. Usando Microsoft Fabric, entrenamos y explicamos las predicciones del modelo, y luego con Azure Functions y OpenAI interpretamos resultados en lenguaje natural, para que finalmente los integramos directamente con Dynamics CRM a través de CosmosDB. Una historia de cómo unir datos, IA y reglas de negocio con modelos analíticos."
+    },
+    {
+      "speaker": "Renato Amapanqui",
+      "title": "Protege tus datos: Seguridad y auditoría en entornos SQL modernos",
+      "description": "La seguridad de los datos se ha convertido en una prioridad estratégica en toda organización que gestiona información crítica. En esta sesión exploraremos cómo las soluciones de Data Protection y Database Activity Monitoring (DAM) fortalecen la seguridad, trazabilidad y cumplimiento en entornos SQL Server y bases de datos multibase. Analizaremos cómo estas tecnologías permiten detectar accesos indebidos, prevenir fugas de información y automatizar auditorías, además de comparar los principales enfoques y herramientas del mercado. También abordaremos los retos y oportunidades actuales de la industria, como la adopción de entornos cloud, la integración con inteligencia artificial y la creciente demanda de cumplimiento normativo. Una charla diseñada para profesionales que buscan elevar la madurez de seguridad de sus plataformas de datos, comprendiendo las tendencias y buenas prácticas que marcan el futuro del Data Protection en el mundo SQL."
+    },
+    {
+      "speaker": "Betza Chavarría Romero",
+      "title": "SQL o Python. ¿Por donde empezar?",
+      "description": "En esta sesión voy a responder a una de las preguntas más comunes que me hacen los profesionales de datos cuando inician."
+    },
+    {
+      "speaker": "Raul Sarachaga",
+      "title": "SQServer 2025: an enterprise AI-ready database platform",
+      "description": "Come learn about the latest release of Microsoft SQL Server, SQL Server 2025, with AI built-in, powered by industry proven security, performance, and availability, and connected and integrated to Azure and Microsoft Fabric. SQL Server 2025 provides a unique opportunity to build AI applications on-premises only or connect to the cloud. Learn how AMD EPYC™ CPUs bring compelling performance and value to your SQL Server 2025 deployments and AI workloads. SQL is the only database to provide consistent AI capabilities ground to cloud to fabric. Come learn about all the new features of SQL Server 2025 including new capabilities specifically designed for the modern database developer."
+    },
+    {
+      "speaker": "Keyla Dolores Méndez",
+      "title": "Unifying Apps, Data & AI — The Fabric Way",
+      "description": "Behind every great app, there's great data — and now, great AI. This session explores how Microsoft Fabric creates the bridge between all three, empowering makers, developers, and data professionals to work in harmony. Because when data flows, ideas grow."
+    }
+  ],
+  "summary": {
+    "total_sessions": 9,
+    "topics": [
+      "Copilot Studio & Business Central",
+      "Azure Bicep & Generative AI",
+      "Microsoft Fabric",
+      "Dynamics 365 Finance and Operations",
+      "Machine Learning & Churn Prediction",
+      "SQL Security & Auditing",
+      "Data Career Guidance",
+      "SQL Server 2025",
+      "Power Platform"
+    ],
+    "technologies": [
+      "Microsoft Fabric",
+      "Azure AI Foundry",
+      "Copilot Studio",
+      "Dynamics 365",
+      "Azure Bicep",
+      "OpenAI",
+      "SQL Server 2025",
+      "Power Platform",
+      "CosmosDB",
+      "Azure Functions"
+    ]
+  }
+}

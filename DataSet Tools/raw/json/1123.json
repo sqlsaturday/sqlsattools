@@ -1,0 +1,253 @@
+{
+  "event": "SQL Saturday Dallas",
+  "rooms": [
+    "SQLGene",
+    "Microsoft/AMD Room",
+    "Data Witches",
+    "Dallas DBAs",
+    "Falling Water"
+  ],
+  "sessions": [
+    {
+      "time": "7:00 am",
+      "duration": "60 min",
+      "title": "Registration / Badge Pickup",
+      "room": "Microsoft/AMD Room",
+      "type": "registration"
+    },
+    {
+      "time": "8:00 am",
+      "duration": "25 min",
+      "title": "Opening Remarks",
+      "speaker": "Jim Donahoe",
+      "room": "Microsoft/AMD Room",
+      "type": "opening"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "All about Visual Calculations in Power BI",
+      "speaker": "Dean Jurecic",
+      "room": "SQLGene"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "Building SQL databases in Fabric for Dashboards and Datamarts: Design, Indexing, and Compression",
+      "speaker": "Joey Dantoni",
+      "room": "Microsoft/AMD Room"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "They did what?! An introduction to SQL Server Audit",
+      "speaker": "Nate Locklin",
+      "room": "Data Witches"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "Trust, but Verify: Data Quality in Microsoft Fabric",
+      "speaker": "Andrew Boerger",
+      "room": "Dallas DBAs"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "title": "Demystifying Fabric and Power BI Licensing",
+      "speaker": "Stephanie Bruno",
+      "room": "SQLGene"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "title": "SQL Triage: When the Proverbial Excrement Hits the Rotating Oscillator",
+      "speaker": "Peter Shore",
+      "room": "Microsoft/AMD Room"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "title": "What is Power BI Developer Mode?",
+      "speaker": "John Kerski",
+      "room": "Data Witches"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "title": "Code Changes That Eliminate SQL Server Performance Complaints",
+      "speaker": "John Sterrett",
+      "room": "SQLGene"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "title": "Supercharge your analytics with Microsoft Fabric Real Time Intelligence",
+      "speaker": "Christopher Schmidt",
+      "room": "Microsoft/AMD Room"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "title": "Building High-Performance BI Dashboards with SQL Server and Modern Analytics Tools",
+      "speaker": "Amarnatha Thumalur",
+      "room": "Data Witches"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "title": "Semantic Model Ideation for Power BI",
+      "speaker": "Leslie Welch",
+      "room": "Dallas DBAs"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "title": "Modernizing SQL Server Workloads with Azure SQL MI and MI Link: A Practical Guide to Hybrid Cloud",
+      "speaker": "Siva Bhupathiraju",
+      "room": "Falling Water"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "Lunch",
+      "type": "lunch"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Maximizing the impact of Power BI applications through improved user experience",
+      "speaker": "Joel Gagnon",
+      "room": "SQLGene"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Raw to Refined: Data Curation with Fabric Notebooks",
+      "speaker": "Justin Cunningham",
+      "room": "Microsoft/AMD Room"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Migrating Tableau to Power BI backed by Fabric",
+      "speaker": "Kevin Arnold",
+      "room": "Data Witches"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Hindsight is 20/20: Time-Saving Power BI Tips I Wish I Knew on Day One",
+      "speaker": "Daniel Baller",
+      "room": "Dallas DBAs"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Introduction to M and Power Query",
+      "speaker": "Eugene Meidinger",
+      "room": "Falling Water"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Data Warehouse to Lakehouse: Landing to Gold",
+      "speaker": "Jess Johnson",
+      "room": "SQLGene"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "SQL Server 2025: An Enterprise AI-ready Database Platform",
+      "speaker": "Joey Dantoni",
+      "room": "Microsoft/AMD Room"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Fabric Security and Governance",
+      "speaker": "Kiley Papa",
+      "room": "Data Witches"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Modern Integration, Classic Toolset: A Practical Look at SSIS",
+      "speaker": "Courtney Woolum",
+      "room": "Dallas DBAs"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Hey Real-Time Intelligence - should I go outside today?",
+      "speaker": "Dominick Raimato",
+      "room": "SQLGene"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Teaching Old Dogs New Tricks: Revitalizing a SQL Server Code Base One Version at a Time",
+      "speaker": "Kevin Feasel",
+      "room": "Microsoft/AMD Room"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Designing for Speed: Resolving Spark Performance Pitfalls in Microsoft Fabric",
+      "speaker": "Jean Joseph",
+      "room": "Data Witches"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Power BI Semantic Layers & AI Governance for Scalable, Reliable BI",
+      "speaker": "Pranitha Potturi",
+      "room": "Dallas DBAs"
+    },
+    {
+      "time": "4:40 pm",
+      "duration": "20 min",
+      "title": "Closing Remarks/Raffle",
+      "speaker": "Jim Donahoe",
+      "room": "Microsoft/AMD Room",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 29,
+    "technical_sessions": 24,
+    "event_activities": 5,
+    "total_rooms": 5,
+    "session_slots": {
+      "8:30 am": 4,
+      "9:45 am": 3,
+      "11:00 am": 5,
+      "1:00 pm": 5,
+      "2:15 pm": 4,
+      "3:30 pm": 4
+    },
+    "topics": [
+      "Power BI",
+      "Microsoft Fabric",
+      "SQL Server 2025",
+      "Data Quality and Governance",
+      "Performance Tuning",
+      "Real-Time Intelligence",
+      "Azure SQL MI",
+      "Data Warehousing/Lakehouse",
+      "SSIS",
+      "Spark Performance"
+    ],
+    "notable_speakers": [
+      "Joey Dantoni (2 sessions)",
+      "Jim Donahoe (Opening & Closing)"
+    ],
+    "room_themes": [
+      "SQLGene",
+      "Microsoft/AMD Room (main room)",
+      "Data Witches",
+      "Dallas DBAs",
+      "Falling Water"
+    ]
+  }
+}

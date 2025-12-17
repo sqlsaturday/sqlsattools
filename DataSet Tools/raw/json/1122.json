@@ -1,0 +1,386 @@
+{
+  "event": "SQL Saturday Orlando",
+  "rooms": [
+    "2102",
+    "2103",
+    "2104",
+    "2105",
+    "2205",
+    "2206",
+    "2207",
+    "2208"
+  ],
+  "special_areas": [
+    "MAIN LOBBY AREA",
+    "COVERED WALKWAY"
+  ],
+  "sessions": [
+    {
+      "time": "8:00 am",
+      "duration": "60 min",
+      "title": "Registration and Meet the Sponsors",
+      "room": "MAIN LOBBY AREA",
+      "type": "registration"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "The Simplicity of Power Query",
+      "speaker": "Priscilla Camp",
+      "room": "2102"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Maximizing SSMS for Developers and DBAs",
+      "speaker": "Nem Schlecht",
+      "room": "2103"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Microsoft Fabric: Copilots & Data Agents",
+      "speaker": "Bradley Ball",
+      "room": "2104"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Implementing Azure Arc for SQL Server",
+      "speaker": "Gilda Alvarez",
+      "room": "2105"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "The Future of Agentic AI with Microsoft Fabric a GAME Changer",
+      "speaker": "Lucrecia Krause MVP",
+      "room": "2205"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "What DBAs Don't Know About Mobile Apps and APIs",
+      "speaker": "Andy Lech",
+      "room": "2206"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Build a Data Application with Streamlit",
+      "speaker": "Kevin Feasel",
+      "room": "2207"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Log Shipping for SQL Server",
+      "speaker": "Rob Volk",
+      "room": "2208"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "15 min",
+      "title": "Break - 15 Min.",
+      "room": "MAIN LOBBY AREA",
+      "type": "break"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Microsoft Fabric 101: The All-in-One Data Platform",
+      "speakers": ["Daniel Taylor", "Bradley Schacht"],
+      "room": "2102"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Lakehouse Catalogs 101 - Governing and Transporting your Iceberg, Delta and Hudi tables",
+      "speaker": "Alex Merced",
+      "room": "2103"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Azure AI Foundry : Generative AI Development Hub",
+      "speaker": "Monica Bagga",
+      "room": "2104"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Zero to Insights: Build an End-To-End Data Pipeline in Snowflake in Under 60 Minutes",
+      "speaker": "Gilberto Hernandez",
+      "room": "2105"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Power BI, Microsoft Fabric, or Both? Building Analytics Solutions",
+      "speaker": "Cecilia Brusatori",
+      "room": "2205"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Code to Cloud: Deploying a Full-Stack Angular App with Cloud Run & Cloud SQL (Hands-On)",
+      "speaker": "Javier Carrion",
+      "room": "2206"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Customize your managed SQL Server database on AWS Cloud",
+      "speaker": "Minesh Chande",
+      "room": "2207"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "SQL Server CLR",
+      "speaker": "Victor Ivantsov",
+      "room": "2208"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "15 min",
+      "title": "Break - 15 Min.",
+      "room": "MAIN LOBBY AREA",
+      "type": "break"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Open Panel with Tales from the Field Team",
+      "panelists": ["Bradley Schacht", "Josh Luedeman", "Daniel Taylor", "Bradley Ball"],
+      "room": "2102",
+      "type": "panel"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Garbage in, hallucinations out: designing data for GenAI agents",
+      "speaker": "Marilina Trevisan",
+      "room": "2103"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "The Basics of Speech and Natural Language Processing",
+      "speaker": "Kevin Feasel",
+      "room": "2104"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Vectors Unleashed: 20 Tips for Next-Level SQL",
+      "speaker": "Barkha Herman",
+      "room": "2105"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "How to Diagnose a Slow Power BI Report",
+      "speaker": "Jason Romans",
+      "room": "2205"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "VisualStudio SQL Server Projects for Devs",
+      "speaker": "Juan Pablo Tarquino",
+      "room": "2206"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Tame Your Unruly Data With Constraints",
+      "speaker": "Rob Volk",
+      "room": "2207"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Database Assessment and Migration using SSMS!",
+      "speaker": "Steven Wheeler",
+      "room": "2208"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": "60 min",
+      "title": "Lunch",
+      "room": "COVERED WALKWAY",
+      "type": "lunch"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "You Want To PaaS(SaaS) Up Your Database(Revised) Migration",
+      "speakers": ["Bradley Schacht", "Daniel Taylor"],
+      "room": "2102"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Best Practices of Implementing Azure Data Factory",
+      "speaker": "Eddy Djaja",
+      "room": "2103"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Apache Iceberg, Agentic AI and Data Integration",
+      "speaker": "Alex Merced",
+      "room": "2104"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Data Architectures and Microsoft Fabric",
+      "speaker": "James Serra",
+      "room": "2105"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Power BI Report Design Process",
+      "speaker": "Kate Boss",
+      "room": "2205"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Become a Data Analyst, prepare to get certified and also earn college credits",
+      "speaker": "Lucrecia Krause MVP",
+      "room": "2206"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Understanding Vector Databases",
+      "speaker": "Buck Woody",
+      "room": "2207"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "What's New In SQL Server For The Developer",
+      "speaker": "Jeff Taylor",
+      "room": "2208"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": "15 min",
+      "title": "Break - 15 Min.",
+      "room": "MAIN LOBBY AREA",
+      "type": "break"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "title": "Data Retention Policy with Partition Switching",
+      "speaker": "Oleg Marushchak",
+      "room": "2102"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "title": "Data on Fire: A Hands-On Intro to Spark in Fabric",
+      "speaker": "Jason Romans",
+      "room": "2103"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "title": "The Good the Bad and the Ugly of AI and Big Data- How the ILC is the Road to Wisdom",
+      "speaker": "Frank Quintana",
+      "room": "2104"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "title": "Learning to present and becoming good at it",
+      "speaker": "James Serra",
+      "room": "2105"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "title": "BI versus Relational Design",
+      "speaker": "Louis Davidson",
+      "room": "2205"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "speakers": ["Bradley Ball", "Daniel Taylor"],
+      "room": "2206"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "title": "Deconstructing The Postgres Migration Profile",
+      "speaker": "Robert Treat",
+      "room": "2207"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "title": "Azure Data Factory (ADF) - Your New SSIS",
+      "speaker": "Jeff Taylor",
+      "room": "2208"
+    },
+    {
+      "time": "3:45 pm",
+      "duration": "15 min",
+      "title": "COSING AND RAFFLE",
+      "room": "COVERED WALKWAY",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 45,
+    "technical_sessions": 40,
+    "event_activities": 5,
+    "total_rooms": 8,
+    "session_slots": {
+      "9:00 am": 8,
+      "10:15 am": 8,
+      "11:30 am": 8,
+      "1:30 pm": 8,
+      "2:45 pm": 8
+    },
+    "topics": [
+      "Microsoft Fabric",
+      "Agentic AI",
+      "Power BI",
+      "SQL Server 2025",
+      "Azure Services",
+      "Vector Databases",
+      "Apache Iceberg",
+      "Snowflake",
+      "Data Migration",
+      "Azure Data Factory",
+      "Natural Language Processing",
+      "PostgreSQL"
+    ],
+    "session_types": {
+      "standard": 37,
+      "co_presented": 3,
+      "panel_discussion": 1,
+      "event_activities": 5
+    },
+    "notable_speakers": [
+      "Bradley Schacht (3 sessions)",
+      "Daniel Taylor (3 sessions)",
+      "Bradley Ball (3 sessions)",
+      "Kevin Feasel (2 sessions)",
+      "Jason Romans (2 sessions)",
+      "Rob Volk (2 sessions)",
+      "Jeff Taylor (2 sessions)",
+      "James Serra (2 sessions)",
+      "Alex Merced (2 sessions)"
+    ]
+  }
+}

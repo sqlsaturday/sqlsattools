@@ -1,0 +1,306 @@
+{
+  "event": "SQL Saturday Denver",
+  "date": "TBD",
+  "sessions": [
+    {
+      "time": "7:45 am",
+      "duration": "45 min",
+      "title": "Registration",
+      "room": "VDEN110",
+      "type": "registration"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "45 min",
+      "title": "Keynote: Guard Rails of Data Democratization with AI in Today's World",
+      "speaker": "Kellyn Gorman",
+      "room": "VDEN110",
+      "type": "keynote"
+    },
+    {
+      "time": "9:15 am",
+      "duration": "15 min",
+      "title": "Bathroom Break",
+      "room": "VDEN110",
+      "type": "break"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "AI Meets Data: Redefining Reliability in the Age of Intelligence",
+      "speakers": ["Hamish Watson", "Amy Abel"],
+      "room": "VDEN110"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "Performance and execution plan improvements in SQL Server 2025",
+      "speaker": "Hugo Kornelis",
+      "room": "VMMH1"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "Don't Outshine the Decision Makers",
+      "speaker": "Michelle Bird",
+      "room": "VMMC16"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "Paginated Reports 101 for the Power BI Veteran",
+      "speaker": "Lenore Flower",
+      "room": "VMMC22"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "60 min",
+      "title": "PowerShell for the SQL DBA: Getting Started the Right Way",
+      "speaker": "Ben Miller",
+      "room": "VMMC23"
+    },
+    {
+      "time": "10:30 am",
+      "duration": "15 min",
+      "title": "Bathroom Break",
+      "room": "VDEN110",
+      "type": "break"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Migrating SQL Server Workloads to PostgreSQL",
+      "speakers": ["Marcelo Adade", "Roberto Fonseca"],
+      "room": "VDEN110"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Step-by-Step Guide: Building ETL Workflows in Microsoft Fabric",
+      "speaker": "Sally Dabbah",
+      "room": "VDEN129"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Query Hints ... What's the Worst That Can Happen",
+      "speaker": "Rick Lowe",
+      "room": "VMMH1"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Immersive Entertainment: Pre-Computed Surround Lighting in Real Time",
+      "speaker": "Chandan Kumar",
+      "room": "VMMC16"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Managing Change - 5 Considerations for Driving Business Users to Adopt Fabric and Power BI",
+      "speaker": "Grant Stalley",
+      "room": "VMMC22"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Intro to PowerShell with dbatools for the DBA",
+      "speaker": "Tony Wilhelm",
+      "room": "VMMC23"
+    },
+    {
+      "time": "11:45 am",
+      "duration": "15 min",
+      "title": "Bathroom Break",
+      "room": "VDEN110",
+      "type": "break"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "speaker": "Hamish Watson",
+      "room": "VDEN110"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "SQL Server 2025 for DBAs!",
+      "speakers": ["Marcelo Adade", "Roberto Fonseca"],
+      "room": "VDEN110"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "DBCC CHECKDB: The Never-Ending Story - Why It Takes Forever?",
+      "speaker": "Mikey Bronowski",
+      "room": "VDEN129"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Of course I want to let Azure SQL manage my indexes, why wouldn't I?",
+      "speaker": "John Martin",
+      "room": "VMMH1"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Scalable IoT Data Architecture: From Edge Computing to Enterprise Database Integrations",
+      "speaker": "Ramakrishna Ambati",
+      "room": "VMMC16"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Transform your Data Governance Initiatives with Microsoft Purview Unified Catalog",
+      "speaker": "Lee Coates",
+      "room": "VMMC22"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "The Lost Art of Debugging SQL Server Stored Procedures",
+      "speaker": "Randy Knight",
+      "room": "VMMC23"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "15 min",
+      "title": "Bathroom Break",
+      "room": "VDEN110",
+      "type": "break"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "REACTIVE DBA TO PROACTIVE DRBE, FROM BURN OUT TO BUY IN",
+      "speaker": "Amy Abel",
+      "room": "VDEN110"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Finding the Right Data Types",
+      "speaker": "Kevin Wilkie",
+      "room": "VDEN129"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Tame Your Unruly Data With Constraints",
+      "speaker": "Rob Volk",
+      "room": "VMMH1"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Bye-Bye, Northwind: Easy Database Generation with Fabric Notebooks and Copilot",
+      "speaker": "Robin Abramson",
+      "room": "VMMC16"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "The Fellowship of the Star Schema: Transforming OLTP Data for Power BI",
+      "speaker": "Kristyna Ferris",
+      "room": "VMMC22"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "How To Tune A Multi-Terabyte Database For Optimum Performance",
+      "speaker": "Jeff Taylor",
+      "room": "VMMC23"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "title": "Bathroom Break",
+      "room": "VDEN110",
+      "type": "break"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Two Developers, One Mission: Make a Test Database That Doesn't Suck",
+      "speakers": ["Tonie Huizer", "Peter Kruis"],
+      "room": "VDEN110"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Racing to Real-Time Intelligence: Live Insights from Live Data",
+      "speakers": ["Frank Geisler", "Rune Ovlien Rakeie"],
+      "room": "VDEN129"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Don't Let Your Permissions Be Hijacked!",
+      "speaker": "Erland Sommarskog",
+      "room": "VMMH1"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Database Backups 101",
+      "speaker": "Jeff Taylor",
+      "room": "VMMC16"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Data on Fire: A Hands-On Intro to Spark in Fabric",
+      "speaker": "Jason Romans",
+      "room": "VMMC22"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Semantic Model Design for Humans and Robots",
+      "speaker": "Paul Turley",
+      "room": "VMMC23"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "15 min",
+      "title": "Bathroom Break",
+      "room": "VDEN110",
+      "type": "break"
+    },
+    {
+      "time": "4:45 pm",
+      "duration": "30 min",
+      "title": "End of Event Comments - Raffle",
+      "room": "VDEN110",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 39,
+    "technical_sessions": 30,
+    "event_activities": 9,
+    "rooms": ["VDEN110", "VDEN129", "VMMH1", "VMMC16", "VMMC22", "VMMC23"],
+    "total_rooms": 6,
+    "session_slots": {
+      "9:30 am": 5,
+      "10:45 am": 6,
+      "1:00 pm": 6,
+      "2:15 pm": 6,
+      "3:30 pm": 6
+    },
+    "topics": [
+      "SQL Server 2025",
+      "AI and Data",
+      "Microsoft Fabric",
+      "Power BI",
+      "PowerShell",
+      "Database Administration",
+      "PostgreSQL Migration",
+      "Data Governance",
+      "Performance Tuning",
+      "Security"
+    ]
+  }
+}

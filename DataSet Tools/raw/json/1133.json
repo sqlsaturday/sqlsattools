@@ -1,0 +1,169 @@
+{
+  "event": "Data Platform Event",
+  "sessions": [
+    {
+      "time": "12:15 pm",
+      "duration": "45 min",
+      "title": "Registration",
+      "room": "WK 251",
+      "type": "registration"
+    },
+    {
+      "time": "1:05 pm",
+      "duration": "60 min",
+      "title": "Welcome and Keynote",
+      "room": "WK 249",
+      "type": "keynote"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "15 min",
+      "title": "Break",
+      "room": "WK 251",
+      "type": "break"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Fast at Fabric - Getting Started",
+      "speaker": "Heidi Hasting"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "The Future of Advanced Power BI Development",
+      "speaker": "Darren Gosbell"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Data Platform Security",
+      "speaker": "Zahid Yaqub"
+    },
+    {
+      "time": "3:10 pm",
+      "duration": "15 min",
+      "title": "Break",
+      "room": "WK 251",
+      "type": "break"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Microsoft Fabric and GitHub - The story so far for 2025",
+      "speaker": "Kev Chant"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Debug DAX like a PRO",
+      "speaker": "Philip Seamark"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Fivetran SaaS - Efficiently move your data",
+      "speaker": "Abhinav Joshi"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "60 min",
+      "title": "Lunch",
+      "room": "WK 251",
+      "type": "lunch"
+    },
+    {
+      "time": "5:30 pm",
+      "duration": "60 min",
+      "title": "Best Practice Analyser, Refresh - with Semantic-Link-Labs and Fabric",
+      "speaker": "David Wilson"
+    },
+    {
+      "time": "5:30 pm",
+      "duration": "60 min",
+      "title": "Applying DevOps practices to your Power BI deployments in Microsoft Fabric",
+      "speaker": "Kev Chant"
+    },
+    {
+      "time": "5:30 pm",
+      "duration": "60 min",
+      "title": "SQL Server 2025 - The AI Ready Enterprise Database",
+      "speaker": "Anupama Natarajan"
+    },
+    {
+      "time": "6:30 pm",
+      "duration": "15 min",
+      "title": "Break",
+      "room": "WK 251",
+      "type": "break"
+    },
+    {
+      "time": "6:45 pm",
+      "duration": "60 min",
+      "title": "Decoding Microsoft Fabric Security: Layers, Insights, and Aussie Expertise",
+      "speaker": "Heidi Hasting"
+    },
+    {
+      "time": "6:45 pm",
+      "duration": "60 min",
+      "title": "Take your semantic models to the next level with DAX Studio",
+      "speaker": "Darren Gosbell"
+    },
+    {
+      "time": "6:45 pm",
+      "duration": "60 min",
+      "title": "From API to Insights: Open Mirroring with Microsoft Fabric",
+      "speaker": "Anupama Natarajan"
+    },
+    {
+      "time": "7:45 pm",
+      "duration": "15 min",
+      "title": "Break",
+      "room": "WK 251",
+      "type": "break"
+    },
+    {
+      "time": "8:00 pm",
+      "duration": "15 min",
+      "title": "Can Generative AI Be a True Pair-Programmer?",
+      "speaker": "Mehuli Mukherjee",
+      "room": "WK 249"
+    },
+    {
+      "time": "8:15 pm",
+      "duration": "15 min",
+      "title": "Responsible Coding with Generative AI",
+      "speaker": "Mehuli Mukherjee",
+      "room": "WK 249"
+    },
+    {
+      "time": "8:30 pm",
+      "duration": "30 min",
+      "title": "Wrap up & Raffle Prizes",
+      "room": "WK 251",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 22,
+    "technical_sessions": 15,
+    "event_activities": 7,
+    "rooms": ["WK 249", "WK 251"],
+    "session_slots": {
+      "2:15 pm": 3,
+      "3:30 pm": 3,
+      "5:30 pm": 3,
+      "6:45 pm": 3,
+      "8:00 pm": 2
+    },
+    "topics": [
+      "Microsoft Fabric",
+      "Power BI",
+      "DAX",
+      "SQL Server 2025",
+      "DevOps",
+      "Data Security",
+      "Generative AI"
+    ]
+  }
+}

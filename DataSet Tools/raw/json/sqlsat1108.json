@@ -1,0 +1,124 @@
+{
+  "event": "AI Saturday Houston 2025",
+  "event_number": "1108",
+  "date": "2025-03-22",
+  "sessions": [
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "speaker": "Paul DeCarlo"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Analytics Operating Model - Value Realization Best Practices",
+      "speaker": "Tommy Ogden"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Node to Note: Transforming Speech into Text Magic with Node.js",
+      "speaker": "Erez Carmel"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Ensuring Data Integrity and Privacy \"A Guide for Database Administrators\"",
+      "speaker": "Balakrishna Boddu"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Fabric: What's new and what's next?",
+      "speaker": "Geraldine Caszo"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Automating Your Data Infrastructure for Faster AI & Analytics",
+      "speaker": "Patrick O'Halloran"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Security in the Era of AI: How Do We Protect Our Personal Information?",
+      "speaker": "Abbas Rianat"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "R.A.G. to Riches: Mastering Data Selection for Remarkable LLMs",
+      "speaker": "Zac Brown"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Modernization and Future Power of Automated for Database Administration Essential Best Practices",
+      "speaker": "Sethu Sesha Synam Neeli"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Leverage AI to enhance your experience with Fabric Data Warehouse Copilot and AI Skills",
+      "speaker": "Christian Cote"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "The Linguistics of Large Language Models: What Your AI's Mistakes Reveal",
+      "speaker": "Chaitanya Rahalkar"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": "60 min",
+      "title": "Lunch",
+      "room": "Room 1"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Real-Time Query Magic: Leveraging Vector Indexing for Lightnig quick AI and Analytics",
+      "speaker": "Barkha Herman"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Copilot for Fabric Data Engineering",
+      "speaker": "Christian Cote"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "title": "Developing Conversational AI Applications with the AWS Bedrock Platform",
+      "speaker": "Sainath Muvva"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "title": "The Evolution of AI: Agents, Autonomy, and Beyond",
+      "speaker": "Naveen Krishnan"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "title": "Leading for Impact: 7 Behaviors of Transformational Leaders",
+      "speaker": "N.J. Robinson"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "title": "Customizing Azure Open AI models with fine-tuning",
+      "speaker": "Talles Valiatti"
+    }
+  ],
+  "total_sessions": 18,
+  "session_count_by_time": {
+    "9:00 am": 3,
+    "10:15 am": 4,
+    "11:30 am": 4,
+    "12:30 pm": 1,
+    "1:30 pm": 3,
+    "2:45 pm": 3
+  }
+}

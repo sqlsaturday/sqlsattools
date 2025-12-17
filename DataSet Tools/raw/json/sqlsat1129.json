@@ -1,0 +1,323 @@
+{
+  "event": "SQL Saturday Brazil",
+  "sessions": [
+    {
+      "time": "8:00 am",
+      "duration": "30 min",
+      "title": "Credenciamento (Térreo)",
+      "type": "registration"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "20 min",
+      "title": "Abertura (Térreo)",
+      "type": "opening"
+    },
+    {
+      "time": "8:50 am",
+      "duration": "30 min",
+      "title": "Coffee Break (Térreo)",
+      "type": "break"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "50 min",
+      "title": "Databricks - Como se tornar um Engenheiro de Dados?",
+      "speaker": "Lucas Lessa"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "50 min",
+      "title": "Arquiteturas modernas de dados: Snowflake, Databricks e um pouco de IA",
+      "speaker": "Arthur Ferreira Reis"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "50 min",
+      "title": "Estruturas de Data Mesh no Databricks: saindo da teoria e indo para a pratica de uma vez por todas",
+      "speaker": "Nilton Kazuyuki Ueda"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "50 min",
+      "title": "Como Acelerar sua Análise de Dados com Inteligência Artificial",
+      "speaker": "Ryan Linhares"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "50 min",
+      "title": "IA, Ética e Carreira: O Que Ninguém Te Contou Sobre o Futuro do Trabalho",
+      "speaker": "#dicadogarcia"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "50 min",
+      "title": "Prototipagem Full-Stack: Onde o Design Encontra a Lógica",
+      "speakers": ["Talles Werner Paiva", "Felipe Faria"]
+    },
+    {
+      "time": "9:30 am",
+      "duration": "50 min",
+      "title": "What the RAG is going on?",
+      "speaker": "Rafael Costa de Almeida"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "50 min",
+      "title": "Mais que Mostrar: Conte Histórias com seus Dados",
+      "speaker": "Paulo Grijo"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "50 min",
+      "title": "Adeus JavaScript? Desenvolvendo Aplicações Modernas com Blazor e C#",
+      "speaker": "Maykon Mendel"
+    },
+    {
+      "time": "10:30 am",
+      "duration": "50 min",
+      "title": "Databricks Genie: A Revolução da IA Generativa para Dados e BI",
+      "speaker": "Livia Nonato"
+    },
+    {
+      "time": "10:30 am",
+      "duration": "50 min",
+      "title": "CI/CD com Microsoft Fabric",
+      "speaker": "Alison Pezzott"
+    },
+    {
+      "time": "10:30 am",
+      "duration": "50 min",
+      "title": "Como eu iniciaria na carreira de desenvolvimento hoje",
+      "speaker": "Rafael dos Santos"
+    },
+    {
+      "time": "10:30 am",
+      "duration": "50 min",
+      "title": "Do zero a milhões de requisições por segundo no DynamoDB! Modelando sua tabela do jeito certo",
+      "speaker": "william"
+    },
+    {
+      "time": "10:30 am",
+      "duration": "50 min",
+      "title": "AI-Frontend Integration: a última peça do quebra-cabeça",
+      "speaker": "Michael Alves"
+    },
+    {
+      "time": "10:30 am",
+      "duration": "50 min",
+      "title": "DAX UDF: o futuro do reuso de código no Power BI",
+      "speaker": "Renato Lira"
+    },
+    {
+      "time": "10:30 am",
+      "duration": "50 min",
+      "title": "Análise de Grafos no Azure SQL DB",
+      "speaker": "Wagner Crivelini"
+    },
+    {
+      "time": "10:30 am",
+      "duration": "50 min",
+      "title": "Database Watcher: Um novo olhar para o monitoramento do Azure SQL",
+      "speaker": "Hércules Pereira"
+    },
+    {
+      "time": "10:30 am",
+      "duration": "50 min",
+      "title": "SQL Server 2025: The AI-ready Enterprise Database",
+      "speaker": "Talles Valiatti"
+    },
+    {
+      "time": "11:40 am",
+      "duration": "20 min",
+      "title": "Foto Oficial (Térreo)",
+      "type": "photo"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "Almoço (Térreo)",
+      "type": "lunch"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "50 min",
+      "title": "Databricks: Dashboards e algumas novidades",
+      "speaker": "Vithor Silva"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "50 min",
+      "title": "Do 1º usuario ao 1 milhão - O que acontece quando você escala?",
+      "speaker": "brunobritodev"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "50 min",
+      "title": "Hackeando MSSQL na Nuvem. Todas elas. Como me tornei sysadmin no Azure, AWS, GCP e Alibaba",
+      "speaker": "Fabiano Amorim"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "50 min",
+      "title": "Do SQL ao ChatGPT: a jornada dos dados e a evolução dos SGBDs até a Era da IA",
+      "speaker": "Gilson Martins"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "50 min",
+      "title": "Da Visão ao Valor: Um Caso Real de Migração de Tableau para Power BI",
+      "speakers": ["Chikuji", "Samyr Moises"]
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "50 min",
+      "title": "Seu agente conversando com sua API - Microsoft Agent Framework + Open API",
+      "speaker": "Renyo Borges"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "50 min",
+      "title": "Padrões de Agentes com LLMs Locais em C#: Explorando Arquiteturas Inteligentes na Prática",
+      "speaker": "Yan Justino"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "50 min",
+      "title": "Automatizando Processos com Node-RED: Do Zero à Produção",
+      "speaker": "Silas de Moraes"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "50 min",
+      "title": "Always On: Lições (que a Microsoft não te contou)!",
+      "speaker": "Marcelo Adade"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "50 min",
+      "title": "Modelagem de Dados: O que fazer e o que evitar",
+      "speaker": "Vitor Maestri"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "50 min",
+      "title": "Explore seus dados com RAG, Azure Open AI e SQL Server 2025",
+      "speaker": "Rodrigo Dornel"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "50 min",
+      "title": "Criando Scrapers com Playwright para .NET",
+      "speaker": "André Custódio"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "50 min",
+      "title": "Como IA e Figma estão transformando o Design Data-Driven",
+      "speaker": "Breno"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "50 min",
+      "title": "Missão Data-Driven: Como uma Empresa Multimilionária Mudou o Jogo em 2 Anos",
+      "speaker": "Vitor Buzato"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "50 min",
+      "title": "Fabric sob pressão: o que você precisa saber sobre capacidade e governança",
+      "speaker": "Lucas Esquincalha Degen"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "50 min",
+      "title": "Você não precisa de mais Dados, você precisa de Produtos de Dados!",
+      "speaker": "Nik Dutra"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "50 min",
+      "title": "Bastidores da I.A .: Desafios e Realidades na Administração de Clusters de HPC",
+      "speaker": "Guilherme Friol"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "50 min",
+      "title": "Mulheres na Tecnologia: Ser Multitarefas Não É Peso, É Superpoder",
+      "speaker": "Laura Kuntz"
+    },
+    {
+      "time": "2:50 pm",
+      "duration": "30 min",
+      "title": "Coffee Break (Térreo)",
+      "type": "break"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "50 min",
+      "title": "Transição de Carreira: Como Migrar para Engenharia de Dados",
+      "speaker": "Edilson Santos"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "50 min",
+      "title": "Levantamento de Requisitos !?! - A Visão do Gestor de TI",
+      "speaker": "Alexsandro"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "50 min",
+      "title": "Do zero ao Dev Jr com .Net e Angular",
+      "speaker": "Gabriel Vieira"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "50 min",
+      "title": "BI Modo Turbo: Direct Lake é o novo combustível do Power BI",
+      "speaker": "Lucas Esquincalha Degen"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "50 min",
+      "title": "Fluxos inteligentes: integração de código com azure ai foundry",
+      "speakers": ["Carlos Machel", "Reginaldo Morais"]
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "50 min",
+      "title": "New Features Oracle Database 26ai",
+      "speaker": "Guilherme Brito"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "50 min",
+      "title": "IA interagindo com Código - Microsoft Agent Framework + Function Tools",
+      "speaker": "Renyo Borges"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "50 min",
+      "title": "O Alicerce da IA: Como a Infraestrutura e a Conectividade Sustentam o Futuro Digital",
+      "speaker": "Álvaro França"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "30 min",
+      "title": "Encerramento e Sorteios",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 53,
+    "technical_sessions": 45,
+    "event_activities": 8,
+    "session_slots": {
+      "9:30 am": 9,
+      "10:30 am": 9,
+      "1:00 pm": 9,
+      "2:00 pm": 9,
+      "3:30 pm": 8
+    }
+  }
+}

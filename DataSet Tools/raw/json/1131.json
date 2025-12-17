@@ -1,0 +1,201 @@
+{
+  "event": "SQL Saturday Toronto",
+  "rooms": ["Lobby", "Room A", "Room B", "Room C"],
+  "sessions": [
+    {
+      "time": "9:00 am",
+      "duration": "30 min",
+      "title": "Registration and Breakfast",
+      "room": "Lobby",
+      "type": "registration"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "20 min",
+      "title": "Opening",
+      "speaker": "Diponkar Paul",
+      "room": "Room A",
+      "type": "opening"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "50 min",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "speaker": "Christian Cote",
+      "room": "Room A"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "50 min",
+      "title": "Optimizing Agentic App Development with Microsoft Fabric",
+      "speaker": "Mehrsa Golestaneh",
+      "room": "Room B"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "50 min",
+      "title": "Fabric Security - Everything you need to know",
+      "speaker": "Vengatesh Parasuraman",
+      "room": "Room C"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "50 min",
+      "title": "Metadata-Driven Data Masking at Scale with Azure Databricks",
+      "speakers": ["Rayis Imayev", "Saleha Shaikh"],
+      "room": "Room A"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "50 min",
+      "title": "AI Agentic Framework",
+      "speaker": "Zac Taylor",
+      "room": "Room B"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "50 min",
+      "title": "Microsoft Fabric Capacity Strategy",
+      "speakers": ["Nik - Shahriar Nikkhah", "Deepak Kaaushik"],
+      "room": "Room C"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "50 min",
+      "title": "Panel Discussion : Autonomous AI & the Future of Work",
+      "panelists": ["Owais Hashmi", "Anand Persaud", "Mehrsa Golestaneh"],
+      "moderator": "Andrew Nassar",
+      "room": "Room B",
+      "type": "panel"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "50 min",
+      "title": "Mastering the BI Mullet - Managed Self Service BI",
+      "speaker": "Lenore Flower",
+      "room": "Room A"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "50 min",
+      "title": "Fabric Development: Repos, Collaboration and Deployments",
+      "speaker": "Greg Peter-Joyal",
+      "room": "Room C"
+    },
+    {
+      "time": "12:50 pm",
+      "duration": "60 min",
+      "title": "Lunch Break and Networking",
+      "room": "Lobby",
+      "type": "lunch"
+    },
+    {
+      "time": "1:50 pm",
+      "duration": "50 min",
+      "title": "Using SQL Database Projects in SQL Server Data Tools",
+      "speaker": "Mike Diehl",
+      "room": "Room A"
+    },
+    {
+      "time": "1:50 pm",
+      "duration": "50 min",
+      "title": "Agentic AI - The process re-engineering revolution",
+      "speaker": "Anand Persaud",
+      "room": "Room B"
+    },
+    {
+      "time": "1:50 pm",
+      "duration": "50 min",
+      "title": "Cloud-Native Analytics: Cosmos DB as Your Write Database, Microsoft Fabric as Your Reporting Layer",
+      "speaker": "Ehsan Eskandari",
+      "room": "Room C"
+    },
+    {
+      "time": "2:50 pm",
+      "duration": "50 min",
+      "title": "Confidence Queries: Elevating Your Influence in the Data Community",
+      "speaker": "Sheena Yap Chan",
+      "room": "Room A"
+    },
+    {
+      "time": "2:50 pm",
+      "duration": "50 min",
+      "title": "Accelerate Enterprise Data Journey using AI",
+      "speakers": ["Asha Kiranmai Tanakala", "Shahnaz Palakunnil Moosa"],
+      "room": "Room B"
+    },
+    {
+      "time": "2:50 pm",
+      "duration": "50 min",
+      "title": "Fabric for Power BI Professionals",
+      "speaker": "Ashraf Ghonaim",
+      "room": "Room C"
+    },
+    {
+      "time": "3:40 pm",
+      "duration": "20 min",
+      "title": "Snack Break",
+      "room": "Lobby",
+      "type": "break"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "50 min",
+      "title": "Unity Catalog: From Foundations to Best Practices",
+      "speaker": "Subhadip Chanda",
+      "room": "Room A"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "50 min",
+      "title": "Unifying Data and Intelligence: Fabric Pipelines to Data Agents",
+      "speaker": "Mitul Tailor",
+      "room": "Room B"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "50 min",
+      "title": "SQL in Microsoft Fabric: A Unified Approach to Data Engineering, Modeling, and Intelligence",
+      "speaker": "Alexander Turlov",
+      "room": "Room C"
+    },
+    {
+      "time": "4:50 pm",
+      "duration": "25 min",
+      "title": "Closing and Raffle Draw",
+      "room": "Room A",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 23,
+    "technical_sessions": 18,
+    "event_activities": 5,
+    "total_rooms": 4,
+    "session_slots": {
+      "10:00 am": 3,
+      "11:00 am": 3,
+      "12:00 pm": 3,
+      "1:50 pm": 3,
+      "2:50 pm": 3,
+      "4:00 pm": 3
+    },
+    "topics": [
+      "SQL Server 2025",
+      "Microsoft Fabric",
+      "Agentic AI",
+      "Azure Databricks",
+      "Power BI",
+      "Data Security",
+      "Cloud Analytics",
+      "AI Framework",
+      "Unity Catalog"
+    ],
+    "session_types": {
+      "standard": 16,
+      "co_presented": 4,
+      "panel_discussion": 1,
+      "event_activities": 5
+    }
+  }
+}

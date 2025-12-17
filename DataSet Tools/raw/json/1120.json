@@ -1,0 +1,232 @@
+{
+  "event": "SQL Saturday Event",
+  "sessions": [
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "SQL Server 2025: The AI-ready Enterprise database",
+      "speaker": "Bob Ward"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "Getting Started with SQL Server Performance Tuning",
+      "speaker": "John Sterrett"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "The Basics of Speech and Natural Language Processing",
+      "speaker": "Kevin Feasel"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "The Five Ws of SQL database in Microsoft Fabric",
+      "speaker": "Pam Lahoud"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "Migrating Tableau to Power BI backed by Fabric",
+      "speaker": "Kevin Arnold"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "Debugging without debugger: investigating SQL Server's internal structures",
+      "speaker": "Hugo Kornelis"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "Understanding and Using AI for the Data Professional",
+      "speaker": "Ginger Grant"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "Knowledge is the key: The path for AI applications",
+      "speaker": "Bob Ward"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "Availability Group Listener Best Practices",
+      "speaker": "Ryan Adams"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "SQL Server Anomaly Detection: Advanced Methods for Database Monitoring and Business Insights",
+      "speaker": "Mrunal Dipak Meshram"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Maximizing SSMS for Developers and DBAs",
+      "speaker": "Nem Schlecht"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "A Recruiter's Guide to Today's Tech Job Market",
+      "speaker": "Ava McClain"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "De-mystifying SQL Security: Open Discussion and Real-World Insights",
+      "speaker": "Andreas Wolter"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "SQL-Driven Financial Crime Detection: Advanced Analytics for Transaction Monitoring",
+      "speaker": "Shivam Tiwari"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": "40 min",
+      "title": "Lunch",
+      "room": "Room 1",
+      "type": "lunch"
+    },
+    {
+      "time": "12:40 pm",
+      "duration": "30 min",
+      "title": "Women in Technology",
+      "type": "special_session"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "Power BI Performance demos",
+      "speaker": "Patrick LeBlanc"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "Color Theory and Accessability for Reports",
+      "speakers": ["Andy Clark", "Helen Wall"]
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "Watch Brent Tune a Query in SQL Server 2025",
+      "speaker": "Brent Ozar"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "Automate, Optimize, Validate: PowerShell for Power BI & SSAS Success",
+      "speaker": "Russel Loski"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "How to effectively manage your Fabric ecosystem",
+      "speaker": "John Miner"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "60 min",
+      "title": "Open mirroring for legacy data sources",
+      "speaker": "John Miner"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "60 min",
+      "title": "Enable agentic AI apps with a unified data estate in Microsoft Fabric",
+      "speaker": "Paul DeCarlo"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "60 min",
+      "title": "Building a Modern ETL Pipeline with Azure Data Factory",
+      "speaker": "Rilwan Musa"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "60 min",
+      "title": "Common SQL Server Mistakes and How to Avoid Them",
+      "speaker": "Tim Radney"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "60 min",
+      "title": "End-to-End Machine Learning Pipelines on Databricks: From Data Ingestion to Model Deployment",
+      "speaker": "Shaurya Agrawal"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Managing SQL Server with Azure Arc Unleashed",
+      "speakers": ["David Pless", "Abdullah Mamun"]
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Zero to Insights: Build an End-To-End Data Pipeline in Snowflake in Under 60 Minutes",
+      "speaker": "Gilberto Hernandez"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Real-Time Fraud Detection with SQL, Streaming Data, and Machine Learning",
+      "speaker": "Soma Sundar Reddy Kancharla"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Streamlining DataOps in Fabric: Implementing Azure DevOps CI/CD Pipelines for Fabric SQL DB",
+      "speaker": "Kevin Pereira"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Education & AI",
+      "speaker": "Marwah Obaid"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "30 min",
+      "title": "Closing and Door Prizes",
+      "room": "Room 1",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 32,
+    "technical_sessions": 29,
+    "event_activities": 3,
+    "session_slots": {
+      "9:10 am": 5,
+      "10:20 am": 5,
+      "11:30 am": 4,
+      "1:10 pm": 5,
+      "2:20 pm": 5,
+      "3:30 pm": 5
+    },
+    "topics": [
+      "SQL Server 2025",
+      "AI and Machine Learning",
+      "Microsoft Fabric",
+      "Power BI",
+      "Performance Tuning",
+      "Data Security",
+      "ETL and Data Pipelines",
+      "Azure Services",
+      "Databricks",
+      "Snowflake",
+      "DevOps"
+    ],
+    "notable_speakers": [
+      "Bob Ward (2 sessions)",
+      "John Miner (2 sessions)",
+      "Brent Ozar",
+      "Hugo Kornelis",
+      "Patrick LeBlanc"
+    ]
+  }
+}
