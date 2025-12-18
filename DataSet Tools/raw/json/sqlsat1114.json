@@ -1,0 +1,173 @@
+{
+  "event": "SQL Saturday 1114",
+  "rooms": {
+    "Room 150AB": "Room 150AB",
+    "Room 150DC": "Room 150DC",
+    "Room 150GH": "Room 150GH",
+    "Room 150EF": "Room 150EF"
+  },
+  "schedule": [
+    {
+      "time": "8:30 am",
+      "duration": 30,
+      "type": "registration",
+      "title": "Registration and Breakfast",
+      "room": "Room 150AB",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Gen AI with Snowflake",
+      "room": "Room 150AB",
+      "speaker": "Devesh Mohnani",
+      "track": "Artificial Intelligence/Machine Learning"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "dbatools PowerShell Module Deep Dive",
+      "room": "Room 150DC",
+      "speaker": "Ben Miller",
+      "track": "Database Administration"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "DAX 201: CALCULATE, Unfolding the Swiss Army Knife of DAX Functions",
+      "room": "Room 150GH",
+      "speaker": "Mark Walter",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Better Together: Amazon SageMaker Lakehouse and RDS SQL Server, a Gen AI data integration use case",
+      "room": "Room 150EF",
+      "speaker": "Camilo Leon",
+      "track": "Artificial Intelligence/Machine Learning"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Hallway track (Time to move between Sessions)",
+      "room": "Room 150AB",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server Query Store 101",
+      "room": "Room 150AB",
+      "speaker": "Matt Horton",
+      "track": "Database Administration"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server Hosting on AWS: Options and Considerations",
+      "room": "Room 150DC",
+      "speaker": "Alvaro Costa-Neto",
+      "track": "Database Administration"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Microsoft Fabric for the SQL Professional",
+      "room": "Room 150GH",
+      "speaker": "Scott Cameron",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Database normalization - in practice",
+      "room": "Room 150EF",
+      "speaker": "McKay Salisbury",
+      "track": "Database Development"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Hallway track (Time to move between Sessions)",
+      "room": "Room 150AB",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server 2025: The Enterprise AI ready database",
+      "room": "Room 150AB",
+      "speaker": "Ben Miller",
+      "track": "Database Development"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server Memory Basics",
+      "room": "Room 150DC",
+      "speaker": "Jonathan Dunstan",
+      "track": "Database Administration"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Free Lunch Thank you to AWS For Sponsoring (GiveAways)",
+      "room": "Room 150AB",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 45,
+      "type": "workshop",
+      "title": "PowerShell Workshop",
+      "room": "Room 150AB",
+      "speaker": "Ben Miller",
+      "track": "Database Administration"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 45,
+      "type": "workshop",
+      "title": "Postgresql Workshop",
+      "room": "Room 150DC",
+      "speaker": "Pat Wright",
+      "track": "Database Administration"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Hallway track (Time to move between Sessions)",
+      "room": "Room 150AB",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 45,
+      "type": "session",
+      "title": "Building a SQL Server Recovery Strategy",
+      "room": "Room 150AB",
+      "speaker": "Ben Miller",
+      "track": "Database Administration"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "event": "2023 data.SQL.Saturday.LA",
+  "location": "Los Angeles, California",
+  "year": "2023",
+  "rooms": {
+    "Microsoft (239)": "Microsoft Room 239",
+    "Tintri (237)": "Tintri Room 237",
+    "LMU (233)": "LMU Room 233",
+    "PostgresConf LA (249)": "PostgresConf LA Room 249",
+    "St. Robert's Building": "St. Robert's Building"
+  },
+  "schedule": [
+    {
+      "time": "8:00 am",
+      "duration": 30,
+      "type": "registration",
+      "title": "Registration + Caffeine + Visit sponsors",
+      "room": "St. Robert's Building",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "8:30 am",
+      "duration": 15,
+      "type": "keynote",
+      "title": "Keynote",
+      "room": "St. Robert's Building",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "8:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Synapse Pipelines for the SSIS DBA",
+      "room": "Microsoft (239)",
+      "speaker": "Armando Lacerda",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "8:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Breaking Bad Habits: Solutions for Common Query Antipatterns",
+      "room": "Tintri (237)",
+      "speaker": "Jeff Iannucci",
+      "track": "Database Development"
+    },
+    {
+      "time": "8:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "MongoDB First Steps",
+      "room": "LMU (233)",
+      "speaker": "Nuri Halperin",
+      "track": "NoSQL/Alternative Databases"
+    },
+    {
+      "time": "8:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "A new paradigm for extending Postgres - Remote Extensions",
+      "room": "PostgresConf LA (249)",
+      "speaker": "Maor Kern",
+      "track": "PostgreSQL"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 20,
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffles",
+      "room": "St. Robert's Building",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "10:05 am",
+      "duration": 60,
+      "type": "session",
+      "title": "AI/ML: What You Need To Know",
+      "room": "Microsoft (239)",
+      "speaker": "Argenis Fernandez",
+      "track": "Artificial Intelligence/Machine Learning"
+    },
+    {
+      "time": "10:05 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Improve Write-Master and Read Replica scale, safely without application changes",
+      "room": "Tintri (237)",
+      "speaker": "Roland Lee",
+      "track": "Database Administration"
+    },
+    {
+      "time": "10:05 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Accessing Government API Data using Power BI",
+      "room": "LMU (233)",
+      "speaker": "Russel Loski",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "10:05 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Built on Postgres, Built for Scale: Exploring the Inner Workings of YugabyteDB",
+      "room": "PostgresConf LA (249)",
+      "speaker": "Denis Magda",
+      "track": "PostgreSQL"
+    },
+    {
+      "time": "11:05 am",
+      "duration": 20,
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffles",
+      "room": "St. Robert's Building",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "11:25 am",
+      "duration": 60,
+      "type": "session",
+      "title": "M365 Automation for Company Employee Onboarding",
+      "room": "Microsoft (239)",
+      "speaker": "Prabhat Nigam, Inderjeet singh Jaggi",
+      "track": "Business Applications"
+    },
+    {
+      "time": "11:25 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Easy Data Transfer Using and Extending the Cosmos DB Data Migration Tool",
+      "room": "Tintri (237)",
+      "speaker": "John Bowen",
+      "track": "NoSQL/Alternative Databases"
+    },
+    {
+      "time": "11:25 am",
+      "duration": 60,
+      "type": "session",
+      "title": "DBA Basics: Getting Started with Performance Tuning",
+      "room": "LMU (233)",
+      "speaker": "John Sterrett",
+      "track": "Database Administration"
+    },
+    {
+      "time": "11:25 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Women In Technology - The Power of Teams",
+      "room": "PostgresConf LA (249)",
+      "speaker": "Melody Zacharias",
+      "track": "Professional Development"
+    },
+    {
+      "time": "12:25 pm",
+      "duration": 45,
+      "type": "lunch",
+      "title": "Lunch Break - network, visit sponsors, and register for raffles",
+      "room": "St. Robert's Building",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "1:10 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "How to Explain Azure Data Security to Your Mom",
+      "room": "Microsoft (239)",
+      "speaker": "Melody Zacharias",
+      "track": "Security"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Next Gen Infrastructure – Level up how you run SQL Server",
+      "room": "Tintri (237)",
+      "speaker": "Shawn Meyers",
+      "track": "Database Administration"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Unlocking the Power of WhoIsActive",
+      "room": "LMU (233)",
+      "speaker": "Jeff Iannucci",
+      "track": "Database Administration"
+    },
+    {
+      "time": "2:10 pm",
+      "duration": 30,
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffles",
+      "room": "St. Robert's Building",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "2:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Query Hints ... What's the Worst That Can Happen",
+      "room": "Microsoft (239)",
+      "speaker": "Rick Lowe",
+      "track": "Database Development"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Index R(x): Prescriptions for Performance Improvement",
+      "room": "Tintri (237)",
+      "speaker": "Bill Sanscrainte",
+      "track": "Database Administration"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Help Your Teams Avoid Burnout And Apathy",
+      "room": "LMU (233)",
+      "speaker": "Tim Rayburn",
+      "track": "Professional Development"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Unlocking Real-time Insights: Enhancing Azure Database with Stream Processing",
+      "room": "PostgresConf LA (249)",
+      "speaker": "Yingjun Wu",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "3:40 pm",
+      "duration": 20,
+      "type": "break",
+      "title": "Break - network, and visit sponsors",
+      "room": "St. Robert's Building",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 30,
+      "type": "raffle",
+      "title": "Raffle",
+      "room": "St. Robert's Building",
+      "speaker": null,
+      "track": null
+    }
+  ]
+}

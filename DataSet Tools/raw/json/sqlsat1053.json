@@ -1,0 +1,330 @@
+{
+  "event": "SQL Saturday South Florida 2023",
+  "location": "South Florida",
+  "year": "2023",
+  "rooms": {
+    "1054": "Room 1054",
+    "1046": "Room 1046", 
+    "1034": "Room 1034",
+    "1040": "Room 1040",
+    "2053": "Room 2053",
+    "3018": "Room 3018"
+  },
+  "schedule": [
+    {
+      "time": "7:30 am",
+      "duration": 30,
+      "type": "registration",
+      "title": "Registration desk open",
+      "room": "1054",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "8:00 am",
+      "duration": 45,
+      "type": "keynote",
+      "title": "Keynote & Welcome remarks from sponsors",
+      "room": "1054",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Power BI for Data Analysis & Visualization",
+      "room": "1054",
+      "speaker": "Cecilia Brusatori",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "ChatGPT: Your AI Companion for Learning Beginner SQL and Other Educational Adventures",
+      "room": "1046",
+      "speaker": "Rich Zuech",
+      "track": "Artificial Intelligence/Machine Learning"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Installing, Standardizing, Securing, and Automating the Installation of SQL Server",
+      "room": "1034",
+      "speaker": "Andy Warren",
+      "track": "Database Administration"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Bringing DevOps to the Database",
+      "room": "1040",
+      "speaker": "Steve Jones",
+      "track": "DevOps"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Seamless SQL Server 2022 Integration with AWS: Streamlining Backups, Data Management and Operations",
+      "room": "2053",
+      "speaker": "Pankaj Satyaketu, Daniel Maldonado, Aylton Souza",
+      "track": "Cloud/AWS"
+    },
+    {
+      "time": "9:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "From Zero to Hero on Synapse Spark pool",
+      "room": "3018",
+      "speaker": "Armando Lacerda",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI and External Tools: This is the way!",
+      "room": "1054",
+      "speaker": "Jason Romans",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Exploratory and Explanatory Data Analysis: from raw data to data-driven business decisions",
+      "room": "1046",
+      "speaker": "Alan Ferrandiz",
+      "track": "Data Science"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "How To Tune A Multi-Terabyte Database For Optimum Performance",
+      "room": "1034",
+      "speaker": "Jeff Taylor",
+      "track": "Database Administration"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Optimize Your SQL Database",
+      "room": "1040",
+      "speaker": "Darius Liktorius",
+      "track": "Database Administration"
+    },
+    {
+      "time": "10:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "POWERSHELL Working with PSObjects...",
+      "room": "2053",
+      "speaker": "Maximo Trinidad",
+      "track": "PowerShell/DevOps"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Realtime Analytics Unleashed: Unlocking the Potential of Data at Scale",
+      "room": "1054",
+      "speaker": "Barkha Herman",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "ADX in One hour",
+      "room": "1046",
+      "speaker": "Hiram Fleitas",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "A Slice of Time: Window Functions in SQL Server",
+      "room": "1034",
+      "speaker": "Kevin Feasel",
+      "track": "Database Development"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building Data Lake on Azure",
+      "room": "1040",
+      "speaker": "Doug Leal",
+      "track": "Cloud/Azure"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building a cloud based data pipeline from raw data to visualization",
+      "room": "2053",
+      "speaker": "Oscar Garcia",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Unleashing the Power of Lakehouse Architecture: Improve Your Data Journey with Databricks",
+      "room": "3018",
+      "speaker": "Eumar Assis, Andres Urrutia",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch Break",
+      "room": "1054",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "12:40 pm",
+      "duration": 15,
+      "type": "session",
+      "title": "Azure Cosmos DB + C#, Xamarin",
+      "room": "1046",
+      "speaker": "Robert Hellestrae",
+      "track": "Application Development"
+    },
+    {
+      "time": "1:05 pm",
+      "duration": 15,
+      "type": "session",
+      "title": "Automating data engineering with SQL Server: Connecting data from different sources to reporting",
+      "room": "1034",
+      "speaker": "Deexith Reddy",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI Data Modeling Examples Beginner to Advanced",
+      "room": "1054",
+      "speaker": "Kevin Mason",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "\"The Intelligence Life Cycle and how Artificial Intelligence affects the Data profession\"",
+      "room": "1046",
+      "speaker": "Frank Quintana",
+      "track": "Artificial Intelligence/Machine Learning"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "You Want To PaaS Up Your Database, Migrating To Azure SQL",
+      "room": "1034",
+      "speaker": "Daniel Taylor",
+      "track": "Cloud/Azure"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Cyber Threat Intelligence using PostgreSQL and Dataiku",
+      "room": "1040",
+      "speaker": "Charles Wheelus, Ph.D.",
+      "track": "Security"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Project Management",
+      "room": "2053",
+      "speaker": "Patricia Ojeda",
+      "track": "Professional Development"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure SQL Server flavors, which one is right for my scenario?",
+      "room": "3018",
+      "speaker": "Armando Lacerda",
+      "track": "Cloud/Azure"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SSRS Inside Power BI. WHAT???",
+      "room": "1054",
+      "speaker": "Sherri McDonald",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Keeping it Classy: Designing a Great Classifier",
+      "room": "1046",
+      "speaker": "Kevin Feasel",
+      "track": "Data Science"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Top 10 Things DBA's Should Know About Their Infrastructure",
+      "room": "1034",
+      "speaker": "Jeff Taylor",
+      "track": "Database Administration"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Azure Data Factory",
+      "room": "1040",
+      "speaker": "Brian McDonald",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL on AWS: Best practices to build a Well Architected solution",
+      "room": "2053",
+      "speaker": "Aylton Souza, Daniel Maldonado, Pankaj Satyaketu",
+      "track": "Cloud/AWS"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL in the Cloud",
+      "room": "3018",
+      "speaker": "Darius Liktorius",
+      "track": "Cloud/Azure"
+    },
+    {
+      "time": "3:55 pm",
+      "duration": 60,
+      "type": "closing",
+      "title": "Raffles - Closing",
+      "room": "1054",
+      "speaker": null,
+      "track": null
+    }
+  ]
+}

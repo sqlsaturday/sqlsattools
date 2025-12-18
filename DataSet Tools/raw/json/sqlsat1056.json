@@ -1,0 +1,222 @@
+{
+  "event": "SQL Saturday Denver 2023",
+  "location": "Denver, Colorado",
+  "year": "2023",
+  "rooms": {
+    "Room 200A": "Registration/Sponsors/Snacks & Drinks",
+    "Room 100A-C": "Keynote/Closing/DBA 101 Track",
+    "Room 104": "DBA Track",
+    "Room 105": "Data Analysis/Power BI Track", 
+    "Room 106": "Data Engineering Track",
+    "Room 108": "Speaker Room"
+  },
+  "schedule": [
+    {
+      "time": "8:00 am",
+      "duration": 180,
+      "type": "registration",
+      "title": "Registration/Sponsors/Snacks & Drinks",
+      "room": "Room 200A",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "8:00 am",
+      "duration": 180,
+      "type": "speaker_room",
+      "title": "Speaker Room",
+      "room": "Room 108",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "8:30 am",
+      "duration": 15,
+      "type": "opening",
+      "title": "Kickoff",
+      "room": "Room 100A-C",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "8:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "A Beginner's Guide to Query Store",
+      "room": "Room 100A-C",
+      "speaker": "Brandon Tucker",
+      "track": "DBA 101"
+    },
+    {
+      "time": "8:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "A Version Control Primer for Databases",
+      "room": "Room 104",
+      "speaker": "Steve Jones",
+      "track": "Database Administration"
+    },
+    {
+      "time": "8:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Avoiding Common Pitfalls in Models and Reports: Lessons from the Trenches",
+      "room": "Room 105",
+      "speaker": "Reid Havens",
+      "track": "Data Analysis/Power BI"
+    },
+    {
+      "time": "8:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "AWS for the Microsoft Data Engineer",
+      "room": "Room 106",
+      "speaker": "Marc Beacom",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "The Amazing Utility of ROW_NUMBER()",
+      "room": "Room 100A-C",
+      "speaker": "Breanna Hansen",
+      "track": "DBA 101"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "How to migrate SQL Server databases to Azure",
+      "room": "Room 104",
+      "speaker": "Carlos Robles",
+      "track": "Database Administration"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI and External Tools: This is the way!",
+      "room": "Room 105",
+      "speaker": "Jason Romans",
+      "track": "Data Analysis/Power BI"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "From Zero to Hero on Synapse Spark pool",
+      "room": "Room 106",
+      "speaker": "Armando Lacerda",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 90,
+      "type": "lunch",
+      "title": "Lunch (Bring Your Own or Explore Local Area)",
+      "room": "All Rooms",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 150,
+      "type": "registration",
+      "title": "Registration/Sponsors/Snacks & Drinks (cont'd)",
+      "room": "Room 200A",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Query Hints ... What's the Worst That Can Happen",
+      "room": "Room 100A-C",
+      "speaker": "Rick Lowe",
+      "track": "DBA 101"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Infrastructure for Data Professionals: An Introduction",
+      "room": "Room 104",
+      "speaker": "Peter Shore",
+      "track": "Database Administration"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "So you inherited a multi-dimensional Cube. Now what?",
+      "room": "Room 105",
+      "speaker": "Scot Reagin",
+      "track": "Data Analysis/Power BI"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Leverage Microsoft Teams Webhooks To Deliver Business Insights",
+      "room": "Room 106",
+      "speaker": "Jeff Renz",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 210,
+      "type": "speaker_room",
+      "title": "Speaker Room (cont'd)",
+      "room": "Room 108",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "So you want to be a Tuner? An introduction to SQL Query Plans",
+      "room": "Room 100A-C",
+      "speaker": "Steven Wright",
+      "track": "DBA 101"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Faster Transactions: Query Tuning for Data Manipulation",
+      "room": "Room 104",
+      "speaker": "Jeff Iannucci",
+      "track": "Database Administration"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "ChatGPT and a Happy Data Pro",
+      "room": "Room 105",
+      "speaker": "Paresh Motiwala",
+      "track": "Data Analysis/Power BI"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Querying Power BI REST APIs within a Power BI Dataset",
+      "room": "Room 106",
+      "speaker": "John Kerski",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 60,
+      "type": "closing",
+      "title": "Closing & Giveaways",
+      "room": "Room 100A-C",
+      "speaker": null,
+      "track": null
+    }
+  ]
+}

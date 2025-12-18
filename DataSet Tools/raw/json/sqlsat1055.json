@@ -1,0 +1,263 @@
+{
+  "event": "Ohio North SQL Saturday 2023",
+  "location": "Ohio (Northern Region)",
+  "year": "2023",
+  "rooms": {
+    "The ONDT Room": "The ONDT Room",
+    "The Microsoft Room - A": "The Microsoft Room - A",
+    "The Microsoft Room - B": "The Microsoft Room - B", 
+    "The Progressive Room": "The Progressive Room"
+  },
+  "schedule": [
+    {
+      "time": "8:15 am",
+      "duration": 15,
+      "type": "opening",
+      "title": "Opening Remarks",
+      "room": "The Progressive Room",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "DBA - What's Most Important",
+      "room": "The ONDT Room",
+      "speaker": "Ed Wagner",
+      "track": "Database Administration",
+      "level": "Beginner"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Best practices when building a data model in Power BI",
+      "room": "The Microsoft Room - A",
+      "speaker": "Jason Romans",
+      "track": "Business Intelligence/Reporting",
+      "level": "Beginner"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure Infrastructure: An Introduction",
+      "room": "The Microsoft Room - B",
+      "speaker": "Peter Shore",
+      "track": "Cloud/Azure",
+      "level": "Beginner"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Perfectly Normal: An Advanced Primer on Normalization",
+      "room": "The Progressive Room",
+      "speaker": "Kevin Feasel",
+      "track": "Database Development",
+      "level": "Advanced"
+    },
+    {
+      "time": "9:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Understanding MPP architecture in Synapse SQL Pools",
+      "room": "The ONDT Room",
+      "speaker": "John Deardurff",
+      "track": "Data Engineering",
+      "level": "Beginner"
+    },
+    {
+      "time": "9:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Database Fundamentals: Querying Microsoft Databases",
+      "room": "The Microsoft Room - A",
+      "speaker": "Carlton Ramsey",
+      "track": "Database Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "9:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Automate your pipelines in ADF!",
+      "room": "The Microsoft Room - B",
+      "speaker": "Chi Zhang",
+      "track": "Data Engineering",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Cross Tabs and Pivots - Reporting on Steroids",
+      "room": "The Progressive Room",
+      "speaker": "Jeff Moden",
+      "track": "Database Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:50 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Completing a Performance Assessment and Creating a Monitoring Tool using SSMS, SSRS and PowerShell",
+      "room": "The ONDT Room",
+      "speaker": "Dave Bland",
+      "track": "Database Administration",
+      "level": "Beginner"
+    },
+    {
+      "time": "10:50 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure Monitor for SQL PaaS",
+      "room": "The Microsoft Room - A",
+      "speaker": "David Maxwell",
+      "track": "Cloud/Azure",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:50 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Tackling Monster Stored Procs",
+      "room": "The Progressive Room",
+      "speaker": "Allen White",
+      "track": "Database Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "The Progressive Room",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SCD 2 - Proven method to store historical records",
+      "room": "The ONDT Room",
+      "speaker": "Deexith Reddy",
+      "track": "Data Engineering",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Development through Behavioral Analysis",
+      "room": "The Microsoft Room - A",
+      "speaker": "Ben Miller",
+      "track": "Database Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Encrypting and securing your data in Azure SQL DB with no code impact",
+      "room": "The Microsoft Room - B",
+      "speaker": "Armando Lacerda",
+      "track": "Security",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Do The Lock The Lock Of Life, Concurrency in SQL Server",
+      "room": "The Progressive Room",
+      "speaker": "Peter Shore",
+      "track": "Database Administration",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:10 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Getting over Yourself: 10 Reasons Why You Should Present",
+      "room": "The ONDT Room",
+      "speaker": "Eugene Meidinger",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:10 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Getting started with SQL Azure Database",
+      "room": "The Microsoft Room - A",
+      "speaker": "Jim Donahoe",
+      "track": "Cloud/Azure",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:10 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "How to use Temporal Tables to Solve REAL Problems",
+      "room": "The Progressive Room",
+      "speaker": "Michael Swart",
+      "track": "Database Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "3:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Automating Visualizations with Azure Data Factory, SQL Server, and Power BI: Data to Insights",
+      "room": "The ONDT Room",
+      "speaker": "Deexith Reddy",
+      "track": "Data Engineering",
+      "level": "Beginner"
+    },
+    {
+      "time": "3:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Intro to PowerShell and dbatools for the DBA",
+      "room": "The Microsoft Room - A",
+      "speaker": "Tony Wilhelm",
+      "track": "Database Administration",
+      "level": "Beginner"
+    },
+    {
+      "time": "3:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Metadata-driven pipelines in Azure Data Factory",
+      "room": "The Microsoft Room - B",
+      "speaker": "Rayis Imayev",
+      "track": "Data Engineering",
+      "level": "Intermediate"
+    },
+    {
+      "time": "3:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Teaching Old Dogs New Tricks: Revitalizing a SQL Server Code Base One Version at a Time",
+      "room": "The Progressive Room",
+      "speaker": "Kevin Feasel",
+      "track": "Database Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": 60,
+      "type": "closing",
+      "title": "Raffle, Wrap up",
+      "room": "The Progressive Room",
+      "speaker": null,
+      "track": null,
+      "level": null
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "eventName": "SQL Saturday Sri Lanka 2023 - Virtual",
+  "eventDate": "2023-04-22",
+  "location": "Virtual Event",
+  "sessions": [
+    {
+      "id": "1040001",
+      "title": "Introduction",
+      "description": "Welcome and Introduction to SQL Saturday Sri Lanka 2023 - Virtual",
+      "startsAt": "2023-04-22T15:00:00Z",
+      "endsAt": "2023-04-22T15:10:00Z",
+      "isServiceSession": true,
+      "isPlenumSession": true,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 1001,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "1040002",
+      "title": "Keynote",
+      "description": "Keynote presentation for SQL Saturday Sri Lanka 2023",
+      "startsAt": "2023-04-22T15:10:00Z",
+      "endsAt": "2023-04-22T15:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": true,
+      "speakers": [
+        "sanjaya-bentotage"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 1001,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "1040003",
+      "title": "Azure Synapse Link for SQL Server 2022",
+      "description": "Learn about Azure Synapse Link integration with SQL Server 2022 and how to leverage this powerful combination for modern data analytics.",
+      "startsAt": "2023-04-22T16:00:00Z",
+      "endsAt": "2023-04-22T16:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "dinesh-priyankara"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 1001,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "1040004",
+      "title": "MLOps with Azure Machine Learning",
+      "description": "Explore Machine Learning Operations (MLOps) using Azure Machine Learning platform to streamline your ML lifecycle.",
+      "startsAt": "2023-04-22T16:00:00Z",
+      "endsAt": "2023-04-22T16:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "nisal-mihiranga"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 1002,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "1040005",
+      "title": "Pandas API on Azure Databricks",
+      "description": "Deep dive into using Pandas API on Azure Databricks for efficient data processing and analysis.",
+      "startsAt": "2023-04-22T17:00:00Z",
+      "endsAt": "2023-04-22T17:20:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "umair-ramzan"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 1001,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "1040006",
+      "title": "STL Decomposition for Time Series: Using SQL Server and Python",
+      "description": "Learn how to implement STL (Seasonal and Trend decomposition using Loess) for time series analysis using SQL Server and Python integration.",
+      "startsAt": "2023-04-22T17:00:00Z",
+      "endsAt": "2023-04-22T17:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "dinesh-asanka"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 1002,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "1040007",
+      "title": "Sneak Peek to the Power BI Dataflows",
+      "description": "Get an overview of Power BI Dataflows and how they can transform your data preparation and modeling processes.",
+      "startsAt": "2023-04-22T17:30:00Z",
+      "endsAt": "2023-04-22T17:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "pavara-maddumage"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 1001,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "1040008",
+      "title": "A complete tour of the Power BI platform & ecosystem",
+      "description": "Comprehensive overview of the Power BI platform, its components, and the surrounding ecosystem of tools and services.",
+      "startsAt": "2023-04-22T18:00:00Z",
+      "endsAt": "2023-04-22T18:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "samudra-bandaranayake"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 1001,
+      "liveUrl": null,
+      "recordingUrl": null
+    },
+    {
+      "id": "1040009",
+      "title": "Capabilities of Azure Machine Learning",
+      "description": "Explore the comprehensive capabilities of Azure Machine Learning platform for building, training, and deploying machine learning models.",
+      "startsAt": "2023-04-22T18:00:00Z",
+      "endsAt": "2023-04-22T18:50:00Z",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "haritha-thilakarathne"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 1002,
+      "liveUrl": null,
+      "recordingUrl": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "sanjaya-bentotage",
+      "firstName": "Sanjaya",
+      "lastName": "Bentotage",
+      "bio": "Sanjaya Bentotage is a data professional with expertise in SQL Server and cloud technologies.",
+      "tagLine": "Data Professional",
+      "profilePicture": "",
+      "isTopSpeaker": true,
+      "links": [],
+      "sessions": [
+        "1040002"
+      ],
+      "fullName": "Sanjaya Bentotage",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "dinesh-priyankara",
+      "firstName": "Dinesh",
+      "lastName": "Priyankara",
+      "bio": "Dinesh Priyankara is a data platform specialist with expertise in Azure Synapse and SQL Server technologies.",
+      "tagLine": "Data Platform Specialist",
+      "profilePicture": "",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        "1040003"
+      ],
+      "fullName": "Dinesh Priyankara",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "nisal-mihiranga",
+      "firstName": "Nisal",
+      "lastName": "Mihiranga",
+      "bio": "Nisal Mihiranga is a machine learning engineer with expertise in MLOps and Azure Machine Learning.",
+      "tagLine": "Machine Learning Engineer",
+      "profilePicture": "",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        "1040004"
+      ],
+      "fullName": "Nisal Mihiranga",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "umair-ramzan",
+      "firstName": "Umair",
+      "lastName": "Ramzan",
+      "bio": "Umair Ramzan is a data engineer with expertise in Azure Databricks and data processing technologies.",
+      "tagLine": "Data Engineer",
+      "profilePicture": "",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        "1040005"
+      ],
+      "fullName": "Umair Ramzan",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "dinesh-asanka",
+      "firstName": "Dinesh",
+      "lastName": "Asanka",
+      "bio": "Dinesh Asanka is a data scientist with expertise in SQL Server, Python, and time series analysis.",
+      "tagLine": "Data Scientist",
+      "profilePicture": "",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        "1040006"
+      ],
+      "fullName": "Dinesh Asanka",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "pavara-maddumage",
+      "firstName": "Pavara",
+      "lastName": "Maddumage",
+      "bio": "Pavara Maddumage is a business intelligence specialist with expertise in Power BI and data analytics.",
+      "tagLine": "Business Intelligence Specialist",
+      "profilePicture": "",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        "1040007"
+      ],
+      "fullName": "Pavara Maddumage",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "samudra-bandaranayake",
+      "firstName": "Samudra",
+      "lastName": "Bandaranayake",
+      "bio": "Samudra Bandaranayake is a Power BI expert with extensive knowledge of the Microsoft Power Platform ecosystem.",
+      "tagLine": "Power BI Expert",
+      "profilePicture": "",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        "1040008"
+      ],
+      "fullName": "Samudra Bandaranayake",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "haritha-thilakarathne",
+      "firstName": "Haritha",
+      "lastName": "Thilakarathne",
+      "bio": "Haritha Thilakarathne is a machine learning specialist with expertise in Azure Machine Learning platform.",
+      "tagLine": "Machine Learning Specialist",
+      "profilePicture": "",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        "1040009"
+      ],
+      "fullName": "Haritha Thilakarathne",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": [
+    {
+      "id": 1001,
+      "name": "Room 1",
+      "sort": 0
+    },
+    {
+      "id": 1002,
+      "name": "Room 2",
+      "sort": 1
+    }
+  ]
+}
+

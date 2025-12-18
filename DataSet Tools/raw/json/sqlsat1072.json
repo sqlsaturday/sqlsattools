@@ -1,0 +1,413 @@
+{
+  "event": "SQL Saturday Atlanta 2024",
+  "rooms": {
+    "1st - Auditorium": "First floor auditorium",
+    "1st - 122A": "First floor room 122A",
+    "1st - Room 124B": "First floor room 124B",
+    "1st - Room 191": "First floor room 191",
+    "2nd - Room 293": "Second floor room 293",
+    "2nd - Room 294": "Second floor room 294",
+    "2nd - Room 251": "Second floor room 251",
+    "2nd - Room 252": "Second floor room 252",
+    "2nd - Room 253": "Second floor room 253",
+    "2nd - Room 258": "Second floor room 258"
+  },
+  "schedule": [
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Real-time Analytics in Fabric",
+      "room": "1st - Auditorium",
+      "speaker": "Kristyna Ferris",
+      "track": "Reporting & Analytics"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Data Virtualization in SQL Server 2022",
+      "room": "1st - 122A",
+      "speaker": "Kevin Feasel",
+      "track": "Database Administration"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Modernizing ETL: Leveraging Azure Databricks for Enhanced Data Integration",
+      "room": "1st - Room 124B",
+      "speaker": "Joshua Higginbotham",
+      "track": "Reporting & Analytics"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Azure SQL: What to use when",
+      "room": "1st - Room 191",
+      "speaker": "Anna Hoffman",
+      "track": "Architecture"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Mastering TempDB",
+      "room": "2nd - Room 293",
+      "speaker": "Monica Morehouse (Rathbun)",
+      "track": "Database Administration"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "PowerShell For the SQL Server DBA",
+      "room": "2nd - Room 294",
+      "speaker": "Dave Bland",
+      "track": "Database Administration"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Get Started with Power BI",
+      "room": "2nd - Room 251",
+      "speaker": "Juan Fernando Gonzalez",
+      "track": "Reporting & Analytics"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Tips and Tricks for Microsoft Fabric Data Warehouse",
+      "room": "1st - Auditorium",
+      "speaker": "Chris Hyde",
+      "track": "Reporting & Analytics"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Data Leadership: Navigating Security, Governance, and Ethical Decision-Making in the Digitial Skies",
+      "room": "1st - 122A",
+      "speaker": "Gethyn Ellis",
+      "track": "Professional Development"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "SQL Server vs Azure Cosmos DB",
+      "room": "1st - Room 124B",
+      "speaker": "Hasan Savran",
+      "track": "Architecture"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Ground to Cloud: Your Migration Success Checklist",
+      "room": "1st - Room 191",
+      "speaker": "Matt Gordon",
+      "track": "Migration & Modernization"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Natural Language Interface to Databases: A New Paradigm for Data-Driven Development",
+      "room": "2nd - Room 293",
+      "speaker": "Jean Joseph",
+      "track": "Database Administration"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Microsoft Fabric: Data Warehouse vs. Lakehouse",
+      "room": "2nd - Room 294",
+      "speaker": "Bradley Schacht",
+      "track": "Reporting & Analytics"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Threat Actors are Coming for Your Data",
+      "room": "2nd - Room 251",
+      "speaker": "Joey D'Antoni",
+      "track": "Database Security"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Experience the Microsoft Fabric and SQL together",
+      "room": "1st - Auditorium",
+      "speaker": "Anna Hoffman, Bob Ward",
+      "track": "Architecture"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Analytics at the speed of Direct Lake",
+      "room": "1st - 122A",
+      "speaker": "Patrick LeBlanc",
+      "track": "Architecture"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Understanding SQL Server I/O To Improve T-SQL Performance",
+      "room": "1st - Room 124B",
+      "speaker": "Andy Yun",
+      "track": "Database Administration"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "How Azure Arc helps you monitor and secure your SQL Servers",
+      "room": "1st - Room 191",
+      "speaker": "Sven Aelterman",
+      "track": "Database Security"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Introduction to SQL Server Essential Concepts",
+      "room": "2nd - Room 293",
+      "speaker": "Bradley Ball",
+      "track": "Database Administration"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Meet Azure Data Explorer & KQL: Data with Gusto",
+      "room": "2nd - Room 294",
+      "speaker": "Armando Lacerda",
+      "track": "Reporting & Analytics"
+    },
+    {
+      "time": "12:25 pm",
+      "duration": "50 min",
+      "type": "session",
+      "title": "The Resume Abides: The Candidate's Guide to Getting a Job You Love",
+      "room": "1st - Auditorium",
+      "speaker": "Becky Quesada",
+      "track": "Professional Development"
+    },
+    {
+      "time": "12:25 pm",
+      "duration": "50 min",
+      "type": "session",
+      "title": "Ten Reasons Why You Need A Managed Service Provider",
+      "room": "1st - 122A",
+      "speaker": "Kon Melamud",
+      "track": "Database Administration"
+    },
+    {
+      "time": "12:25 pm",
+      "duration": "50 min",
+      "type": "session",
+      "title": "How to Elevate Cloud HA/DR on a Budget",
+      "room": "1st - Room 124B",
+      "speaker": "David Bermingham",
+      "track": "Database Administration"
+    },
+    {
+      "time": "12:25 pm",
+      "duration": "50 min",
+      "type": "session",
+      "title": "Architecting Your Microsoft SQL Server Workloads on VMware Cloud Foundation",
+      "room": "1st - Room 191",
+      "speaker": "Deji Akomolafe",
+      "track": "Architecture"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Lessons Learned using Fabric Data Factory dataflow",
+      "room": "1st - Auditorium",
+      "speaker": "Belinda Allen",
+      "track": "Migration & Modernization"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Introduction to Automated Database Deployments with GitHub",
+      "room": "1st - 122A",
+      "speaker": "Erin Dempster",
+      "track": "DevOps"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "SQL Server Contained Availability Groups - Now with Logins and Jobs!",
+      "room": "1st - Room 124B",
+      "speaker": "Frank Gill",
+      "track": "Database Administration"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Accelerated Database Recovery - A Deep Dive Behind the Magic",
+      "room": "1st - Room 191",
+      "speaker": "John Morehouse",
+      "track": "Database Administration"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Introduction to Lakehouse in Microsoft Fabric",
+      "room": "2nd - Room 293",
+      "speaker": "Shabnam Watson",
+      "track": "Reporting & Analytics"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "How Not to Build a Rocket When Asked For a Bike",
+      "room": "2nd - Room 294",
+      "speaker": "Aditya Guthey",
+      "track": "Professional Development"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "AI Unveiled: Navigating the Impact, Risk, and Opportunities of Artificial Intelligence",
+      "room": "2nd - Room 251",
+      "speaker": "Michael Allison",
+      "track": "AI"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Come see the future of Monitoring and AI for Azure SQL",
+      "room": "1st - Auditorium",
+      "speaker": "Bob Ward",
+      "track": "Database Administration"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "DBA Basics: Getting Started with Performance Tuning",
+      "room": "1st - 122A",
+      "speaker": "John Sterrett",
+      "track": "Database Administration"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "A Modern Approach to Patching, Upgrades, and Technical Debt",
+      "room": "1st - Room 124B",
+      "speaker": "Allan Hirt",
+      "track": "Migration & Modernization"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Optimizing SQL Server HA/DR Costs in Azure: Key Strategies & Demos",
+      "room": "1st - Room 191",
+      "speaker": "David Bermingham",
+      "track": "Database Administration"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Be a Better DBA with Database Watcher: A Proactive Approach to Database Monitoring",
+      "room": "2nd - Room 293",
+      "speaker": "Daniel Taylor, Bradley Ball",
+      "track": "Database Administration"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Microsoft Fabric: Use Cases and Design for Lakehouse, Data Warehouse, and Real-Time Analytics",
+      "room": "2nd - Room 294",
+      "speaker": "Marc Bushong",
+      "track": "Migration & Modernization"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Surviving The Hordes Of Chaos: Introduction to SQL Server HA/DR Architecture",
+      "room": "1st - Auditorium",
+      "speaker": "Brandon Leach",
+      "track": "Architecture"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "AI-Driven Healthcare: The Future with Azure's Text Analytics",
+      "room": "1st - 122A",
+      "speaker": "Jared Rhodes",
+      "track": "AI"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Database Deployment Methods Demystified",
+      "room": "1st - Room 124B",
+      "speaker": "Deborah Melkin",
+      "track": "DevOps"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Elevating Your Career into IT Leadership",
+      "room": "1st - Room 191",
+      "speaker": "Mark Runyon",
+      "track": "Professional Development"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "The PROCESS of Query Optimization",
+      "room": "2nd - Room 293",
+      "speaker": "John Deardurff",
+      "track": "Database Administration"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "How To Make Database Backups and Restores Run More Quickly!",
+      "room": "2nd - Room 294",
+      "speaker": "Glenn Berry",
+      "track": "Database Administration"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Defending Your SQL Server: Practical Strategies against Ransomware",
+      "room": "2nd - Room 251",
+      "speaker": "Jeff Iannucci",
+      "track": "Database Security"
+    }
+  ]
+}

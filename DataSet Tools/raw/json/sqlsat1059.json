@@ -1,0 +1,206 @@
+{
+  "event": "SQL Saturday Salt Lake City 2024",
+  "rooms": {
+    "Room 150AB": "Main session room 150AB",
+    "Room 150DC": "Session room 150DC",
+    "Room 150GH": "Session room 150GH",
+    "Room 150EF": "Session room 150EF"
+  },
+  "schedule": [
+    {
+      "time": "8:30 am",
+      "duration": "30 min",
+      "type": "registration",
+      "title": "Registration and Breakfast",
+      "room": "Room 150AB"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Demystifying GA4. Lessons Learned on Designing a Robust Data Model for Actionable Insights",
+      "room": "Room 150AB",
+      "speaker": "Tyler Bartholomew",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "SQL Server Query Store - Why SQL Server 2022 Turned it on by default.",
+      "room": "Room 150DC",
+      "speaker": "Scott Klein",
+      "track": "Database Administration"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Migrating AdventureWorks to Postgres",
+      "room": "Room 150GH",
+      "speaker": "Aaron Cutshall, DHA, MSHI",
+      "track": "Database Development"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "What is in a SQL Server Database? Database Insights Deep Dive",
+      "room": "Room 150EF",
+      "speaker": "Ben Miller",
+      "track": "Database Administration"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "15 min",
+      "type": "break",
+      "title": "Hallway Track(Time to move between Sessions)",
+      "room": "Room 150AB"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Learn how databases parse SQL and use this knowledge to optimize your schema and queries.",
+      "room": "Room 150AB",
+      "speaker": "Brian Broderick",
+      "track": "Database Development"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Architecting Zero Downtime Database Deployments",
+      "room": "Room 150DC",
+      "speaker": "Steve Jones",
+      "track": "Database Development"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "An end-to-end data project in Microsoft Fabric",
+      "room": "Room 150GH",
+      "speaker": "Yuki Kakegawa",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Challenges of Running Mission-critical PostgreSQL Databases on Kubernetes",
+      "room": "Room 150EF",
+      "speaker": "Roberto Mello",
+      "track": "Database Administration"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "45 min",
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "Room 150AB"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Hybrid Disaster Recovery with SQL Server 2022",
+      "room": "Room 150AB",
+      "speaker": "Armando Lacerda",
+      "track": "Database Administration"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Do More, Quicker: Data Work Using AI Assist Tools",
+      "room": "Room 150DC",
+      "speaker": "Norm Warren",
+      "track": "Database Development"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Reporting 101",
+      "room": "Room 150GH",
+      "speaker": "Matt Horton",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "15 min",
+      "type": "break",
+      "title": "Hallway Track (Time to move between sessions)",
+      "room": "Room 150AB"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Real Enterprise-grade PostgreSQL backups with pgBackRest",
+      "room": "Room 150AB",
+      "speaker": "Roberto Mello",
+      "track": "Database Administration"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "The Ultimate Guide to Ola Hallengren's Maintenance Solution",
+      "room": "Room 150DC",
+      "speaker": "Ben Miller",
+      "track": "Database Administration"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "How to Change SQL from Procedural to Set-Based",
+      "room": "Room 150GH",
+      "speaker": "Aaron Cutshall, DHA, MSHI",
+      "track": "Database Development"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "15 min",
+      "type": "break",
+      "title": "Hallway Track (Time to move between sessions)",
+      "room": "Room 150AB"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "SQL Database Deployments with Azure Dev Ops",
+      "room": "Room 150AB",
+      "speaker": "Matt Horton",
+      "track": "Database Development"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "SQL Server Performance with Polybase - Querying data external to SQL Server",
+      "room": "Room 150DC",
+      "speaker": "Scott Klein",
+      "track": "Database Administration"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Navigating High Availability Challenges and Preventive Strategies",
+      "room": "Room 150GH",
+      "speaker": "Amy Abel",
+      "track": "Database Administration"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "15 min",
+      "type": "closing",
+      "title": "Event Ends No closing Session",
+      "room": "Room 150AB"
+    }
+  ]
+}

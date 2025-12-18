@@ -1,0 +1,203 @@
+{
+  "event": "SQL Saturday 1083",
+  "rooms": {
+    "BB B014": "BB B014",
+    "BB B012": "BB B012",
+    "BB B008": "BB B008",
+    "BB B010": "BB B010"
+  },
+  "schedule": [
+    {
+      "time": "8:00 am",
+      "duration": 30,
+      "type": "registration",
+      "title": "Breakfast & Registration",
+      "room": "General",
+      "speaker": null
+    },
+    {
+      "time": "8:30 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Microsoft Fabric: Data analytics for the era of AI",
+      "room": "BB B014",
+      "speaker": "Alan Ferrandiz"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Querying Power BI REST APIs within a Power BI Dataset",
+      "room": "BB B012",
+      "speaker": "John Kerski"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Exploring Whether Storage is the Root Cause of Your Performance Woes",
+      "room": "BB B008",
+      "speaker": "Andy Yun"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Azure on FHIR",
+      "room": "BB B010",
+      "speaker": "Chad Albert"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Fabric Data Lakehouse",
+      "room": "BB B014",
+      "speaker": "Christian Cote"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Supercharge your Power BI Dashboards with Powerviz visuals​",
+      "room": "BB B012",
+      "speaker": "Santhana Lakshmi Ponnurasan"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 75,
+      "type": "session",
+      "title": "TempDB Contention: How to Identify and Resolve it",
+      "room": "BB B008",
+      "speaker": "Haripriya Naidu"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Introduction to Azure Cosmos DB",
+      "room": "BB B010",
+      "speaker": "Leonard Lobel"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "General",
+      "speaker": null
+    },
+    {
+      "time": "11:35 am",
+      "duration": 50,
+      "type": "session",
+      "title": "Architecting Your Microsoft SQL Server Workloads on VMware Cloud Foundation",
+      "room": "BB B014",
+      "speaker": "Edwin M Sarmiento"
+    },
+    {
+      "time": "11:35 am",
+      "duration": 50,
+      "type": "panel",
+      "title": "WIT Panel Discussion",
+      "room": "BB B012",
+      "speaker": "Deborah Melkin"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Unveiling the Future: Dive into Cloud Databases and Analytics with Fabric",
+      "room": "BB B014",
+      "speaker": "George Walters"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Unifying Azure ML and MLflow for Comprehensive Management of Machine Learning Lifecycles",
+      "room": "BB B012",
+      "speaker": "Jean Joseph"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Feeding the Modern Data Warehouse with Azure Data Factory or Fabric ADF",
+      "room": "BB B008",
+      "speaker": "Christian Cote"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 75,
+      "type": "lightning",
+      "title": "Lightning Talks",
+      "room": "BB B010",
+      "speaker": null
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Power up your Fabric Development with DAX Studio and Tabular Editor",
+      "room": "BB B014",
+      "speaker": "Jason Romans"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Data API Builder - What Is It and What Can It Do for Me?",
+      "room": "BB B012",
+      "speaker": "Tony DiPesa"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Intro to PowerShell with dbatools for the DBA",
+      "room": "BB B008",
+      "speaker": "Tony Wilhelm"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Moving on up, to the Azure cloud, with a PostgreSQL database in the sky.",
+      "room": "BB B010",
+      "speaker": "John Miner"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "So you want to be a presentation speaker?",
+      "room": "BB B014",
+      "speaker": "Ray Kim"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Database Deployment Methods Demystified",
+      "room": "BB B012",
+      "speaker": "Deborah Melkin"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Query Hints ... What's the Worst That Can Happen",
+      "room": "BB B008",
+      "speaker": "Rick Lowe"
+    },
+    {
+      "time": "5:00 pm",
+      "duration": 25,
+      "type": "closing",
+      "title": "Raffles & Closing",
+      "room": "General",
+      "speaker": null
+    }
+  ]
+}

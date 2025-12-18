@@ -1,0 +1,314 @@
+{
+  "event": "SQL Saturday Columbus 2023",
+  "location": "Columbus, Ohio",
+  "year": "2023",
+  "rooms": {
+    "Room 114": "Room 114",
+    "Room 117": "Room 117",
+    "Room 116": "Room 116",
+    "Room 217": "Room 217",
+    "Room 216": "Room 216"
+  },
+  "schedule": [
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Ground to Cloud: Your Migration Success Checklist",
+      "room": "Room 114",
+      "speaker": "Matt Gordon",
+      "track": "Cloud Migration",
+      "level": "Beginner"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building API Apps on Azure SQL Database",
+      "room": "Room 117",
+      "speaker": "Joey D'Antoni",
+      "track": "Database Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Intro to PowerShell and dbatools for the DBA",
+      "room": "Room 116",
+      "speaker": "Tony Wilhelm",
+      "track": "Database Administration",
+      "level": "Beginner"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Relational Database Design Fundamentals",
+      "room": "Room 217",
+      "speaker": "Louis Davidson",
+      "track": "Database Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "The DBA's Field Guide to ORMs",
+      "room": "Room 216",
+      "speaker": "Jay Robinson",
+      "track": "Database Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Getting started with SQL Azure Database",
+      "room": "Room 114",
+      "speaker": "Jim Donahoe",
+      "track": "Cloud/Azure",
+      "level": "Beginner"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Data: The Fabric Of Our Lives",
+      "room": "Room 117",
+      "speaker": "Chris Hyde",
+      "track": "Business Intelligence/Reporting",
+      "level": "Beginner"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Artificial Intelligence Programming with T-SQL",
+      "room": "Room 116",
+      "speaker": "Sam Nasr",
+      "track": "Artificial Intelligence/Machine Learning",
+      "level": "Intermediate"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Data Visualization",
+      "room": "Room 217",
+      "speaker": "Tim Michael, Chris Steele",
+      "track": "Business Intelligence/Reporting",
+      "level": "Beginner"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Tackling Monster Stored Procs",
+      "room": "Room 216",
+      "speaker": "Allen White",
+      "track": "Database Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Deep Dive into Non-Clustered Indexes",
+      "room": "Room 114",
+      "speaker": "John Deardurff",
+      "track": "Database Administration",
+      "level": "Beginner"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "How to Prepare for SQL Interviews: Tips and Tricks to Ace Your Next Interview",
+      "room": "Room 117",
+      "speaker": "Deexith Reddy",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Teaching Old Dogs New Tricks: Revitalizing a SQL Server Code Base One Version at a Time",
+      "room": "Room 116",
+      "speaker": "Kevin Feasel",
+      "track": "Database Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Your SQL Server Shouldn't Know That It's Virtualized",
+      "room": "Room 217",
+      "speaker": "Dèjì Akọ́mọláfẹ́",
+      "track": "Database Administration",
+      "level": "Intermediate/Advanced"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building a better data solution: Microsoft SQL Server and Azure Data Services",
+      "room": "Room 216",
+      "speaker": "Joey D'Antoni",
+      "track": "Cloud/Azure",
+      "level": "Beginner"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Learn to Effectively Use Extended Events",
+      "room": "Room 114",
+      "speaker": "Grant Fritchey",
+      "track": "Database Administration",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Index R(x): Prescriptions for Performance Improvement",
+      "room": "Room 117",
+      "speaker": "Bill Sanscrainte",
+      "track": "Database Administration",
+      "level": "Advanced"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Modernize your BI Architecture with the Data Lakehouse",
+      "room": "Room 116",
+      "speaker": "Ryan Wade",
+      "track": "Business Intelligence/Reporting",
+      "level": "Beginner/Intermediate"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Automated Deployments with Azure DevOps",
+      "room": "Room 217",
+      "speaker": "Erin Dempster",
+      "track": "DevOps",
+      "level": "Beginner"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure Monitor for SQL PaaS",
+      "room": "Room 216",
+      "speaker": "David Maxwell",
+      "track": "Cloud/Azure",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Performance Tuning Power BI",
+      "room": "Room 114",
+      "speaker": "Thomas LeBlanc",
+      "track": "Business Intelligence/Reporting",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Exploring the changes in Azure Synapse Analytics",
+      "room": "Room 117",
+      "speaker": "Ginger Grant",
+      "track": "Cloud/Azure",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server Security Primer - Least Privilege Access and Protecting Data",
+      "room": "Room 116",
+      "speaker": "Joe Kunk",
+      "track": "Security",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "dbatools PowerShell Module Deep Dive",
+      "room": "Room 217",
+      "speaker": "Ben Miller",
+      "track": "Database Administration",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Modern SQL Server Features That Make Life Better",
+      "room": "Room 216",
+      "speaker": "Lee Markum",
+      "track": "Database Administration",
+      "level": "Intermediate"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Hustle culture, welcoming everyone, and taking care of yourself",
+      "room": "Room 114",
+      "speaker": "Eugene Meidinger",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Automating Visualizations with Azure Data Factory, SQL Server, and Power BI: Data to Insights",
+      "room": "Room 117",
+      "speaker": "Deexith Reddy",
+      "track": "Business Intelligence/Reporting",
+      "level": "Intermediate"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "The Power of Window Functions",
+      "room": "Room 116",
+      "speaker": "Aaron Cutshall, DHA, MSHI",
+      "track": "Database Development",
+      "level": "Intermediate/Advanced"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI and External Tools: This is the way!",
+      "room": "Room 217",
+      "speaker": "Jason Romans",
+      "track": "Business Intelligence/Reporting",
+      "level": "Beginner"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "PowerApp Power!!!",
+      "room": "Room 216",
+      "speaker": "Warren Sifre",
+      "track": "Business Intelligence/Reporting",
+      "level": "Beginner"
+    }
+  ]
+}

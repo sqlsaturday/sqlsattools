@@ -1,0 +1,211 @@
+{
+  "sqlSaturdayEventId": "1066",
+  "eventName": "SQL Saturday Silicon Valley 2023",
+  "rooms": ["Northeastern University (Room 1012)", "DesignMind (Room 916)", "Microsoft (Room 902)", "San Jose (903)", "Los Angeles (1010)", "San Francisco (Room 906)", "Sponsor Area", "Fairfield (Room 1045)"],
+  "schedule": [
+    {
+      "timeSlot": "8:00 am",
+      "duration": 45,
+      "sessionType": "registration",
+      "title": "Registration and reception",
+      "room": "Sponsor Area",
+      "speakers": []
+    },
+    {
+      "timeSlot": "8:45 am",
+      "duration": 15,
+      "sessionType": "keynote",
+      "title": "Keynote",
+      "room": "Fairfield (Room 1045)",
+      "speakers": []
+    },
+    {
+      "timeSlot": "9:00 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Exploratory and Explanatory Data Analysis: from raw data to data-driven business decisions",
+      "speakers": ["Alan Ferrandiz"]
+    },
+    {
+      "timeSlot": "9:00 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Interactive Applications of Computer Science",
+      "speakers": ["Kristine N Umeh", "Cecilia Lopez"]
+    },
+    {
+      "timeSlot": "9:00 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Exciting new features in SQL Server for developers",
+      "speakers": ["Hasan Savran"]
+    },
+    {
+      "timeSlot": "9:00 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Aurora PostgreSQL for SQL Server DBAs",
+      "speakers": ["Wanda He", "Thuymy Tran"]
+    },
+    {
+      "timeSlot": "10:00 am",
+      "duration": 15,
+      "sessionType": "break",
+      "title": "Break - network, visit sponsors, and register for raffle",
+      "room": "Sponsor Area",
+      "speakers": []
+    },
+    {
+      "timeSlot": "10:15 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Optimizing SQL Queries: Expectations - Unlocking High Performance and Efficient Database Operations",
+      "speakers": ["Deexith Reddy"]
+    },
+    {
+      "timeSlot": "10:15 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Navigating Difficult Conversations Through Play",
+      "speakers": ["Jeff Harry"]
+    },
+    {
+      "timeSlot": "10:15 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "DAX is Easy ...until it isn't. DAX Basics for Beginners.",
+      "speakers": ["Paul Turley"]
+    },
+    {
+      "timeSlot": "10:15 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Customize your managed SQL Server database on AWS Cloud",
+      "speakers": ["Minesh Chande"]
+    },
+    {
+      "timeSlot": "11:15 am",
+      "duration": 15,
+      "sessionType": "break",
+      "title": "Break - network, visit sponsors, and register for raffle",
+      "room": "Sponsor Area",
+      "speakers": []
+    },
+    {
+      "timeSlot": "11:30 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Enhancing IT Business Outcomes: The Evolution of DBA Observability",
+      "speakers": ["Amit Parikh"]
+    },
+    {
+      "timeSlot": "11:30 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "SQL Server vs Azure Cosmos DB",
+      "speakers": ["Hasan Savran"]
+    },
+    {
+      "timeSlot": "11:30 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Power BI and External Tools: This is the way!",
+      "speakers": ["Jason Romans"]
+    },
+    {
+      "timeSlot": "11:30 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Mastering PostgreSQL: Advanced Techniques for Performance and Scalability",
+      "speakers": ["Kuldeep Pisda"]
+    },
+    {
+      "timeSlot": "12:30 pm",
+      "duration": 45,
+      "sessionType": "break",
+      "title": "Break - network, visit sponsors, and register for raffle",
+      "room": "Sponsor Area",
+      "speakers": []
+    },
+    {
+      "timeSlot": "1:15 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Weird Stuff I Saw While… Working with Multi Subnet Availability Groups",
+      "speakers": ["Rick Lowe"]
+    },
+    {
+      "timeSlot": "1:15 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Virtualizing SQL Server",
+      "speakers": ["Marsha Pierce"]
+    },
+    {
+      "timeSlot": "1:15 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "PostgreSQL for SQL Server DBAs",
+      "speakers": ["Chandra Pathivada"]
+    },
+    {
+      "timeSlot": "1:15 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Unleashing the power of access control in SQL Server and Azure SQL",
+      "speakers": ["Andreas Wolter"]
+    },
+    {
+      "timeSlot": "2:15 pm",
+      "duration": 15,
+      "sessionType": "break",
+      "title": "Break - network, visit sponsors, and register for raffle",
+      "room": "Sponsor Area",
+      "speakers": []
+    },
+    {
+      "timeSlot": "2:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Slowly Changing Dimension - Automating Historical Records Storage",
+      "speakers": ["Deexith Reddy"]
+    },
+    {
+      "timeSlot": "2:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Doing Power BI The Right Way For Database Developers",
+      "speakers": ["Paul Turley"]
+    },
+    {
+      "timeSlot": "2:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Privilege Database User Activity Monitoring using Database Activity Stream on Amazon RDS",
+      "speakers": ["Sudhir Amin", "Vishal Srivastava"]
+    },
+    {
+      "timeSlot": "2:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Using Microsoft Purview to control access to SQL at scale",
+      "speakers": ["Andreas Wolter"]
+    },
+    {
+      "timeSlot": "3:30 pm",
+      "duration": 15,
+      "sessionType": "break",
+      "title": "Break - network, visit sponsors, and register for raffle",
+      "room": "Sponsor Area",
+      "speakers": []
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 20,
+      "sessionType": "raffle",
+      "title": "Raffle",
+      "room": "Fairfield (Room 1045)",
+      "speakers": []
+    }
+  ]
+}

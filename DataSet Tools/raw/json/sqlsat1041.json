@@ -1,0 +1,855 @@
+{
+  "event": "SQL Saturday Jacksonville 2023",
+  "location": "University of North Florida (UNF)",
+  "year": "2023",
+  "rooms": {
+    "SQL Clinic - B 51 - R 1201": "SQL Clinic",
+    "Hallway - Sponsors": "Sponsors Area",
+    "PowerBI - B 51 - R 1205 - 81": "PowerBI Track",
+    "Database - B 51 - R 1209 - 81": "Database Track", 
+    "DevOps/Developer - B 51 - R 1101 - 46": "DevOps/Developer Track",
+    "Security - B 51 - R 1102 - 46": "Security Track",
+    "101 Track - B 51 - R 1103 - 46": "101 Beginner Track",
+    "Analytics - B 51 - R 1104 - 46": "Analytics Track",
+    "Data Modeling - B 4 - R 1706 - 80": "Data Modeling Track",
+    "PowerBI/Reporting - B 4 - R 1705 - 80": "PowerBI/Reporting Track",
+    "SQL/Data/ML- B 4 - R 1703 - 50": "SQL/Data/ML Track",
+    "Database - B 4 - R 1704 - 100": "Database Track (B4)",
+    "Career/PowerApps B 4 - R 1702 - 38": "Career/PowerApps Track",
+    "Registration Desk": "Registration Area",
+    "Lunch/Ice Cream - B 51 - R 1202": "Lunch Area",
+    "Raffle - B 59 - R 1701 - 190": "Main Auditorium"
+  },
+  "schedule": [
+    {
+      "time": "6:00 am",
+      "duration": 60,
+      "type": "registration",
+      "title": "Registration",
+      "room": "Registration Desk",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI - How to Fix an Inherited Report",
+      "room": "PowerBI - B 51 - R 1205 - 81",
+      "speaker": "Kristyna Ferris",
+      "track": "Power BI",
+      "level": "100"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server 2022 and the Wheel of Power",
+      "room": "Database - B 51 - R 1209 - 81",
+      "speaker": "Bob Ward",
+      "track": "Database Administration",
+      "level": "200"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Database Project Navigation",
+      "room": "DevOps/Developer - B 51 - R 1101 - 46",
+      "speaker": "Jonathon Moorman",
+      "track": "Database Development",
+      "level": "200"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Installing, Standardizing, Securing, and Automating the Installation of SQL Server",
+      "room": "Security - B 51 - R 1102 - 46",
+      "speaker": "Andy Warren",
+      "track": "Database Administration",
+      "level": "200"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to SQL Server Essential Concepts",
+      "room": "101 Track - B 51 - R 1103 - 46",
+      "speaker": "Bradley Ball",
+      "track": "Database Fundamentals",
+      "level": "200"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power (BI) Hour! From Design to Delivery in 60 minutes.",
+      "room": "Analytics - B 51 - R 1104 - 46",
+      "speaker": "Dale Levesque, Admira Meskic",
+      "track": "Business Intelligence/Reporting",
+      "level": "200"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "What's New with Azure Data Factory",
+      "room": "Data Modeling - B 4 - R 1706 - 80",
+      "speaker": "Josh Luedeman",
+      "track": "Data Engineering",
+      "level": "100"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Realtime Analytics Unleashed: Unlocking the Potential of Data at Scale",
+      "room": "PowerBI/Reporting - B 4 - R 1705 - 80",
+      "speaker": "Barkha Herman",
+      "track": "Analytics",
+      "level": "100"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Next Level Scalability on SQL Server 2022",
+      "room": "SQL/Data/ML- B 4 - R 1703 - 50",
+      "speaker": "David Pless",
+      "track": "Database Administration",
+      "level": "300"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Query Hints ... What's the Worst That Can Happen",
+      "room": "Database - B 4 - R 1704 - 100",
+      "speaker": "Rick Lowe",
+      "track": "Database Development",
+      "level": "200"
+    },
+    {
+      "time": "7:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power Automate for Beginners",
+      "room": "Career/PowerApps B 4 - R 1702 - 38",
+      "speaker": "Devin Knight",
+      "track": "Business Applications",
+      "level": "100"
+    },
+    {
+      "time": "8:00 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Break",
+      "room": "Hallway - Sponsors",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "8:00 am",
+      "duration": 15,
+      "type": "clinic",
+      "title": "SQL Clinic Open",
+      "room": "SQL Clinic - B 51 - R 1201",
+      "speaker": null,
+      "track": "Consulting",
+      "level": null
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Dimensional Data Modeling in Power BI for the very Beginner",
+      "room": "PowerBI - B 51 - R 1205 - 81",
+      "speaker": "Cecilia Brusatori",
+      "track": "Power BI",
+      "level": "200"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "\"It's still log shipping for me\" - Why you should still use log shipping today",
+      "room": "Database - B 51 - R 1209 - 81",
+      "speaker": "Alex Masharov",
+      "track": "Database Administration",
+      "level": "200"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Architecting Zero Downtime Database Deployments",
+      "room": "DevOps/Developer - B 51 - R 1101 - 46",
+      "speaker": "Steve Jones",
+      "track": "DevOps",
+      "level": "300"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI Data Governance",
+      "room": "Security - B 51 - R 1102 - 46",
+      "speaker": "Warren Sifre",
+      "track": "Business Intelligence/Reporting",
+      "level": "200"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure Data Factory 101",
+      "room": "101 Track - B 51 - R 1103 - 46",
+      "speaker": "Bradley Schacht",
+      "track": "Data Engineering",
+      "level": "100"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building Data Lake on Azure",
+      "room": "Analytics - B 51 - R 1104 - 46",
+      "speaker": "Doug Leal",
+      "track": "Cloud/Azure",
+      "level": "200"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure Synapse Database Templates",
+      "room": "Data Modeling - B 4 - R 1706 - 80",
+      "speaker": "James Serra",
+      "track": "Cloud/Azure",
+      "level": "100"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Accessibility Concerns In Your Reporting Style",
+      "room": "PowerBI/Reporting - B 4 - R 1705 - 80",
+      "speaker": "Michael Antonovich",
+      "track": "Business Intelligence/Reporting",
+      "level": "100"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Optimize Your SQL Database",
+      "room": "SQL/Data/ML- B 4 - R 1703 - 50",
+      "speaker": "Darius Liktorius",
+      "track": "Database Administration",
+      "level": "300"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Demystifying Azure Cosmos DB geospatial data",
+      "room": "Database - B 4 - R 1704 - 100",
+      "speaker": "Santosh Hari",
+      "track": "Non-SQL Server Database Technologies",
+      "level": "300"
+    },
+    {
+      "time": "8:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Who Are You? Building Your Professional Brand",
+      "room": "Career/PowerApps B 4 - R 1702 - 38",
+      "speaker": "Sheila Hughes, Steve Hughes",
+      "track": "Professional Development",
+      "level": "200"
+    },
+    {
+      "time": "9:15 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Break",
+      "room": "Hallway - Sponsors",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "9:15 am",
+      "duration": 15,
+      "type": "clinic",
+      "title": "SQL Clinic Open",
+      "room": "SQL Clinic - B 51 - R 1201",
+      "speaker": null,
+      "track": "Consulting",
+      "level": null
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Embracing the Power of Pagination: A Guide to Transforming your Reports",
+      "room": "PowerBI - B 51 - R 1205 - 81",
+      "speaker": "Austin Libal",
+      "track": "Business Intelligence/Reporting",
+      "level": "100"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building Your First Clusterless Availability Group On Metal, VMs, Cloud, Or All Three!",
+      "room": "Database - B 51 - R 1209 - 81",
+      "speaker": "Brandon Tucker",
+      "track": "Database Administration",
+      "level": "100"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "T-SQL Temp Tables Overview",
+      "room": "DevOps/Developer - B 51 - R 1101 - 46",
+      "speaker": "Victor Ivantsov",
+      "track": "Database Development",
+      "level": "100"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Before You Load Your Data – Azure Synapse Analytics Workspace Security",
+      "room": "Security - B 51 - R 1102 - 46",
+      "speaker": "Daniel Taylor",
+      "track": "Security",
+      "level": "300"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Management 101 for Engineers",
+      "room": "101 Track - B 51 - R 1103 - 46",
+      "speaker": "Piyush Neekhra",
+      "track": "Professional Development",
+      "level": "100"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Getting Started with R",
+      "room": "Analytics - B 51 - R 1104 - 46",
+      "speaker": "Dave Mason",
+      "track": "Data Science",
+      "level": "200"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Understanding Power BI Dataflows, Datamarts, and Composite modeling",
+      "room": "Data Modeling - B 4 - R 1706 - 80",
+      "speaker": "Ginger Grant",
+      "track": "Power BI",
+      "level": "200"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "The pre-design framework for data viz",
+      "room": "PowerBI/Reporting - B 4 - R 1705 - 80",
+      "speaker": "Austin Steinmetz",
+      "track": "Business Intelligence/Reporting",
+      "level": "100"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "MLOps with Azure Machine Learning on the Edge",
+      "room": "SQL/Data/ML- B 4 - R 1703 - 50",
+      "speaker": "Neeraj Jhaveri, Andres Padilla",
+      "track": "Machine Learning and AI",
+      "level": "200"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Perfectly Normal: An Advanced Primer on Normalization",
+      "room": "Database - B 4 - R 1704 - 100",
+      "speaker": "Kevin Feasel",
+      "track": "Database Development",
+      "level": "400"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Creating a Personal Brand for Career Success",
+      "room": "Career/PowerApps B 4 - R 1702 - 38",
+      "speaker": "Barkha Herman",
+      "track": "Professional Development",
+      "level": "100"
+    },
+    {
+      "time": "10:30 am",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "Lunch/Ice Cream - B 51 - R 1202",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "10:30 am",
+      "duration": 60,
+      "type": "clinic",
+      "title": "SQL Clinic Open",
+      "room": "SQL Clinic - B 51 - R 1201",
+      "speaker": null,
+      "track": "Consulting",
+      "level": null
+    },
+    {
+      "time": "10:30 am",
+      "duration": 60,
+      "type": "break",
+      "title": "Break - Visit Sponsors",
+      "room": "Hallway - Sponsors",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Making Power BI easy for end users to encourage adoption",
+      "room": "PowerBI - B 51 - R 1205 - 81",
+      "speaker": "Belinda Allen",
+      "track": "Power BI",
+      "level": "100"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Indexing Internals for Developers & DBAs",
+      "room": "Database - B 51 - R 1209 - 81",
+      "speaker": "Bradley Ball",
+      "track": "Database Administration",
+      "level": "300"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Out of your SSMS world, Jupyter notebooks in Azure Data Studio",
+      "room": "DevOps/Developer - B 51 - R 1101 - 46",
+      "speaker": "Sheila Hughes, Steve Hughes",
+      "track": "Database Development",
+      "level": "300"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure SQL Security: Best Practices to Stay Out of the News",
+      "room": "Security - B 51 - R 1102 - 46",
+      "speaker": "Neeraj Jhaveri, Josh Luedeman",
+      "track": "Security",
+      "level": "200"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Azure Data Factory",
+      "room": "101 Track - B 51 - R 1103 - 46",
+      "speaker": "Brian McDonald",
+      "track": "Data Engineering",
+      "level": "100"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Getting Started with Azure Databricks: Data Engineering",
+      "room": "Analytics - B 51 - R 1104 - 46",
+      "speaker": "Doug Leal",
+      "track": "Data Engineering",
+      "level": "100"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI Composite, Hybrid and Advanced Models",
+      "room": "Data Modeling - B 4 - R 1706 - 80",
+      "speaker": "Alex Whittles",
+      "track": "Power BI",
+      "level": "300"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Accessibility and Power BI : Empowering All Users",
+      "room": "PowerBI/Reporting - B 4 - R 1705 - 80",
+      "speaker": "Gregory Trzeciak",
+      "track": "Business Intelligence/Reporting",
+      "level": "100"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server 2022 tempdb - The Uncontended",
+      "room": "SQL/Data/ML- B 4 - R 1703 - 50",
+      "speaker": "David Pless",
+      "track": "Database Administration",
+      "level": "300"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "HA in about an hour",
+      "room": "Database - B 4 - R 1704 - 100",
+      "speaker": "Shawn Meyers",
+      "track": "Database Administration",
+      "level": "100"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Surviving Your Technical Interview",
+      "room": "Career/PowerApps B 4 - R 1702 - 38",
+      "speaker": "Jonathon Moorman",
+      "track": "Professional Development",
+      "level": "100"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 30,
+      "type": "break",
+      "title": "Ice Cream Break",
+      "room": "Lunch/Ice Cream - B 51 - R 1202",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 30,
+      "type": "clinic",
+      "title": "SQL Clinic Open",
+      "room": "SQL Clinic - B 51 - R 1201",
+      "speaker": null,
+      "track": "Consulting",
+      "level": null
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 30,
+      "type": "break",
+      "title": "Break - Visit Sponsors",
+      "room": "Hallway - Sponsors",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI and External Tools: This is the way!",
+      "room": "PowerBI - B 51 - R 1205 - 81",
+      "speaker": "Jason Romans",
+      "track": "Power BI",
+      "level": "100"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Intro to PowerShell and dbatools for the DBA",
+      "room": "Database - B 51 - R 1209 - 81",
+      "speaker": "Tony Wilhelm",
+      "track": "Database Administration",
+      "level": "100"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Index R(x): Prescriptions for Performance Improvement",
+      "room": "DevOps/Developer - B 51 - R 1101 - 46",
+      "speaker": "Bill Sanscrainte",
+      "track": "Database Administration",
+      "level": "400"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Securing Your Data: An Introduction to Power BI Security",
+      "room": "Security - B 51 - R 1102 - 46",
+      "speaker": "Angelica Domenech",
+      "track": "Security",
+      "level": "100"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Beginners Guide to Power Query in Power BI",
+      "room": "101 Track - B 51 - R 1103 - 46",
+      "speaker": "Bradley Schacht",
+      "track": "Power BI",
+      "level": "100"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Streaming Pipelines with Azure Databricks",
+      "room": "Analytics - B 51 - R 1104 - 46",
+      "speaker": "Neeraj Jhaveri, Andres Padilla",
+      "track": "Data Engineering",
+      "level": "200"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI Meets Programmability – TOM, XMLA, and C#",
+      "room": "Data Modeling - B 4 - R 1706 - 80",
+      "speaker": "Kristyna Ferris",
+      "track": "Power BI",
+      "level": "300"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SSRS Inside Power BI. WHAT???",
+      "room": "PowerBI/Reporting - B 4 - R 1705 - 80",
+      "speaker": "Sherri McDonald",
+      "track": "Business Intelligence/Reporting",
+      "level": "200"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Power Up Your Power BI Development: External Tools for End Users and Professionals",
+      "room": "SQL/Data/ML- B 4 - R 1703 - 50",
+      "speaker": "Sam Mueller, Jacob Gaylord",
+      "track": "Power BI",
+      "level": "200"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "There Are Nuances: Understand SQL Server Backup and Recovery Options",
+      "room": "Database - B 4 - R 1704 - 100",
+      "speaker": "Daniel Taylor",
+      "track": "Database Administration",
+      "level": "300"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "PowerApp Power!!!",
+      "room": "Career/PowerApps B 4 - R 1702 - 38",
+      "speaker": "Warren Sifre",
+      "track": "Business Applications",
+      "level": "200"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Ice Cream Break",
+      "room": "Lunch/Ice Cream - B 51 - R 1202",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 15,
+      "type": "clinic",
+      "title": "SQL Clinic Open",
+      "room": "SQL Clinic - B 51 - R 1201",
+      "speaker": null,
+      "track": "Consulting",
+      "level": null
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Break - Visit Sponsors",
+      "room": "Hallway - Sponsors",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI Data Modeling for Financial Data",
+      "room": "PowerBI - B 51 - R 1205 - 81",
+      "speaker": "Belinda Allen",
+      "track": "Power BI",
+      "level": "200"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "'Starting a T-SQL Love Affair: Building on the Basics'",
+      "room": "Database - B 51 - R 1209 - 81",
+      "speaker": "Susan Schneider",
+      "track": "Database Development",
+      "level": "200"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Implementing Multivariate Anomaly Detection in Python",
+      "room": "DevOps/Developer - B 51 - R 1101 - 46",
+      "speaker": "Kevin Feasel",
+      "track": "Machine Learning and AI",
+      "level": "200"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Protect your database from Ransomware",
+      "room": "Security - B 51 - R 1102 - 46",
+      "speaker": "Shawn Meyers",
+      "track": "Security",
+      "level": "100"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "A Beginner's Guide to Query Store",
+      "room": "101 Track - B 51 - R 1103 - 46",
+      "speaker": "Brandon Tucker",
+      "track": "Database Administration",
+      "level": "100"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Lakehouse, Data Mesh, and Data Fabric",
+      "room": "Analytics - B 51 - R 1104 - 46",
+      "speaker": "James Serra",
+      "track": "Data Architecture",
+      "level": "100"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Sir, There's Still a Bias In My Data",
+      "room": "Data Modeling - B 4 - R 1706 - 80",
+      "speaker": "Michael Antonovich",
+      "track": "Data Science",
+      "level": "200"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Data viz for executive dashboards - How to keep your leaders wanting more.",
+      "room": "PowerBI/Reporting - B 4 - R 1705 - 80",
+      "speaker": "Austin Steinmetz",
+      "track": "Business Intelligence/Reporting",
+      "level": "200"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics",
+      "room": "SQL/Data/ML- B 4 - R 1703 - 50",
+      "speaker": "Reinhard Flügel",
+      "track": "Database Development",
+      "level": "300"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL in the Cloud",
+      "room": "Database - B 4 - R 1704 - 100",
+      "speaker": "Darius Liktorius",
+      "track": "Cloud/Azure",
+      "level": "200"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Revenge: The SQL!",
+      "room": "Career/PowerApps B 4 - R 1702 - 38",
+      "speaker": "Rob Volk",
+      "track": "Database Development",
+      "level": "200"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": 60,
+      "type": "closing",
+      "title": "Raffle/Closing Ceremony",
+      "room": "Raffle - B 59 - R 1701 - 190",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "4:15 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Travel To After Party",
+      "room": "Raffle - B 59 - R 1701 - 190",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "4:30 pm",
+      "duration": 60,
+      "type": "after_party",
+      "title": "After Party",
+      "room": "Raffle - B 59 - R 1701 - 190",
+      "speaker": null,
+      "track": null,
+      "level": null
+    }
+  ]
+}

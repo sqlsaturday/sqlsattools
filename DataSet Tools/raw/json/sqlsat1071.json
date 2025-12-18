@@ -1,0 +1,442 @@
+{
+  "event": "SQL Saturday Atlanta 2024 - BI & Data Analytics Edition",
+  "rooms": {
+    "Room 291": "Main room 291",
+    "Room 292": "Session room 292",
+    "Room 251": "Session room 251",
+    "Room 252": "Session room 252",
+    "Room 253": "Session room 253",
+    "Room 258": "Session room 258",
+    "Room 122": "Session room 122"
+  },
+  "schedule": [
+    {
+      "time": "8:15 am",
+      "duration": "35 min",
+      "type": "registration",
+      "title": "Check-in + Donuts & Coffee",
+      "room": "Room 291"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Introduction to Azure Data Factory",
+      "room": "Room 291",
+      "speaker": "Admira Meskic, Brian McDonald",
+      "track": "Azure Data Services"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Introduction to Fabric Lakehouse",
+      "room": "Room 292",
+      "speaker": "Shabnam Watson",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Getting Beyond the Basics with Azure Machine Learning",
+      "room": "Room 251",
+      "speaker": "Kevin Feasel",
+      "track": "Machine Learning"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Understanding DAX, It's All About the Context",
+      "room": "Room 252",
+      "speaker": "Angela Henry",
+      "track": "Power BI/DAX"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Magnetic Leadership: Pulling the best out of everyone",
+      "room": "Room 253",
+      "speaker": "Elena Marquetti-Ali",
+      "track": "Professional Development"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Exploring Public Health Data: A Practical Guide to API Access in Power BI",
+      "room": "Room 258",
+      "speaker": "Russel Loski",
+      "track": "Power BI"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Automating Power BI Report Updates and Sharing with Power Automate",
+      "room": "Room 291",
+      "speaker": "Daniel Glenn, Shabnam Watson",
+      "track": "Power Platform"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "How to Weave DataOps into Microsoft Fabric",
+      "room": "Room 292",
+      "speaker": "John Kerski",
+      "track": "DataOps"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Storytelling in the Age of Big Data: A Visual Perspective",
+      "room": "Room 251",
+      "speaker": "Sekou Tyler",
+      "track": "Data Visualization"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Bringing on Copilot magic to Microsoft Fabric",
+      "room": "Room 252",
+      "speaker": "Anupama Natarajan",
+      "track": "Microsoft Fabric AI"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Modern Analytics Architecture on Microsoft Fabric",
+      "room": "Room 253",
+      "speaker": "Freddie Santos",
+      "track": "Analytics Architecture"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Data Modeling for Business Intelligence",
+      "room": "Room 258",
+      "speaker": "Michael McKinley",
+      "track": "Data Modeling"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Modernizing ETL: Leveraging Azure Databricks for Enhanced Data Integration",
+      "room": "Room 291",
+      "speaker": "Joshua Higginbotham",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "DAX Queries in Power BI Desktop",
+      "room": "Room 292",
+      "speaker": "Kevin Arnold",
+      "track": "Power BI/DAX"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Learning Fabric from Scratch with Magic the Gathering data",
+      "room": "Room 251",
+      "speaker": "Eugene Meidinger",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "3 Case Studies using Power Apps and Power Automate in your Power BI Report",
+      "room": "Room 252",
+      "speaker": "Belinda Allen",
+      "track": "Power Platform Integration"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Elevating Your Career into IT Leadership",
+      "room": "Room 253",
+      "speaker": "Mark Runyon",
+      "track": "Professional Development"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "A survey of graph algorithms and how they are used in modern day data analytics",
+      "room": "Room 258",
+      "speaker": "Taylor Riggan",
+      "track": "Data Science"
+    },
+    {
+      "time": "11:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Exploring Snowflake: A Guide for PowerBI Professionals",
+      "room": "Room 122",
+      "speaker": "Matt Quinn",
+      "track": "Cloud Data Platforms"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Introducing Powerops - A new Productivity Tool for Power BI",
+      "room": "Room 291",
+      "speaker": "Vijay Hemantha, Santhana Lakshmi Ponnurasan",
+      "track": "Power BI Tools"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Data Catalog: Visualizing Your Data Sprawl",
+      "room": "Room 292",
+      "speaker": "Justin Cunningham",
+      "track": "Data Governance"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Build Data Solutions 10X Faster: TimeXtender's Low-Code, Metadata-Driven, Platform-Agnostic Approach",
+      "room": "Room 251",
+      "speaker": "Harish Mechery",
+      "track": "Data Integration"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "The Ultimate xP&A Solution for Power BI + Fabric (No-code Live Demo)",
+      "room": "Room 252",
+      "speaker": "Eric Hood",
+      "track": "Power BI Solutions"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "How Data is Used and Stored in Modern AI Models",
+      "room": "Room 253",
+      "speaker": "Rich McCraw",
+      "track": "AI/Data Storage"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Advancing your DW with WhereScape",
+      "room": "Room 258",
+      "speaker": "Anil Mahadev",
+      "track": "Data Warehouse"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Shining data models - from OLTP to star dimensional model",
+      "room": "Room 291",
+      "speaker": "Armando Lacerda",
+      "track": "Data Modeling"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Power BI and External Tools: This is the way!",
+      "room": "Room 292",
+      "speaker": "Jason Romans",
+      "track": "Power BI Tools"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Quantifiably bad dashboards: redesigning your dashboards to achieve maximum impact",
+      "room": "Room 251",
+      "speaker": "Kevin Bradley",
+      "track": "Dashboard Design"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Real-Time Query Magic: Leveraging Vector Indexing for Lightnig quick Analytics",
+      "room": "Room 252",
+      "speaker": "Hubert Dulay, Barkha Herman",
+      "track": "Real-Time Analytics"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "How to get started with MLOps in Azure Databricks",
+      "room": "Room 253",
+      "speaker": "Doug Leal",
+      "track": "MLOps"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Tales from the Trenches: Lessons from Big Power BI Projects",
+      "room": "Room 258",
+      "speaker": "Paul Turley",
+      "track": "Power BI Enterprise"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Using SQL Database Projects in SQL Server Data Tools",
+      "room": "Room 122",
+      "speaker": "Mike Diehl",
+      "track": "Database Development"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Data Factory in an Hour with Microsoft Fabric",
+      "room": "Room 291",
+      "speaker": "Alex Powers",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Getting Started with Power BI Paginated Reports",
+      "room": "Room 292",
+      "speaker": "Eric M. Flamm",
+      "track": "Power BI Reporting"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Unraveling the Mysteries: A Comprehensive Study of ChatGPT and Its Transformer Backbone",
+      "room": "Room 251",
+      "speaker": "Jean Joseph",
+      "track": "AI/Machine Learning"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Git Integration and Azure DevOps for Power BI - Implementing CI/CD",
+      "room": "Room 252",
+      "speaker": "Akshata Revankar",
+      "track": "DevOps"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Power BI - Performing Data Quality Checks Using Python & SQL",
+      "room": "Room 253",
+      "speaker": "Kristyna Ferris",
+      "track": "Data Quality"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Lay Down the Law as a Fabric Administrator",
+      "room": "Room 258",
+      "speaker": "Elayne Jones",
+      "track": "Microsoft Fabric Administration"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Modeling & Transforming Data Using DBT",
+      "room": "Room 122",
+      "speaker": "Preston Mesarvey",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Communicate Clearly: Applying Visual Design Best Practices in Reporting",
+      "room": "Room 291",
+      "speaker": "Michael Hewitt",
+      "track": "Report Design"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "PowerApp Power!!!",
+      "room": "Room 292",
+      "speaker": "Warren Sifre",
+      "track": "Power Apps"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Your Future in Business - The Important Decisions, and how to make them",
+      "room": "Room 251",
+      "speaker": "Mark Ginnebaugh",
+      "track": "Professional Development"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Semantic Link - A Magic Cauldron to Unlock Power BI with Python",
+      "room": "Room 252",
+      "speaker": "Stephanie Bruno",
+      "track": "Power BI/Python"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Three things to know before going Independent",
+      "room": "Room 253",
+      "speaker": "John Sterrett",
+      "track": "Professional Development"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Real-Time Analytics with Microsoft Fabric: Unlocking the Power of Streaming Data",
+      "room": "Room 258",
+      "speaker": "Aravinth Krishnasamy",
+      "track": "Real-Time Analytics"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Managing Change - 5 Considerations for Driving Business Users to Adopt Technical Implementations",
+      "room": "Room 122",
+      "speaker": "Grant Stalley",
+      "track": "Change Management"
+    },
+    {
+      "time": "5:05 pm",
+      "duration": "20 min",
+      "type": "closing",
+      "title": "Raffle Time",
+      "room": "Room 291"
+    }
+  ]
+}

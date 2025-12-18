@@ -1,0 +1,248 @@
+{
+  "event": "SQL Saturday Los Angeles",
+  "rooms": {
+    "Room #1222": "LMU sponsored room",
+    "Room #1226": "Microsoft sponsored room",
+    "Room #1858": "VMware sponsored room", 
+    "Room #1866": "EnterpriseDB sponsored room",
+    "Atrium - Main Area": "Main networking and break area"
+  },
+  "schedule": [
+    {
+      "time": "8:00 am",
+      "duration": "30 min",
+      "type": "registration",
+      "title": "Reception, registration. Visit caffeine station and sponsors area",
+      "room": "Atrium - Main Area"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "15 min",
+      "type": "keynote",
+      "title": "Keynote",
+      "room": "Atrium - Main Area"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "From Stutterer to Speaker: Overcoming Your Fears",
+      "room": "Room #1222",
+      "speaker": "Matt Gordon",
+      "track": "Professional Development"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Introducing Microsoft Fabric: Data Analytics SAAS",
+      "room": "Room #1226",
+      "speaker": "Reza Rad",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "MongoDB First Steps",
+      "room": "Room #1858",
+      "speaker": "Nuri Halperin",
+      "track": "NoSQL"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Power BI Development Framework Post Fabric Launch",
+      "room": "Room #1866",
+      "speaker": "Chaudhary Ahmad Ali",
+      "track": "Power BI"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "20 min",
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffles",
+      "room": "Atrium - Main Area"
+    },
+    {
+      "time": "10:05 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "SQL Server: Views and Stored Procedures for Optimizing Library Data",
+      "room": "Room #1222",
+      "speaker": "Vijay Panwar",
+      "track": "SQL Server Development"
+    },
+    {
+      "time": "10:05 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Row-Level Security patterns in Power BI",
+      "room": "Room #1226",
+      "speaker": "Reza Rad",
+      "track": "Power BI Security"
+    },
+    {
+      "time": "10:05 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Hybrid Disaster Recovery with SQL Server 2022",
+      "room": "Room #1858",
+      "speaker": "Armando Lacerda",
+      "track": "SQL Server Administration"
+    },
+    {
+      "time": "10:05 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Prevent Ransomware Attacks",
+      "room": "Room #1866",
+      "speaker": "Prabhat Nigam",
+      "track": "Security"
+    },
+    {
+      "time": "11:05 am",
+      "duration": "20 min",
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffles",
+      "room": "Atrium - Main Area"
+    },
+    {
+      "time": "11:25 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Index Performance Tuning Using Pain Reduction",
+      "room": "Room #1222",
+      "speaker": "Bill Sanscrainte",
+      "track": "SQL Server Performance"
+    },
+    {
+      "time": "11:25 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "SQL Server under attack: SQL Injection",
+      "room": "Room #1226",
+      "speaker": "Andreas Wolter",
+      "track": "SQL Server Security"
+    },
+    {
+      "time": "11:25 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Privilege Database User Activity Monitoring using Database Activity Stream on Amazon RDS",
+      "room": "Room #1858",
+      "speaker": "Sudhir Amin",
+      "track": "AWS/Security"
+    },
+    {
+      "time": "11:25 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Making Postgres Central in Your Data Center",
+      "room": "Room #1866",
+      "speaker": "Bruce Momjian",
+      "track": "PostgreSQL"
+    },
+    {
+      "time": "12:25 pm",
+      "duration": "45 min",
+      "type": "lunch",
+      "title": "Lunch Break - network, visit sponsors, and register for raffles",
+      "room": "Atrium - Main Area"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Exploratory and Explanatory Data Analysis: from raw data to data-driven business decisions",
+      "room": "Room #1222",
+      "speaker": "Alan Ferrandiz",
+      "track": "Data Science"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Google BigQuery ML - Democratizing AI/ML so anyone can do data science",
+      "room": "Room #1226",
+      "speaker": "Patrick Alexander",
+      "track": "Machine Learning"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Architecting Your Microsoft SQL Server Workloads on VMware Cloud Foundation",
+      "room": "Room #1858",
+      "speaker": "Dèjì Akọ́mọláfẹ́",
+      "track": "Cloud Architecture"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Powering generative AI use cases with vector databases on AWS",
+      "room": "Room #1866",
+      "speaker": "Neha Gupta",
+      "track": "AI/AWS"
+    },
+    {
+      "time": "2:10 pm",
+      "duration": "30 min",
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffles",
+      "room": "Atrium - Main Area"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Unveiling Insights: A Beginner's Guide to Exploratory Data Analysis",
+      "room": "Room #1222",
+      "speaker": "Sagar Varma Samanthapudi",
+      "track": "Data Science"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Revolutionizing Business Intelligence: Integrating Azure SQL with Azure OpenAI.",
+      "room": "Room #1226",
+      "speaker": "Jean Joseph",
+      "track": "Azure AI"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Introduction to Automated Deployments with Azure DevOps",
+      "room": "Room #1858",
+      "speaker": "Erin Dempster",
+      "track": "DevOps"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Strengthen Azure & on-premises SQL Server access with passwordless methods",
+      "room": "Room #1866",
+      "speaker": "Manish Shah",
+      "track": "Security"
+    },
+    {
+      "time": "3:40 pm",
+      "duration": "20 min",
+      "type": "break",
+      "title": "Break - network, visit sponsors, and register for raffles",
+      "room": "Atrium - Main Area"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "30 min",
+      "type": "closing",
+      "title": "Raffle",
+      "room": "Atrium - Main Area"
+    }
+  ]
+}

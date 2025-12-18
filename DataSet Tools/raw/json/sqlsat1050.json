@@ -1,0 +1,73 @@
+{
+  "event": "SQL Saturday Haiti 2023",
+  "location": "Haiti",
+  "year": "2023",
+  "rooms": {
+    "Live Meeting Room": "Live Meeting Room"
+  },
+  "schedule": [
+    {
+      "time": "7:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure Data Factory pour les nuls",
+      "room": "Live Meeting Room",
+      "speaker": "Philippe Geiger",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "8:35 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Quelles sont les compétences techniques Qu'on doit avoir comme Analyste de données?",
+      "room": "Live Meeting Room",
+      "speaker": "Davidson Astrel",
+      "track": "Professional Development"
+    },
+    {
+      "time": "9:40 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server - L'accès aux données",
+      "room": "Live Meeting Room",
+      "speaker": "Christophe Laporte",
+      "track": "Database Development"
+    },
+    {
+      "time": "10:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure Synapse Lake Databases in your Data Lakehouse",
+      "room": "Live Meeting Room",
+      "speaker": "Christian Cote",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Bien maîtriser Azure Data Studio et les Notebooks",
+      "room": "Live Meeting Room",
+      "speaker": "Philippe Geiger",
+      "track": "Database Development"
+    },
+    {
+      "time": "1:20 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Data&AI",
+      "room": "Live Meeting Room",
+      "speaker": "Anna Vanyan",
+      "track": "Artificial Intelligence/Machine Learning"
+    },
+    {
+      "time": "2:25 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Quelles considérations clés pour devenir un bon professionnel?",
+      "room": "Live Meeting Room",
+      "speaker": "Anie Duliepre",
+      "track": "Professional Development"
+    }
+  ]
+}

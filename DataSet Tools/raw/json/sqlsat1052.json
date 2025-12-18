@@ -1,0 +1,199 @@
+{
+  "event": "SQL Saturday Lima 2023",
+  "rooms": {
+    "Auditorio": "Auditorio",
+    "Aula": "Aula", 
+    "Virtual": "Virtual"
+  },
+  "schedule": [
+    {
+      "time": "9:00am",
+      "duration": 30,
+      "type": "registration",
+      "title": "Attendee Registration",
+      "room": "Auditorio",
+      "speaker": "",
+      "track": "General"
+    },
+    {
+      "time": "9:30am",
+      "duration": 30,
+      "type": "keynote",
+      "title": "KEYNOTE",
+      "room": "Auditorio",
+      "speaker": "",
+      "track": "Keynote"
+    },
+    {
+      "time": "10:00am",
+      "duration": 60,
+      "type": "session",
+      "title": "Microsoft Fabric Arquitectura Medallón de Lakehouse",
+      "room": "Auditorio",
+      "speaker": "Oscar Zamora (Microsoft)",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "10:00am",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Warehouse en Microsoft Fabric",
+      "room": "Virtual",
+      "speaker": "Pedro Martinez (Microsoft)",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "11:00am",
+      "duration": 60,
+      "type": "session",
+      "title": "Casos de uso near real-time con Synapse Analytics",
+      "room": "Auditorio",
+      "speaker": "Martha Elizabeth Chavez Quispe (Microsoft)",
+      "track": "Analytics"
+    },
+    {
+      "time": "11:00am",
+      "duration": 60,
+      "type": "session",
+      "title": "Todo lo que tienes que hacer (y evitar) para hacer cargars incrementales con Power BI",
+      "room": "Aula",
+      "speaker": "Alberto De Rossi (MVP)",
+      "track": "Power BI"
+    },
+    {
+      "time": "11:00am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Microsoft Fabric - Data analytics for the era of AI",
+      "room": "Virtual",
+      "speaker": "Javier Villegas (MVP)",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "12:00pm",
+      "duration": 30,
+      "type": "break",
+      "title": "BREAK",
+      "room": "Auditorio",
+      "speaker": "",
+      "track": "General"
+    },
+    {
+      "time": "12:00pm",
+      "duration": 30,
+      "type": "session",
+      "title": "Data Engineering con Microsoft Fabric",
+      "room": "Aula",
+      "speaker": "Walter E. Calcagno Lucares (MVP)",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "12:30pm",
+      "duration": 30,
+      "type": "session",
+      "title": "Export to Azure Data Lake for Dynamics 365 F&O",
+      "room": "Auditorio",
+      "speaker": "Juan Rafael (MVP)",
+      "track": "Azure"
+    },
+    {
+      "time": "12:30pm",
+      "duration": 30,
+      "type": "session",
+      "title": "Novedades en SQL Server Spatial",
+      "room": "Aula",
+      "speaker": "Marlon Leandro",
+      "track": "SQL Server"
+    },
+    {
+      "time": "1:00pm",
+      "duration": 30,
+      "type": "session",
+      "title": "Migrando hacia Azure SQL - Qué opciones tenemos?",
+      "room": "Auditorio",
+      "speaker": "Mariano Kovo (MVP)",
+      "track": "Azure SQL"
+    },
+    {
+      "time": "1:30pm",
+      "duration": 30,
+      "type": "lunch",
+      "title": "LUNCH",
+      "room": "Auditorio",
+      "speaker": "",
+      "track": "General"
+    },
+    {
+      "time": "2:00pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Surviving the Digital Transformation en Espanol",
+      "room": "Auditorio",
+      "speaker": "Gilda Alvarez",
+      "track": "Professional Development"
+    },
+    {
+      "time": "3:00pm",
+      "duration": 60,
+      "type": "session",
+      "title": "¿Como hacer mi primer despliegue de Arquitectura Analytics utilizando Azure Devops?",
+      "room": "Auditorio",
+      "speaker": "Tony Trujillo Dávila (MCT)",
+      "track": "DevOps"
+    },
+    {
+      "time": "3:00pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Use Azure DevOps to Deploy an Azure SQL Database",
+      "room": "Aula",
+      "speaker": "Luis Junior Franco Ruiz (MCT)",
+      "track": "DevOps"
+    },
+    {
+      "time": "3:00pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Tips de performance para programadores TSQL",
+      "room": "Virtual",
+      "speaker": "Maximiliano Accotto (MVP)",
+      "track": "SQL Server"
+    },
+    {
+      "time": "4:00pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Usando Copilot X en GitHub",
+      "room": "Auditorio",
+      "speaker": "Marlon Leandro",
+      "track": "Development Tools"
+    },
+    {
+      "time": "4:00pm",
+      "duration": 60,
+      "type": "session",
+      "title": "La importancia de la base de datos de conocimiento - ITIL",
+      "room": "Aula",
+      "speaker": "Godofredo Diaz",
+      "track": "Professional Development"
+    },
+    {
+      "time": "4:00pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Monitoreo de rendimiento en SQL gratuito",
+      "room": "Virtual",
+      "speaker": "Maximiliano Accotto (MVP)",
+      "track": "SQL Server"
+    },
+    {
+      "time": "5:00pm",
+      "duration": 30,
+      "type": "closing",
+      "title": "CLOSE",
+      "room": "Auditorio",
+      "speaker": "",
+      "track": "General"
+    }
+  ]
+}

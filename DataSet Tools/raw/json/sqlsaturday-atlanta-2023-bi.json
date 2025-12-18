@@ -1,0 +1,388 @@
+{
+  "eventInfo": {
+    "name": "SQL Saturday Atlanta 2023 - BI & Data Analytics Edition",
+    "date": "2023",
+    "location": "Atlanta, Georgia",
+    "eventNumber": "1042"
+  },
+  "rooms": {
+    "291": "Room 291",
+    "292": "Room 292", 
+    "252": "Room 252",
+    "258": "Room 258",
+    "253": "Room 253",
+    "251": "Room 251"
+  },
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Power BI Dashboard in an Hour (DIAH)",
+      "room": "291",
+      "speaker": "Teo Lachev",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "9:00 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Practical Use Cases for Composite Models",
+      "room": "292",
+      "speaker": "Kevin Arnold",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "9:00 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Using Azure Data Factory with Git",
+      "room": "252",
+      "speaker": "Andy Leonard",
+      "track": "Azure",
+      "level": null
+    },
+    {
+      "time": "9:00 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "One New Skill Will Change Your Life",
+      "room": "258",
+      "speaker": "Bruce Hill",
+      "track": "Professional Development",
+      "level": null
+    },
+    {
+      "time": "9:00 AM",
+      "duration": "60 min",
+      "type": "Q&A",
+      "title": "Q & A Session 4",
+      "room": "253",
+      "speaker": null,
+      "track": "General",
+      "level": null
+    },
+    {
+      "time": "9:00 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Bonnie Plants: Power BI / Data Engineering Success Story",
+      "room": "251",
+      "speaker": "Mike Diehl, Elizabeth Henslee, Jack Rogers",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "10:15 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Planning Steps for a Power BI Report",
+      "room": "291",
+      "speaker": "Belinda Allen",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "10:15 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Getting started with Power BI Deployment Pipelines",
+      "room": "292",
+      "speaker": "Akshata Revankar",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "10:15 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Data Pipeline Architecture: Key Design Principles & Considerations",
+      "room": "252",
+      "speaker": "Jean Joseph",
+      "track": "Azure",
+      "level": null
+    },
+    {
+      "time": "10:15 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "20 Stupid Things To Avoid as a Data Professional",
+      "room": "258",
+      "speaker": "Paresh Motiwala",
+      "track": "Professional Development",
+      "level": null
+    },
+    {
+      "time": "10:15 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Actionable Financial Reports with Azure Synapse and the Power Platform",
+      "room": "253",
+      "speaker": "Gaston Cruz",
+      "track": "Azure",
+      "level": null
+    },
+    {
+      "time": "10:15 AM",
+      "duration": "60 min",
+      "type": "Q&A",
+      "title": "Q & A Session 3",
+      "room": "251",
+      "speaker": null,
+      "track": "General",
+      "level": null
+    },
+    {
+      "time": "11:30 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Query Folding in an Hour",
+      "room": "291",
+      "speaker": "Alex Powers",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "11:30 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "How to Fix a Report I Didn't Build - A Hot Potato Story",
+      "room": "292",
+      "speaker": "Reid Havens",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "11:30 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Introduction to Azure Synapse Studio Development Tools",
+      "room": "252",
+      "speaker": "Russ Loski",
+      "track": "Azure",
+      "level": null
+    },
+    {
+      "time": "11:30 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Agile/Scrum for Database Projects",
+      "room": "258",
+      "speaker": "Albert Reilingh",
+      "track": "Professional Development",
+      "level": null
+    },
+    {
+      "time": "11:30 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "NextGen AI: Deep Reinforcement Learning & Machine Teaching for Autonomous Systems",
+      "room": "253",
+      "speaker": "Barkha Herman",
+      "track": "AI & ML",
+      "level": null
+    },
+    {
+      "time": "11:30 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Intro to Data Profiling in Power BI",
+      "room": "251",
+      "speaker": "Eric M. Flamm",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "12:45 PM",
+      "duration": "45 min",
+      "type": "Sponsor Session",
+      "title": "Building Data solutions 10X faster with TimeXtender: The Power of Data Warehouse Automation",
+      "room": "291",
+      "speaker": null,
+      "track": "Sponsor",
+      "level": null
+    },
+    {
+      "time": "12:45 PM",
+      "duration": "45 min",
+      "type": "Sponsor Session",
+      "title": "Inforiver - The fastest way to do everything in Power BI",
+      "room": "292",
+      "speaker": null,
+      "track": "Sponsor",
+      "level": null
+    },
+    {
+      "time": "12:45 PM",
+      "duration": "45 min",
+      "type": "Sponsor Session",
+      "title": "Getting started with Data Modernization & AI Solutions",
+      "room": "252",
+      "speaker": null,
+      "track": "Sponsor",
+      "level": null
+    },
+    {
+      "time": "12:45 PM",
+      "duration": "45 min",
+      "type": "Lunch Session",
+      "title": "Lunch Time Session 4",
+      "room": "258",
+      "speaker": null,
+      "track": "General",
+      "level": null
+    },
+    {
+      "time": "1:45 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Lovelytics Five Step Guide To Building Efficient Dashboards",
+      "room": "291",
+      "speaker": "Sekou Tyler",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "1:45 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Azure Data Factory Metadata-Driven ETL Patterns",
+      "room": "292",
+      "speaker": "Mike Diehl",
+      "track": "Azure",
+      "level": null
+    },
+    {
+      "time": "1:45 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "DataOps 101 – A Better Way to Develop and Deliver Data Analytics",
+      "room": "252",
+      "speaker": "John Kerski",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "1:45 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Fernando's Dataverse for Teams app and a Power BI report",
+      "room": "258",
+      "speaker": "Fernando Calero",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "3:00 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Virtual Agent - Power BI Administrator Tenant Manager",
+      "room": "291",
+      "speaker": "Gaston Cruz, Alex Rostan",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "3:00 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "SQL DATETIME fundamentals",
+      "room": "292",
+      "speaker": "Matt Quinn",
+      "track": "SQL",
+      "level": null
+    },
+    {
+      "time": "3:00 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Reporting with Azure Synapse Analytics and Power BI",
+      "room": "252",
+      "speaker": "Shabnam Watson",
+      "track": "Azure",
+      "level": null
+    },
+    {
+      "time": "3:00 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Getting Started with Graph Databases and Graph Query Languages",
+      "room": "258",
+      "speaker": "Taylor Riggan",
+      "track": "SQL",
+      "level": null
+    },
+    {
+      "time": "3:00 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Real-Time Fraud Detection: Challenges and Solutions",
+      "room": "253",
+      "speaker": "Mike Yawn",
+      "track": "AI & ML",
+      "level": null
+    },
+    {
+      "time": "3:05 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Power BI Meets Programmability – TOM, XMLA, and C#",
+      "room": "251",
+      "speaker": "Kristyna Ferris",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "4:15 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Power BI Performance in 6 demos",
+      "room": "291",
+      "speaker": "Patrick LeBlanc",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "4:15 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Does Modeling Still Matter in the Data Cloud?",
+      "room": "292",
+      "speaker": "Stewart Bryson",
+      "track": "Azure",
+      "level": null
+    },
+    {
+      "time": "4:15 PM",
+      "duration": "60 min",
+      "type": "Q&A",
+      "title": "Q & A Session 1",
+      "room": "252",
+      "speaker": null,
+      "track": "General",
+      "level": null
+    },
+    {
+      "time": "4:15 PM",
+      "duration": "60 min",
+      "type": "Q&A",
+      "title": "Q & A Session 2",
+      "room": "258",
+      "speaker": null,
+      "track": "General",
+      "level": null
+    },
+    {
+      "time": "4:15 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Share Power BI Reports in Your Organization the Right Way",
+      "room": "253",
+      "speaker": "Daniel Glenn",
+      "track": "Power BI",
+      "level": null
+    }
+  ]
+}

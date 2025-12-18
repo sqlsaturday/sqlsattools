@@ -1,0 +1,96 @@
+{
+  "event": "SQL Saturday Haiti 2024",
+  "rooms": {
+    "Room 1": "Salle de conférence principale"
+  },
+  "schedule": [
+    {
+      "time": "7:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Microsoft Fabric, la solution décisionnelle pour toutes les entreprises",
+      "room": "Room 1",
+      "speaker": "Philippe Geiger",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "8:35 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "La gouvernance et la qualité des données deux piliers essentiels de la gestion des données modernes.",
+      "room": "Room 1",
+      "speaker": "Davidson Astrel",
+      "track": "Data Governance"
+    },
+    {
+      "time": "9:40 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Migration de base de données SQL vers le cloud - Retour d'expérience",
+      "room": "Room 1",
+      "speaker": "David Barbarin",
+      "track": "Cloud Migration"
+    },
+    {
+      "time": "10:40 am",
+      "duration": "20 min",
+      "type": "break",
+      "title": "Lunch Break",
+      "room": "Room 1"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Débloquez la puissance de Transact-SQL en 60 minutes.",
+      "room": "Room 1",
+      "speaker": "James Blowmy Pascal Germiny",
+      "track": "Transact-SQL"
+    },
+    {
+      "time": "12:05 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Azure OpenAI introduction",
+      "room": "Room 1",
+      "speaker": "Anna Vanyan",
+      "track": "Azure AI"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Power BI avec un peu d'intelligence artificielle",
+      "room": "Room 1",
+      "speaker": "Philippe Geiger",
+      "track": "Power BI/AI"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Copilot for Fabric Data Engineering",
+      "room": "Room 1",
+      "speaker": "Christian Cote",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "3:20 pm",
+      "duration": "40 min",
+      "type": "session",
+      "title": "Droit à l'Éducation : Comprendre son Importance",
+      "room": "Room 1",
+      "speaker": "Georges Richard Joseph",
+      "track": "Education"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "40 min",
+      "type": "session",
+      "title": "Introduction à Microsoft Copilot",
+      "room": "Room 1",
+      "speaker": "Rose Marie Anie Duliepre",
+      "track": "Microsoft Copilot"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "event": "SQL Saturday Richmond 2024",
+  "rooms": {
+    "138": "Room 138",
+    "Lobby": "Main lobby area",
+    "108": "Room 108",
+    "Lipman Auditorium": "Main auditorium",
+    "210": "Room 210",
+    "218": "Room 218", 
+    "220": "Room 220",
+    "223": "Room 223",
+    "Cafe 804": "Lunch area"
+  },
+  "schedule": [
+    {
+      "time": "8:30 am",
+      "duration": "30 min",
+      "type": "registration",
+      "title": "Registration / Check-in",
+      "room": "Lobby"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "420 min",
+      "type": "sponsor",
+      "title": "Sponsors",
+      "room": "Lobby"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Navigating Modern Data Architectures",
+      "room": "138",
+      "speaker": "Andres Marquez",
+      "level": "Beginner",
+      "track": "Data Architecture"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Move Data Using Microsoft Fabric Data Factory",
+      "room": "108",
+      "speaker": "Andy Leonard",
+      "level": "Beginner",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Designing an ETL with multi-running packages",
+      "room": "Lipman Auditorium",
+      "speaker": "Slava Murygin",
+      "level": "Intermediate",
+      "track": "ETL"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "From Flying to SQL, one accidental DBAs journey",
+      "room": "210",
+      "speaker": "Anders Pedersen",
+      "level": "Beginner",
+      "track": "Professional Development"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "PowerApp Power!!!",
+      "room": "218",
+      "speaker": "Warren Sifre",
+      "level": "Beginner",
+      "track": "Power Platform"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "20 min",
+      "type": "break",
+      "title": "Morning Break - Coffee & water available",
+      "room": "Lobby"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "135 min",
+      "type": "session",
+      "title": "Perfectly Normal: An Advanced Primer on Normalization",
+      "room": "138",
+      "speaker": "Kevin Feasel",
+      "level": "Advanced",
+      "track": "Database Design"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Dashboards are dead, flat reports are flatlining, and I'm not feeling so good myself",
+      "room": "108",
+      "speaker": "Kevin Bradley",
+      "level": "Intermediate",
+      "track": "Reporting"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Go Jump In A [Data] Lake",
+      "room": "Lipman Auditorium",
+      "speaker": "Peter Shore",
+      "level": "Beginner",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "dbatools: The PowerShell way to interact with SQL Server",
+      "room": "210",
+      "speaker": "Breanna Hansen",
+      "level": "Beginner",
+      "track": "PowerShell"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "What is all the fuss about Microsoft Fabric?",
+      "room": "218",
+      "speaker": "Carlos Chacon",
+      "level": "Beginner",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "120 min",
+      "type": "lunch",
+      "title": "Lunch Seating",
+      "room": "Cafe 804"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Now you see it, but did you really? Correcting visual fallacies...",
+      "room": "220",
+      "speaker": "Jonathan Stewart",
+      "level": "Beginner",
+      "track": "Data Visualization"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Digitize Paper Processes with Power Apps - A Case Study",
+      "room": "138",
+      "speaker": "Carlos Chacon",
+      "level": "Beginner",
+      "track": "Power Platform"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Parallel DBA Tasks from the Command Line Using PowerShell",
+      "room": "108",
+      "speaker": "Lars Rasmussen",
+      "level": "Advanced",
+      "track": "PowerShell"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Architecting Your Microsoft SQL Server Workloads on VMware Cloud Foundation",
+      "room": "Lipman Auditorium",
+      "speaker": "Dèjì Akọ́mọláfẹ́, Edwin Sarmiento",
+      "level": "Intermediate",
+      "track": "Cloud Architecture"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Azure Synapse",
+      "room": "138",
+      "speaker": "Nikunj Patel",
+      "level": "Intermediate",
+      "track": "Azure Analytics"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Visual Symphony: Crafting Elegant Visualizations with R and Power BI",
+      "room": "108",
+      "speaker": "Alan Ferrandiz",
+      "level": "Intermediate",
+      "track": "Data Visualization"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "The T-SQL JSON Operators",
+      "room": "Lipman Auditorium",
+      "speaker": "Jeff Foushee",
+      "level": "Beginner",
+      "track": "SQL Server Development"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Commenting Power Query with Azure OpenAI",
+      "room": "210",
+      "speaker": "John Kerski",
+      "level": "Intermediate",
+      "track": "AI/Power BI"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "How to Change SQL from Procedural to Set-Based",
+      "room": "218",
+      "speaker": "Aaron Cutshall, DHA, MSHI",
+      "level": "Intermediate",
+      "track": "SQL Server Development"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Leveraging AI in Power BI Dashboard",
+      "room": "138",
+      "speaker": "Reid Schmidling",
+      "level": "Intermediate",
+      "track": "AI/Power BI"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Azure SQL Devops",
+      "room": "108",
+      "speaker": "George Walkey",
+      "level": "Intermediate",
+      "track": "DevOps"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Introduction to Azure Cosmos DB",
+      "room": "Lipman Auditorium",
+      "speaker": "Leonard Lobel",
+      "level": "Beginner",
+      "track": "NoSQL"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Parse Trees, Memos, Transformation Rules and Other Hidden Objects in SQL Server",
+      "room": "210",
+      "speaker": "Breanna Hansen",
+      "level": "Intermediate",
+      "track": "SQL Server Internals"
+    },
+    {
+      "time": "4:15 pm",
+      "duration": "30 min",
+      "type": "closing",
+      "title": "Prize Drawing",
+      "room": "Lobby"
+    }
+  ]
+}

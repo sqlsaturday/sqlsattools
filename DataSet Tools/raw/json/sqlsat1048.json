@@ -1,0 +1,631 @@
+{
+  "event": "SQL Saturday New York City 2023",
+  "location": "Microsoft 11 Times Sq New York, NY 10036 ",
+  "year": "2023",
+  "rooms": {
+    "Room A 6.120": "Room A 6.120",
+    "Room B 6.45": "Room B 6.45",
+    "Room C 6.45": "Room C 6.45",
+    "Room D 5.45": "Room D 5.45",
+    "Room E 5.45": "Room E 5.45",
+    "Room F 5.30": "Room F 5.30",
+    "Room G 6.20": "Room G 6.20",
+    "Room H 6.20": "Room H 6.20",
+    "Room I 6.20": "Room I 6.20",
+    "Room K 5.15": "Room K 5.15",
+    "Room L 5.15": "Room L 5.15",
+    "Room M 5.15": "Room M 5.15"
+  },
+  "schedule": [
+    {
+      "time": "8:30 am",
+      "duration": 45,
+      "type": "registration",
+      "title": "Registration and Breakfast",
+      "room": "Room A 6.120",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "9:15 am",
+      "duration": 30,
+      "type": "keynote",
+      "title": "Keynote",
+      "room": "Room A 6.120",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "9:45 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Break 1",
+      "room": "Room A 6.120",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Back to the Basics: T-SQL 101",
+      "room": "Room A 6.120",
+      "speaker": "Deborah Melkin",
+      "track": "Database Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "A Deep Dive into SQL Server 2022 Query Store and Intelligent Query Processing",
+      "room": "Room B 6.45",
+      "speaker": "Janis Griffin",
+      "track": "Performance and Query Tuning",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Worst Practices for Highly Available SQL Server Deployments",
+      "room": "Room C 6.45",
+      "speaker": "Allan Hirt",
+      "track": "HA/DR",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Performance, Optimization, and Intelligent Error Handling in Power Query",
+      "room": "Room D 5.45",
+      "speaker": "Reid Havens",
+      "track": "Power BI",
+      "level": "Beginner"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Ground to Cloud: Your Migration Success Checklist",
+      "room": "Room E 5.45",
+      "speaker": "Matt Gordon",
+      "track": "Azure",
+      "level": "Beginner"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building an ETL project. From RAW data to Data Warehouse.",
+      "room": "Room F 5.30",
+      "speaker": "Slava Murygin",
+      "track": "Professional Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Assessment - Microsoft's Best Practices Checker",
+      "room": "Room G 6.20",
+      "speaker": "Taiob Ali",
+      "track": "Database Administration",
+      "level": "Beginner"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Whacha just say? Talking technology to non technical people",
+      "room": "Room H 6.20",
+      "speaker": "Ray Kim",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Cleaning and Transforming Data with SQL",
+      "room": "Room I 6.20",
+      "speaker": "Jean Joseph",
+      "track": "Database Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Let's talk about your model",
+      "room": "Room K 5.15",
+      "speaker": "Greg Baldini",
+      "track": "Power BI",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server vs Azure Cosmos DB",
+      "room": "Room L 5.15",
+      "speaker": "Hasan Savran",
+      "track": "Non-SQL Server Database Technologies",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Synapse Pipelines for the SSIS DBA",
+      "room": "Room M 5.15",
+      "speaker": "Armando Lacerda",
+      "track": "Non-SQL Server Database Technologies",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Break 2",
+      "room": "Room A 6.120",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "11:15 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Improve Query Performance with Intelligent Query Processing in SQL Server 2022",
+      "room": "Room A 6.120",
+      "speaker": "Edward Pollack",
+      "track": "Performance and Query Tuning",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "How I Cut My Maintenance Window by 80%",
+      "room": "Room B 6.45",
+      "speaker": "Paresh Motiwala",
+      "track": "Database Administration",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 75,
+      "type": "session",
+      "title": "When to stop tuning a query",
+      "room": "Room C 6.45",
+      "speaker": "Milos Radivojevic",
+      "track": "Performance and Query Tuning",
+      "level": "Advanced"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Designing an ETL with multi-running packages",
+      "room": "Room D 5.45",
+      "speaker": "Slava Murygin",
+      "track": "Performance and Query Tuning",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Expert Tabular and Power BI development",
+      "room": "Room E 5.45",
+      "speaker": "Greg Baldini",
+      "track": "Power BI",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Scaling in an Excelent Way",
+      "room": "Room F 5.30",
+      "speaker": "Thomas Grohser",
+      "track": "Database Administration",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Explore your data lake with Synapse Serverless Pools",
+      "room": "Room G 6.20",
+      "speaker": "John Miner",
+      "track": "Non-SQL Server Database Technologies",
+      "level": "Beginner"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Exploratory and Explanatory Data Analysis: from raw data to data-driven business decisions",
+      "room": "Room H 6.20",
+      "speaker": "Alan Ferrandiz",
+      "track": "Non-SQL Server Database Technologies",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Automated Deployments with Azure DevOps",
+      "room": "Room I 6.20",
+      "speaker": "Erin Dempster",
+      "track": "Database Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Building Secured and Scalable IoT solution with Azure SQL database",
+      "room": "Room K 5.15",
+      "speaker": "Surbhi Pokharna",
+      "track": "Machine Learning and AI",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Uncovering and Reducing Unconscious Bias",
+      "room": "Room L 5.15",
+      "speaker": "Lorne Epstein",
+      "track": "Professional Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "How to build a data-culture in your Business using Power BI",
+      "room": "Room M 5.15",
+      "speaker": "Gethyn Ellis",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": 60,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "Room G 6.20",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 45,
+      "type": "sponsor_session",
+      "title": "Mission Possible: This Database Will Self-Destruct",
+      "room": "Room A 6.120",
+      "speaker": "Steve Wright",
+      "track": "Sponsor Session",
+      "level": "Beginner"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 45,
+      "type": "sponsor_session",
+      "title": "Overcoming the Dilemma of SQL Server High Availability",
+      "room": "Room B 6.45",
+      "speaker": "Dave Bermingham",
+      "track": "Database Administration",
+      "level": "Beginner"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 45,
+      "type": "sponsor_session",
+      "title": "Data Privacy & Security for SQL Server with MS Azure Purview",
+      "room": "Room C 6.45",
+      "speaker": "Vasil Vykhopen",
+      "track": "Security",
+      "level": "Beginner"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": 45,
+      "type": "sponsor_session",
+      "title": "WIT Panel",
+      "room": "Room D 5.45",
+      "speaker": "Deborah Melkin",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Break 5",
+      "room": "Room A 6.120",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "What's New in SQL Server 2022?",
+      "room": "Room A 6.120",
+      "speaker": "Janis Griffin",
+      "track": "Database Administration",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "20 Stupid Things To Avoid as a DBA",
+      "room": "Room B 6.45",
+      "speaker": "Paresh Motiwala",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Missing Indexes: Do's and Don'ts",
+      "room": "Room C 6.45",
+      "speaker": "Andy Yun",
+      "track": "Database Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to GitHub for Data Professionals",
+      "room": "Room D 5.45",
+      "speaker": "Joshua Higginbotham",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Mastering Dynamic SQL",
+      "room": "Room E 5.45",
+      "speaker": "Deborah Melkin",
+      "track": "Performance and Query Tuning",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server 2022 Contained Availability Groups",
+      "room": "Room F 5.30",
+      "speaker": "Brandon Leach",
+      "track": "Database Administration",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Options for Securely Sharing Power BI Content",
+      "room": "Room G 6.20",
+      "speaker": "Melissa Coates",
+      "track": "Power BI",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Disaster Documents: The role of documentation in disaster recovery",
+      "room": "Room H 6.20",
+      "speaker": "Ray Kim",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Improving Team Collaboration Using Database Projects and Azure DevOps",
+      "room": "Room I 6.20",
+      "speaker": "Olivier Van Steenlandt",
+      "track": "Database Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "What the heck is a checkpoint, and why should I care?",
+      "room": "Room K 5.15",
+      "speaker": "Taiob Ali",
+      "track": "Database Administration",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Diversity, Equity, & Inclusion in Data Architecture",
+      "room": "Room L 5.15",
+      "speaker": "Edward Pollack",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "The Unplanned Career: 25 years in tech without a 3 year plan",
+      "room": "Room M 5.15",
+      "speaker": "Matthew Roche",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Break 3",
+      "room": "Room A 6.120",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Exciting new features in SQL Server for developers",
+      "room": "Room A 6.120",
+      "speaker": "Hasan Savran",
+      "track": "Database Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Improving Query Performance without Changing Code",
+      "room": "Room B 6.45",
+      "speaker": "Milos Radivojevic",
+      "track": "Performance and Query Tuning",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Who Is On Call For You?",
+      "room": "Room C 6.45",
+      "speaker": "Matt Gordon",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Intro to Power BI",
+      "room": "Room D 5.45",
+      "speaker": "David Patrick",
+      "track": "Power BI",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Code Your Report Environment",
+      "room": "Room E 5.45",
+      "speaker": "Frank Geisler",
+      "track": "Database Administration",
+      "level": "Advanced"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Monitor All your Azure Resources with the new Alert Framework",
+      "room": "Room F 5.30",
+      "speaker": "Todd Chittenden",
+      "track": "Database Administration",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Moneyball – Build a killer Fantasy Football Team with Power BI",
+      "room": "Room G 6.20",
+      "speaker": "Gethyn Ellis",
+      "track": "Power BI",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Everybody Has a Story to Tell: Developing Your First Presentation",
+      "room": "Room H 6.20",
+      "speaker": "Andy Yun",
+      "track": "Professional Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Lakehouse in a nutshell: Serverless SQL pool + Aggs + PowerBI",
+      "room": "Room I 6.20",
+      "speaker": "Armando Lacerda",
+      "track": "Power BI",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Reduce Data Processing with PowerShell",
+      "room": "Room K 5.15",
+      "speaker": "Erin Dempster",
+      "track": "Non-SQL Server Database Technologies",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Unit Testing with tSQLt",
+      "room": "Room L 5.15",
+      "speaker": "Sebastian Meine",
+      "track": "Database Development",
+      "level": "Beginner"
+    },
+    {
+      "time": "2:45 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Modernize your old database-heavy application to cloud architecture",
+      "room": "Room M 5.15",
+      "speaker": "George Walters",
+      "track": "Azure",
+      "level": "Intermediate"
+    },
+    {
+      "time": "3:45 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Break 4",
+      "room": "Room A 6.120",
+      "speaker": null,
+      "track": null,
+      "level": null
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 60,
+      "type": "closing",
+      "title": "Raffle",
+      "room": "Room A 6.120",
+      "speaker": null,
+      "track": null,
+      "level": null
+    }
+  ]
+}

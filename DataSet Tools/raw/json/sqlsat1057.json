@@ -1,0 +1,351 @@
+{
+  "sqlSaturdayEventId": "1057",
+  "event": "SQL Saturday Oregon & SW Washington 2023",
+  "rooms": ["PUB 258A", "PUB 258B", "PUB 258C", "GHL 213", "GHL 205", "GHL 161", "GHL 207", "GHL CTR"],
+  "schedule": [
+    {
+      "timeSlot": "9:00 am",
+      "duration": 40,
+      "sessionType": "registration",
+      "title": "Registration",
+      "room": "GHL CTR",
+      "speakers": []
+    },
+    {
+      "timeSlot": "9:35 am",
+      "duration": 25,
+      "sessionType": "opening",
+      "title": "Opening Comments and Welcome",
+      "room": "GHL CTR",
+      "speakers": []
+    },
+    {
+      "timeSlot": "10:00 am",
+      "duration": 45,
+      "sessionType": "keynote",
+      "title": "Keynote - Kellyn Gorman from Silk",
+      "room": "GHL CTR",
+      "speakers": ["Kellyn Gorman"]
+    },
+    {
+      "timeSlot": "10:55 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Storytelling for Economists and Financiers using SQL and the Grammar of Graphics",
+      "speakers": ["Gaurav Raje"]
+    },
+    {
+      "timeSlot": "10:55 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "SQL Team Six - How to Build Effective Teams",
+      "speakers": ["Aaron Cutshall, DHA, MSHI"]
+    },
+    {
+      "timeSlot": "10:55 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Unlock the Power of Power BI with Calculation Groups",
+      "speakers": ["Jason Romans"]
+    },
+    {
+      "timeSlot": "10:55 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Transforming to DevOps, CJ/CD: Continuous Journey Continuous Disaster?",
+      "speakers": ["Tonie Huizer"]
+    },
+    {
+      "timeSlot": "10:55 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Top Ten Reasons You Should Be Running Your SQL Server on Azure VM",
+      "speakers": ["Pam Lahoud"]
+    },
+    {
+      "timeSlot": "10:55 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "DBA Guide to Surviving an Audit",
+      "speakers": ["Dave Bland"]
+    },
+    {
+      "timeSlot": "10:55 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Unlock your Oracle data - Replication to Azure",
+      "speakers": ["Clay Jackson"]
+    },
+    {
+      "timeSlot": "10:55 am",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Database Reliability Engineering - the new DBA?",
+      "speakers": ["Hamish Watson"]
+    },
+    {
+      "timeSlot": "11:50 am",
+      "duration": 30,
+      "sessionType": "break",
+      "title": "Morning Break - Vendors 1 - 3",
+      "room": "GHL CTR",
+      "speakers": []
+    },
+    {
+      "timeSlot": "12:20 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Tales from the Trenches: Lessons from Big Power BI Projects",
+      "speakers": ["Paul Turley"]
+    },
+    {
+      "timeSlot": "12:20 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Navigate Work Culture with Confidence",
+      "speakers": ["Cindy Gross"]
+    },
+    {
+      "timeSlot": "12:20 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Hierarchical Data Querying Patterns",
+      "speakers": ["Ben Thul"]
+    },
+    {
+      "timeSlot": "12:20 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Debugging under fire (Data Edition)",
+      "speakers": ["Joshua Higginbotham"]
+    },
+    {
+      "timeSlot": "12:20 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "SQL Server HA and DR in Azure",
+      "speakers": ["David Bermingham"]
+    },
+    {
+      "timeSlot": "12:20 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Migrating DBA Network Skills to the Cloud",
+      "speakers": ["Erin Dempster"]
+    },
+    {
+      "timeSlot": "12:20 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Zero-Downtime Data and Schema Migrations",
+      "speakers": ["Matthew Gantz"]
+    },
+    {
+      "timeSlot": "12:20 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Microsoft Data Analytics- End to End Options",
+      "speakers": ["Martin Catherall"]
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Deneb Lollipops: Sweet, Simple and Actionable Visualizations for Power BI",
+      "speakers": ["Robin Abramson"]
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "SQL Server Licensing 101",
+      "speakers": ["Thomas Grohser"]
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Power BI and beyond: User Adoption Strategies and Real-World Examples",
+      "speakers": ["Ioana Bouariu"]
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Chaos Engineering for SQL Server",
+      "speakers": ["Andrew Pruski"]
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Monitoring your SQL Server Always On Availability Groups",
+      "speakers": ["Amy Cox", "Eric Peterson"]
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Weird Stuff I Saw While… Working with Multi Subnet Availability Groups",
+      "speakers": ["Rick Lowe"]
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Comparing Microsoft SQL Server to Open Source DB Platforms",
+      "speakers": ["Lee Coates"]
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "MS Fabric crash session",
+      "speakers": ["Armando Lacerda"]
+    },
+    {
+      "timeSlot": "2:30 pm",
+      "duration": 70,
+      "sessionType": "lunch",
+      "title": "Lunch - Premium Vendor Sessions",
+      "room": "GHL CTR",
+      "speakers": []
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Slowly Changing Dimension - Automating Historical Records Storage",
+      "speakers": ["Deexith Reddy"]
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "SQL Bad practices caught in the wild",
+      "speakers": ["Peter Kruis"]
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Diving into Delta Lake",
+      "speakers": ["Michael Johnson"]
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Intro to AI",
+      "speakers": ["David Patrick"]
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Azure SQL Managed Instance: 3 Cheers & A Boo!",
+      "speakers": ["Heidi Hasting"]
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Revenge: The SQL!",
+      "speakers": ["Rob Volk"]
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "How To Tune A Multi-Terabyte Database For Optimum Performance",
+      "speakers": ["Jeff Taylor"]
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Building an End-to-end Solution in Microsoft Fabric: From Dataverse to Power BI",
+      "speakers": ["Emilie Rønning", "Cathrine Wilhelmsen", "Marthe Moengen"]
+    },
+    {
+      "timeSlot": "4:55 pm",
+      "duration": 30,
+      "sessionType": "break",
+      "title": "Afternoon Break - Vendors 4 - 6",
+      "room": "GHL CTR",
+      "speakers": []
+    },
+    {
+      "timeSlot": "5:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "A DBA's Guide to the Proper Handling of Corruption",
+      "speakers": ["Brandon Leach"]
+    },
+    {
+      "timeSlot": "5:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "A masters view on Locking and blocking",
+      "speakers": ["Mikael Wedham"]
+    },
+    {
+      "timeSlot": "5:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Intro to PowerShell with dbatools for the DBA",
+      "speakers": ["Tony Wilhelm"]
+    },
+    {
+      "timeSlot": "5:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Don't Bite Off More You Can Chew - Take it in Chunks",
+      "speakers": ["Erland Sommarskog"]
+    },
+    {
+      "timeSlot": "5:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "The hitchhiker's guide for keeping your SQL Server Always On",
+      "speakers": ["Roberto Fonseca", "Marcelo Adade"]
+    },
+    {
+      "timeSlot": "5:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "Deep Dive into the World of SQL Audit: Embrace Your Inner Nerd!",
+      "speakers": ["Tracy Boggiano"]
+    },
+    {
+      "timeSlot": "5:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "DOP Feedback - Inside the SQL Server 2022 engine",
+      "speakers": ["Neil Hambly"]
+    },
+    {
+      "timeSlot": "5:30 pm",
+      "duration": 60,
+      "sessionType": "session",
+      "title": "ADX and the last crusade",
+      "speakers": ["Johan Ludvig Brattås", "Frank Geisler"]
+    },
+    {
+      "timeSlot": "6:30 pm",
+      "duration": 30,
+      "sessionType": "closing",
+      "title": "Closing Notes and Raffle",
+      "room": "GHL CTR",
+      "speakers": []
+    },
+    {
+      "timeSlot": "7:00 pm",
+      "duration": 60,
+      "sessionType": "cleanup",
+      "title": "Event Strike",
+      "room": "GHL CTR",
+      "speakers": []
+    }
+  ]
+}

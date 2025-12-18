@@ -1,0 +1,172 @@
+{
+  "event": "SQL Saturday 1074",
+  "rooms": {
+    "Auditorio": "Auditorio",
+    "C2-13": "C2-13",
+    "C2-14": "C2-14",
+    "C2-15": "C2-15",
+    "C2-12 | C2-05": "C2-12 | C2-05"
+  },
+  "schedule": [
+    {
+      "time": "9:30 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Ingeniería de datos con Microsoft Fabric",
+      "room": "Auditorio",
+      "speaker": "Eduardo Castro"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 75,
+      "type": "session",
+      "title": "KQL Básico: Guía Rápida para Iniciar tus Consultas.",
+      "room": "C2-13",
+      "speaker": "Javier Loria"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Data Governance with Azure Purview (Spanish Session)",
+      "room": "C2-14",
+      "speaker": "César Oviedo"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 75,
+      "type": "session",
+      "title": "GitHub Copilot: Desde fundamentos hasta el futuro",
+      "room": "C2-15",
+      "speaker": "David Sanchez"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 75,
+      "type": "session",
+      "title": "SQL Server 2022 Managed Intance Link",
+      "room": "C2-12 | C2-05",
+      "speaker": "Luis Borbon"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Pipelines dinámicos con Microsoft Fabric / Data Factory",
+      "room": "Auditorio",
+      "speaker": "Jose ahias Lopez Portillo"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Seamless Transition: Migrating from Commercial to Open Source Databases",
+      "room": "C2-13",
+      "speaker": "Chandra Pathivada, Alvaro Costa-Neto, Venkataramanan Govindarajan"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 75,
+      "type": "session",
+      "title": "Open Data Lakehouse, Soluciones a tus problemas de datos, casos de uso con Iceberg",
+      "room": "C2-14",
+      "speaker": "Adrian Miranda Cordero"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 75,
+      "type": "session",
+      "title": "A Generative AI Use Case Leveraging Amazon RDS for SQL Server as a Vector Data Store",
+      "room": "C2-15",
+      "speaker": "Camilo Leon"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 75,
+      "type": "session",
+      "title": "¿La Inteligencia Artificial en pro del DBA?",
+      "room": "C2-12 | C2-05",
+      "speaker": "Jesus Gil"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Conociendo Direct Lake con Fabric, magia negra o blanca?",
+      "room": "Auditorio",
+      "speaker": "Juan Alvarado, Jonatan Sandoval"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Lleva Power BI al Siguiente Nivel con Microsoft Fabric",
+      "room": "C2-13",
+      "speaker": "Marco Tulio Gomez, Antonio Lagunas"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Construyendo Lakehouse con Azure Databricks",
+      "room": "C2-14",
+      "speaker": "Vladimir Guzman"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Deploying Enterprise Workloads in Azure with Bicep Language",
+      "room": "C2-15",
+      "speaker": "Dave Rendon"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "AI vs Human. Tuning SQL Server",
+      "room": "C2-12 | C2-05",
+      "speaker": "Pablo Javier Fernández"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Fabric: De inicio a fin",
+      "room": "Auditorio",
+      "speaker": "Franklin Gamboa"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Estados Financieros con Modelos Tabulares",
+      "room": "C2-13",
+      "speaker": "Ricardo Estrada Rdez"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Primeros Pasos en Data Science con Microsoft Fabric",
+      "room": "C2-14",
+      "speaker": "Marcela Ambrosio, Marvin Eduardo López Dubón"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Mejores Prácticas para la Actualización y Migración Híbrida de Bases de Datos a SQL 2022 con Azure",
+      "room": "C2-15",
+      "speaker": "Erick Torres"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 75,
+      "type": "session",
+      "title": "Dr Rudo SQL y Pablo Javier presentan Desde las trincheras: Consejos prácticos para hacer que tu base",
+      "room": "C2-12 | C2-05",
+      "speaker": "Jesus Gil, Pablo Javier Fernández"
+    }
+  ]
+}

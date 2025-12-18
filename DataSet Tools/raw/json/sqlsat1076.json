@@ -1,0 +1,452 @@
+{
+  "event": "SQL Saturday Baton Rouge",
+  "rooms": {
+    "Auditorium": "Main presentation room",
+    "BEC 140 - Lagniappe": "General session room",
+    "BEC 206 - Analytics": "Analytics focused sessions",
+    "BEC 208 - Professional Development": "Career and professional growth sessions",
+    "BEC 209 - PowerShell/Automation": "PowerShell and automation focused",
+    "BEC 210 - .NET Development": "Microsoft .NET development sessions",
+    "BEC 211 - Cloud": "Cloud technologies and Azure",
+    "BEC 212 - SQL Server Administration": "Database administration",
+    "BEC 213 - Cloud": "Additional cloud sessions",
+    "BEC 240 - Analytics": "Additional analytics sessions",
+    "BEC 245 - Kids Track": "Educational sessions for children",
+    "Atrium": "Networking and break area"
+  },
+  "schedule": [
+    {
+      "time": "8:00 am",
+      "duration": "60 min",
+      "type": "registration",
+      "title": "Registration",
+      "room": "Atrium"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "type": "keynote",
+      "title": "Opening Keynote",
+      "room": "Auditorium",
+      "speaker": "Jennifer"
+    },
+    {
+      "time": "10:10 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Microsoft Fabric for Retail Analytics",
+      "room": "BEC 206 - Analytics",
+      "speaker": "Jennifer",
+      "track": "Analytics",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "10:10 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Unlocking the Power of Microsoft SQL Server 2022",
+      "room": "BEC 212 - SQL Server Administration", 
+      "speaker": "Kevin Kline",
+      "track": "SQL Server Administration",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "10:10 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Microsoft BI for Data-Driven Decision Making: A Strategic Guide to Choosing the Optimal Mix of Tools for Your Unique Business Needs!",
+      "room": "BEC 240 - Analytics",
+      "speaker": "Chandra Singh",
+      "track": "Analytics",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "10:10 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "SSIS: Not Dead Yet, But Almost… - What's Next?",
+      "room": "BEC 208 - Professional Development",
+      "speaker": "Kevin Wilkie",
+      "track": "Professional Development",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "10:10 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "SQL PowerShell Tips & Tricks",
+      "room": "BEC 209 - PowerShell/Automation",
+      "speaker": "James Petty",
+      "track": "PowerShell/Automation",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:10 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Microservices Architecture with .NET Core and Docker",
+      "room": "BEC 210 - .NET Development",
+      "speaker": "Rodrigo Kono",
+      "track": ".NET Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:10 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Building Secure and Scalable Cloud Infrastructure with Azure Arc",
+      "room": "BEC 211 - Cloud",
+      "speaker": "Bruno Takahashi",
+      "track": "Cloud",
+      "level": "Intermediate"
+    },
+    {
+      "time": "10:10 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Kids track",
+      "room": "BEC 245 - Kids Track"
+    },
+    {
+      "time": "10:10 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Advanced Data Governance in Microsoft Purview",
+      "room": "BEC 213 - Cloud",
+      "speaker": "Mohammed Dief",
+      "track": "Cloud",
+      "level": "Advanced"
+    },
+    {
+      "time": "11:20 am",
+      "duration": "10 min",
+      "type": "break",
+      "title": "Break",
+      "room": "Atrium"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Text Mining Analyst in the Enterprise",
+      "room": "BEC 206 - Analytics",
+      "speaker": "Brandon Nelson",
+      "track": "Analytics",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Lock, Stock and Two Smoking Barrels - (Not about SQL) Locks, Blocks and Deadlocks",
+      "room": "BEC 212 - SQL Server Administration",
+      "speaker": "Bill Sanscrainte",
+      "track": "SQL Server Administration",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Real-time BI in Azure",
+      "room": "BEC 240 - Analytics",
+      "speaker": "Eric Romero",
+      "track": "Analytics",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "The Good, the bad & the Ugly : Lessons learned from 12 years as a developer",
+      "room": "BEC 208 - Professional Development",
+      "speaker": "Garrett Wheat",
+      "track": "Professional Development",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "SSRS - Back on Track",
+      "room": "BEC 209 - PowerShell/Automation",
+      "speaker": "Gerald Britton",
+      "track": "PowerShell/Automation",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Entity Framework - Aye or Nay?",
+      "room": "BEC 210 - .NET Development",
+      "speaker": "Jeremy Knight",
+      "track": ".NET Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Frontdoor? CDN? Traffic Manager? Azure Load Balancing",
+      "room": "BEC 211 - Cloud",
+      "speaker": "Al Manint",
+      "track": "Cloud",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Architecting Your Microsoft SQL Server Workloads on VMware Cloud Foundation",
+      "room": "BEC 213 - Cloud",
+      "speaker": "Edwin M Sarmiento",
+      "track": "SQL Server Administration",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Schema Registry - Kafka",
+      "room": "BEC 240 - Analytics",
+      "speaker": "Deepak Raguraman",
+      "track": "Analytics",
+      "level": "Intermediate"
+    },
+    {
+      "time": "11:50 am",
+      "duration": "15 min",
+      "type": "session",
+      "title": "Is Data Mesh right for your Organization?",
+      "room": "BEC 206 - Analytics",
+      "speaker": "Doug Leal",
+      "track": "Analytics",
+      "level": "Intermediate"
+    },
+    {
+      "time": "12:10 pm",
+      "duration": "15 min",
+      "type": "session",
+      "title": "Taking Stock of Shopify Storefronts with PowerShell",
+      "room": "BEC 209 - PowerShell/Automation",
+      "speaker": "Matthew Gill",
+      "track": "PowerShell/Automation",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": "75 min",
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "Atrium"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "How to Manage Your Azure Infrastructure Like an Expert: Top Best Practices",
+      "room": "BEC 211 - Cloud",
+      "speaker": "Joey D'Antoni",
+      "track": "Cloud",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Building a Future-Ready Construction Digital Landscape: CTO Challenges and Strategic Solutions",
+      "room": "BEC 206 - Analytics",
+      "speaker": "Dr. Srikanth Bangaru",
+      "track": "Analytics",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Analytics at the speed of Direct Lake",
+      "room": "BEC 240 - Analytics",
+      "speaker": "Patrick LeBlanc",
+      "track": "Analytics",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Photographing Sasquatch, measuring developer productivity and other impossible things",
+      "room": "BEC 208 - Professional Development",
+      "speaker": "Stacy Vicknair",
+      "track": "Professional Development",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Bridging the Gap: Installing and Configuring SSH for PowerShell Connectivity",
+      "room": "BEC 209 - PowerShell/Automation",
+      "speaker": "James Petty",
+      "track": "PowerShell/Automation",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Testing In-Depth",
+      "room": "BEC 210 - .NET Development",
+      "speaker": "Jeremy Knight",
+      "track": ".NET Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Quality Assurance: What, When & How",
+      "room": "BEC 208 - Professional Development",
+      "speaker": "Lyle Hutson",
+      "track": "Professional Development",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Harnessing the Power of Retrieval Augmented Generation (RAG) for Enhanced Productivity",
+      "room": "BEC 206 - Analytics",
+      "speaker": "Brandon Nelson",
+      "track": "Analytics",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Index Performance Tuning Using Pain Reduction",
+      "room": "BEC 212 - SQL Server Administration",
+      "speaker": "Bill Sanscrainte",
+      "track": "SQL Server Administration",
+      "level": "Advanced"
+    },
+    {
+      "time": "1:45 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "How to get started with MLOps in Azure Databricks",
+      "room": "BEC 213 - Cloud",
+      "speaker": "Doug Leal",
+      "track": "Analytics",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:55 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Finding Your Spark: Azure Databricks vs Microsoft Fabric",
+      "room": "BEC 211 - Cloud",
+      "speaker": "Ed Pearson",
+      "track": "Cloud",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "2:55 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "The T-SQL JSON Operators",
+      "room": "BEC 212 - SQL Server Administration",
+      "speaker": "Jeff Foushee",
+      "track": "SQL Server Development",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "2:55 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Open Data BR Data, Analytics and Performance Section",
+      "room": "BEC 206 - Analytics",
+      "speaker": "Eric Romero, Justin Priola",
+      "track": "Analytics",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "2:55 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Reaching a new audience through a new audience.",
+      "room": "BEC 208 - Professional Development",
+      "speaker": "Ian Trimble",
+      "track": "Professional Development",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "2:55 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "dbatools PowerShell Module Deep Dive",
+      "room": "BEC 209 - PowerShell/Automation",
+      "speaker": "Ben Miller",
+      "track": "PowerShell/Automation",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:55 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "dotnet build: Customizing Your csproj for MSBuild",
+      "room": "BEC 210 - .NET Development",
+      "speaker": "Seth Valdetero",
+      "track": ".NET Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:55 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "A Commentary on Code Comments",
+      "room": "BEC 210 - .NET Development",
+      "speaker": "George Mauer",
+      "track": ".NET Development",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:55 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "We Don't Work [here] for the Money",
+      "room": "BEC 208 - Professional Development",
+      "speaker": "Garrett Wheat",
+      "track": "Professional Development",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "2:55 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Answering Questions Using Extended Events",
+      "room": "BEC 213 - Cloud",
+      "speaker": "Grant Fritchey",
+      "track": "SQL Server Administration",
+      "level": "Intermediate"
+    },
+    {
+      "time": "2:55 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Power BI and External Tools: This is the way!",
+      "room": "BEC 240 - Analytics",
+      "speaker": "Jason Romans",
+      "track": "Analytics",
+      "level": "Introductory and overview"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "type": "closing",
+      "title": "Closing and Raffle",
+      "room": "Auditorium"
+    }
+  ]
+}

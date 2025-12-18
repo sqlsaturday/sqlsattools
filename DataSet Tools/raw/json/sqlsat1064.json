@@ -1,0 +1,141 @@
+{
+  "sqlSaturdayEventId": "1064",
+  "eventName": "SQL Saturday Toronto 2023",
+  "location": "Toronto",
+  "year": "2023",
+  "rooms": ["room 1", "room 2", "room 3"],
+  "schedule": [
+    {
+      "timeSlot": "9:00 am",
+      "duration": 30,
+      "sessionType": "registration",
+      "title": "Registration and Breakfast",
+      "room": "room 1",
+      "speakers": []
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 15,
+      "sessionType": "opening",
+      "title": "Opening",
+      "room": "room 1",
+      "speakers": ["Diponkar Paul"]
+    },
+    {
+      "timeSlot": "10:00 am",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Metadata-driven pipelines in Azure Data Factory",
+      "speakers": ["Rayis Imayev"]
+    },
+    {
+      "timeSlot": "10:00 am",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Fabric Data Lakehouse",
+      "speakers": ["Christian Cote"]
+    },
+    {
+      "timeSlot": "10:00 am",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Databricks Overview with use of Gen AI",
+      "speakers": ["Elmer Cecilio"]
+    },
+    {
+      "timeSlot": "11:00 am",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Fabric Event Streams & Data Activator: Streaming Made Easy",
+      "speakers": ["Simon Nuss"]
+    },
+    {
+      "timeSlot": "11:00 am",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Implementing Generative AI Models with Azure OpenAI Service",
+      "speakers": ["Warner Chaves"]
+    },
+    {
+      "timeSlot": "11:05 am",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "The Evolution of the Lakehouse",
+      "speakers": ["Owais Hashmi"]
+    },
+    {
+      "timeSlot": "12:00 pm",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Power BI git integration end-to-end demo",
+      "speakers": ["Michael Olafusi"]
+    },
+    {
+      "timeSlot": "12:00 pm",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Microsoft Fabric Security Posture",
+      "speakers": ["Vengatesh Parasuraman"]
+    },
+    {
+      "timeSlot": "12:00 pm",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Protect your data with Microsoft Purview Information Protection",
+      "speakers": ["Ehsan Eskandari"]
+    },
+    {
+      "timeSlot": "1:00 pm",
+      "duration": 60,
+      "sessionType": "lunch",
+      "title": "Lunch Break",
+      "room": "room 1",
+      "speakers": []
+    },
+    {
+      "timeSlot": "2:00 pm",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "My first short film using AI",
+      "speakers": ["Nik - Shahriar Nikkhah"]
+    },
+    {
+      "timeSlot": "2:00 pm",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Fabric for Power BI Users",
+      "speakers": ["Ashraf Ghonaim"]
+    },
+    {
+      "timeSlot": "2:50 pm",
+      "duration": 15,
+      "sessionType": "break",
+      "title": "Coffee Break",
+      "room": "room 1",
+      "speakers": []
+    },
+    {
+      "timeSlot": "3:05 pm",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Columnstore Indexes: Implementation Made Easy",
+      "speakers": ["Ivan Radchenko"]
+    },
+    {
+      "timeSlot": "3:05 pm",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Get Ready for Data Mesh and MS Fabric Domains",
+      "speakers": ["Mladen Celikovic"]
+    },
+    {
+      "timeSlot": "4:00 pm",
+      "duration": 35,
+      "sessionType": "closing",
+      "title": "Raffle Drawings And Closing",
+      "room": "room 1",
+      "speakers": ["Arthur Zubarev"]
+    }
+  ]
+}
+

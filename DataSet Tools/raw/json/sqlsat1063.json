@@ -1,0 +1,209 @@
+{
+  "sqlSaturdayEventId": "1063",
+  "eventName": "SQL Saturday Belo Horizonte 2023",
+  "location": "Belo Horizonte",
+  "year": "2023",
+  "rooms": ["Auditório 1", "Room 2", "Room 3"],
+  "schedule": [
+    {
+      "timeSlot": "7:00 am",
+      "duration": 90,
+      "sessionType": "registration",
+      "title": "Credenciamento",
+      "room": "Auditório 1",
+      "speakers": []
+    },
+    {
+      "timeSlot": "8:30 am",
+      "duration": 25,
+      "sessionType": "opening",
+      "title": "Abertura",
+      "room": "Auditório 1",
+      "speakers": []
+    },
+    {
+      "timeSlot": "9:00 am",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "A Inteligência Artificial está revolucionando Análises de Dados",
+      "speakers": ["Paulo Santos"],
+      "level": "Intermediate"
+    },
+    {
+      "timeSlot": "9:00 am",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Desafios de dados em projetos de Internet das Coisas",
+      "speakers": ["Jorge Maia", "Rebeca Sousa"],
+      "level": "Intermediate"
+    },
+    {
+      "timeSlot": "9:00 am",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Migração de Dados do SQL Server para o MongoDB, conheça o Relational Migrator",
+      "speakers": ["Leandro Domingues"],
+      "level": "Intermediate"
+    },
+    {
+      "timeSlot": "9:50 am",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Python para Coleta de Dados",
+      "speakers": ["Saulo Barros", "Alexandre Enes"],
+      "level": "Beginner"
+    },
+    {
+      "timeSlot": "9:50 am",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "GPT e outras IAs - Tudo o que você precisa saber sobre uso corporativo",
+      "speakers": ["Igor de Paula"],
+      "level": "Intermediate"
+    },
+    {
+      "timeSlot": "9:50 am",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Do DBA ao DBRE, como gerenciar milhares de ambientes de forma segura e escalável",
+      "speakers": ["Rafael Cardoso Araujo"],
+      "level": "Beginner"
+    },
+    {
+      "timeSlot": "10:40 am",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Engenharia de dados em Python: Concepção, projeto e desenvolvimento",
+      "speakers": ["Claudio Bonel"],
+      "level": "Intermediate"
+    },
+    {
+      "timeSlot": "10:40 am",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Melhorias, digo, novidades de performance no SQL Server 2022",
+      "speakers": ["Fabiano Amorim"],
+      "level": "Intermediate"
+    },
+    {
+      "timeSlot": "10:40 am",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Linguagens de programação computacional: Aplicação na Ciência do Esporte",
+      "speakers": ["Luiz Maculan"],
+      "level": "Beginner"
+    },
+    {
+      "timeSlot": "11:30 am",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "O T da questão: Transformação de dados do Data Warehouse ao Data Lakehouse com DBT",
+      "speakers": ["Andre George", "Igor Tavares"],
+      "level": "Beginner"
+    },
+    {
+      "timeSlot": "11:30 am",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Hacking Azure AI",
+      "speakers": ["André Melancia"],
+      "level": "Intermediate"
+    },
+    {
+      "timeSlot": "11:30 am",
+      "duration": 50,
+      "sessionType": "session",
+      "title": "Synapse Data Warehouse in Microsoft Fabric",
+      "speakers": ["Sidney Cirqueira"],
+      "level": "Beginner"
+    },
+    {
+      "timeSlot": "12:25 pm",
+      "duration": 60,
+      "sessionType": "lunch",
+      "title": "Intervalo para almoço",
+      "room": "Auditório 1",
+      "speakers": []
+    },
+    {
+      "timeSlot": "1:20 pm",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Implementando versionamento e CI/CD para projetos de dados",
+      "speakers": ["Dirceu Resende"],
+      "level": "Advanced"
+    },
+    {
+      "timeSlot": "1:20 pm",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "DuckDB: in-process SQL OLAP in python",
+      "speakers": ["Marcel Oliveira"],
+      "level": "Beginner"
+    },
+    {
+      "timeSlot": "1:20 pm",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "OLAP em Real Time com Apache Pinot",
+      "speakers": ["Victor Grudtner Boell"],
+      "level": "Intermediate"
+    },
+    {
+      "timeSlot": "2:20 pm",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "O guia do DBA para manter o SQL Server sempre no ar!",
+      "speakers": ["Marcelo Adade"],
+      "level": "Intermediate"
+    },
+    {
+      "timeSlot": "2:20 pm",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Área de Dados, Xoxa, Capenga e Frágil ??",
+      "speakers": ["Kenia Milene Galiego"],
+      "level": "Advanced"
+    },
+    {
+      "timeSlot": "2:20 pm",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Arquitetura Data Vault para Times de Dados",
+      "speakers": ["Leonardo Côco", "Luan Moreno Medeiros Maciel"],
+      "level": "Beginner"
+    },
+    {
+      "timeSlot": "3:10 pm",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Lakehouse e Data Mesh como soluções de Dados",
+      "speakers": ["Mateus Oliveira", "Luan Moreno Medeiros Maciel"],
+      "level": "Intermediate"
+    },
+    {
+      "timeSlot": "3:10 pm",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Estratégias para Modernizar Sistemas e Aplicações",
+      "speakers": ["Lucimar Medina"],
+      "level": "Intermediate"
+    },
+    {
+      "timeSlot": "3:10 pm",
+      "duration": 45,
+      "sessionType": "session",
+      "title": "Todos os pontos que você precisa saber antes de utilizar o mongo atlas",
+      "speakers": ["Thiago Cruz"],
+      "level": "Intermediate"
+    },
+    {
+      "timeSlot": "4:00 pm",
+      "duration": 30,
+      "sessionType": "closing",
+      "title": "Encerramento",
+      "room": "Auditório 1",
+      "speakers": []
+    }
+  ]
+}

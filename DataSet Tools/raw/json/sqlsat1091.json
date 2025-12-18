@@ -1,0 +1,210 @@
+{
+  "event": "SQL Saturday 1091",
+  "rooms": {
+    "WK249": "WK249",
+    "WK251": "WK251",
+    "WK136": "WK136"
+  },
+  "schedule": [
+    {
+      "time": "8:00 am",
+      "duration": 60,
+      "type": "registration",
+      "title": "Registration",
+      "room": "WK251",
+      "speaker": null
+    },
+    {
+      "time": "9:00 am",
+      "duration": 45,
+      "type": "keynote",
+      "title": "Key Note by Kevin McCombe and Mike Winiata, Fire and Emergency New Zealand",
+      "room": "WK251",
+      "speaker": "Kevin McCombe, Mike Winiata"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Morning Tea Break",
+      "room": "WK251",
+      "speaker": null
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Creating a Microsoft fabric end to end solution",
+      "room": "WK249",
+      "speaker": "Indira Bandari"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power Up with the Power Platform",
+      "room": "WK251",
+      "speaker": "Heidi Hasting"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Here's the execution plan … now what?",
+      "room": "WK136",
+      "speaker": "Hugo Kornelis"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 15,
+      "type": "break",
+      "title": "Session Break",
+      "room": "WK251",
+      "speaker": null
+    },
+    {
+      "time": "11:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Navigating the Cloud: A Glimpse into Microsoft Fabric Administration",
+      "room": "WK249",
+      "speaker": "Warwick Rudd"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "DAX Tips, Tricks and Pitfalls",
+      "room": "WK251",
+      "speaker": "Philip Seamark, Marco Russo"
+    },
+    {
+      "time": "11:15 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Elevating Analytics: Integrating with Git and automation",
+      "room": "WK136",
+      "speaker": "Hamish Watson"
+    },
+    {
+      "time": "12:15 pm",
+      "duration": 45,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "WK251",
+      "speaker": null
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Optimizing Multi-Language Search with Azure AI Cognitive Search and CQRS Architecture",
+      "room": "WK249",
+      "speaker": "Sachintana Dissanayake"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "DAX Filter Context in 1 hour",
+      "room": "WK251",
+      "speaker": "Marco Russo"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Managing SQL Server at scale – How Xero does its databases",
+      "room": "WK136",
+      "speaker": "Dave Dustin"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Session Break",
+      "room": "WK251",
+      "speaker": null
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Security Consideration for Cloud Data Platform",
+      "room": "WK249",
+      "speaker": "Zahid Yaqub"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI - Development Tips for the Beginner to the Enterprise",
+      "room": "WK251",
+      "speaker": "David Wilson"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Choosing and Moving to SQL in Azure",
+      "room": "WK136",
+      "speaker": "Rob Douglas"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Afternoon Tea Break",
+      "room": "WK251",
+      "speaker": null
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Unleashing the Power of Your Data with Microsoft Fabric",
+      "room": "WK249",
+      "speaker": "Darren Gosbell"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 15,
+      "type": "session",
+      "title": "Your virtual assistant with Azure Open AI",
+      "room": "WK251",
+      "speaker": "Bala Balakumar"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Deneb: Declarative Visualization in Power BI",
+      "room": "WK136",
+      "speaker": "Daniel Marsh-Patrick"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "TBC",
+      "room": "General",
+      "speaker": null
+    },
+    {
+      "time": "4:00 pm",
+      "duration": 15,
+      "type": "session",
+      "title": "Microsoft Fabric: All About The Data Analytics Platform",
+      "room": "General",
+      "speaker": "Sally Dabbah"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": 30,
+      "type": "closing",
+      "title": "Prize Draw & Wrap up",
+      "room": "WK251",
+      "speaker": null
+    }
+  ]
+}

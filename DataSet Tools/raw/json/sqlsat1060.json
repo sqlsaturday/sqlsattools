@@ -1,0 +1,451 @@
+{
+  "event": "SQL Saturday Baton Rouge 2023",
+  "location": "Baton Rouge, Louisiana",
+  "year": "2023",
+  "rooms": {
+    "Auditorium": "Main Auditorium",
+    "Atrium": "Atrium",
+    "BEC 1120": "Security Track",
+    "BEC 1220": "PowerBI/Analytics Track",
+    "BEC 1225": "Professional Development Track",
+    "BEC 1305": "PowerShell/DevOps Track",
+    "BEC 1321": "SQL Administration Track",
+    "BEC 1325": ".NET Development Track",
+    "BEC 1409": "Cloud Track",
+    "BEC 1425": "SQL Development Track"
+  },
+  "schedule": [
+    {
+      "time": "7:45 am",
+      "duration": 45,
+      "type": "registration",
+      "title": "Registration Opens",
+      "room": "Atrium",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Data: The Fabric Of Our Lives",
+      "room": "Auditorium",
+      "speaker": "Chris Hyde",
+      "track": "Keynote"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "DATADEVSECOPS - Where is the Data in DEVSECOPS",
+      "room": "BEC 1120",
+      "speaker": "Doug Lubey",
+      "track": "Security"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI and External Tools: This is the way!",
+      "room": "BEC 1220",
+      "speaker": "Jason Romans",
+      "track": "PowerBI/Analytics"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "A Recruiter's Guide to Today's Tech Job Market",
+      "room": "BEC 1225",
+      "speaker": "Ava McClain",
+      "track": "Professional Development"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Optimizing your PowerShell profile script",
+      "room": "BEC 1305",
+      "speaker": "Sean Wheeler",
+      "track": "PowerShell/DevOps"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Optimizing SQL Queries: Expectations - Unlocking High Performance and Efficient Database Operations",
+      "room": "BEC 1321",
+      "speaker": "Deexith Reddy",
+      "track": "SQL Administration"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Unity Catalog : Data Governance in the Data Lake",
+      "room": "BEC 1325",
+      "speaker": "Arun Nayar",
+      "track": ".NET Development"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Migrating DBA Network Skills to the Cloud",
+      "room": "BEC 1409",
+      "speaker": "Erin Dempster",
+      "track": "Cloud"
+    },
+    {
+      "time": "8:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Creating REST and GraphQL Database Endpoints with Data API Builder",
+      "room": "BEC 1425",
+      "speaker": "Leonard Lobel",
+      "track": "SQL Development"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "The Spectrum of Failure - Unreported failures yield no lessons",
+      "room": "Auditorium",
+      "speaker": "Calvin Fabre",
+      "track": "Professional Development"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "PowerShell for the BlueTeam",
+      "room": "BEC 1120",
+      "speaker": "James Petty",
+      "track": "Security"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Basics of building a data model in Power BI",
+      "room": "BEC 1220",
+      "speaker": "Jason Romans",
+      "track": "PowerBI/Analytics"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Microsoft Docs + GitHub + You",
+      "room": "BEC 1225",
+      "speaker": "William Assaf",
+      "track": "Professional Development"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "AI From LLMs to Agents: A Journey Through the LangChain Ecosystem",
+      "room": "BEC 1305",
+      "speaker": "Dustin Hughes",
+      "track": "PowerShell/DevOps"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "How I Cut My Maintenance Window by 80%",
+      "room": "BEC 1321",
+      "speaker": "Paresh Motiwala",
+      "track": "SQL Administration"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "The Importance of Mock data and How to use it",
+      "room": "BEC 1325",
+      "speaker": "Tommy Parrish",
+      "track": ".NET Development"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Modeling and Partitioning Patterns in Azure Cosmos DB",
+      "room": "BEC 1409",
+      "speaker": "Leonard Lobel",
+      "track": "Cloud"
+    },
+    {
+      "time": "9:45 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Query Hints ... What's the Worst That Can Happen",
+      "room": "BEC 1425",
+      "speaker": "Rick Lowe",
+      "track": "SQL Development"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "panel",
+      "title": "Careers in IT Baton Rouge 2023",
+      "room": "Auditorium",
+      "speaker": "Nhi Nguyen, Amanda Alfaro, Thelma Van, Michael Viron, Ava McClain",
+      "track": "Professional Development"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "UX Design for Non-Designers",
+      "room": "BEC 1120",
+      "speaker": "Ricky Tucker",
+      "track": "Security"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Be a \"Scrapy\" Scraper: Extracting Data from a Protected Website",
+      "room": "BEC 1220",
+      "speaker": "James Davis",
+      "track": "PowerBI/Analytics"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "How to Give a Technical Presentation",
+      "room": "BEC 1225",
+      "speaker": "Aaron Cutshall, DHA, MSHI",
+      "track": "Professional Development"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to PowerShell Scripting",
+      "room": "BEC 1305",
+      "speaker": "Mike Robbins",
+      "track": "PowerShell/DevOps"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Weird Stuff I Saw While… Working with Multi Subnet Availability Groups",
+      "room": "BEC 1321",
+      "speaker": "Rick Lowe",
+      "track": "SQL Administration"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Deep Dive into Data Components in Power Pages",
+      "room": "BEC 1325",
+      "speaker": "Bryan McCoy",
+      "track": ".NET Development"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Integration from SQL Server to cloud data warehouse",
+      "room": "BEC 1409",
+      "speaker": "Robert Canzonire",
+      "track": "Cloud"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "City of Baton Rouge Transparency and Open Data Initiatives",
+      "room": "BEC 1425",
+      "speaker": "Eric Romero, Melodie Landry, Warren Kron",
+      "track": "SQL Development"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": 75,
+      "type": "lunch",
+      "title": "Lunch",
+      "room": "Atrium",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Saturday Jeopardy! A Quiz Show for Devs and Data Pros",
+      "room": "Auditorium",
+      "speaker": "William Assaf",
+      "track": "Entertainment"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "\"Bridging the Cybersecurity Skills Gap with AGI: Empowering Security Operations Teams\"",
+      "room": "BEC 1120",
+      "speaker": "Ian Trimble",
+      "track": "Security"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Performance Tuning Power BI",
+      "room": "BEC 1220",
+      "speaker": "Thomas LeBlanc",
+      "track": "PowerBI/Analytics"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "The Role of a Business Analyst in an Agile Environment",
+      "room": "BEC 1225",
+      "speaker": "Matthew Garrett",
+      "track": "Professional Development"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "DevOps 101 for the Systems Admin - Code, Git, CI/CD & Infrastructure as Code",
+      "room": "BEC 1305",
+      "speaker": "Joe Houghes",
+      "track": "PowerShell/DevOps"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "ChatGPT and a Happy Data Pro",
+      "room": "BEC 1321",
+      "speaker": "Paresh Motiwala",
+      "track": "SQL Administration"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Back to Basics: ADO.NET",
+      "room": "BEC 1325",
+      "speaker": "Jeremy Knight",
+      "track": ".NET Development"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Intro to Orchestration with Azure Container Apps",
+      "room": "BEC 1409",
+      "speaker": "Austin Webre",
+      "track": "Cloud"
+    },
+    {
+      "time": "1:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "The Power of Window Functions",
+      "room": "BEC 1425",
+      "speaker": "Aaron Cutshall, DHA, MSHI",
+      "track": "SQL Development"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Power Platform Accelerates Transformation at Scale",
+      "room": "Auditorium",
+      "speaker": "Mike Huguet",
+      "track": "PowerBI/Analytics"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Get that coding job",
+      "room": "BEC 1120",
+      "speaker": "George Mauer",
+      "track": "Professional Development"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Accessing Government API Data using Power BI",
+      "room": "BEC 1220",
+      "speaker": "Russel Loski",
+      "track": "PowerBI/Analytics"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Doing IT in a B@D A$$ Way",
+      "room": "BEC 1225",
+      "speaker": "Rickey Keith",
+      "track": "Professional Development"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "dbatools: The PowerShell way to interact with SQL Server",
+      "room": "BEC 1305",
+      "speaker": "Breanna Hansen",
+      "track": "PowerShell/DevOps"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "How to Conduct a SQL Server Configuration Review",
+      "room": "BEC 1321",
+      "speaker": "Kevin Kline",
+      "track": "SQL Administration"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "The Effect of GitHub Copilot on Developer Job Satisfaction",
+      "room": "BEC 1325",
+      "speaker": "Scott Morgan",
+      "track": ".NET Development"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Getting Started with Azure Databricks: Data Engineering",
+      "room": "BEC 1409",
+      "speaker": "Doug Leal",
+      "track": "Cloud"
+    },
+    {
+      "time": "2:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Automated Deployments with Azure DevOps",
+      "room": "BEC 1425",
+      "speaker": "Erin Dempster",
+      "track": "SQL Development"
+    },
+    {
+      "time": "3:35 pm",
+      "duration": 70,
+      "type": "closing",
+      "title": "Closing Raffle",
+      "room": "Auditorium",
+      "speaker": null,
+      "track": null
+    }
+  ]
+}

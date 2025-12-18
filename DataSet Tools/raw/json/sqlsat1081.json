@@ -1,0 +1,172 @@
+{
+  "event": "SQL Saturday Lima",
+  "rooms": {
+    "Auditorio": "Main auditorium",
+    "Aula Virtual": "Virtual classroom"
+  },
+  "schedule": [
+    {
+      "time": "08:00",
+      "duration": "60 min",
+      "type": "registration",
+      "title": "Registro y bienvenida",
+      "room": "Auditorio"
+    },
+    {
+      "time": "08:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "A Generative AI Use Case Leveraging Amazon RDS for SQL Server as a Vector Data Store",
+      "room": "Aula Virtual",
+      "speaker": "Camilo Leon",
+      "track": "AI/Cloud"
+    },
+    {
+      "time": "09:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Análisis de extremo a extremo con Fabric Onelake",
+      "room": "Auditorio",
+      "speaker": "Alberto De Rossi",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "09:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Análisis de datos con Python: Primeros pasos",
+      "room": "Aula Virtual",
+      "speaker": "Yordy Garcia",
+      "track": "Data Science"
+    },
+    {
+      "time": "09:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Introduction to Azure SQL",
+      "room": "Auditorio",
+      "speaker": "Javier Villegas",
+      "track": "Azure SQL"
+    },
+    {
+      "time": "10:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Entendiendo los Planes de Ejecución: Mejorando el Rendimiento en SQL Server",
+      "room": "Auditorio",
+      "speaker": "Segundo Morales Rubio",
+      "track": "SQL Server Performance"
+    },
+    {
+      "time": "10:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Copilot en Power BI con conexión a Azure Database",
+      "room": "Aula Virtual",
+      "speaker": "Renzo Roca Ramos",
+      "track": "Power BI/AI"
+    },
+    {
+      "time": "10:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Power Bi Visualizaciones y uso de IBCS",
+      "room": "Auditorio",
+      "speaker": "Horacio Lewis",
+      "track": "Power BI"
+    },
+    {
+      "time": "11:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Creando mi primer Chatbot con Azure Open AI",
+      "room": "Auditorio",
+      "speaker": "Tony Trujillo Dávila",
+      "track": "Azure AI"
+    },
+    {
+      "time": "11:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Dataflow en Fabric : El Power Query en Línea - Caso Práctico",
+      "room": "Aula Virtual",
+      "speaker": "Pedro Castillo",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "11:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Introduction to Microsoft Fabric - Data analytics for the era of AI",
+      "room": "Auditorio",
+      "speaker": "Javier Villegas",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "12:00",
+      "duration": "60 min",
+      "type": "lunch",
+      "title": "Almuerzo",
+      "room": "Auditorio"
+    },
+    {
+      "time": "12:00",
+      "duration": "60 min",
+      "type": "lunch",
+      "title": "Almuerzo",
+      "room": "Aula Virtual"
+    },
+    {
+      "time": "13:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Cómo migrar SQL Server a la nube: ventajas, limitaciones y consideraciones",
+      "room": "Auditorio",
+      "speaker": "Alberto De Rossi",
+      "track": "Cloud Migration"
+    },
+    {
+      "time": "13:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Explorando Fabric con Power BI",
+      "room": "Aula Virtual",
+      "speaker": "Hector Loja Alvarado",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "14:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Conociendo y extendiendo Power BI Embedded.",
+      "room": "Auditorio",
+      "speaker": "Juan Rafael",
+      "track": "Power BI"
+    },
+    {
+      "time": "14:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Actualización Incremental en modelos semánticos y Dataflows en Power BI",
+      "room": "Aula Virtual",
+      "speaker": "Victor Adhemir Rodriguez Oyola",
+      "track": "Power BI"
+    },
+    {
+      "time": "15:00",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Mi primer proyecto analítico con Orange Data Mining & SQL",
+      "room": "Auditorio",
+      "speaker": "Geanfranco Palomino",
+      "track": "Data Mining"
+    },
+    {
+      "time": "16:00",
+      "duration": "30 min",
+      "type": "closing",
+      "title": "Cierre y sorteos",
+      "room": "Auditorio"
+    }
+  ]
+}

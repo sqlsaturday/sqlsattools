@@ -1,0 +1,247 @@
+{
+  "eventInfo": {
+    "name": "SQL Saturday Baton Rouge 2023 - BI Edition",
+    "date": "2023",
+    "location": "Baton Rouge, Louisiana",
+    "eventNumber": "1045"
+  },
+  "rooms": {
+    "1100": "BRAIN room",
+    "1206": "Idera room", 
+    "1263": "Industrial Safety Solutions room",
+    "1200": "BCBSLA room",
+    "1225": "Tekchix room"
+  },
+  "schedule": [
+    {
+      "time": "8:00 AM",
+      "duration": "30 min",
+      "type": "Registration",
+      "title": "Registration & Light Breakfast",
+      "room": "1100",
+      "speaker": null,
+      "track": "General",
+      "level": null
+    },
+    {
+      "time": "8:30 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "An exploration of the data analytics capabilities of Microsoft Excel",
+      "room": "1206",
+      "speaker": "Jeremy Johnson",
+      "track": "Data Analytics",
+      "level": null
+    },
+    {
+      "time": "8:30 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "A first look at the Microsoft Cloud for Sustainability",
+      "room": "1263",
+      "speaker": "Dan Clark",
+      "track": "Cloud",
+      "level": null
+    },
+    {
+      "time": "8:30 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Does This Look Weird to You? An Introduction to Anomaly Detection",
+      "room": "1200",
+      "speaker": "Kevin Feasel",
+      "track": "Data Science",
+      "level": null
+    },
+    {
+      "time": "8:30 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "How do I land my first data analyst job?",
+      "room": "1225",
+      "speaker": "Toni Haag",
+      "track": "Career",
+      "level": null
+    },
+    {
+      "time": "9:45 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Be a \"Scrapy\" Scraper: Extracting Data from a Protected Website",
+      "room": "1206",
+      "speaker": "James Davis",
+      "track": "Data Engineering",
+      "level": null
+    },
+    {
+      "time": "9:45 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Power BI Data Modeling for Financial Data",
+      "room": "1263",
+      "speaker": "Belinda Allen",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "9:45 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Data Lakehouse Architecture",
+      "room": "1200",
+      "speaker": "Vimal Thomas Joseph",
+      "track": "Architecture",
+      "level": null
+    },
+    {
+      "time": "9:45 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "A Recruiter's Guide to Today's Tech Job Market",
+      "room": "1225",
+      "speaker": "Ava McClain",
+      "track": "Career",
+      "level": null
+    },
+    {
+      "time": "11:00 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Data-Driven Solution for Construction Planning, Execution, and Turnover",
+      "room": "1206",
+      "speaker": "Dr. Srikanth Bangaru",
+      "track": "Industry Applications",
+      "level": null
+    },
+    {
+      "time": "11:00 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Brick-by-Brick: An Introduction to Azure Databricks",
+      "room": "1263",
+      "speaker": "Chris Hyde",
+      "track": "Azure",
+      "level": null
+    },
+    {
+      "time": "11:00 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "AI Magic: How Microsoft Syntex Transforms Unstructured Content into Valuable Assets",
+      "room": "1200",
+      "speaker": "Nathan Arant",
+      "track": "AI/ML",
+      "level": null
+    },
+    {
+      "time": "11:00 AM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Learn, Track, and Certify: The Ultimate Guide to Using Microsoft Learn for Professional Development",
+      "room": "1225",
+      "speaker": "Linda Larkan",
+      "track": "Professional Development",
+      "level": null
+    },
+    {
+      "time": "12:00 PM",
+      "duration": "60 min",
+      "type": "Meal",
+      "title": "Lunch & Sponsor Interaction",
+      "room": "1100",
+      "speaker": null,
+      "track": "General",
+      "level": null
+    },
+    {
+      "time": "1:00 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Power BI, Synapse and Government API data",
+      "room": "1206",
+      "speaker": "Russ Loski",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "1:00 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Report Design for the Novice Power BI User",
+      "room": "1263",
+      "speaker": "Belinda Allen",
+      "track": "Power BI",
+      "level": null
+    },
+    {
+      "time": "1:00 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Implementing Multivariate Anomaly Detection in Python",
+      "room": "1200",
+      "speaker": "Kevin Feasel",
+      "track": "Data Science",
+      "level": null
+    },
+    {
+      "time": "1:00 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Use of BI in the Construction Industry",
+      "room": "1225",
+      "speaker": "Marcel Lemoine",
+      "track": "Industry Applications",
+      "level": null
+    },
+    {
+      "time": "2:15 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Introduction to Azure Synapse Studio Development Tools",
+      "room": "1206",
+      "speaker": "Russ Loski",
+      "track": "Azure",
+      "level": null
+    },
+    {
+      "time": "2:15 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Introduction to a Modern Business Intelligence Architecture",
+      "room": "1263",
+      "speaker": "Steven Cardella",
+      "track": "Architecture",
+      "level": null
+    },
+    {
+      "time": "2:15 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "I Can See the Future! Forecasting from Scratch for Fun and Profit",
+      "room": "1200",
+      "speaker": "Andy Parkerson",
+      "track": "Data Science",
+      "level": null
+    },
+    {
+      "time": "2:15 PM",
+      "duration": "60 min",
+      "type": "Session",
+      "title": "Creating Effective Color Palettes and Layouts with a 16-Column Grid",
+      "room": "1225",
+      "speaker": "Thelma Van",
+      "track": "Design",
+      "level": null
+    },
+    {
+      "time": "3:30 PM",
+      "duration": "45 min",
+      "type": "Closing",
+      "title": "Closing & Raffles",
+      "room": "1100",
+      "speaker": null,
+      "track": "General",
+      "level": null
+    }
+  ]
+}

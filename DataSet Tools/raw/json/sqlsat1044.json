@@ -1,0 +1,128 @@
+{
+  "event": "SQL Saturday Costa Rica 2023",
+  "location": "Costa Rica",
+  "year": "2023",
+  "rooms": {
+    "Sala A": "Sala A",
+    "Sala B": "Sala B"
+  },
+  "schedule": [
+    {
+      "time": "8:30 am",
+      "duration": 30,
+      "type": "opening",
+      "title": "Bienvenida SQL Saturday Costa Rica",
+      "room": "Sala A",
+      "speaker": "Eduardo Castro",
+      "track": null
+    },
+    {
+      "time": "9:10 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Governance with Azure Purview (Spanish Session)",
+      "room": "Sala A",
+      "speaker": "César Oviedo",
+      "track": "Data Governance"
+    },
+    {
+      "time": "9:10 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Visualization 101: KPIs, Dashboards and Storytelling",
+      "room": "Sala B",
+      "speaker": "Alan Ferrandiz",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "10:20 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Usando SQL en tu Data Lake con Delta Lake",
+      "room": "Sala A",
+      "speaker": "Vladimir Guzman",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "10:20 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Intro to Dataverse inside of Power Automate",
+      "room": "Sala B",
+      "speaker": "David Patrick",
+      "track": "Business Applications"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Estrategias de Indexación para alto Desempeño",
+      "room": "Sala A",
+      "speaker": "Kenneth Urena",
+      "track": "Database Administration"
+    },
+    {
+      "time": "11:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Visualize your Own Data analytics with Power BI",
+      "room": "Sala B",
+      "speaker": "Gohulan Somanathan",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "12:35 pm",
+      "duration": 50,
+      "type": "lunch",
+      "title": "Lunch Break / Descanso",
+      "room": "Sala A",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure SQL Journey: The daily routine of a Cloud DBA",
+      "room": "Sala A",
+      "speaker": "Jose Manuel Jurado Diaz, Pablo Javier Fernández",
+      "track": "Cloud/Azure"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Deep Dive into SQL",
+      "room": "Sala B",
+      "speaker": "Helen Ugoeze Okereke",
+      "track": "Database Development"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Performance features in SQL Server 2022",
+      "room": "Sala A",
+      "speaker": "Javier Villegas",
+      "track": "Database Administration"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Creación de soluciones con Azure Databricks",
+      "room": "Sala B",
+      "speaker": "Eduardo Castro",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "4:05 pm",
+      "duration": 60,
+      "type": "closing",
+      "title": "Cierre - SQL Saturday Costa Rica",
+      "room": "Sala A",
+      "speaker": "Eduardo Castro",
+      "track": null
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "event": "SQL Saturday South Island 2023",
+  "location": "New Zealand",
+  "year": "2023",
+  "rooms": {
+    "Room K207": "Room K207",
+    "Room K208": "Room K208", 
+    "Room K209": "Room K209"
+  },
+  "schedule": [
+    {
+      "time": "3:00 pm",
+      "duration": 25,
+      "type": "keynote",
+      "title": "Community Keynote",
+      "room": "Room K208",
+      "speaker": "Hamish Watson",
+      "track": null
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "keynote",
+      "title": "KEYNOTE: How hard can it be?",
+      "room": "Room K208",
+      "speaker": "Steve Knutson",
+      "track": null
+    },
+    {
+      "time": "4:30 pm",
+      "duration": 30,
+      "type": "break",
+      "title": "Morning Tea - thanks for Crescent Consulting",
+      "room": "Room K208",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "5:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "How to reduce the cost of SQL Server",
+      "room": "Room K207",
+      "speaker": "Craig Ryan",
+      "track": "Database Administration"
+    },
+    {
+      "time": "5:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Build REST APIs easily for Azure Databases",
+      "room": "Room K208",
+      "speaker": "Anupama Natarajan",
+      "track": "Database Development"
+    },
+    {
+      "time": "5:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Managing Power BI Development with CI/CD",
+      "room": "Room K209",
+      "speaker": "Ginger Grant",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "6:00 pm",
+      "duration": 60,
+      "type": "lunch",
+      "title": "LUNCH - thanks to Stratos Technology Partners",
+      "room": "Room K208",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "7:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Deneb: Declarative Visualization in Power BI",
+      "room": "Room K207",
+      "speaker": "Daniel Marsh-Patrick",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "7:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "SQL Server Encryption for beginners",
+      "room": "Room K208",
+      "speaker": "Rob Douglas",
+      "track": "Database Administration"
+    },
+    {
+      "time": "7:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Unlocking Efficiency: Leveraging AI in Power Platform Solutions",
+      "room": "Room K209",
+      "speaker": "Sudeep Ghatak",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "8:00 pm",
+      "duration": 15,
+      "type": "break",
+      "title": "Afternoon break",
+      "room": "Room K208",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "8:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Github Copilot in Azure Data Studio",
+      "room": "Room K207",
+      "speaker": "Warwick Rudd",
+      "track": "Database Development"
+    },
+    {
+      "time": "8:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Implementing Data Analytics with Microsoft Fabric",
+      "room": "Room K208",
+      "speaker": "Ginger Grant",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "8:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Everything you wanted to know about Sql indEX* (but were afraid to ask)",
+      "room": "Room K209",
+      "speaker": "Paul O'Flaherty",
+      "track": "Database Administration"
+    },
+    {
+      "time": "9:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "From SQL to DAX",
+      "room": "Room K208",
+      "speaker": "Martin Catherall",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "9:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Unleashing the Power of Automation: Exploring Power Automate and Power BI",
+      "room": "Room K209",
+      "speaker": "Heidi Hasting",
+      "track": "Business Intelligence/Reporting"
+    }
+  ]
+}

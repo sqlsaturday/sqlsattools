@@ -1,0 +1,128 @@
+{
+  "event": "SQL Saturday ICA 2023",
+  "location": "ICA, Peru",
+  "year": "2023",
+  "rooms": {
+    "Auditorio": "Auditorio (Main Room)",
+    "Virtual": "Virtual Room"
+  },
+  "schedule": [
+    {
+      "time": "9:00 am",
+      "duration": 30,
+      "type": "registration",
+      "title": "Registro",
+      "room": "Auditorio",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "9:30 am",
+      "duration": 30,
+      "type": "keynote",
+      "title": "Keynote",
+      "room": "Auditorio",
+      "speaker": null,
+      "track": null
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure Databricks para ingenieros, cree su primera canalizacion ETL con ADB",
+      "room": "Auditorio",
+      "speaker": "Tony Trujillo Davila",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "10:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction to Azure SQL",
+      "room": "Virtual",
+      "speaker": "Javier Villegas",
+      "track": "Cloud/Azure"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Modelos compuestos con Power BI",
+      "room": "Auditorio",
+      "speaker": "Alberto De Rossi",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure SQL Database Optimizacion",
+      "room": "Virtual",
+      "speaker": "Eduardo Castro",
+      "track": "Database Administration"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Big Data con Azure Data Explorer",
+      "room": "Auditorio",
+      "speaker": "German Cayo Morales",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "La magia del parquet en Power BI",
+      "room": "Virtual",
+      "speaker": "Walter E. Calcagno Lucares",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Optimizacion de base de datos en Dynamics 365 Finance and Operations",
+      "room": "Auditorio",
+      "speaker": "Juan Rafael",
+      "track": "Business Applications"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Performance Features in SQL Server and Azure SQL",
+      "room": "Virtual",
+      "speaker": "Javier Villegas",
+      "track": "Database Administration"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure SQL y Power BI - Integracion Total",
+      "room": "Auditorio",
+      "speaker": "Renzo Martin Roca Ramos",
+      "track": "Business Intelligence/Reporting"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Creando tu primer ambiente de AI en Azure ML",
+      "room": "Virtual",
+      "speaker": "Eduardo Castro",
+      "track": "Artificial Intelligence/Machine Learning"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": 30,
+      "type": "closing",
+      "title": "Cierre y sorteos",
+      "room": "Auditorio",
+      "speaker": null,
+      "track": null
+    }
+  ]
+}

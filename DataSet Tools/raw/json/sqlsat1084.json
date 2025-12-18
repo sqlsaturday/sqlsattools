@@ -1,0 +1,204 @@
+{
+  "event": "SQL Saturday 1084",
+  "rooms": {
+    "Room K213a": "Room K213a",
+    "Room K207": "Room K207",
+    "Room K208": "Room K208",
+    "Room K209": "Room K209",
+    "ATRIUM": "ATRIUM"
+  },
+  "schedule": [
+    {
+      "time": "9:00 am",
+      "duration": 25,
+      "type": "opening",
+      "title": "Introduction & Keynote",
+      "room": "Room K209",
+      "speaker": null
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Introduction into Microsoft Fabric",
+      "room": "Room K213a",
+      "speaker": "Gilbert Quevauvilliers"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Azure Database Migration - Notes from the field",
+      "room": "Room K207",
+      "speaker": "Rob Douglas"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Decoding your Visual World using GPT-4 Turbo with Vision",
+      "room": "Room K208",
+      "speaker": "Anupama Natarajan"
+    },
+    {
+      "time": "9:30 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Don't leave your keys in the car (and other useful tips on securing Snowflake)",
+      "room": "Room K209",
+      "speaker": "Simon Peck"
+    },
+    {
+      "time": "10:30 am",
+      "duration": 25,
+      "type": "break",
+      "title": "Morning Tea",
+      "room": "ATRIUM",
+      "speaker": null
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Wonderland: Copilot in Microsoft Fabric",
+      "room": "Room K213a",
+      "speaker": "Reza Rad"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Improve your Database Performance in Seven Simple Steps",
+      "room": "Room K207",
+      "speaker": "Hugo Kornelis"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Unleashing the Power of Azure OpenAI: Building Intelligent Solutions for Tomorrow",
+      "room": "Room K208",
+      "speaker": "Sudeep Ghatak"
+    },
+    {
+      "time": "11:00 am",
+      "duration": 60,
+      "type": "session",
+      "title": "Practising Safe Custom Visuals",
+      "room": "Room K209",
+      "speaker": "Daniel Marsh-Patrick"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": 50,
+      "type": "lunch",
+      "title": "LUNCH",
+      "room": "ATRIUM",
+      "speaker": null
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Navigating the Cloud: A Glimpse into Microsoft Fabric Administration",
+      "room": "Room K213a",
+      "speaker": "Warwick Rudd"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Security framework for your data platform",
+      "room": "Room K207",
+      "speaker": "Manohar Punna"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "AI on the Edge data from the field - The tail shouldn't wag the dog",
+      "room": "Room K208",
+      "speaker": "Bryn Lewis"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Analytics at the speed of Direct Lake",
+      "room": "Room K209",
+      "speaker": "Philip Seamark"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Elevating Analytics: Integrating with Git and automation",
+      "room": "Room K213a",
+      "speaker": "Hamish Watson"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "DirectWhat?: Direct Lake vs Import vs DirectQuery",
+      "room": "Room K207",
+      "speaker": "Rob Farley"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "An End-to-End Analytics Overview – Azure Synapse verses Microsoft Fabric - Part 1/2",
+      "room": "Room K208",
+      "speaker": "Heidi Hasting, Martin Catherall"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Getting Started with Microsoft 365 Copilot",
+      "room": "Room K209",
+      "speaker": "Steve Knutson"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Data Integration in Microsoft Fabric",
+      "room": "Room K213a",
+      "speaker": "Craig Bryden"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Advanced Indexing",
+      "room": "Room K207",
+      "speaker": "Hugo Kornelis"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "An End-to-End Analytics Discussion – Azure Synapse verses Microsoft Fabric - Part 2/2",
+      "room": "Room K208",
+      "speaker": "Martin Catherall, Heidi Hasting"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": 60,
+      "type": "session",
+      "title": "Power BI Tips and Tricks",
+      "room": "Room K209",
+      "speaker": "Indira Bandari"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": 30,
+      "type": "keynote",
+      "title": "Keynote - The Benefits of Delusional Optimism",
+      "room": "Room K209",
+      "speaker": "Rob Farley"
+    }
+  ]
+}

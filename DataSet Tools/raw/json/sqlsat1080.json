@@ -1,0 +1,479 @@
+{
+  "event": "SQL Saturday Puerto Rico",
+  "rooms": {
+    "MR2002": "Meeting Room 2002",
+    "MR2053": "Meeting Room 2053", 
+    "Lab.A 2061": "Lab A Room 2061",
+    "MR3018": "Meeting Room 3018",
+    "EC1040": "Education Center 1040",
+    "EC1041": "Education Center 1041",
+    "EC1034": "Education Center 1034",
+    "EC1046": "Education Center 1046",
+    "EC1054": "Education Center 1054",
+    "Cotilla Gallery": "Main networking and break area"
+  },
+  "schedule": [
+    {
+      "time": "7:30 am",
+      "duration": "30 min",
+      "type": "registration",
+      "title": "Event Check-in",
+      "room": "Cotilla Gallery"
+    },
+    {
+      "time": "8:00 am",
+      "duration": "30 min",
+      "type": "welcome",
+      "title": "Welcome and Event kick off",
+      "room": "Cotilla Gallery"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Generative AI: Leveraging LLM Models for Code Creation Based on GitHub User Stories",
+      "room": "MR2002",
+      "speaker": "Oscar Garcia",
+      "level": "100",
+      "track": "AI/Development"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Practical MLOps with GitHub and Azure ML",
+      "room": "MR2053",
+      "speaker": "Kevin Feasel",
+      "level": "300",
+      "track": "Data Science"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "135 min",
+      "type": "session",
+      "title": "Automate Database Deployments with Azure DevOps",
+      "room": "Lab.A 2061",
+      "speaker": "Erin Dempster",
+      "level": "100",
+      "track": "DevOps"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Index Performance Tuning Using Pain Reduction",
+      "room": "MR3018",
+      "speaker": "Bill Sanscrainte",
+      "level": "400",
+      "track": "SQL Server"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Blogging for the Tech Professional",
+      "room": "EC1040",
+      "speaker": "Steve Jones",
+      "level": "100",
+      "track": "Professional Development"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "You Want To PaaS Up Your Database(Revised), Migrating To Azure SQL",
+      "room": "EC1041",
+      "speaker": "Daniel Taylor",
+      "level": "200",
+      "track": "Azure/Cloud"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "T-SQL Tips, Tricks, Hacks, and Backdoors - the undocumented goodies",
+      "room": "EC1034",
+      "speaker": "Jared Kirkpatrick",
+      "level": "300",
+      "track": "SQL Server"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Lakehouse Solutions to Data Problems: Use cases Dremio, Iceberg, Nessie and Lakehouse Architecture",
+      "room": "EC1046",
+      "speaker": "Alex Merced",
+      "level": "100",
+      "track": "Data Architecture"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "15 min",
+      "type": "break",
+      "title": "Coffee Break & Networking",
+      "room": "Cotilla Gallery"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Exceptions, Transactions, Temp tables and Regression",
+      "room": "EC1034",
+      "speaker": "Victor Ivantsov",
+      "level": "300",
+      "track": "SQL Server"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "How to get started with MLOps in Azure Databricks",
+      "room": "EC1041",
+      "speaker": "Doug Leal",
+      "level": "200",
+      "track": "Data Science"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Modernizing ETL: Leveraging Azure Databricks for Enhanced Data Integration",
+      "room": "EC1041",
+      "speaker": "Joshua Higginbotham",
+      "level": "200",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Dimensional Data Modeling 101",
+      "room": "EC1040",
+      "speaker": "Cecilia Brusatori",
+      "level": "100",
+      "track": "Data Architecture"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Be a Better DBA with Database Watcher: A Proactive Approach to Database Monitoring",
+      "room": "MR3018",
+      "speaker": "Daniel Taylor",
+      "level": "300",
+      "track": "SQL Server Administration"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Determining the correct database type for your project",
+      "room": "EC1054",
+      "speaker": "Susan Vanderford",
+      "level": "100",
+      "track": "Database Design"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "30 min",
+      "type": "session",
+      "title": "Building a Data Lakehouse with Dremio, DBT, and Apache Iceberg",
+      "room": "EC1046",
+      "speaker": "Alex Merced",
+      "level": "100",
+      "track": "Data Architecture"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "30 min",
+      "type": "session",
+      "title": "Open Source and the Data Lakehouse",
+      "room": "EC1046",
+      "speaker": "Alex Merced",
+      "level": "100",
+      "track": "Data Architecture"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "15 min",
+      "type": "break",
+      "title": "Coffee Break & Networking",
+      "room": "Cotilla Gallery"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Intro to PowerShell Automation for the SQL Server DBA",
+      "room": "MR2002",
+      "speaker": "David Seis",
+      "level": "100",
+      "track": "PowerShell/Automation"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Build a Data Application with Streamlit",
+      "room": "MR2053",
+      "speaker": "Kevin Feasel",
+      "level": "100",
+      "track": "Data Science"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Power BI Copilot: The Next Generation of Data Analytics",
+      "room": "Lab.A 2061",
+      "speaker": "Juan Fernando Gonzalez",
+      "level": "100",
+      "track": "Analytics"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Architecting Zero Downtime Database Deployments",
+      "room": "EC1040",
+      "speaker": "Steve Jones",
+      "level": "200",
+      "track": "Database Administration"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Working with SSIS SQL \"Script Task\" Automation Integration",
+      "room": "EC1041",
+      "speaker": "Maximo Trinidad",
+      "level": "200",
+      "track": "SQL Server Integration"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Indexing 101: How to find your data in monoliths, documents, lakes and more.",
+      "room": "EC1034",
+      "speaker": "Barkha Herman",
+      "level": "100",
+      "track": "Database Performance"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "From PaaS to Fabric: Unleashing Instant Analytics!",
+      "room": "EC1046",
+      "speaker": "Bradley Schacht, Daniel Taylor",
+      "level": "200",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Navigating Modern Data Architectures",
+      "room": "EC1054",
+      "speaker": "Andres Marquez",
+      "level": "100",
+      "track": "Data Architecture"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "type": "session",
+      "title": "SQL in the Cloud",
+      "room": "MR3018",
+      "speaker": "Darius Liktorius",
+      "level": "200",
+      "track": "Azure/Cloud"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "type": "lunch",
+      "title": "Lunch Break",
+      "room": "Cotilla Gallery"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Skip GridSearch - Go Straight to Bayesian Optimization For Your Hyperparameter Tuning",
+      "room": "MR2002",
+      "speaker": "Bogdan Tesileanu",
+      "level": "200",
+      "track": "Data Science"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Data Governance Using Microsoft Purview",
+      "room": "MR2053",
+      "speaker": "Susan Vanderford",
+      "level": "200",
+      "track": "Data Governance"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Future Proofing in the Era of ChatGPT",
+      "room": "Lab.A 2061",
+      "speaker": "Aditya Guthey",
+      "level": "300",
+      "track": "AI/Professional Development"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "AD SQL Logins unrolled leveraging PowerShell",
+      "room": "MR3018",
+      "speaker": "Jared Kirkpatrick",
+      "level": "300",
+      "track": "PowerShell/Security"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Streamlining Data Flow: Building Cloud-Based Data Pipelines",
+      "room": "EC1040",
+      "speaker": "Oscar Garcia",
+      "level": "100",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Creating a Personal Brand for Career Success",
+      "room": "EC1041",
+      "speaker": "Barkha Herman",
+      "level": "100",
+      "track": "Professional Development"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Microsoft Fabric: Data Warehouse vs. Lakehouse",
+      "room": "EC1034",
+      "speaker": "Bradley Schacht",
+      "level": "300",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "1000s of Trucks a Day in Microsoft Fabric",
+      "room": "EC1046",
+      "speaker": "Hiram Fleitas",
+      "level": "300",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Maximizing Data Performance: Unlocking the Power of Delta Tables",
+      "room": "EC1054",
+      "speaker": "Joshua Higginbotham",
+      "level": "200",
+      "track": "Data Engineering"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "15 min",
+      "type": "break",
+      "title": "Coffee Break",
+      "room": "Cotilla Gallery"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Using DARTS to hit your forecasting mark",
+      "room": "MR2002",
+      "speaker": "Bogdan Tesileanu",
+      "level": "200",
+      "track": "Data Science"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "45 min",
+      "type": "session",
+      "title": "Delivering a Great Demo",
+      "room": "MR2053",
+      "speaker": "Kevin Feasel",
+      "level": "100",
+      "track": "Professional Development"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "45 min",
+      "type": "session",
+      "title": "Data to Action: Crafting Results-Oriented User Journeys through Analytics Dashboards",
+      "room": "Lab.A 2061",
+      "speaker": "Reneida Leon",
+      "level": "100",
+      "track": "Analytics"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Migrating DBA Network Skills to the Cloud",
+      "room": "MR3018",
+      "speaker": "Erin Dempster",
+      "level": "100",
+      "track": "Cloud/Professional Development"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "90 min",
+      "type": "session",
+      "title": "Fabric & Azure Data Factory Revealed",
+      "room": "EC1040",
+      "speaker": "Darius Liktorius",
+      "level": "200",
+      "track": "Azure Data Services"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Visualization Magic, getting down and dirty with Scatter Charts",
+      "room": "EC1041",
+      "speaker": "Jared Kirkpatrick, Kate Boss",
+      "level": "200",
+      "track": "Data Visualization"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "type": "session",
+      "title": "Building a Data Warehouse on Microsoft Fabric",
+      "room": "EC1034",
+      "speaker": "Bradley Schacht",
+      "level": "100",
+      "track": "Microsoft Fabric"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "120 min",
+      "type": "session",
+      "title": "Fabric Real-Time Intelligence - End2End",
+      "room": "EC1046",
+      "speaker": "Hiram Fleitas",
+      "level": "300",
+      "track": "Microsoft Fabric"
+    }
+  ]
+}
