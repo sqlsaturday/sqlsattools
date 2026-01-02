@@ -1,5 +1,7 @@
 {
   "event": "SQL Saturday Lima 2023",
+  "eventDate": "2023-12-09",
+  "location": "Lima, Peru",
   "rooms": {
     "Auditorio": "Auditorio",
     "Aula": "Aula", 

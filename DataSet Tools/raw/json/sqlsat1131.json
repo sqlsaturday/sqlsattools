@@ -1,5 +1,7 @@
 {
-  "event": "SQL Saturday Toronto",
+  "event": "SQL Saturday Toronto 2025 (#1131)",
+  "location": "Toronto, ON, Canada",
+  "eventDate": "2025-10-25",
   "rooms": ["Lobby", "Room A", "Room B", "Room C"],
   "sessions": [
     {

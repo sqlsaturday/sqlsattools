@@ -1,5 +1,7 @@
 {
-  "event": "SQL Saturday Baton Rouge",
+  "event": "SQL Saturday Baton Rouge 2024",
+  "location": "Baton Rouge, LA",
+  "eventDate": "2024-07-27",
   "rooms": {
     "Auditorium": "Main presentation room",
     "BEC 140 - Lagniappe": "General session room",

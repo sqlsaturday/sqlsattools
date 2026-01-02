@@ -1,6 +1,8 @@
 {
   "sqlSaturdayEventId": "1057",
   "event": "SQL Saturday Oregon & SW Washington 2023",
+  "eventDate": "2023-11-11",
+  "location": "Vancouver, Oregon",
   "rooms": ["PUB 258A", "PUB 258B", "PUB 258C", "GHL 213", "GHL 205", "GHL 161", "GHL 207", "GHL CTR"],
   "schedule": [
     {

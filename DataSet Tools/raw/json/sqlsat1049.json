@@ -1,6 +1,7 @@
 {
   "event": "2023 data.SQL.Saturday.LA",
   "location": "Los Angeles, California",
+  "eventDate": "2023-06-10",
   "year": "2023",
   "rooms": {
     "Microsoft (239)": "Microsoft Room 239",

@@ -1,5 +1,7 @@
 {
-  "event": "SQL Saturday 1089",
+  "event": "SQL Saturday Orlando 2024",
+  "location": "Orlando, FL",
+  "eventDate": "2024-10-19",
   "rooms": {
     "2102 - MS Fabric": "2102 - MS Fabric",
     "2103 - Architecture": "2103 - Architecture",

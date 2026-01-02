@@ -1,5 +1,7 @@
 {
-  "event": "SQL Saturday Puerto Rico",
+  "event": "SQL Saturday South Florida",
+  "location": "Davie, FL",
+  "eventDate": "2024-06-29",
   "rooms": {
     "MR2002": "Meeting Room 2002",
     "MR2053": "Meeting Room 2053", 

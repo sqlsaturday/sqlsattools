@@ -1,5 +1,7 @@
 {
   "event": "SQL Saturday Salt Lake City 2024",
+  "eventDate": "2024-04-05",
+  "location": "Salt Lake City, Utah",
   "rooms": {
     "Room 150AB": "Main session room 150AB",
     "Room 150DC": "Session room 150DC",
