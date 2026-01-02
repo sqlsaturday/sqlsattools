@@ -1,4 +1,10 @@
 {
+  "eventInfo": {
+    "name": "SQL Saturday Baton Rouge 2022",
+    "date": "2022",
+    "location": "Baton Rouge, Louisiana",
+    "eventNumber": "1026"
+  },
   "sessions": [
     {
       "id": "345362",

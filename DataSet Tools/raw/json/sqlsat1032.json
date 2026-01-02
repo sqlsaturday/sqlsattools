@@ -1,4 +1,10 @@
 {
+  "eventInfo": {
+    "name": "SQL Saturday Toronto 2022",
+    "date": "2022",
+    "location": "Toronto, Ontario",
+    "eventNumber": "1032"
+  },
   "sessions": [
     {
       "id": "392984",

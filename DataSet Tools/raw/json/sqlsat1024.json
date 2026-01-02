@@ -1,4 +1,10 @@
 {
+  "eventInfo": {
+    "name": "SQL Saturday Haiti 2022",
+    "date": "2022",
+    "location": "virtual",
+    "eventNumber": "1024"
+  },
   "sessions": [
     {
       "id": "364046",

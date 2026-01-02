@@ -1,4 +1,10 @@
 {
+  "eventInfo": {
+    "name": "SQL Saturday Jacksonville 2022",
+    "date": "2022",
+    "location": "Jacksonville, Florida",
+    "eventNumber": "1022"
+  },
   "sessions": [
     {
       "id": "329234",

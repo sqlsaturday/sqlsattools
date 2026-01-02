@@ -3,7 +3,15 @@
   "eventName": "SQL Saturday Boston 2023",
   "location": "Boston",
   "year": "2023",
-  "rooms": ["Room 1", "Room 2", "Room 3", "Room 4", "Room 5", "Room 6", "Room 7"],
+  "rooms": [
+    "Room 1",
+    "Room 2",
+    "Room 3",
+    "Room 4",
+    "Room 5",
+    "Room 6",
+    "Room 7"
+  ],
   "schedule": [
     {
       "timeSlot": "8:00 am",
@@ -27,7 +35,9 @@
       "sessionType": "keynote",
       "title": "Community, Commitment, Trust: Celebrating a Decade with SIOS",
       "room": "Room 1",
-      "speakers": ["David Bermingham"],
+      "speakers": [
+        "David Bermingham"
+      ],
       "level": "Introductory and overview"
     },
     {
@@ -35,7 +45,9 @@
       "duration": 60,
       "sessionType": "session",
       "title": "So you want to be a Tuner? An introduction to SQL Query Plans",
-      "speakers": ["Steven Wright"],
+      "speakers": [
+        "Steven Wright"
+      ],
       "level": "Introductory and overview"
     },
     {
@@ -43,7 +55,9 @@
       "duration": 60,
       "sessionType": "session",
       "title": "SQL Server Memory Management. Memory clerks, and other creatures.",
-      "speakers": ["Philip Portnoy"],
+      "speakers": [
+        "Philip Portnoy"
+      ],
       "level": "Expert"
     },
     {
@@ -51,7 +65,9 @@
       "duration": 60,
       "sessionType": "session",
       "title": "Answering the Auditor's Call with Automation",
-      "speakers": ["Andy Levy"],
+      "speakers": [
+        "Andy Levy"
+      ],
       "level": "Intermediate"
     },
     {
@@ -59,7 +75,9 @@
       "duration": 60,
       "sessionType": "session",
       "title": "Architecting Zero Downtime Database Deployments",
-      "speakers": ["Steve Jones"],
+      "speakers": [
+        "Steve Jones"
+      ],
       "level": "Intermediate"
     },
     {
@@ -67,7 +85,9 @@
       "duration": 60,
       "sessionType": "session",
       "title": "Self-service BI as a two-edged sword",
-      "speakers": ["Matthew Roche"],
+      "speakers": [
+        "Matthew Roche"
+      ],
       "level": "Intermediate"
     },
     {
@@ -75,7 +95,9 @@
       "duration": 60,
       "sessionType": "session",
       "title": "Unlocking the Power of WhoIsActive",
-      "speakers": ["Jeff Iannucci"],
+      "speakers": [
+        "Jeff Iannucci"
+      ],
       "level": "Intermediate"
     },
     {
@@ -83,250 +105,367 @@
       "duration": 60,
       "sessionType": "session",
       "title": "ChatGPT and a Happy Data Pro",
-      "speakers": ["Paresh Motiwala"],
+      "speakers": [
+        "Paresh Motiwala"
+      ],
       "level": "Intermediate"
-    } 
-
-11:10 am
-11:10 am → 60 min
-Using Apache Kafka to replicate data from Postgres to SQL SERVER
-
-    Marcelo Adade
-
-    Intermediate 
-
-11:10 am → 60 min
-Improve Query Performance with Intelligent Query Processing in SQL Server 2022
-
-    Edward Pollack
-
-    Intermediate 
-
-11:10 am → 60 min
-Running High IO SQL Server Workloads in the Cloud
-
-    Kellyn Gorman
-
-    Advanced 
-
-11:10 am → 60 min
-Mastering Power Query: Transform Data Like a Pro
-
-    Varsham Papikian
-
-    Intermediate 
-
-11:10 am → 60 min
-From Zero to Hero: Accidental SQL Server DBAs Survival Guide
-
-    Gethyn Ellis
-
-    Introductory and overview 
-
-11:10 am → 60 min
-Inside the Hero's Lair: An Advanced Dive into the Heart of SQL Audit’s Superpowers
-
-    Tracy Boggiano
-
-    Intermediate 
-
-11:10 am → 60 min
-Revolutionizing SQL Server Development with Dev Containers & GitHub Codespaces
-
-    Sebastian Meine
-
-    Intermediate 
-
-12:10 pm
-Room 1
-12:10 pm → 20 min
-Lunch
-12:30 pm
-12:30 pm → 45 min
-Overcoming the Dilemma of SQL Server High Availability
-
-    Jed Tobin
-
-    Introductory and overview 
-
-12:30 pm → 45 min
-Women in Tech (WIT) Panel
-
-    Deborah Melkin
-
-    Introductory and overview 
-
-12:30 pm → 45 min
-Mission Possible: This Database Will Self-Destruct
-
-    Steven Wright
-
-    Introductory and overview 
-
-12:30 pm → 45 min
-Development Challenges in Today’s Database Environment
-
-    Janis Griffin
-
-    Introductory and overview 
-
-12:30 pm → 45 min
-Sponsor-TBD
-12:30 pm → 45 min
-Sponsor-TBD
-12:30 pm → 45 min
-Sponsor-TBD
-1:30 pm
-1:30 pm → 60 min
-Data Pages, Allocation Units, IAM chains Oh My!…
-
-    Brandon Leach
-
-    Intermediate 
-
-1:30 pm → 60 min
-What's new in SQL Server 2022?
-
-    Janis Griffin
-
-    Introductory and overview 
-
-1:30 pm → 60 min
-Ludicrous Speed: Choosing Isolation Levels for Peak Performance
-
-    Bob Pusateri
-
-    Intermediate 
-
-1:30 pm → 60 min
-Snowflake stored procedures and functions
-
-    Sunil Kadimdiwan
-
-    Introductory and overview 
-
-1:30 pm → 60 min
-A Database Backup Is Useless If You Can't Restore It
-
-    Joe Gavin
-
-    Introductory and overview 
-
-1:30 pm → 60 min
-Azure Synapse Lake Databases in your Data Lakehouse
-
-    Christian Cote
-
-    Advanced 
-
-1:30 pm → 60 min
-Who Is On Call For You?
-
-    Matt Gordon
-
-    Introductory and overview 
-
-2:45 pm
-2:45 pm → 60 min
-Missing Indexes: Do's and Don'ts
-
-    Andy Yun
-
-    Intermediate 
-
-2:45 pm → 60 min
-300-Level Guide to Career Internals: Planning Your Career
-
-    Brent Ozar
-
-    Introductory and overview 
-
-2:45 pm → 60 min
-Your Ultimate SQL Server Statistics Best Practices Review
-
-    Fabiano Amorim
-
-    Advanced 
-
-2:45 pm → 60 min
-Transitioning your T-SQL skills to Spark SQL
-
-    John Miner
-
-    Intermediate 
-
-2:45 pm → 60 min
-Storage Options for building a SQL Server FCI in Azure
-
-    David Bermingham
-
-    Intermediate 
-
-2:45 pm → 60 min
-Database-mindful application development
-
-    Philip Portnoy
-
-    Intermediate 
-
-2:45 pm → 60 min
-IoT: Connecting the dots from Device to Database
-
-    Surbhi Pokharna
-
-    Intermediate 
-
-4:00 pm
-4:00 pm → 60 min
-Let's keep it private - Azure networking cases
-
-    Armando Lacerda
-
-    Intermediate 
-
-4:00 pm → 60 min
-Using Query Store to Understand and Control Query Performance
-
-    Grant Fritchey
-
-    Intermediate 
-
-4:00 pm → 60 min
-Mastering Synapse Serverless SQL Pool
-
-    Jean Joseph
-
-    Intermediate 
-
-4:00 pm → 60 min
-Database Deployment Methods Demystified
-
-    Deborah Melkin
-
-    Intermediate 
-
-4:00 pm → 60 min
-Blogging for the Tech Professional
-
-    Steve Jones
-
-    Introductory and overview 
-
-4:00 pm → 60 min
-Top Tips for Deploying AGs and FCIs On Premises or In the Cloud
-
-    Allan Hirt
-
-    Intermediate 
-
-4:00 pm → 60 min
-How to manage 10, 100, 1000 and 10000 or more databases
-
-    Thomas Grohser
-
-    Advanced 
-
-5:00 pm
-Room 1
-5:00 pm → 30 min
-Closing and Giveaways
+    },
+    {
+      "timeSlot": "11:10 am",
+      "duration": 60,
+      "title": "11:10 am → 60 min",
+      "speakers": [
+        "Using Apache Kafka to replicate data from Postgres to SQL SERVER"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:10 am",
+      "duration": 60,
+      "title": "Improve Query Performance with Intelligent Query Processing in SQL Server 2022",
+      "speakers": [
+        "Edward Pollack"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:10 am",
+      "duration": 60,
+      "title": "Running High IO SQL Server Workloads in the Cloud",
+      "speakers": [
+        "Kellyn Gorman"
+      ],
+      "level": "Advanced",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:10 am",
+      "duration": 60,
+      "title": "Mastering Power Query: Transform Data Like a Pro",
+      "speakers": [
+        "Varsham Papikian"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:10 am",
+      "duration": 60,
+      "title": "From Zero to Hero: Accidental SQL Server DBAs Survival Guide",
+      "speakers": [
+        "Gethyn Ellis"
+      ],
+      "level": "Introductory and overview",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:10 am",
+      "duration": 60,
+      "title": "Inside the Hero's Lair: An Advanced Dive into the Heart of SQL Audit’s Superpowers",
+      "speakers": [
+        "Tracy Boggiano"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:10 am",
+      "duration": 60,
+      "title": "Revolutionizing SQL Server Development with Dev Containers & GitHub Codespaces",
+      "speakers": [
+        "Sebastian Meine"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:10 pm",
+      "duration": 60,
+      "title": "Room 1",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:10 pm",
+      "duration": 20,
+      "title": "Lunch",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:30 pm",
+      "duration": 60,
+      "title": "12:30 pm → 45 min",
+      "speakers": [
+        "Overcoming the Dilemma of SQL Server High Availability"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:30 pm",
+      "duration": 45,
+      "title": "Women in Tech (WIT) Panel",
+      "speakers": [
+        "Deborah Melkin"
+      ],
+      "level": "Introductory and overview",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:30 pm",
+      "duration": 45,
+      "title": "Mission Possible: This Database Will Self-Destruct",
+      "speakers": [
+        "Steven Wright"
+      ],
+      "level": "Introductory and overview",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:30 pm",
+      "duration": 45,
+      "title": "Development Challenges in Today’s Database Environment",
+      "speakers": [
+        "Janis Griffin"
+      ],
+      "level": "Introductory and overview",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:30 pm",
+      "duration": 45,
+      "title": "Sponsor-TBD",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:30 pm",
+      "duration": 45,
+      "title": "Sponsor-TBD",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:30 pm",
+      "duration": 45,
+      "title": "Sponsor-TBD",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "title": "1:30 pm → 60 min",
+      "speakers": [
+        "Data Pages, Allocation Units, IAM chains Oh My!…"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "title": "What's new in SQL Server 2022?",
+      "speakers": [
+        "Janis Griffin"
+      ],
+      "level": "Introductory and overview",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "title": "Ludicrous Speed: Choosing Isolation Levels for Peak Performance",
+      "speakers": [
+        "Bob Pusateri"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "title": "Snowflake stored procedures and functions",
+      "speakers": [
+        "Sunil Kadimdiwan"
+      ],
+      "level": "Introductory and overview",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "title": "A Database Backup Is Useless If You Can't Restore It",
+      "speakers": [
+        "Joe Gavin"
+      ],
+      "level": "Introductory and overview",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "title": "Azure Synapse Lake Databases in your Data Lakehouse",
+      "speakers": [
+        "Christian Cote"
+      ],
+      "level": "Advanced",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:30 pm",
+      "duration": 60,
+      "title": "Who Is On Call For You?",
+      "speakers": [
+        "Matt Gordon"
+      ],
+      "level": "Introductory and overview",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:45 pm",
+      "duration": 60,
+      "title": "2:45 pm → 60 min",
+      "speakers": [
+        "Missing Indexes: Do's and Don'ts"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:45 pm",
+      "duration": 60,
+      "title": "300-Level Guide to Career Internals: Planning Your Career",
+      "speakers": [
+        "Brent Ozar"
+      ],
+      "level": "Introductory and overview",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:45 pm",
+      "duration": 60,
+      "title": "Your Ultimate SQL Server Statistics Best Practices Review",
+      "speakers": [
+        "Fabiano Amorim"
+      ],
+      "level": "Advanced",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:45 pm",
+      "duration": 60,
+      "title": "Transitioning your T-SQL skills to Spark SQL",
+      "speakers": [
+        "John Miner"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:45 pm",
+      "duration": 60,
+      "title": "Storage Options for building a SQL Server FCI in Azure",
+      "speakers": [
+        "David Bermingham"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:45 pm",
+      "duration": 60,
+      "title": "Database-mindful application development",
+      "speakers": [
+        "Philip Portnoy"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:45 pm",
+      "duration": 60,
+      "title": "IoT: Connecting the dots from Device to Database",
+      "speakers": [
+        "Surbhi Pokharna"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "4:00 pm",
+      "duration": 60,
+      "title": "4:00 pm → 60 min",
+      "speakers": [
+        "Let's keep it private - Azure networking cases"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "4:00 pm",
+      "duration": 60,
+      "title": "Using Query Store to Understand and Control Query Performance",
+      "speakers": [
+        "Grant Fritchey"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "4:00 pm",
+      "duration": 60,
+      "title": "Mastering Synapse Serverless SQL Pool",
+      "speakers": [
+        "Jean Joseph"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "4:00 pm",
+      "duration": 60,
+      "title": "Database Deployment Methods Demystified",
+      "speakers": [
+        "Deborah Melkin"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "4:00 pm",
+      "duration": 60,
+      "title": "Blogging for the Tech Professional",
+      "speakers": [
+        "Steve Jones"
+      ],
+      "level": "Introductory and overview",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "4:00 pm",
+      "duration": 60,
+      "title": "Top Tips for Deploying AGs and FCIs On Premises or In the Cloud",
+      "speakers": [
+        "Allan Hirt"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "4:00 pm",
+      "duration": 60,
+      "title": "How to manage 10, 100, 1000 and 10000 or more databases",
+      "speakers": [
+        "Thomas Grohser"
+      ],
+      "level": "Advanced",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "5:00 pm",
+      "duration": 60,
+      "title": "Room 1",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "5:00 pm",
+      "duration": 30,
+      "title": "Closing and Giveaways",
+      "sessionType": "session"
+    }
+  ]
+}

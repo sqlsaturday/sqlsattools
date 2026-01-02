@@ -1,4 +1,10 @@
 {
+  "eventInfo": {
+    "name": "SQL Saturday Denver 2022",
+    "date": "2022",
+    "location": "Denver, Colorado",
+    "eventNumber": "1034"
+  },
   "sessions": [
     {
       "id": "372009",

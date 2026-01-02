@@ -1,4 +1,10 @@
 {
+   "eventInfo": {
+    "name": "SQL Saturday Los Angles 2021",
+    "date": "2021",
+    "location": "Los Angeles, California",
+    "eventNumber": "1020"
+  },
   "sessions": [
     {
       "id": "238146",

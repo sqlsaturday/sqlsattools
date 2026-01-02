@@ -3,7 +3,18 @@
   "eventName": "SQL Saturday Orlando 2023",
   "location": "Orlando",
   "year": "2023",
-  "rooms": ["Room 2102", "Room 2103", "Room 2104", "Room 2105", "Room 2205", "Room 2206", "Room 2207", "Room 1205 (Students Seminar)", "Main Lobby Area", "Covered Walkway"],
+  "rooms": [
+    "Room 2102",
+    "Room 2103",
+    "Room 2104",
+    "Room 2105",
+    "Room 2205",
+    "Room 2206",
+    "Room 2207",
+    "Room 1205 (Students Seminar)",
+    "Main Lobby Area",
+    "Covered Walkway"
+  ],
   "schedule": [
     {
       "timeSlot": "6:00 am",
@@ -18,7 +29,10 @@
       "duration": 60,
       "sessionType": "session",
       "title": "There Are Nuances: Understand SQL Server Backup and Recovery Options",
-      "speakers": ["Karthik Yella", "Daniel Taylor"],
+      "speakers": [
+        "Karthik Yella",
+        "Daniel Taylor"
+      ],
       "level": "Intermediate"
     },
     {
@@ -26,7 +40,9 @@
       "duration": 60,
       "sessionType": "session",
       "title": "Queries that don't suck: An intro to query tuning",
-      "speakers": ["Dagiana Toussaint"],
+      "speakers": [
+        "Dagiana Toussaint"
+      ],
       "level": "Introductory"
     },
     {
@@ -34,7 +50,9 @@
       "duration": 60,
       "sessionType": "session",
       "title": "Tame Your Unruly Data With Constraints",
-      "speakers": ["Rob Volk"],
+      "speakers": [
+        "Rob Volk"
+      ],
       "level": "Intermediate"
     },
     {
@@ -42,7 +60,9 @@
       "duration": 60,
       "sessionType": "session",
       "title": "Microsoft Fabric: Data Warehouse vs. Lakehouse",
-      "speakers": ["Bradley Schacht"],
+      "speakers": [
+        "Bradley Schacht"
+      ],
       "level": "Intermediate"
     },
     {
@@ -50,7 +70,9 @@
       "duration": 60,
       "sessionType": "session",
       "title": "Building and Implementing a Data Analytics and Reporting Ecosystem at UCF",
-      "speakers": ["Priscilla Camp"],
+      "speakers": [
+        "Priscilla Camp"
+      ],
       "level": "Introductory"
     },
     {
@@ -58,7 +80,9 @@
       "duration": 60,
       "sessionType": "session",
       "title": "SQL for Machine Learning in BigQuery",
-      "speakers": ["Atieno Ouma"],
+      "speakers": [
+        "Atieno Ouma"
+      ],
       "level": "Intermediate"
     },
     {
@@ -66,7 +90,9 @@
       "duration": 60,
       "sessionType": "session",
       "title": "SQL Team Six - How to Build Effective Teams",
-      "speakers": ["Aaron Cutshall, DHA, MSHI"],
+      "speakers": [
+        "Aaron Cutshall, DHA, MSHI"
+      ],
       "level": "Introductory"
     },
     {
@@ -74,257 +100,399 @@
       "duration": 60,
       "sessionType": "session",
       "title": "Candace Lehmann, SSC Career Center",
-      "speakers": ["Candace Lehmann"],
+      "speakers": [
+        "Candace Lehmann"
+      ],
       "level": "Introductory"
+    },
+    {
+      "timeSlot": "8:00 am",
+      "duration": 60,
+      "title": "Main Lobby Area",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "8:00 am",
+      "duration": 15,
+      "title": "Break - 15 Min.",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "8:15 am",
+      "duration": 60,
+      "title": "Top 10 Things DBA’s Should Know About Their Infrastructure",
+      "speakers": [
+        "Jeff Taylor"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "8:15 am",
+      "duration": 60,
+      "title": "Exceptions, temp tables and code regression",
+      "speakers": [
+        "Victor Ivantsov"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "8:15 am",
+      "duration": 60,
+      "title": "Introduction to Azure Data Factory",
+      "speakers": [
+        "Admira Meskic",
+        "Brian McDonald"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "8:15 am",
+      "duration": 60,
+      "title": "Microsoft Fabric Using Notebooks, Azure OpenAI, and Data Wrangler",
+      "speakers": [
+        "Bradley Ball"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "8:15 am",
+      "duration": 60,
+      "title": "Introduction to Microsoft Fabric",
+      "speakers": [
+        "Bradley Schacht"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "8:15 am",
+      "duration": 60,
+      "title": "Machine Learning Project Life Cycle",
+      "speakers": [
+        "Ron Bergeron"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "8:15 am",
+      "duration": 60,
+      "title": "Debugging under fire (Data Edition)",
+      "speakers": [
+        "Joshua Higginbotham"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "8:15 am",
+      "duration": 60,
+      "title": "Tech Job Interview Tips for Students",
+      "speakers": [
+        "Gina Meronek"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:15 am",
+      "duration": 60,
+      "title": "Main Lobby Area",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:15 am",
+      "duration": 15,
+      "title": "Break - 15 Min.",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "Let’s Dance – Migrate SQL Server to Managed Instance in 60 Minutes or Less",
+      "speakers": [
+        "Karthik Yella",
+        "Daniel Taylor"
+      ],
+      "level": "Advanced",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "The top SQL Server 2022 features for DBAs",
+      "speakers": [
+        "Fabiano Amorim",
+        "Marcelo Adade"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "Azure Data Factory - Metadata Driven ETL for Dynamic Full & Incremental Table Loading in Azure SQL",
+      "speakers": [
+        "Marc Bushong"
+      ],
+      "level": "Advanced",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "Data: The Fabric Of Our Lives",
+      "speakers": [
+        "Chris Hyde"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "SQL Server vs Azure Cosmos DB",
+      "speakers": [
+        "Hasan Savran"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "Generative AI: Concepts, Tools, and Applications for Data Professionals",
+      "speakers": [
+        "Buck Woody"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "How to build your career",
+      "speakers": [
+        "James Serra"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "10 Lessons Learned from Over 20 Years in IT",
+      "speakers": [
+        "Kendal Van Dyke"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "10:30 am",
+      "duration": 60,
+      "title": "Covered Walkway",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "10:30 am",
+      "duration": 75,
+      "title": "Lunch",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "10:30 am",
+      "duration": 10,
+      "title": "Closing Remarks (Marwan Shaban, SSC )",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "10:45 am",
+      "duration": 60,
+      "title": "Sponsor - Offloading SQL Server Infrastructure Tasks",
+      "speakers": [
+        "Shawn Meyers"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "10:45 am",
+      "duration": 60,
+      "title": "Machine Learning with the Elastic Stack",
+      "speakers": [
+        "Priscilla Parodi"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:45 am",
+      "duration": 60,
+      "title": "11:45 am → 60 min",
+      "speakers": [
+        "A Deep Dive into SQL Server 2022 Query Store and Intelligent Query Processing"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:45 am",
+      "duration": 60,
+      "title": "Index R(x): Prescriptions for Performance Improvement",
+      "speakers": [
+        "Bill Sanscrainte"
+      ],
+      "level": "Advanced",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:45 am",
+      "duration": 60,
+      "title": "Basics of building a data model in Power BI",
+      "speakers": [
+        "Jason Romans"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:45 am",
+      "duration": 60,
+      "title": "OneLake the core of Microsoft Fabric",
+      "speakers": [
+        "Freddie Santos"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:45 am",
+      "duration": 60,
+      "title": "Data Lakehouse, Data Mesh, and Data Fabric",
+      "speakers": [
+        "James Serra"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:45 am",
+      "duration": 60,
+      "title": "Sir, There Is Always Bias In My Data",
+      "speakers": [
+        "Michael Antonovich"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "11:45 am",
+      "duration": 60,
+      "title": "Essential Soft Skills for the Modern DBA",
+      "speakers": [
+        "Troy Gallant"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:45 pm",
+      "duration": 60,
+      "title": "Main Lobby Area",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:45 pm",
+      "duration": 15,
+      "title": "Break - 15 Min.",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:00 pm",
+      "duration": 60,
+      "title": "Your Ultimate SQL Server Statistics Best Practices Review",
+      "speakers": [
+        "Fabiano Amorim"
+      ],
+      "level": "Advanced",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:00 pm",
+      "duration": 60,
+      "title": "How To Tune A Multi-Terabyte Database For Optimum Performance",
+      "speakers": [
+        "Jeff Taylor"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:00 pm",
+      "duration": 60,
+      "title": "Power (BI) Hour! From Design to Delivery in 60 minutes.",
+      "speakers": [
+        "Bailey McDonald",
+        "Dale Levesque"
+      ],
+      "level": "Introductory",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:00 pm",
+      "duration": 60,
+      "title": "Azure Synapse: Why Your Queries Are So Darn Slow",
+      "speakers": [
+        "Amy Herold"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:00 pm",
+      "duration": 60,
+      "title": "Improving retrieval quality for text search",
+      "speakers": [
+        "Priscilla Parodi"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:00 pm",
+      "duration": 60,
+      "title": "Real Time Problem-Solving with Anomaly Detection",
+      "speakers": [
+        "Barkha Herman"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:00 pm",
+      "duration": 60,
+      "title": "Protect your database from Ransomware",
+      "speakers": [
+        "Shawn Meyers"
+      ],
+      "level": "Intermediate",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:00 pm",
+      "duration": 60,
+      "title": "Covered Walkway",
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:00 pm",
+      "duration": 30,
+      "title": "Closing and Raffle",
+      "sessionType": "session"
     }
-8:00 am
-Main Lobby Area
-8:00 am → 15 min
-Break - 15 Min.
-8:15 am → 60 min
-Top 10 Things DBA’s Should Know About Their Infrastructure
-
-    Jeff Taylor
-
-    Intermediate 
-
-8:15 am → 60 min
-Exceptions, temp tables and code regression
-
-    Victor Ivantsov
-
-    Intermediate 
-
-8:15 am → 60 min
-Introduction to Azure Data Factory
-
-    Admira Meskic
-    Brian McDonald
-
-    Introductory 
-
-8:15 am → 60 min
-Microsoft Fabric Using Notebooks, Azure OpenAI, and Data Wrangler
-
-    Bradley Ball
-
-    Introductory 
-
-8:15 am → 60 min
-Introduction to Microsoft Fabric
-
-    Bradley Schacht
-
-    Introductory 
-
-8:15 am → 60 min
-Machine Learning Project Life Cycle
-
-    Ron Bergeron
-
-    Introductory 
-
-8:15 am → 60 min
-Debugging under fire (Data Edition)
-
-    Joshua Higginbotham
-
-    Introductory 
-
-8:15 am → 60 min
-Tech Job Interview Tips for Students
-
-    Gina Meronek
-
-    Introductory 
-
-9:15 am
-Main Lobby Area
-9:15 am → 15 min
-Break - 15 Min.
-9:30 am → 60 min
-Let’s Dance – Migrate SQL Server to Managed Instance in 60 Minutes or Less
-
-    Karthik Yella
-    Daniel Taylor
-
-    Advanced 
-
-9:30 am → 60 min
-The top SQL Server 2022 features for DBAs
-
-    Fabiano Amorim
-    Marcelo Adade
-
-    Intermediate 
-
-9:30 am → 60 min
-Azure Data Factory - Metadata Driven ETL for Dynamic Full & Incremental Table Loading in Azure SQL
-
-    Marc Bushong
-
-    Advanced 
-
-9:30 am → 60 min
-Data: The Fabric Of Our Lives
-
-    Chris Hyde
-
-    Introductory 
-
-9:30 am → 60 min
-SQL Server vs Azure Cosmos DB
-
-    Hasan Savran
-
-    Intermediate 
-
-9:30 am → 60 min
-Generative AI: Concepts, Tools, and Applications for Data Professionals
-
-    Buck Woody
-
-    Intermediate 
-
-9:30 am → 60 min
-How to build your career
-
-    James Serra
-
-    Introductory 
-
-9:30 am → 60 min
-10 Lessons Learned from Over 20 Years in IT
-
-    Kendal Van Dyke
-
-    Introductory 
-
-10:30 am
-Covered Walkway
-10:30 am → 75 min
-Lunch
-10:30 am → 10 min
-Closing Remarks (Marwan Shaban, SSC )
-10:45 am → 60 min
-Sponsor - Offloading SQL Server Infrastructure Tasks
-
-    Shawn Meyers
-
-    Introductory 
-
-10:45 am → 60 min
-Machine Learning with the Elastic Stack
-
-    Priscilla Parodi
-
-    Introductory 
-
-11:45 am
-11:45 am → 60 min
-A Deep Dive into SQL Server 2022 Query Store and Intelligent Query Processing
-
-    Janis Griffin
-
-    Intermediate 
-
-11:45 am → 60 min
-Index R(x): Prescriptions for Performance Improvement
-
-    Bill Sanscrainte
-
-    Advanced 
-
-11:45 am → 60 min
-Basics of building a data model in Power BI
-
-    Jason Romans
-
-    Introductory 
-
-11:45 am → 60 min
-OneLake the core of Microsoft Fabric
-
-    Freddie Santos
-
-    Intermediate 
-
-11:45 am → 60 min
-Data Lakehouse, Data Mesh, and Data Fabric
-
-    James Serra
-
-    Introductory 
-
-11:45 am → 60 min
-Sir, There Is Always Bias In My Data
-
-    Michael Antonovich
-
-    Introductory 
-
-11:45 am → 60 min
-Essential Soft Skills for the Modern DBA
-
-    Troy Gallant
-
-    Introductory 
-
-12:45 pm
-Main Lobby Area
-12:45 pm → 15 min
-Break - 15 Min.
-1:00 pm → 60 min
-Your Ultimate SQL Server Statistics Best Practices Review
-
-    Fabiano Amorim
-
-    Advanced 
-
-1:00 pm → 60 min
-How To Tune A Multi-Terabyte Database For Optimum Performance
-
-    Jeff Taylor
-
-    Intermediate 
-
-1:00 pm → 60 min
-Power (BI) Hour! From Design to Delivery in 60 minutes.
-
-    Bailey McDonald
-    Dale Levesque
-
-    Introductory 
-
-1:00 pm → 60 min
-Azure Synapse: Why Your Queries Are So Darn Slow
-
-    Amy Herold
-
-    Intermediate 
-
-1:00 pm → 60 min
-Improving retrieval quality for text search
-
-    Priscilla Parodi
-
-    Intermediate 
-
-1:00 pm → 60 min
-Real Time Problem-Solving with Anomaly Detection
-
-    Barkha Herman
-
-    Intermediate 
-
-1:00 pm → 60 min
-Protect your database from Ransomware
-
-    Shawn Meyers
-
-    Intermediate 
-
-2:00 pm
-Covered Walkway
-2:00 pm → 30 min
-Closing and Raffle
+  ]
+}

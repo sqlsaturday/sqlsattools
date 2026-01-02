@@ -1,5 +1,10 @@
 {
-  "sessions": [
+  "eventInfo": {
+    "name": "SQL Saturday Bangladesh 2022",
+    "date": "2022",
+    "location": "Dhaka, Bangladesh",
+    "eventNumber": "1039"
+  },"sessions": [
     {
       "id": "400094",
       "title": "Query Performance Tuning & Optimization",

@@ -4,208 +4,360 @@
   "location": "Minnesota",
   "year": "2023",
   "organizer": "PASS MN",
-  "rooms": ["Theater", "Room #1512", "Room #2508", "Room #1518", "Room #1510", "Room #1508", "Room #1506", "Cafeteria", "Network Space"],
+  "rooms": [
+    "Theater",
+    "Room #1512",
+    "Room #2508",
+    "Room #1518",
+    "Room #1510",
+    "Room #1508",
+    "Room #1506",
+    "Cafeteria",
+    "Network Space"
+  ],
   "schedule": [
     {
       "timeSlot": "8:00 am",
       "duration": 50,
       "sessionType": "registration",
       "title": "Registration",
-      "speakers": ["PASS MN"]
+      "speakers": [
+        "PASS MN"
+      ]
     },
     {
       "timeSlot": "9:00 am",
       "duration": 25,
       "sessionType": "opening",
       "title": "Welcome Remarks",
-      "speakers": ["PASSMN Board"]
+      "speakers": [
+        "PASSMN Board"
+      ]
     },
     {
       "timeSlot": "9:30 am",
       "duration": 60,
       "sessionType": "session",
       "title": "42 TSQL Functions",
-      "speakers": ["Thomas Grohser"]
-
-9:30 am → 60 min
-From Zero to Hero: Accidental SQL Server DBAs Survival Guide
-
-    Gethyn Ellis
-
-9:30 am → 60 min
-Power BI and External Tools: This is the way!
-
-    Jason Romans
-
-9:30 am → 60 min
-Practical Use Cases for Composite Models
-
-    Kevin Arnold
-
-9:30 am → 60 min
-Introduction to Automated Deployments with Azure DevOps
-
-    Erin Dempster
-
-9:30 am → 60 min
-Tips and sales techniques to sell as a Consultant
-
-    Juan Soto
-
-9:30 am → 60 min
-Microsoft Fabric Lakehouse: Why is it so important?
-
-    Matt Stenzel
-
-9:30 am - 11:45 am
-Network Space AM
-
-    PASS MN
-
-10:45 am
-10:45 am → 60 min
-Use AI To Make Your Data Job Easier (and More Fun)
-
-    Matt Gordon
-
-10:45 am → 60 min
-How To Tune A Multi-Terabyte Database For Optimum Performance
-
-    Jeff Taylor
-
-10:45 am → 60 min
-26 Tips across the Power Platform
-
-    Austin Steinmetz
-
-10:45 am → 60 min
-Unraveling Microsoft Fabric for the Power BI User
-
-    Dan English
-
-10:45 am → 60 min
-Deploy your first Azure environment
-
-    George Bryant
-
-10:45 am → 60 min
-Bad Habits: Common anti-patterns that can bring SQL Server to its knees
-
-    Eric Swiggum
-
-10:45 am → 60 min
-Beyond the GUI: Power Query and M techniques
-
-    Greg Baldini
-
-12:00 pm
-12:00 pm → 30 min
-Nutanix - Sponsor Presentation
-
-    Mike Matthews
-
-12:00 pm → 60 min
-Lunch
-
-    PASS MN
-
-1:15 pm
-1:15 pm → 60 min
-Performance in 60 Seconds – SQL Tricks Everybody MUST Know
-
-    Pinal Dave
-
-1:15 pm → 60 min
-Query Hints ... What’s the Worst That Can Happen
-
-    Rick Lowe
-
-1:15 pm → 60 min
-Power BI Zero to Hero
-
-    Sam Mueller
-
-1:15 pm → 60 min
-The Evolutionary History of Microsoft Analytics - From Spreadsheets to Fabric
-
-    Greg Beaumont
-
-1:15 pm → 60 min
-Advanced Tabular Model Management of the Data Gods
-
-    Chris Wagner
-
-1:15 pm → 60 min
-Protect your database from Ransomware
-
-    Shawn Meyers
-
-1:15 pm - 4:45 pm
-Network Space PM
-
-    PASS MN
-
-2:30 pm
-2:30 pm → 60 min
-PowerShell For the SQL Server DBA
-
-    Dave Bland
-
-2:30 pm → 60 min
-Window Functions in SQL
-
-    Breanna Hansen
-
-2:30 pm → 60 min
-Slowly Changing Dimension - Automating Historical Records Storage
-
-    Deexith Reddy
-
-2:30 pm → 60 min
-The hitchhiker's guide for keeping your SQL Server Always On
-
-    Marcelo Adade
-
-2:30 pm → 60 min
-Fabric Center of Excellence Evolution
-
-    Chris Wagner
-
-2:30 pm → 60 min
-So you want to build a data mesh
-
-    Alex Barbeau
-
-3:45 pm
-3:45 pm → 60 min
-Azure OpenAI 101(For the non-Data Scientist)
-
-    Matt Stenzel
-
-3:45 pm → 60 min
-Troubleshooting common issues with Synapse Dedicated SQL Pools
-
-    Steven Wright
-
-3:45 pm → 60 min
-Your Ultimate SQL Server Statistics Best Practices Review
-
-    Fabiano Amorim
-
-3:45 pm → 60 min
-Your SQL Server Shouldn't Know That It's Virtualized
-
-    Dèjì Akọ́mọláfẹ́
-    Shawn Meyers
-
-3:45 pm → 60 min
-DATB Live - A recorded Q&A of random proportions
-
-    George Bryant
-
-5:00 pm
-5:00 pm → 45 min
-Closing Remarks & Raffle!
-
-    PASSMN Board
-
+      "speakers": [
+        "Thomas Grohser"
+      ]
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "From Zero to Hero: Accidental SQL Server DBAs Survival Guide",
+      "speakers": [
+        "Gethyn Ellis"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "Power BI and External Tools: This is the way!",
+      "speakers": [
+        "Jason Romans"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "Practical Use Cases for Composite Models",
+      "speakers": [
+        "Kevin Arnold"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "Introduction to Automated Deployments with Azure DevOps",
+      "speakers": [
+        "Erin Dempster"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "Tips and sales techniques to sell as a Consultant",
+      "speakers": [
+        "Juan Soto"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am",
+      "duration": 60,
+      "title": "Microsoft Fabric Lakehouse: Why is it so important?",
+      "speakers": [
+        "Matt Stenzel"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "9:30 am - 11:45 am",
+      "duration": 60,
+      "title": "Network Space AM",
+      "speakers": [
+        "PASS MN"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "10:45 am",
+      "duration": 60,
+      "title": "10:45 am → 60 min",
+      "speakers": [
+        "Use AI To Make Your Data Job Easier (and More Fun)"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "10:45 am",
+      "duration": 60,
+      "title": "How To Tune A Multi-Terabyte Database For Optimum Performance",
+      "speakers": [
+        "Jeff Taylor"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "10:45 am",
+      "duration": 60,
+      "title": "26 Tips across the Power Platform",
+      "speakers": [
+        "Austin Steinmetz"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "10:45 am",
+      "duration": 60,
+      "title": "Unraveling Microsoft Fabric for the Power BI User",
+      "speakers": [
+        "Dan English"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "10:45 am",
+      "duration": 60,
+      "title": "Deploy your first Azure environment",
+      "speakers": [
+        "George Bryant"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "10:45 am",
+      "duration": 60,
+      "title": "Bad Habits: Common anti-patterns that can bring SQL Server to its knees",
+      "speakers": [
+        "Eric Swiggum"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "10:45 am",
+      "duration": 60,
+      "title": "Beyond the GUI: Power Query and M techniques",
+      "speakers": [
+        "Greg Baldini"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:00 pm",
+      "duration": 60,
+      "title": "12:00 pm → 30 min",
+      "speakers": [
+        "Nutanix - Sponsor Presentation"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "12:00 pm",
+      "duration": 60,
+      "title": "Lunch",
+      "speakers": [
+        "PASS MN"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:15 pm",
+      "duration": 60,
+      "title": "1:15 pm → 60 min",
+      "speakers": [
+        "Performance in 60 Seconds – SQL Tricks Everybody MUST Know"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:15 pm",
+      "duration": 60,
+      "title": "Query Hints ... What’s the Worst That Can Happen",
+      "speakers": [
+        "Rick Lowe"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:15 pm",
+      "duration": 60,
+      "title": "Power BI Zero to Hero",
+      "speakers": [
+        "Sam Mueller"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:15 pm",
+      "duration": 60,
+      "title": "The Evolutionary History of Microsoft Analytics - From Spreadsheets to Fabric",
+      "speakers": [
+        "Greg Beaumont"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:15 pm",
+      "duration": 60,
+      "title": "Advanced Tabular Model Management of the Data Gods",
+      "speakers": [
+        "Chris Wagner"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:15 pm",
+      "duration": 60,
+      "title": "Protect your database from Ransomware",
+      "speakers": [
+        "Shawn Meyers"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "1:15 pm - 4:45 pm",
+      "duration": 60,
+      "title": "Network Space PM",
+      "speakers": [
+        "PASS MN"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:30 pm",
+      "duration": 60,
+      "title": "2:30 pm → 60 min",
+      "speakers": [
+        "PowerShell For the SQL Server DBA"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:30 pm",
+      "duration": 60,
+      "title": "Window Functions in SQL",
+      "speakers": [
+        "Breanna Hansen"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:30 pm",
+      "duration": 60,
+      "title": "Slowly Changing Dimension - Automating Historical Records Storage",
+      "speakers": [
+        "Deexith Reddy"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:30 pm",
+      "duration": 60,
+      "title": "The hitchhiker's guide for keeping your SQL Server Always On",
+      "speakers": [
+        "Marcelo Adade"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:30 pm",
+      "duration": 60,
+      "title": "Fabric Center of Excellence Evolution",
+      "speakers": [
+        "Chris Wagner"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "2:30 pm",
+      "duration": 60,
+      "title": "So you want to build a data mesh",
+      "speakers": [
+        "Alex Barbeau"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "title": "3:45 pm → 60 min",
+      "speakers": [
+        "Azure OpenAI 101(For the non-Data Scientist)"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "title": "Troubleshooting common issues with Synapse Dedicated SQL Pools",
+      "speakers": [
+        "Steven Wright"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "title": "Your Ultimate SQL Server Statistics Best Practices Review",
+      "speakers": [
+        "Fabiano Amorim"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "title": "Your SQL Server Shouldn't Know That It's Virtualized",
+      "speakers": [
+        "Dèjì Akọ́mọláfẹ́",
+        "Shawn Meyers"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "3:45 pm",
+      "duration": 60,
+      "title": "DATB Live - A recorded Q&A of random proportions",
+      "speakers": [
+        "George Bryant"
+      ],
+      "sessionType": "session"
+    },
+    {
+      "timeSlot": "5:00 pm",
+      "duration": 60,
+      "title": "5:00 pm → 45 min",
+      "speakers": [
+        "Closing Remarks & Raffle!"
+      ],
+      "sessionType": "session"
+    }
+  ]
+}

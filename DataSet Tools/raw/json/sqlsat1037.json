@@ -1,4 +1,10 @@
 {
+  "eventInfo": {
+    "name": "SQL Saturday Sao Paulo 2022",
+    "date": "2022",
+    "location": "Sao Paulo, Brazil",
+    "eventNumber": "1037"
+  },
   "sessions": [
     {
       "id": "376771",

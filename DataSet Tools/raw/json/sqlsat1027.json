@@ -1,4 +1,10 @@
 {
+  "eventInfo": {
+    "name": "SQL Saturday New Jersey 2022",
+    "date": "2022",
+    "location": "New Jersey",
+    "eventNumber": "1027"
+  },
   "sessions": [
     {
       "id": "364046",
