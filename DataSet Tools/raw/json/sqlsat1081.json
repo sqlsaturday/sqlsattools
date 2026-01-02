@@ -1,5 +1,7 @@
 {
-  "event": "SQL Saturday Lima",
+  "event": "SQL Saturday Trujillo",
+  "location": "Trujillo, Peru",
+  "eventDate": "2024-11-30",
   "rooms": {
     "Auditorio": "Main auditorium",
     "Aula Virtual": "Virtual classroom"

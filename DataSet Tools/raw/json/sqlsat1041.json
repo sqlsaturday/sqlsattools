@@ -1,6 +1,7 @@
 {
   "event": "SQL Saturday Jacksonville 2023",
   "location": "University of North Florida (UNF)",
+  "eventDate": "2023-05-06",
   "year": "2023",
   "rooms": {
     "SQL Clinic - B 51 - R 1201": "SQL Clinic",

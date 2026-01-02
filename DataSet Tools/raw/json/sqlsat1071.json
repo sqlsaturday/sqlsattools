@@ -1,5 +1,7 @@
 {
   "event": "SQL Saturday Atlanta 2024 - BI & Data Analytics Edition",
+  "location": "Atlanta, GA",
+  "eventDate": "2024-02-10",
   "rooms": {
     "Room 291": "Main room 291",
     "Room 292": "Session room 292",

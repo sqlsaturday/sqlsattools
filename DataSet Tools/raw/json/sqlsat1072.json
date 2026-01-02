@@ -1,5 +1,7 @@
 {
   "event": "SQL Saturday Atlanta 2024",
+  "location": "Atlanta, GA",
+  "eventDate": "2024-04-20",
   "rooms": {
     "1st - Auditorium": "First floor auditorium",
     "1st - 122A": "First floor room 122A",

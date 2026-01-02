@@ -1,5 +1,6 @@
 {
-  "event": "SQL Saturday Haiti 2024",
+  "event": "SQL Saturday Haiti 2024","location": "virtual",
+  "eventDate": "2024-04-27",
   "rooms": {
     "Room 1": "Salle de conférence principale"
   },

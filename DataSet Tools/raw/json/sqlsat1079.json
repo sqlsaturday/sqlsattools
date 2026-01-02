@@ -1,5 +1,7 @@
 {
   "event": "SQL Saturday Richmond 2024",
+  "location": "Richmond, VA",
+  "eventDate": "2024-05-18",
   "rooms": {
     "138": "Room 138",
     "Lobby": "Main lobby area",

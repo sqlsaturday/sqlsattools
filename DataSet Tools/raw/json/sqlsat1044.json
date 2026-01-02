@@ -1,6 +1,7 @@
 {
   "event": "SQL Saturday Costa Rica 2023",
   "location": "Costa Rica",
+  "eventDate": "2023-04-01",
   "year": "2023",
   "rooms": {
     "Sala A": "Sala A",

@@ -2,6 +2,7 @@
   "sqlSaturdayEventId": "1063",
   "eventName": "SQL Saturday Belo Horizonte 2023",
   "location": "Belo Horizonte",
+  "eventDate": "2023-10-21",
   "year": "2023",
   "rooms": ["Auditório 1", "Room 2", "Room 3"],
   "schedule": [

@@ -1,5 +1,7 @@
 {
-  "event": "SQL Saturday Los Angeles",
+  "event": "2024 data.SQL.Saturday.LA (#1088)",
+  "location": "Los Angeles, CA",
+  "eventDate": "2024-06-01",
   "rooms": {
     "Room #1222": "LMU sponsored room",
     "Room #1226": "Microsoft sponsored room",

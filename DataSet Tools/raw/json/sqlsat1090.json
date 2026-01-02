@@ -1,5 +1,7 @@
 {
-  "event": "SQL Saturday 1090",
+  "event": "SQL Saturday Denver 2024",
+  "location": "Denver, CO",
+  "eventDate": "2024-08-17",
   "rooms": {
     "Room 200A (Sponsor Room)": "Room 200A (Sponsor Room)",
     "Room 100A-C (PowerShell)": "Room 100A-C (PowerShell)",

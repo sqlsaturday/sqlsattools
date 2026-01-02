@@ -1,7 +1,8 @@
 {
   "sqlSaturdayEventId": "1064",
   "eventName": "SQL Saturday Toronto 2023",
-  "location": "Toronto",
+  "location": "Toronto, ON, Canada",
+  "eventDate": "2023-10-21",
   "year": "2023",
   "rooms": ["room 1", "room 2", "room 3"],
   "schedule": [

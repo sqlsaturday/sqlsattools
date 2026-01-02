@@ -1,7 +1,8 @@
 {
   "sqlSaturdayEventId": "1046",
   "eventName": "SQL Saturday Boston 2023",
-  "location": "Boston",
+  "location": "Boston, MA",
+  "eventDate": "2023-10-14",
   "year": "2023",
   "rooms": [
     "Room 1",

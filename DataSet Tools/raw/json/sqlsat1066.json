@@ -1,6 +1,8 @@
 {
   "sqlSaturdayEventId": "1066",
   "eventName": "SQL Saturday Silicon Valley 2023",
+  "location": "San Jose, CA",
+  "eventDate": "2023-10-21",
   "rooms": ["Northeastern University (Room 1012)", "DesignMind (Room 916)", "Microsoft (Room 902)", "San Jose (903)", "Los Angeles (1010)", "San Francisco (Room 906)", "Sponsor Area", "Fairfield (Room 1045)"],
   "schedule": [
     {

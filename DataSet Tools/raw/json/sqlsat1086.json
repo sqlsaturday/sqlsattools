@@ -1,5 +1,7 @@
 {
-  "event": "SQL Saturday 1086",
+  "event": "SQL Saturday Boston 2024",
+  "location": "Boston, MA",
+  "eventDate": "2024-10-05",
   "rooms": {
     "Room 1": "Room 1",
     "Room 2": "Room 2",
