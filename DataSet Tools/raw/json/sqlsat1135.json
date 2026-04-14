@@ -1,0 +1,307 @@
+{
+  "event": "Day of Data Richmond 2026 (#1135)",
+  "location": "Reynolds Community College, 1651 E Parham Rd, Richmond, VA 23228",
+  "eventDate": "2026-04-11",
+  "sessions": [
+    {
+      "time": "8:30 am",
+      "title": "Check-in",
+      "type": "registration"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "AI-Powered Real-Time Intelligence: Transforming Data-Driven Decisions with Microsoft Fabric & GenAI",
+      "speaker": "Mou Rakshit"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "Microsoft SQL and AMD in the Era of AI",
+      "speaker": "Kevin Feasel"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "The Architecture of Trust: Building AI Projects That Deliver ROI",
+      "speaker": "Leslie Welch"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "Data Platform - Framework Philosophy",
+      "speaker": "Warren Sifre"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "Autonomous Data Platforms: Self-Healing SQL Pipelines with Drift Intelligence, Risk Scoring, and Fai",
+      "speakers": ["Kumuda Sreenivasa", "Sandeep Bommisetti"]
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "Master Upgrading PostgreSQL, Using Real World stories and examples",
+      "speaker": "Pat Wright"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "10 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "9:40 am",
+      "duration": "60 min",
+      "title": "Leveraging Large Language Models with Power BI",
+      "speaker": "John Kerski"
+    },
+    {
+      "time": "9:40 am",
+      "duration": "60 min",
+      "title": "From ETL to Intelligent Pipelines: Practical LLM Integration for Data Engineers",
+      "speaker": "Naga Chand Putta"
+    },
+    {
+      "time": "9:40 am",
+      "duration": "60 min",
+      "title": "The T-SQL JSON Operators",
+      "speaker": "Jeff Foushee"
+    },
+    {
+      "time": "9:40 am",
+      "duration": "60 min",
+      "title": "T-SQL to PostgreSQL Leveraging Amazon Q CLI and AWS DMS SC",
+      "speaker": "Minesh Chande"
+    },
+    {
+      "time": "9:40 am",
+      "duration": "60 min",
+      "title": "From Concert Hall to Code Review, Symphony to Software",
+      "speaker": "Sarah Peters"
+    },
+    {
+      "time": "10:40 am",
+      "duration": "10 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "10:50 am",
+      "duration": "60 min",
+      "title": "No More Fragile ETL: Building Production-Grade Pipelines with Databricks",
+      "speaker": "Travis Lawrence"
+    },
+    {
+      "time": "10:50 am",
+      "duration": "60 min",
+      "title": "From DBA to AI Agent Wrangler: Bringing Safe, Compliant AI Agents to SQL Server",
+      "speaker": "Carlos Chacon"
+    },
+    {
+      "time": "10:50 am",
+      "duration": "60 min",
+      "title": "Critical DBA Tasks for Postgresql",
+      "speaker": "Pat Wright"
+    },
+    {
+      "time": "10:50 am",
+      "duration": "60 min",
+      "title": "Stop Rewriting DAX: User-Defined Functions & the DAX Lib Ecosystem",
+      "speaker": "Brian Knox"
+    },
+    {
+      "time": "10:50 am",
+      "duration": "60 min",
+      "title": "Slowly Changing Dimensions: Designing Accurate and Explainable History",
+      "speaker": "Slava Murygin"
+    },
+    {
+      "time": "11:50 am",
+      "duration": "10 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "120 min",
+      "title": "Lunch (Boka Tako)",
+      "type": "lunch"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "AI-Ready: Preparing for and Using AI in Power BI and Microsoft Fabric",
+      "speaker": "Belinda Allen"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "30 min",
+      "title": "Lunch Seating",
+      "type": "lunch"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "Building Production-Ready RAG Systems with pgvector: From Semantic Search to Agentic Workflows",
+      "speakers": ["Sarabjeet Singh", "Ranjan Burman"]
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "Now You Have Two Problems: Regular Expressions in SQL Server 2025",
+      "speaker": "Kevin Feasel"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "Customize your managed SQL Server database on AWS Cloud",
+      "speaker": "Minesh Chande"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "An Enterprise Data Architecture Framework",
+      "speaker": "Aaron Cutshall, DHA, MSHI"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": "25 min",
+      "title": "Quiz Bowl (Session 1)",
+      "type": "activity"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "10 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "Migrating Legacy Financial Databases: SQL Server Modernization Strategies",
+      "speaker": "Venkat Anil Pediredla"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "30 min",
+      "title": "Lunch Seating",
+      "type": "lunch"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "Using SQL Server's 2025 Vector Embeddings with Ollama",
+      "speaker": "Doug Purnell"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "Autonomous Database Operations using Agentic AI for SQL Server",
+      "speakers": ["Sudhir Amin", "Mesgana Gormley"]
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "What is Power BI Developer Mode?",
+      "speaker": "John Kerski"
+    },
+    {
+      "time": "1:30 pm",
+      "duration": "180 min",
+      "title": "Don't Fear the Repo: Version Control and CI/CD in Fabric for Power BI",
+      "speakers": ["Ben Chartoff", "Leslie Welch"]
+    },
+    {
+      "time": "1:40 pm",
+      "duration": "25 min",
+      "title": "Quiz Bowl (Session 2)",
+      "type": "activity"
+    },
+    {
+      "time": "2:10 pm",
+      "duration": "10 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "130 min",
+      "title": "SQL Techniques You Should Know",
+      "speaker": "Louis Davidson"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "60 min",
+      "title": "Let's Architect Your App: Microsoft Dataverse 101",
+      "speaker": "Charles Lakes II"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "60 min",
+      "title": "A Postgres Developer's Snowflake Survival Guide",
+      "speaker": "Aaron Cutshall, DHA, MSHI"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "130 min",
+      "title": "Learn Fabric Lakehouse Security Through Your Existing Power BI Skills",
+      "speaker": "Lenore Flower"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "60 min",
+      "title": "TRIZ 101: Structured Problem Solving for SQL, ETL, and Architecture",
+      "speaker": "Slava Murygin"
+    },
+    {
+      "time": "3:20 pm",
+      "duration": "10 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "PostgreSQL Partitioning - Beyond the obvious",
+      "speaker": "Ranjan Burman"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Beyond Traditional DBA Practices - Transforming T-SQL Script Expertise into AI Agents",
+      "speakers": ["Sudhir Amin", "Mesgana Gormley"]
+    },
+    {
+      "time": "4:35 pm",
+      "duration": "25 min",
+      "title": "Prize Drawing",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 46,
+    "technical_sessions": 30,
+    "event_activities": 16,
+    "session_slots": {
+      "8:30 am": 6,
+      "9:40 am": 5,
+      "10:50 am": 5,
+      "12:00 pm": 5,
+      "1:10 pm": 4,
+      "2:20 pm": 5,
+      "3:30 pm": 2
+    },
+    "topics": [
+      "Microsoft Fabric",
+      "Power BI",
+      "SQL Server",
+      "PostgreSQL",
+      "AI/GenAI",
+      "Data Engineering",
+      "DAX",
+      "Cloud (AWS)",
+      "Data Architecture"
+    ]
+  }
+}
