@@ -1,0 +1,170 @@
+{
+  "event": "SQL Saturday Houston 2026 (#1137)",
+  "location": "Houston, Texas",
+  "eventDate": "2026-04-25",
+  "sessions": [
+    {
+      "time": "9:10 am",
+      "title": "Keynote",
+      "speaker": "Girish Ramachandran",
+      "type": "keynote"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "End-to-End Machine Learning Pipelines on Databricks: From Data Ingestion to Model Deployment",
+      "speaker": "Shaurya Agrawal"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "Autonomous Database Operations using Agentic AI for SQL Server",
+      "speaker": "Chetan Nandikanti, Alvaro Costa-Neto"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "ERP Transformation: Redefining the Intelligent Enterprise",
+      "speaker": "Harsha Narayan"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "Power BI Meets AI Agents: Getting Started with the Model Context Protocol (MCP)",
+      "speaker": "Russel Loski"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "AI-Powered Real-Time Intelligence: Transforming Data-Driven Decisions with Microsoft Fabric & GenAI",
+      "speaker": "Mou Rakshit"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "Enable agentic AI apps with a unified data estate in Microsoft Fabric",
+      "speaker": "Paul DeCarlo"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "Getting Started with MLOps and LLMOps in Azure Databricks",
+      "speaker": "Doug Leal"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "Running a Local GenAI Model on your Laptop",
+      "speaker": "Steve Jones"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "From Data to Decisions: Building Agentic Construction Intel using Azure Databricks Agent Bricks",
+      "speaker": "Mou Rakshit"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Converting ETL solutions to Fabric with AI tools",
+      "speaker": "Daniel Rutledge"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Critical DBA Tasks for Postgresql",
+      "speaker": "Pat Wright"
+    },
+    {
+      "time": "11:30 am",
+      "duration": "60 min",
+      "title": "Statistical Analysis",
+      "speaker": "Marwah Obaid"
+    },
+    {
+      "time": "12:30 pm",
+      "duration": "40 min",
+      "title": "Microsoft SQL and AMD in the Era of AI",
+      "speaker": "Kevin Feasel"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "AI-Driven Data Engineering: Automating Data Quality, Pipelines, and Governance",
+      "speaker": "Naga Durga Rao Dindi, Chinni Krishna Abburi"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "Azure AI Foundry Explained: Building and Governing Enterprise AI Solutions",
+      "speaker": "Rilwan Musa"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "Hey Real-Time Intelligence - should I go outside today?",
+      "speaker": "Dominick Raimato"
+    },
+    {
+      "time": "1:10 pm",
+      "duration": "60 min",
+      "title": "Fabric Data Engineering with Python Notebooks",
+      "speaker": "John Miner"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "60 min",
+      "title": "Back to the future: Time Travel in Microsoft Fabric for Iceberg based tables",
+      "speaker": "Vineel Arekapudi"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "60 min",
+      "title": "Hello, Computer: An Introduction to Azure AI Speech",
+      "speaker": "Kevin Feasel"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "60 min",
+      "title": "Guardrails, Not Roadblocks: Scaling AI Safely with Microsoft",
+      "speaker": "Jim Daniels"
+    },
+    {
+      "time": "2:20 pm",
+      "duration": "60 min",
+      "title": "AI Governance for Data Teams",
+      "speaker": "Khary Taylor"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "From Power BI to Conversational AI: Building Data Agents That Scales",
+      "speaker": "Khaled Chowdhury"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Introduction to the data build tool (dbt)",
+      "speaker": "John Miner"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "How to Build AI\u2011Powered Applications with Azure Database for PostgreSQL",
+      "speaker": "Jean Joseph"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Speaking and Community Involvement for the Introvert",
+      "speaker": "Pat Wright"
+    },
+    {
+      "time": "4:40 pm",
+      "duration": "30 min",
+      "title": "Closing, Door Prizes, Announcements",
+      "room": "Room 1",
+      "type": "closing"
+    }
+  ]
+}
