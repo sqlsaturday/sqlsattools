@@ -1,0 +1,49 @@
+{
+  "jobs": [
+    { "title": "App/BI developers", "count": 25 },
+    { "title": "Architects", "count": 10 },
+    { "title": "Database Admins/Engineers", "count": 15 },
+    { "title": "Data Engineers", "count": 5 },
+    { "title": "Management", "count": 24 },
+    { "title": "DBA", "count": 5 },
+    { "title": "Data Scientists", "count": 3 },
+    {
+      "title": "Other",
+      "count": 64,
+      "items": [
+        "Data Advocacy Team Lead",
+        "Data Advocacy Team Lead",
+        "Digital Innovation - Product Manager",
+        "Driver",
+        "Account Executive",
+        "Accountant",
+        "Activations Analyst",
+        "AI Consultant",
+        "AI Engineer",
+        "Finance Executive",
+        "Financial Operations",
+        "GRC engineer",
+        "Happy Person",
+        "HRIS",
+        "Lab Assistant",
+        "Lead Consultant",
+        "MSDS Student",
+        "Package controller",
+        "Sales Administrator",
+        "Self-employed- AI marketing Automator",
+        "sa",
+        "Senior Data Scientist",
+        "System engineer",
+        "Technical Writer",
+        "Trainee",
+        "Software Engineer",
+        "SRE",
+        "Student",
+        "System Analyst and Professor",
+        "Sr. Software Engineer",
+        "Data Testing Lead",
+        "QA Analyst"
+      ]
+    }
+  ]
+}
