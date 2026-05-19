@@ -1,0 +1,166 @@
+{
+  "event": "SQL Saturday Sao Paulo 2026 (#1142)",
+  "location": "Sao Paulo, Brazil",
+  "eventDate": "2026-03-28",
+  "language": "English",
+  "sessions": [
+    {
+      "time": "8:00 am",
+      "duration": "60 min",
+      "title": "Accreditation",
+      "room": "Reception (ground floor)",
+      "type": "registration"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "10 min",
+      "title": "Opening of the event",
+      "type": "opening"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "50 min",
+      "title": "SQL Server 2025 and AMD: The AI-ready enterprise database",
+      "speaker": "Rodrigo Ribeiro Gomes"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "50 min",
+      "title": "Creating your data platform in Azure Databricks",
+      "speaker": "Nilton Kazuyuki Ueda"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "50 min",
+      "title": "Databricks - How to become a Data Engineer?",
+      "speaker": "Lucas Lessa"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "50 min",
+      "title": "Best practices for publishing AI and ML projects.",
+      "speaker": "Diego Nogare"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "50 min",
+      "title": "Databricks Genie: The Generative AI Revolution for Data and BI",
+      "speaker": "Livia Nonato"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "50 min",
+      "title": "Building your data layer to support millions of users.",
+      "speaker": "William Lino"
+    },
+    {
+      "time": "10:50 am",
+      "duration": "20 min",
+      "title": "Coffee break",
+      "room": "Cafeteria (6th floor)",
+      "type": "break"
+    },
+    {
+      "time": "11:10 am",
+      "duration": "50 min",
+      "title": "What's new in SQL Server 2025",
+      "speaker": "Thiago Zavaschi"
+    },
+    {
+      "time": "11:10 am",
+      "duration": "50 min",
+      "title": "TERRAFORM 101 - Implementing Azure Databases as Code",
+      "speaker": "Wagner Crivelini"
+    },
+    {
+      "time": "11:10 am",
+      "duration": "50 min",
+      "title": "From Engine to Cloud",
+      "speaker": "Tadeu Mansi"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "50 min",
+      "title": "MICROSOFT FABRIC: The era of Unified Data Analytics",
+      "speaker": "Carol Lavecchia"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "50 min",
+      "title": "New Era of Data Engineering: Copilot on Microsoft Fabric",
+      "speaker": "Orlando Gomes"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "50 min",
+      "title": "The importance of data engineering in companies.",
+      "speaker": "Gustavo Tavares"
+    },
+    {
+      "time": "12:50 pm",
+      "duration": "50 min",
+      "title": "Productivity in the use of AI-powered databases: simplifying everyday tasks with MCP Servers",
+      "speaker": "Renato Groffe, Milton Camara"
+    },
+    {
+      "time": "12:50 pm",
+      "duration": "50 min",
+      "title": "DataOps and Governance in Practice: Building an Auditable Data Ecosystem with Apache Atlas",
+      "speaker": "Alexandre Tavares"
+    },
+    {
+      "time": "12:50 pm",
+      "duration": "50 min",
+      "title": "ONNX: the format that allows you to load AI into your SQL!",
+      "speaker": "Rodrigo Ribeiro Gomes"
+    },
+    {
+      "time": "1:40 pm",
+      "duration": "20 min",
+      "title": "Coffee break",
+      "room": "Cafeteria (6th floor)",
+      "type": "break"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "50 min",
+      "title": "Hacking MSSQL in the Cloud. All of them. How I became a sysadmin on Azure, AWS, GCP, and Alibaba.",
+      "speaker": "Fabiano Amorim"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "50 min",
+      "title": "AI Agents and the Future of Decision Making",
+      "speaker": "Leonardo Vitorino"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "50 min",
+      "title": "RAC in SQL Server: What changes when AI enters the database?",
+      "speaker": "Hercules Pereira, Gabriel da Silva"
+    },
+    {
+      "time": "2:50 pm",
+      "duration": "20 min",
+      "title": "Closing ceremony + raffles",
+      "type": "closing"
+    }
+  ],
+  "summary": {
+    "total_sessions": 23,
+    "technical_sessions": 18,
+    "event_activities": 5,
+    "topics": [
+      "SQL Server 2025",
+      "Azure Databricks",
+      "Data Engineering",
+      "AI & ML",
+      "Microsoft Fabric",
+      "Terraform & Azure",
+      "Data Governance",
+      "AI Agents",
+      "Database Security",
+      "MCP Servers"
+    ]
+  }
+}
