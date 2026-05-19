@@ -1,0 +1,373 @@
+﻿{
+  "event": "Day of Data Jacksonville 2026 (#1128)",
+  "location": "Jacksonville, Florida",
+  "eventDate": "2026-05-02",
+  "sessions": [
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Fabric Fast Track End-to-End Implementation in 60 Minutes",
+      "speaker": "Belinda Allen"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "So, You Want to Be a SQL Server DBA",
+      "speaker": "David Pless, Tim Radney"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Now You Have Two Problems: Regular Expressions in SQL Server 2025",
+      "speaker": "Kevin Feasel"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Let's Architect Your App: Microsoft Dataverse 101",
+      "speaker": "Charles Lakes II"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Microsoft Fabric 101 Your Starting Point for Modern Analytics",
+      "speaker": "Daniel Taylor, Bradley Schacht"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Databricks Visualization for Power BI Developers",
+      "speaker": "Terence (T.J.) Brown"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Using Generative AI on Structured Data (to query or modify data)",
+      "speaker": "James Serra"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Stupid Stuff I've Done in Power BI So You Don't Have To",
+      "speaker": "Ed Watson"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Exploring the new performance \"bugs\", I mean, \"features\" of SQL2022 and SQL2025",
+      "speaker": "Fabiano Amorim"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Transforming Power BI Development: Connecting AI to Your Semantic Models with Power BI MCP",
+      "speaker": "Devin Knight"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "Documenting Your Work for Worry-Free Vacations",
+      "speaker": "Andy Levy"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "60 min",
+      "title": "AI Coding Agent in Action: Build SQL Server Deployment Automation in Minutes with GitHub Copilot",
+      "speaker": "Rajeshkanna Krishnan"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Unify Your Data Estate with Microsoft Fabric - Without Replatforming",
+      "speaker": "Marc Bushong"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Wait Wait Do Tell Me: A Look At SQL Server Wait Stats",
+      "speaker": "Peter Shore"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Relational Database Design Fundamentals",
+      "speaker": "Louis Davidson"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Many ways to track changes in SQL Server",
+      "speaker": "John Miner"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Intro to PowerShell with dbatools for the DBA",
+      "speaker": "Tony Wilhelm"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Making Power BI Run Faster!!!",
+      "speaker": "Thomas LeBlanc"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Unstoppable Fabric: Capacity Planning, Smart Alerting & Workload Tuning",
+      "speaker": "Iurii Iurchenko"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "How the Internet Stays Online: The Basics of High Availability",
+      "speaker": "David Bermingham"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "DeepSQL: How To Discover SQL Server Internals",
+      "speaker": "Rob Volk"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Private AI - Home Lab on a budget",
+      "speaker": "Jared Rhodes"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Stop Hoping for a Raise and Start Engineering One",
+      "speaker": "Kristyna Ferris"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "60 min",
+      "title": "Query Hints ... What's the Worst That Can Happen",
+      "speaker": "Rick Lowe"
+    },
+    {
+      "time": "11:30 am",
+      "title": "Microsoft SQL and AMD in the Era of AI",
+      "speaker": "Bob Ward",
+      "type": "keynote"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Decoding Fabric Licensing",
+      "speaker": "Kristyna Ferris"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Combat SQL Server Sprawl",
+      "speaker": "Shawn Meyers"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "The T-SQL JSON Operators",
+      "speaker": "Jeff Foushee"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Hacking MSSQL on Cloud. All of them. How I became sysadmin on Azure, AWS, GCP and Alibaba.",
+      "speaker": "Fabiano Amorim"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "SQL Server 2025 - An Introduction",
+      "speaker": "Matt Gordon"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Data on Fire: A Hands-On Intro to Spark in Fabric",
+      "speaker": "Jason Romans"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Unstoppable Fabric: Deep Dive into Scalable, AI-Ready Spark in Microsoft Fabric",
+      "speaker": "Iurii Iurchenko"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Accelerating Fabric and Power BI Development with MCP Servers",
+      "speaker": "Ginger Grant"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "My Toolbox of SQL Tricks",
+      "speaker": "Victor Ivantsov"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "AI-Powered Analytics: Copilot and Data Agents in Microsoft Fabric",
+      "speaker": "Cecilia Brusatori"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "SQL Team Six: How to Build Effective Teams",
+      "speaker": "Aaron Cutshall, DHA, MSHI"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Tame the Beast: Scaling Azure SQL VM with Premium Storage",
+      "speaker": "David Pless"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "SQL database in Fabric - Vector Search and RAG",
+      "speaker": "Sukhwant Kaur"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Maximizing SSMS for Developers and DBAs",
+      "speaker": "Nem Schlecht"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "VisualStudio SQL Server Projects for Devs",
+      "speaker": "Juan Pablo Tarquino"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "First steps into Postgres for the SQL Server DBA",
+      "speaker": "Rick Lowe"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Infrastructure for Data Professionals: An Introduction",
+      "speaker": "Peter Shore"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Designing Conversational BI: How Databricks AI/BI Genie Unlocks Self-Service Insights",
+      "speaker": "Mou Rakshit"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Tools in your AI's Toolbox : An introduction to MCP Servers",
+      "speaker": "Tim Rayburn"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Analyzing Business Data with T-SQL",
+      "speaker": "Kevin Feasel"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Azure SQL Hyperscale: The Cloud Database for the era of AI",
+      "speaker": "Bob Ward"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "From Semantic Models to Reasoning Systems: Understanding Fabric Data Agents at a Systems Level",
+      "speaker": "Jennifer Ratten"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Data Platform - Framework Philosophy",
+      "speaker": "Warren Sifre"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Building Resilient SQL Server HA/DR in a Multi-Cloud World",
+      "speaker": "David Bermingham"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Configuring Fabric Data Agent to Accelerate Data to Decisions",
+      "speaker": "Marc Bushong"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Common SQL Server Mistakes and How to Avoid Them",
+      "speaker": "Tim Radney"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "The T-SQL JSON Index",
+      "speaker": "Jeff Foushee"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "My Brain Has Blue Screened - Let's Laugh",
+      "speaker": "Tony Wilhelm"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "A quick 101 primer of Generative AI",
+      "speaker": "Andreas Erben"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Modern Data Quality Practices For Your Analytics Environment",
+      "speaker": "Preston Mesarvey"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "An Enterprise Data Architecture Framework",
+      "speaker": "Aaron Cutshall, DHA, MSHI"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "SQL in the Fabric Era: Translate existing skills into the modern data platform",
+      "speaker": "Kevin Pereira"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Protect your database from Ransomware",
+      "speaker": "Shawn Meyers"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "The SQL Database You Know, The AI Skills You Need To Grow",
+      "speaker": "Matt Gordon"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Learning to present and becoming good at it",
+      "speaker": "James Serra"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Revenge: The SQL!",
+      "speaker": "Rob Volk"
+    }
+  ]
+}

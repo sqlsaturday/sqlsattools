@@ -1,0 +1,43 @@
+﻿{
+  "event": "SQL Saturday Haiti 2026 (#1145) - Virtual",
+  "location": "Virtual",
+  "eventDate": "2026-05-16",
+  "sessions": [
+    {
+      "time": "7:15 am",
+      "duration": "60 min",
+      "title": "Vibe Coding dans Microsoft Fabric : Acc\u00e9l\u00e9rez la transformation des donn\u00e9es gr\u00e2ce au langage naturel",
+      "speaker": "Jean Joseph"
+    },
+    {
+      "time": "8:20 am",
+      "duration": "60 min",
+      "title": "Exploring SQL Databases in Microsoft Fabric",
+      "speaker": "Shalom Andre"
+    },
+    {
+      "time": "9:25 am",
+      "duration": "60 min",
+      "title": "Microsoft SQL and AMD in the Era of AI",
+      "speaker": "Christian Cote"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Accelerating Lakehouse ETL with Fabric\u2019s Low\u2011Code Tooling",
+      "speaker": "Christian Cote"
+    },
+    {
+      "time": "11:50 am",
+      "duration": "60 min",
+      "title": "Migration Brownfield Dynamics 365 : Consolidation des donn\u00e9es dans un contexte bancaire",
+      "speaker": "Rodrigue Yengo"
+    },
+    {
+      "time": "12:55 pm",
+      "duration": "60 min",
+      "title": "Automating Microsoft Fabric Deployments with Azure DevOps",
+      "speaker": "Christian Cote"
+    }
+  ]
+}
