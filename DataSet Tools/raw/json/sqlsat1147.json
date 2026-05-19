@@ -1,0 +1,48 @@
+﻿{
+  "event": "SQL Saturday Arequipa 2026 (#1147)",
+  "location": "Arequipa, Peru",
+  "eventDate": "2026-04-25",
+  "sessions": [
+    {
+      "time": "8:30 am",
+      "title": "Keynote",
+      "type": "keynote"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "50 min",
+      "title": "Power bi y las IBCS rumbo a norma Iso",
+      "speaker": "Horacio Lewis"
+    },
+    {
+      "time": "9:50 am",
+      "duration": "50 min",
+      "title": "Agentes de datos con MCP: conecta tu SQL Server a cualquier agente de IA",
+      "speaker": "Hector Loja Alvarado"
+    },
+    {
+      "time": "10:55 am",
+      "duration": "50 min",
+      "title": "Microsoft SQL and AMD in the era of AI",
+      "speaker": "Juan Rafael"
+    },
+    {
+      "time": "11:45 am",
+      "duration": "50 min",
+      "title": "Monitoreo y Control de la Calidad del Aire en Miner\u00eda con Power BI",
+      "speaker": "Pedro Castillo"
+    },
+    {
+      "time": "12:50 pm",
+      "duration": "45 min",
+      "title": "Arquitectura de Datos Avanzada Con Microsoft Fabric",
+      "speaker": "Renzo Roca Ramos"
+    },
+    {
+      "time": "1:35 pm",
+      "duration": "45 min",
+      "title": "Errores de infraestructura que est\u00e1n matando tu SQL Server (y c\u00f3mo evitarlos)",
+      "speaker": "Frank Chambillo"
+    }
+  ]
+}

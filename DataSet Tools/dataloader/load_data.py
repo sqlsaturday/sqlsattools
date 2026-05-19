@@ -53,7 +53,7 @@ class SQLSatDataLoader:
     def load_json_file(self, file_path):
         """Load and parse JSON file"""
         try:
-            with open(file_path, 'r', encoding='utf-8') as f:
+            with open(file_path, 'r', encoding='utf-8-sig') as f:
                 data = json.load(f)
             return data
         except Exception as e:

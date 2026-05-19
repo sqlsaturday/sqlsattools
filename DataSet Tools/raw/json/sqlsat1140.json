@@ -1,0 +1,104 @@
+{
+  "event": "SeaQL 2026 - Brouwersdam, NL (#1140)",
+  "location": "Brouwersdam, Netherlands",
+  "eventDate": "2026-04-18",
+  "sessions": [
+    {
+      "time": "9:00 am",
+      "title": "Keynote: Building a Recession-proof Career in the New Era of an AI-Driven Economy",
+      "speaker": "Edwin M Sarmiento",
+      "type": "keynote"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "title": "Partitioning in Microsoft SQL Server: A Beginner's Guide",
+      "speaker": "Uwe Ricken"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "title": "Optimizing CI/CD for Hybrid and Cloud Environments with DevOps and AI",
+      "speaker": "Kellyn Gorman"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "60 min",
+      "title": "The log, the whole log and nothing but the log",
+      "speaker": "Mikael Wedham"
+    },
+    {
+      "time": "11:20 am",
+      "duration": "60 min",
+      "title": "Are you drunk SQL Server? Where did that estimate come from?",
+      "speaker": "Magnus Ahlkvist"
+    },
+    {
+      "time": "11:20 am",
+      "duration": "60 min",
+      "title": "SQL Injection \u2013 The Old Dog of Data Security",
+      "speaker": "Daniel Hutmacher"
+    },
+    {
+      "time": "11:20 am",
+      "duration": "60 min",
+      "title": "Database DevOps Safety Harness: Automating Data Quality Gates with Great Expectations and Soda",
+      "speaker": "Iain Dobson"
+    },
+    {
+      "time": "1:20 pm",
+      "duration": "60 min",
+      "title": "Choosing the Azure SQL DB tier, tales from the trenches",
+      "speaker": "Reitse Eskens"
+    },
+    {
+      "time": "1:20 pm",
+      "duration": "60 min",
+      "title": "Kerberos Authentication and SQL Server: A Deep Dive into Delegation",
+      "speaker": "Danny de Haan"
+    },
+    {
+      "time": "1:20 pm",
+      "duration": "60 min",
+      "title": "Custom Deployment DSLs: Writing Your Own Terraform/Bicep for SQL Server",
+      "speaker": "Sander Stad"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": "60 min",
+      "title": "Evaluating Data Compression in SQL Server: Performance, Trade-offs, and Internal",
+      "speaker": "Torsten Strau\u00df"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": "60 min",
+      "title": "SQL Server Change Management: From Ad\u2011Hoc Scripts to Automated CI/CD Pipelines",
+      "speaker": "Karim Ourtani"
+    },
+    {
+      "time": "2:40 pm",
+      "duration": "60 min",
+      "title": "Window functions in SQL Server - brush up your skills",
+      "speaker": "Thomas H\u00fctter"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "title": "SQL Server 2025 Optimized Locking",
+      "speaker": "Mladen Prajdic"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "title": "Analyzing a bunch of query plans with PowerShell",
+      "speaker": "Bart Vernaillen"
+    },
+    {
+      "time": "4:00 pm",
+      "duration": "60 min",
+      "title": "Automating SQL Permissions Scripting for Daily Audits and One-Click Deployment",
+      "speaker": "Danny Kruge"
+    }
+  ]
+}
+
