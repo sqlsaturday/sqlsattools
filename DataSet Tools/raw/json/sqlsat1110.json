@@ -1,0 +1,1973 @@
+{
+  "sessions": [
+    {
+      "id": "853829",
+      "title": "Become immediately effective with PowerShell",
+      "description": "IT pros, admins, and help desk staff, come learn ways to automate redundant tasks and manage your environment at scale. Do you keep hearing how all your IT problems can be solved with PowerShell, but don't know where to start or how to use the solutions already available?\r\n\r\nThis workshop teaches you how to become immediately effective in PowerShell.",
+      "startsAt": "2025-07-25T08:00:00",
+      "endsAt": "2025-07-25T15:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "98c55736-05a9-4338-b652-42c0d26518f7"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59777,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "876236",
+      "title": "Jumpstart Your Power BI Skills: A Handson Workshop",
+      "description": "Power BI is a powerful tool for building analytical solutions. But like any tool, getting started can be tough. In this one-day hands-on workshop, we’ll work through sample datasets and reports to help you get comfortable using Power Query, DAX, relationships, and modeling—the building blocks of solid Power BI reports.\r\n\r\nA laptop is a must.  More than half of this workshop will be hands-on, where you’ll build a report from scratch. You’ll pull in data from a source I’ll provide, clean and correct the data, and step through the process of creating a functional Power BI report. By the end of the session, you’ll have built something tangible that you can take with you and apply to your own work.\r\n\r\nThis practical, no-fluff session will cover:\r\n\r\n🔹 Getting Data into Power BI – Connecting to different data sources and cleaning messy data with Power Query  \r\n🔹 Building a Data Model – Setting up relationships, calculated columns, and learning basic DAX  \r\n🔹 Creating Reports & Dashboards – Designing clear, interactive visuals that actually help people make decisions  \r\n🔹 Publishing & Sharing – Understanding how to refresh and share your reports with others\r\n\r\nWho Should Attend?\r\n\r\n✔ Data Professionals – SQL Developers, Data Engineers, BI Analysts  \r\n✔ Business Analysts – Excel users who want to move beyond static spreadsheets  \r\n✔ Anyone looking for a practical way to start using Power BI\r\n\r\nWhat You’ll Need:\r\n\r\n Bring Your Laptop! This is a hands-on session. Please have Power BI Desktop (latest version) installed. No prior Power BI experience required, but basic familiarity with data concepts (like tables and filters) will help.\r\n\r\nBy the end of the day, you’ll have:  \r\n✅ Built your first Power BI report using real-world data  \r\n✅ A better understanding of Power Query, DAX, and modeling  \r\n✅ Resources to keep learning after the session",
+      "startsAt": "2025-07-25T08:00:00",
+      "endsAt": "2025-07-25T15:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6e0c6896-2a12-4221-8094-00278ede38c2"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59780,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "856057",
+      "title": "Hashing: The Cornerstone of Blockchain Security and Data Integrity",
+      "description": "In the digital world, ensuring data integrity and security is paramount, and one of the key tools used to achieve this is hashing. A hash function takes an input, such as a message or file, and returns a fixed-size string of bytes, typically a digest that appears random. This output, or hash value, is unique to each input, making it a fundamental building block in various areas of computer science, including data security, blockchain technology, and password storage. Programmatic hashing examples will be provided in Python.",
+      "startsAt": "2025-07-26T08:30:00",
+      "endsAt": "2025-07-26T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "91482dc8-2276-4a60-b941-89e4ff610f36"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59769,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "898502",
+      "title": "How to Diagnose a Slow Power BI Report",
+      "description": "Users complain that a Power BI report is so slow that it is not worth using. A Power BI report may not perform well for many reasons, but how do you know where to start? In this session, I will show you some of the main tools I use to dive deep into the common and the not-so-common performance issues I run into. Starting from a slow report, we will learn how to diagnose where the problem is. Beginning with Performance Analyzer in Power BI, we can start to figure out where the issue is. Is it the visual that is slow, or are the DAX queries taking too long? \r\n\r\nNext, we will use DAX Studio to tune the DAX queries that are being generated. Along the way, we will look beneath the visuals to see how Power BI is architected so we can better understand how to write better code from the start. We will examine Query Plans and Server Timings to evaluate which of our changes are more beneficial. \r\n\r\n Lastly, we will examine methods for detecting and preventing performance issues before they occur. Using Tabular Editor, we will learn how Best Practice Analyzer can detect performance issues with your semantic models.\r\n",
+      "startsAt": "2025-07-26T08:30:00",
+      "endsAt": "2025-07-26T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d532b4f5-d1b2-4ade-a340-7f09edc40599"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59771,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "866639",
+      "title": "Leadership Principles Uncovered...",
+      "description": "There are many Managers in this world and every once in a while we come across a leaders.  We will go on a Journey as to what is a leader and what we can do to improve our ability to stay ahead of the curve and become a better leader.",
+      "startsAt": "2025-07-26T08:30:00",
+      "endsAt": "2025-07-26T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9c6095d6-ebe1-4c5d-9fca-16116bf5f9cd"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59772,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "983423",
+      "title": "PowerShell Progression: From One-liners to Advanced Functions",
+      "description": "Join me as we explore the progression of PowerShell. Starting with a simple console command, we’ll show you how to enhance your scripts and transition to functions, culminating in an Advanced Function. Along the way, I'll share best practices to help you advance your PowerShell skills. This presentation is suitable for beginners and intermediate users.",
+      "startsAt": "2025-07-26T08:30:00",
+      "endsAt": "2025-07-26T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f2fc61c6-9544-46d4-8edd-e1e963be1421"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59773,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "923607",
+      "title": "Rapid Prototyping in the Age of AI",
+      "description": "AI has been a major factor in the field of Application Development. Now, with the ability to rapidly put something in front of a client, this changes the game completely. We'll talk through what that looks like and how to embrace this change.",
+      "startsAt": "2025-07-26T08:30:00",
+      "endsAt": "2025-07-26T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3c829226-e7b6-410f-93af-95c09d82d580"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59775,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "875809",
+      "title": "Business Continuity in Azure SQL Databases",
+      "description": "Azure SQL Database is a cloud-based relational database service that offers high availability, scalability, and performance for your applications. But what is the correct service tier when it comes to business continuity for your workload and budget? \r\n\r\nIn this session, you will learn about the differences and trade-offs between the General Purpose and Business Critical service tiers in terms of Failover Clustering, Always On Availability, and Zone-Redundant capabilities. Whether you are new to Azure SQL Database or an experienced user, this session will help you understand and leverage the business continuity options that Azure SQL Database offers.",
+      "startsAt": "2025-07-26T08:30:00",
+      "endsAt": "2025-07-26T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8bcd6206-abbb-4553-8805-120acb00f2d6"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59778,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "859921",
+      "title": "High speed failover Clustering with RDMA/ROCE with Hyper-v over converged multigigabit networks",
+      "description": "A session going over the design, Architecture and benefit of RDMA and ROCEv2 with Storage Spaces direct and hyper-v to create high speed, GPU accelerated desktops for end users.\r\nCluster nodes can be at different sites and local to the site.  Requires multi/gigabit converged Ethernet and QoS enabled switches.\r\nI have Visio diagrams, slide shows of specific screens.  Also includes demo of active system and install tips and tricks.",
+      "startsAt": "2025-07-26T08:30:00",
+      "endsAt": "2025-07-26T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3e135a04-60e3-4739-8b88-bdf5b2b36cab"
+      ],
+      "categoryItems": [
+        336525
+      ],
+      "questionAnswers": [],
+      "roomId": 59774,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "877283",
+      "title": "Streamlining DataOps in Fabric: Implementing Azure DevOps CI/CD Pipelines for Fabric SQL DB",
+      "description": "Ensuring efficient, consistent, and reliable deployment processes is crucial for maintaining robust, enterprise-ready data solutions. In this session, I will share insights on creating Continuous Integration and Continuous Deployment (CI/CD) pipelines using Azure DevOps for the Fabric SQL DB. Attendees will learn how to leverage Azure DevOps to streamline their development workflows, enhance collaboration, and ensure high-quality data delivery. By the end of this presentation, participants will have a comprehensive understanding of how to implement and optimize CI/CD pipelines to support their organization's data infrastructure needs.",
+      "startsAt": "2025-07-26T08:30:00",
+      "endsAt": "2025-07-26T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5c6782bc-7852-4986-b795-23c716942ca2"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59781,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "875359",
+      "title": "Identify Poorly Performing Queries - Three Tools You Already Own",
+      "description": "One of the first challenges you’ll face when you decide to address poor query performance is identifying which query you should focus on. While you can simply wait for the people using your application to complain, a more proactive approach will serve you better. This session will walk you through three different, built-in tools within SQL Server that can be used to identify poorly performing queries. We’ll focus on the ubiquitous Dynamic Management Views (DMVs) since you can use them anywhere. Then, we’ll talk about what’s possible in SQL Server 2012 and greater through the use of Extended Events. Finally, we’ll talk about how you can put Query Store to use if you’re working in SQL Server 2016 or greater. Between these three tools, you can better understand which queries you need to focus on to fix problems in your environment right away.",
+      "startsAt": "2025-07-26T09:40:00",
+      "endsAt": "2025-07-26T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3ee8f419-819e-4496-bfec-412f779eadab"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59769,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "870864",
+      "title": "Applying Forensic Accounting Techniques using SQL and Python",
+      "description": "Forensic accountants and fraud examiners use a range of techniques to uncover fraudulent journal entries and illegal activities. As data professionals, most of us will never unravel a Bernie Madoff scheme, but we can apply these same techniques in our own environments to uncover dirty data. This session will use a combination of SQL Server and Python to apply these fraud detection techniques, which include Benford's Law, outlier analysis, time series analysis, and cohort analysis.",
+      "startsAt": "2025-07-26T09:40:00",
+      "endsAt": "2025-07-26T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7c382501-a37f-49b7-bb28-eb7692995323"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59771,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "932870",
+      "title": "How to Manage Recruiters and Hiring Managers in the Job Search",
+      "description": "How to Manage Recruiters and Hiring Managers in the Job Search: A Recruiter's Guide to Negotiating, Nailing Interviews, and Speeding up Timelines to Land the Ideal Role\r\n\r\nIn this 60 minute session, I would cover general advice and specific case studies to help attendees learn how to navigate sticky situations including:\r\nManaging multiple interviews/competing offers\r\nGetting responses from unresponsive hiring managers\r\nGhosting from hiring managers or recruiters\r\nGiving requirements to recruiters that will actually result in them calling you with new opportunities\r\nSpeeding up a slow interview process\r\nGetting important but hard-to-ask questions answered in an interview\r\nNegotiating the best compensation in the offer stage\r\nDeclining an offer while keeping all bridges in tact\r\nQ&A for attendees' specific situations",
+      "startsAt": "2025-07-26T09:40:00",
+      "endsAt": "2025-07-26T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "de78fdd0-bd3d-446b-8a1f-bf41d644135e"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59772,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "866232",
+      "title": "Extending Power BI with Power Automate",
+      "description": "Automation is designed to simplify how you perform tasks every day.  You probably have noticed the Power Automate icon in the Power BI visualization pane, but probably struggle to understand how it works.  Believe it or not, there are some use cases that would streamline processes and make the process of managing your data easier.  \r\n\r\nIf you have ever wondered how you could integrate Power Automate with Power BI and Fabric, then this session is for you!  We will walk through the basics of Power BI actions within Power Automate, how to integrate these actions within a Power BI report, and review use cases that help you extend automation to simplify your life. \r\n\r\nAt the end of this session, you will feel comfortable with integrating Power Automate into your Power BI reports.  You will even learn about the only acceptable use case for exporting data into Excel from a Power BI report!",
+      "startsAt": "2025-07-26T09:40:00",
+      "endsAt": "2025-07-26T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1ee1778b-2efe-4a6f-afdd-2ecb86016da7"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59773,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "853826",
+      "title": "Learn the basics of Git and GitHub workflow",
+      "description": "In this presentation, I cover the essentials of setting up and configuring Git for efficient version control. I show how to install and use the posh-git module, a versatile Git integration for PowerShell. I illustrate the Git and GitHub Workflow, covering concepts like repositories, commits, and pull requests, and show how they all fit together. I discuss the process of forking a repository and cloning it to your local machine. This essential skill will enable you to contribute to projects and collaborate effectively with others.",
+      "startsAt": "2025-07-26T09:40:00",
+      "endsAt": "2025-07-26T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "98c55736-05a9-4338-b652-42c0d26518f7"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59775,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "863296",
+      "title": "Microsoft Fabric and Azure Health Data Services",
+      "description": "Bringing together diverse health data sources is essential for delivering healthcare solutions. Microsoft Fabric and Azure Health Data Services make it possible to integrate, manage, and analyze this data within a single platform to support patient care, claims processing, provider targeting, and more.\r\n\r\nFirst, we'll explore the challenges in accessing and harmonizing various healthcare data types, highlighting how gaps in information can limit effective claims management, provider targeting, and timely interventions.\r\n\r\nNext, we'll dive into how Fabric's advanced analytics capabilities enable the import and transformation of complex health datasets, including claims data and social determinants of health (SDOH).\r\n\r\nFinally, we'll cover Azure Health Data Services' tools for securely exporting and managing health data, enhancing patient outreach, and supporting analytics for provider performance and network optimization. We'll see how combining Fabric's analytics with these services supports proactive care management, efficient claims handling, and strategic provider targeting.\r\n\r\nAttendees will leave with a clear plan to use Microsoft Fabric and Azure Health Data Services for comprehensive healthcare data integration and analytics, enabling better patient care, improved claims processing, and effective provider engagement.",
+      "startsAt": "2025-07-26T09:40:00",
+      "endsAt": "2025-07-26T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6375582a-11f3-4a89-b783-6e5869a1a217"
+      ],
+      "categoryItems": [
+        336525
+      ],
+      "questionAnswers": [],
+      "roomId": 59778,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "868505",
+      "title": "Using Digital Forensics for Data Loss Prevention (DLP)",
+      "description": "In an era defined by pervasive digital interactions, safeguarding organizational data has become paramount. This session delves into the intricate realm of Digital Forensics and its pivotal role in fortifying Data Loss Prevention (DLP) strategies.\r\n\r\n Through a blend of practical insights and theoretical underpinnings, participants will be guided through the labyrinth of digital security threats(Steganography for instance). From the perils posed by intruders to the latent risks of disgruntled employees, we will illuminate the vulnerabilities that permeate modern computing environments.\r\n\r\nMoreover, attendees will gain firsthand knowledge of the arsenal of tools wielded by forensic experts to unearth clandestine activities. By demystifying the science behind digital investigations and infusing it with the artistry of forensic analysis, this session equips participants with actionable strategies to thwart data breaches and preserve organizational integrity.\r\n\r\n \r\nJoin us as we embark on a comprehensive exploration of Digital Forensics and its transformative potential in fortifying organizational resilience against the ever-evolving threat landscape of the digital age.\r\n\r\n \r\n\r\n \r\n\r\nPrerequisites:\r\n\r\nSome Database internals, some IT Security knowledge",
+      "startsAt": "2025-07-26T09:40:00",
+      "endsAt": "2025-07-26T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c572db74-9a9b-4626-b13f-bf5dc870b4c5"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59776,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "864826",
+      "title": "Modeling Software Development Problems in Time and Thinking Temporally",
+      "description": "\"What did our membership look like on January 15th of this year? How many customers were active last year at this time? How many are active today? We must run a trade-show day-only coupon from 8 am to 5 pm next week!\" These are real-world questions for a developer and data modeler. They are all easily answered using a Temporal Data Model. A Temporal entity changes over time, and business processes require the history and future of the item to be queried with ease. The following tech talk will provide a real-world use case and present the simplicity and power of temporally designed entities using SQL. You will despise \"Start Date\" and \"End Date\" after this talk.",
+      "startsAt": "2025-07-26T09:40:00",
+      "endsAt": "2025-07-26T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "82124ba0-88bc-47c8-857b-7be61b46fcc4"
+      ],
+      "categoryItems": [
+        336525
+      ],
+      "questionAnswers": [],
+      "roomId": 59781,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "972017",
+      "title": "Keynote - Artificial Intelligence: The Tale of Two Interns",
+      "description": "Dr. Davis explores the evolving role of AI in the technology field through an experience-driven comparison of two interns. We will discuss where AI shines, where it still falls short, and what this means for data professionals mentoring the next generation in an increasingly automated world. Whether you're skeptical or excited about AI, this session will challenge how you think about work, learning, and leadership in the age of intelligent machines.\r\n",
+      "startsAt": "2025-07-26T10:45:00",
+      "endsAt": "2025-07-26T11:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": true,
+      "speakers": [
+        "91482dc8-2276-4a60-b941-89e4ff610f36"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 59769,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "972995",
+      "title": "PrAIctical Engineering",
+      "description": "In today's dynamic tech environment, the integration of artificial intelligence (AI) into practical engineering frameworks is reshaping our approach to technology and collaboration. This discussion introduces the concept of \"PrAIctical Engineering,\" emphasizing a shift from building for certainty to building for verification and collaboration.\r\n \r\nWe'll cover various projects and applications, highlighting their roles in this innovative framework. Attendees will gain insights into the nuances of application-to-application interactions, focusing on the significance of structure and probability in creating reliable systems. These projects demonstrate the use of hard-lined schemas and dynamic processes to achieve emergent structures, exemplifying the balance between control and exposure in AI applications.\r\n \r\nThis discussion will also address the responsible use of AI and the critical role of human expertise in verifying AI-driven probabilities. By examining these frameworks, we aim to foster a collaborative environment where failure is anticipated and managed through verification, enhancing reliability and encouraging innovation in the face of uncertainty.\r\n \r\nJoin us as we delve into the practical engineering of AI technologies, offering a fresh perspective on collaboration and adaptability in today's tech landscape.",
+      "startsAt": "2025-07-26T11:20:00",
+      "endsAt": "2025-07-26T12:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4800f5d0-02d9-4361-8044-849257de5f2d",
+        "c9c4453c-a138-4566-8392-1ea2d9ea694e"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59769,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "874753",
+      "title": "Mastering Microsoft Fabric Data Warehousing: Tips & Tricks You Need to Know",
+      "description": "During this session, we’ll dive into a range of helpful tips and tricks that I wish I had known when starting out with Microsoft Fabric data warehouses. These insights are designed to save you time, optimize performance, and make managing your data warehouse more efficient.\r\n\r\nWe’ll start by exploring a clever trick to create a case-insensitive warehouse using a simple API call, a small adjustment that can have a significant impact on query consistency and usability. From there, we’ll tackle performance monitoring, focusing on identifying and addressing slow queries. You’ll learn how to leverage built-in tools and techniques to pinpoint bottlenecks and take corrective action.\r\n\r\nBut what happens when a rogue query threatens to cripple your capacity? Don’t worry, we’ll cover how to detect and kill capacity-destroying queries before they disrupt operations. This critical skill will ensure your data warehouse remains stable and responsive, even under heavy workloads.\r\n\r\nThroughout the session, I’ll share practical, real-world examples and actionable strategies to help you get the most out of Microsoft Fabric. Whether you’re new to data warehousing or looking to sharpen your skills, this session is packed with valuable insights you can start using immediately.\r\n",
+      "startsAt": "2025-07-26T11:20:00",
+      "endsAt": "2025-07-26T12:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "626abf83-6d24-46d4-9985-1905e8020596"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59771,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "870966",
+      "title": "Careers in IT Baton Rouge 2025",
+      "description": "Careers in IT will feature a panel of industry leaders and experts who directly interact with participants in a moderated question and answer session. This will allow participants to gain insight into what the IT community sees as valuable (skill-sets, certifications, experience, and etc) so that they can be better prepared for a career transition or to start work in the IT field for the first time.",
+      "startsAt": "2025-07-26T11:20:00",
+      "endsAt": "2025-07-26T12:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f3281bba-36d8-4f77-8910-0ecf9d9e0e0d"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59772,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "927368",
+      "title": "Don't Bash PowerShell",
+      "description": "Some administrators, especially those who come from a Linux background, try to use PowerShell like a Bash shell. While this will work, it is better to use the power behind PowerShell to accomplish what you are trying to accomplish. Let's take a look at some comparable commands and learn why the object model of PowerShell will make you more effective and able to accomplish more with less time and effort.",
+      "startsAt": "2025-07-26T11:20:00",
+      "endsAt": "2025-07-26T12:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f2fc61c6-9544-46d4-8edd-e1e963be1421"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59773,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "878750",
+      "title": "The Developer Testing Toolbox",
+      "description": "Software testing is a vital skill for any developer who wants to deliver high-quality, reliable software. This session will explore unit testing and more advanced topics, such as mocking, integration tests, and mutation testing. It will also show tools and packages that can help you automate your testing process and make it more productive. Now includes .NET Aspire examples!",
+      "startsAt": "2025-07-26T11:20:00",
+      "endsAt": "2025-07-26T12:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "098f2999-a5b9-4d1c-aa92-11c0fc5c815e"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59775,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "925285",
+      "title": "The Rise of AI Agents: What You Need to Know",
+      "description": "This session offers a technical introduction to AI agents—autonomous systems capable of perceiving, reasoning, and acting toward defined goals. We’ll break down the essential components of an AI agent, including planning, memory management, tool use, and feedback loops. The talk will also explore emerging architectures, multi-agent collaboration patterns, and future trends in agentic systems. A live demo will showcase a simple agent built with current frameworks to illustrate practical implementation.",
+      "startsAt": "2025-07-26T11:20:00",
+      "endsAt": "2025-07-26T12:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f4e0c0e2-0e49-487f-bf32-3d72a31df239"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59778,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "920854",
+      "title": "Automate Your Documentation with Local AI",
+      "description": "In this intermediate-level session, you'll discover how to use AI models running locally on your machine to take control of your documentation. We'll demonstrate how to leverage Ollama, a powerful tool for running large language models offline, to automatically generate and update README.md files and other documentation whenever changes are detected in your codebase.\r\n\r\nThrough a live demo, you'll see:\r\nSetting up a local AI model with Ollama\r\nCreating a script to generate documentation using AI\r\nIntegrating with Git to trigger updates on code commits\r\nWatching documentation update in real-time as changes are made\r\n\r\nThis session is ideal for tinkerers, hobbyist, developers who want to save time, ensure consistency, and eliminate the hassle of manual documentation. We'll also discuss other potential use cases and how you can adapt this approach to your own projects.",
+      "startsAt": "2025-07-26T11:20:00",
+      "endsAt": "2025-07-26T12:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a23aecdf-8161-4d9f-8388-4db52677998f"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59776,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "978597",
+      "title": "SQL Server 2025: an enterprise AI-ready database platform",
+      "description": "Come learn about the latest release of Microsoft SQL Server, SQL Server 2025, with AI built-in, powered by industry proven security, performance, and availability, and connected and integrated to Azure and Microsoft Fabric. SQL Server 2025 provides a unique opportunity to build AI applications on-premises only or connect to the cloud. Learn how AMD EPYC™ CPUs bring compelling performance and value to your SQL Server 2025 deployments and AI workloads.\r\n\r\n \r\n\r\nSQL is the only database to provide consistent AI capabilities ground to cloud to fabric. Come learn about all the new features of SQL Server 2025 including new capabilities specifically designed for the modern database developer.",
+      "startsAt": "2025-07-26T11:20:00",
+      "endsAt": "2025-07-26T12:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9d0a0d9d-bef7-40b6-a81a-ff09cdefa74e"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59774,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "926352",
+      "title": "README.md? We Can Do Better!",
+      "description": "The venerable README file has a long history going back to at least the 1970s. Nowadays, when all code lives on Github it is basically a standard. README files are great and we all encourage more use of them except...can we do better? In this session we'll explore some other supported README formats and make a recommendation that yes, indeed, we can.\r\n",
+      "startsAt": "2025-07-26T11:20:00",
+      "endsAt": "2025-07-26T12:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9e027d23-d265-4e69-bbff-2e4e9e6bc0f3"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59781,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "870167",
+      "title": "Building Scalable Data Warehouses with Microsoft Fabric:",
+      "description": "Learn how to design and implement scalable data warehouses using Microsoft Fabric. This session will cover best practices for data storage, management, and retrieval, as well as the use of Fabric's data warehousing features. Attendees will gain insights into creating efficient data pipelines, optimizing performance, and ensuring data consistency.",
+      "startsAt": "2025-07-26T13:40:00",
+      "endsAt": "2025-07-26T14:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ca07cc3f-5f86-4608-8251-9631e2da2f33"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59769,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "925105",
+      "title": "Cutting Through the Buzz: LLM, Agents, RAG, and GPT - Making Sense of Generative AI",
+      "description": "Join us for an introductory session about Generative AI! In this session, we will \"Cut Through the Buzz\" and demystify LLM, Agents, RAG, and GPT. We will discover how these technologies work behind the scenes with live demos in Databricks showcasing their practical applications. Whether you're new to AI or looking to expand your understanding, we'll dive into details and show you how to leverage these tools effectively. Join us to explore, ask questions, and leave with a clearer perspective on how Generative AI can transform your projects.",
+      "startsAt": "2025-07-26T13:40:00",
+      "endsAt": "2025-07-26T14:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b79fd52e-9d5f-4c73-b056-88b47aaf32dc"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59771,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "917463",
+      "title": "Röck Yoür Cäreer: Time-Tested Wisdom from a 30-Year Software Engineering Veteran",
+      "description": "Join me for an engaging and transformative conference session where I’ll share powerful insights from over three decades of experience as a software engineer, along with 18 years as a university educator. With a deep passion for empowering the next generation of tech professionals, I’ve maintained a thriving blog, authored multiple software engineering books since the ‘90s, and hold a patent for innovative technology solutions. Additionally, I’ve facilitated a dynamic, award-winning user group for more than two decades, fostering a community of lifelong learners and industry leaders.\r\n\r\nIn this session, I’ll provide a roadmap to success based on my rich career journey. You’ll gain practical advice on essential topics, including:\r\n•\tMastering effective learning strategies to stay ahead in an ever-evolving industry\r\n•\tAchieving the elusive work-life balance while thriving professionally\r\n•\tNavigating the conference circuit to build lasting connections\r\n•\tLeveraging your strengths and unique contributions for career advancement\r\n•\tPrioritizing well-being to fuel long-term success and happiness\r\n\r\nYou’ll leave with actionable steps to help you accelerate your career, make meaningful professional connections, and live a more fulfilling tech life. With a commitment to nurturing the growth of engineers and technologists, I’m here to inspire and guide you toward an exciting future. Bring your notebook, because this session is packed with game-changing advice that will shape your career for years to come. Get ready to be inspired, motivated, and optimistic about what’s next in your tech journey!",
+      "startsAt": "2025-07-26T13:40:00",
+      "endsAt": "2025-07-26T14:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9f65cf94-df17-447d-b1e0-6a0fb0eb92a5"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59772,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "927810",
+      "title": "Getting Super Geeky with PowerShell Notebooks - It's Easy!",
+      "description": "How easy is it for you to do things like share code with your teammates, get them to use your tools/scripts, or onboard new employees, especially if they may not be as experienced with PowerShell as you? \r\n\r\nGood news everyone, there's an easier way to do this!\r\n\r\nPowerShell can leverage Notebooks - self-contained files which can contain not only code, but previous executions of the code.  These notebooks can be hugely beneficial in easing the load of making sure that code works in different locations, including pipelines, and without worrying about things like a profile or extra pre-requisites outside of the code.\r\n\r\nAlthough these notebooks were primarily built for data science usage, as proficient PowerShell enthusiasts, we are used to being flexible with making tools work for how we need them to work.\r\n\r\nEven better, these notebooks also only need a platform with the capabilities of using their features, which for us is just VSCode and a simple extension.\r\n\r\nLet's show everyone how easy it is to edit & execute code, deal with self-contained variables, run these in a pipeline, and use this as a documentation & training tool.",
+      "startsAt": "2025-07-26T13:40:00",
+      "endsAt": "2025-07-26T14:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5a075a9b-b1bc-4318-b66e-68d2712849d1"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59773,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "923270",
+      "title": "Intro to Angular",
+      "description": "If you are new to Angular, or still working on an older version, then it’s time to catch up with Angular 19. In this session, we will review a simple Single Page Application (SPA) built with the Angular 19 framework, TypeScript and Bootstrap. We will also look at the Angular Command Line Interface (CLI), used to create and manage Angular applications.",
+      "startsAt": "2025-07-26T13:40:00",
+      "endsAt": "2025-07-26T14:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "dc255546-f784-4c01-be3c-9a5eff358233"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59775,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "902171",
+      "title": "SQL Server Hosting on AWS: Options and Considerations",
+      "description": "Are you planning to host SQL Server workloads on AWS or looking to optimize your existing deployment? This session provides a comprehensive overview of SQL Server hosting options on AWS and crucial considerations for successful implementation. We'll explore various deployment models including Amazon EC2, Amazon RDS for SQL Server, and AWS Managed Services, along with their respective benefits and trade-offs.",
+      "startsAt": "2025-07-26T13:40:00",
+      "endsAt": "2025-07-26T14:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6153a8dc-f68c-48de-9b2f-642c320c38fe",
+        "48cce932-82af-4eb9-8d78-d200511b0aba"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59778,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "876237",
+      "title": "Connecting Power BI to API using POST",
+      "description": "Power Query in Power BI provides access to a variety of data sources, including web pages.  Connecting to an API using an API (as in Restful API) is straightforward. You pass in a URL and you get a result. But many APIs require you to POST data and headers as part of the call to the API (eg. SPARQL requests).  How can you connect to such an API in Power Query?  I will demonstrate using a USA government API how easy it is to POST data and get the results.  This session focuses on creating the request and getting the data.  The sample report available for download will provide hints on how to parse the results.",
+      "startsAt": "2025-07-26T13:40:00",
+      "endsAt": "2025-07-26T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6e0c6896-2a12-4221-8094-00278ede38c2"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59776,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "856518",
+      "title": "Let’s Hack a Database",
+      "description": "Let's cover the basics of SQL Injections. This hands-on session shows how a cyber attacker can leverage misconfigurations to steal critical data from a web application. \r\n\r\nWe'll cover some other considerations and implementations to mitigate SQL security vulnerabilities.",
+      "startsAt": "2025-07-26T13:40:00",
+      "endsAt": "2025-07-26T14:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d2e1c175-b04a-4cec-b055-9e303b0fac97"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59774,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "855952",
+      "title": "Natural Language Queries with ASP.NET",
+      "description": "Imagine if your users could just ask your app for the data they want—no complex menus, no cryptic filters, and definitely no waiting on IT for a custom report. In this session, I'll demonstrate how I built a dynamic ASP.NET (ASPX) page that acts as a translator between human language and your database.\r\nWe'll walk through the end-to-end process:\r\n•\tNatural Language Request: An end user types a plain-English data question.\r\n•\tAI-Powered Translation: The request (plus a schema doc) gets sent to the LLM API, which generates SQL on the fly.\r\n•\tReal-Time Data Access: The app runs the generated query and displays live results—all in a matter of seconds!\r\nYou'll see how to wire up an ASP.NET front end to the OpenAI API, securely execute AI-generated SQL, and show results back to the user. \r\nWhether you’re curious about AI integration, tired of static reporting, or just want to see what happens when SQL meets GPT, this session is for you. Come with questions—maybe you’ll leave with fewer of them (and a lot more answers).\r\n",
+      "startsAt": "2025-07-26T13:40:00",
+      "endsAt": "2025-07-26T14:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "4fdf3fcd-0306-4bab-b21c-8ae47dfbc926"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59781,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "928162",
+      "title": "Secure Communication Protocol for Distributed Environments",
+      "description": "This presentation introduces a novel lightweight security protocol specifically designed for distributed environments with resource-constrained devices. As the IoT landscape expands toward 29 billion connected devices by 2030, traditional security protocols like TLS present significant limitations, consuming substantial portions of available RAM on constrained devices and increasing power consumption during handshakes.\r\nOur protocol optimizes cryptographic operations for IoT deployments where many devices operate with minimal RAM. The approach reduces handshake completion time to 78.4 milliseconds on resource-constrained devices—significantly faster than TLS 1.3 (132.7ms) and TLS 1.2 (187.5ms). Total message size averages just 826 bytes, representing a substantial reduction compared to TLS 1.3 (1,340 bytes) and TLS 1.2 (1,720 bytes), critical for bandwidth-constrained networks where transmission efficiency directly impacts power consumption.\r\nThe protocol demonstrates remarkable resource efficiency with lower memory usage (18.6KB vs. 27.3KB for TLS 1.3) and reduced CPU utilization (3.2% vs. 5.1% for TLS 1.3), addressing critical constraints in environments where security operations can represent a major portion of CPU utilization during cryptographic processing. Field testing confirms reduced energy consumption over TLS 1.3, extending battery life for the numerous IoT devices operating on batteries with expected 3-5 year lifespans.\r\nSecurity analysis confirms robust protection against all threat vectors in our model, with formal verification confirming security properties across 15,728 potential attack states. The protocol maintains a high successful handshake rate in environments with packet loss—crucial for field deployments experiencing network disruption during normal operation.\r\nThis presentation demonstrates how our protocol resolves the fundamental tension between security requirements and resource constraints in modern distributed environments, enabling secure communication without compromising device performance or battery life.\r\n",
+      "startsAt": "2025-07-26T14:00:00",
+      "endsAt": "2025-07-26T14:20:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c0c8ab19-e365-44ca-be50-3759647dca41"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59776,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "959098",
+      "title": "Squeezing the Apple for All Its Juice",
+      "description": "An introduction to OpenCore Legacy Patcher, a boot loader that enables older, unsupported Macs to run the latest macOS. Apple has an intentionally short support window for their machines and just announced that macOS 26 Tahoe will be the last to include support for Intel Macs. Unfazed, OCLP stands by, ready to breathe new life into your old dusty Macs occupying the far corners of your closet.",
+      "startsAt": "2025-07-26T14:20:00",
+      "endsAt": "2025-07-26T14:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "427fae91-18ff-4f5e-9b9c-065f812c89c9"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59776,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "913156",
+      "title": "Common SQL Server Mistakes and How to Avoid Them",
+      "description": "Making mistakes is natural, but learning from them and avoiding them in future takes effort. There's no substitute for experience or the shared wisdom of others to help you learn what mistakes to avoid. In this session, Tim will share with you a ton of what he's learned over the years from working and consulting at multiple Fortune-level companies. You'll hear about real-world environments he has worked on where there was a high impact from administrators making mistakes in how SQL Server was configured and administered. You'll learn many proven and accepted best practices for installing, configuring and supporting SQL Server to help your environment run as smoothly as possible and you'll leave with a checklist of items to take home to make sure your SQL Server environment is configured properly.",
+      "startsAt": "2025-07-26T14:45:00",
+      "endsAt": "2025-07-26T15:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fa3302e2-47b7-45c3-9c32-fae1fe636a35"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59769,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "897236",
+      "title": "Unlocking Insights using Natural Language on Databricks Genie Spaces",
+      "description": "This session will introduce attendees to Genie Spaces, Databricks' innovative solution for transforming natural language questions into actionable data insights. \r\n\r\nParticipants will learn how to configure a Genie Space by integrating datasets, crafting sample queries, and writing powerful instructions to guide AI understanding. \r\n\r\nDiscover how Genie Spaces utilize table metadata, SQL functions, and previous interactions to generate meaningful responses. \r\n\r\nWe will also explore real-world use cases, best practices for creating effective spaces, and how Genie continuously improves through user interactions.\r\n\r\nTarget Audience: Business users, data analysts, and IT professionals interested in leveraging AI-driven data analytics without extensive coding knowledge.",
+      "startsAt": "2025-07-26T14:45:00",
+      "endsAt": "2025-07-26T15:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b101c900-b697-4707-a456-ccae1eff7f68"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59771,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "910969",
+      "title": "Tales from the SWAMP: Navigating the Murky Waters of Project Management",
+      "description": "TOPIC DESCRIPTION \r\n\r\nGet ready to experience project management through a unique lens of the mysterious and mystical Louisiana swamps! Just like a daring expedition into the unknown, project management often feels like wading through waist-deep mud, encountering unexpected obstacles at every turn. But fear not! By integrating the timeless structure of the Hero's Journey and the project management knowledge domains, we'll uncover how to emerge victorious from the depths of the swamp, armed with the tools to conquer any project-related challenge that lurks in the shadows. So, grab your virtual mosquito repellent and prepare to go on an unconventional and uproarious expedition! Together, we'll discover that with a dash of humor, a sprinkle of storytelling, and a whole lot of project management prowess, we can emerge from the swamp unscathed and ready to conquer any challenge that slithers our way! \r\n\r\nLearning Objectives\r\nNavigate the Unknown: Recognize the parallels between project management and the Hero’s Journey to manage uncertainty with confidence.\r\n\r\nTame the Swamp Beasts: Analyze project challenges using PM knowledge domains to build resilience and readiness.\r\n\r\nPack the Right Gear: Apply storytelling as a tool for effective communication and stakeholder engagement.\r\n\r\nFind the Hidden Path: Translate swampy setbacks into strategic success through adaptive project management approaches.\r\n\r\nReturn Transformed: Build confidence and capability to lead projects with humor, creativity, and grit.",
+      "startsAt": "2025-07-26T14:45:00",
+      "endsAt": "2025-07-26T15:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f0dd5d75-4552-4c74-96fa-7b709bad7e8d"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59772,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "915937",
+      "title": "Mastering Cursor: We're All Cooked (But in a Good Way)",
+      "description": "Cursor represents the future of software development. Instead of writing every line of code yourself, you’ll be more like a master chef, calling the shots, directing your AI sous-chefs, and orchestrating the entire kitchen to bring your ideas to life. In this session, I’ll show you how I’m using Cursor to build real, production-level applications by leveraging its most powerful capabilities, including custom rules and the Model Context Protocol (MCP).\r\n\r\nWhether you’re new to Cursor or think you’ve seen it all, I promise there’ll be at least one moment where you’ll say, “Wait… it can do that?”\r\n\r\nThis talk is equal parts technical deep dive and creative inspiration. Bring your curiosity, your questions, and your appetite for what’s next, because by the end of this session, we’ll all be just a little more “cooked”… and that’s a good thing.",
+      "startsAt": "2025-07-26T14:45:00",
+      "endsAt": "2025-07-26T15:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e1f2fced-f077-4b12-b987-68143304cfb4"
+      ],
+      "categoryItems": [
+        336525
+      ],
+      "questionAnswers": [],
+      "roomId": 59773,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "886220",
+      "title": "SQL Server Configuration Best Practices",
+      "description": "Ever wondered why SQL Server can be slow when the engine is just installed and left at default settings? Ever wonder what goes into figuring out what to set the settings to and which ones to change? This session will take you through many settings that I would change and what they do to get SQL Server running better. The best part is you will get an explanation of each of the settings and why they should change. I will cover the engine, OS, TempDB, features, Database Settings and as much as we can cram into 60 mninutes. Join me for a fast paced very informative session that you can use NOW. See you there.",
+      "startsAt": "2025-07-26T14:45:00",
+      "endsAt": "2025-07-26T15:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9d0a0d9d-bef7-40b6-a81a-ff09cdefa74e"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59775,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "912884",
+      "title": "Managing SQL Server with Azure Arc Unleashed",
+      "description": "Take control of your SQL Server investment - wherever it lives! \r\n\r\nIn this session, we’ll dive into the power of SQL Server enabled by Azure Arc, bringing Azure’s management capabilities to your on-premises, edge, and multicloud environments. \r\nDiscover how to unify your SQL Server instances under one Azure-powered roof, from data centers to retail edge sites, with centralized inventory, security, and governance—all powered through automatic connectivity.\r\n\r\nWe’ll unpack features like SQL Server auto-registration with Azure Arc via the Azure Arc agent, supporting both direct and proxy connectivity modes for ultimate flexibility. Explore Microsoft Entra ID authentication for next-level security, Microsoft Defender for Cloud to squash security vulnerabilities, and pay-as-you-go licensing to tame dynamic workloads. \r\n\r\nLearn how to effortlessly connect and manage monster SQL Server deployments - across Windows and beyond. This session will give practical insights, real-world scenarios, and best practices to drive your hybrid SQL Server strategy.\r\n\r\nTop Takeaways: \r\n* How to centralize management of SQL Server across hybrid and multicloud setups \r\n* Steps to lock down security with Microsoft Entra ID and Defender for Cloud \r\n* Assess Azure migration readiness leveraging SQL Server enabled by Azure Arc \r\n* Monitoring and governing SQL Server deployments\r\n* Manage licensing and billing of SQL Server enabled by Azure Arc\r\n* Leveraging Best Practices Assessment for SQL Server enabled by Azure Arc\r\n",
+      "startsAt": "2025-07-26T14:45:00",
+      "endsAt": "2025-07-26T15:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "55407a4b-1adf-4899-9a48-44856fb421ae",
+        "2bbd1b60-4b25-4898-85bb-9dc1966c7375"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59778,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "984321",
+      "title": "CRZYFUN with 1000's of APIs",
+      "description": "In this rapid-fire session, we’ll spotlight brilliant system and software architecture strategies that make managing thousands of APIs not just possible—but powerful. From modular design to resilient integration patterns, discover how top architects tame complexity, boost performance, and future-proof their ecosystems in minutes.",
+      "startsAt": "2025-07-26T14:45:00",
+      "endsAt": "2025-07-26T15:05:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e901d094-307e-48c3-984f-be0d220c0c56"
+      ],
+      "categoryItems": [
+        336525
+      ],
+      "questionAnswers": [],
+      "roomId": 59776,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "854588",
+      "title": "Narrative as a Design Tool",
+      "description": "This session explores the power of storytelling as a design tool, showing how narrative can create more meaningful and engaging user experiences. \r\n\r\nBy integrating storytelling into the design process, designers can provide context, clarify complex processes, and align stakeholders around a shared vision. Storytelling fosters empathy, streamlines decision-making, and encourages collaboration throughout development. Participants will learn key strategies for crafting compelling narratives, including understanding audience goals, using techniques like mind mapping and storyboarding, ensuring a strong narrative flow, and incorporating feedback for continuous improvement. \r\n\r\nAdditionally, the session emphasizes the importance of developing rich, relatable personas that ground the design in real-world user concerns and values.",
+      "startsAt": "2025-07-26T14:45:00",
+      "endsAt": "2025-07-26T15:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5706e39d-8684-41d1-8841-cf2f6c07e20f"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59774,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "904405",
+      "title": "The T-SQL JSON Operators",
+      "description": "Officer Reese, someone got semi-structured data in my relational! No worries; let's look at the various T-SQL functions we can use to query and create JSON data within SQL Server!  Some of these functions are new for SQL Server 2022 and Azure SQL.",
+      "startsAt": "2025-07-26T14:45:00",
+      "endsAt": "2025-07-26T15:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "79cd03cd-e20d-431d-89e4-b88ba17c0d52"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59781,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "859245",
+      "title": "Getting Started Getting Started with Containerization",
+      "description": "Containerization know-how is undoubtedly one of the most important skills for anyone in a software engineering role. In my 10+ years of internal and external consulting, I've taught and coached engineers of all flavors (software, quality, site reliability, product, and more) on how to use containerization to build, test, and run code in modern cloud-native environments. To use containerization effectively, you need to understand how to run products like Docker and also how they work both on your machine and in the cloud.\r\n\r\nIn this talk, we'll introduce an easy mental model for understanding how containerization works at a conceptual and technical level, demonstrate why and how it is an important strategy to apply to your software development lifecycle, and show examples of how containerization is being used on engineering computers, cloud providers, edge devices, and more. Whether you are starting your containerization journey or have a team you want to shift into modern cloud-native software development, this talk will provide you with the talking points and materials you need to push and pull your way through!",
+      "startsAt": "2025-07-26T15:05:00",
+      "endsAt": "2025-07-26T15:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8cb67000-0a58-43ff-876b-e5a11cc954f9"
+      ],
+      "categoryItems": [
+        336523
+      ],
+      "questionAnswers": [],
+      "roomId": 59776,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "859224",
+      "title": "Agentic AI in Construction – Transforming the Industry with Intelligent Solutions",
+      "description": "The rapid evolution of Artificial Intelligence (AI) is reshaping industries at an unprecedented pace, and the construction sector is no exception. This paper explores the growing role of Agentic AI in construction, emphasizing its potential to enhance efficiency, streamline workflows, and drive intelligent decision-making. Unlike traditional AI, Agentic AI systems proactively initiate actions, plan strategically, adapt through continuous learning, and collaborate with other agents to address complex construction challenges.\r\n\r\nThe study delves into key applications of Agentic AI in construction, including contract management, compliance verification, document processing, procurement optimization, labor productivity tracking, scheduling, and predictive analytics. These intelligent agents can autonomously manage tasks such as dynamic project scheduling, real-time risk assessment, issue resolution, and resource allocation—reducing delays, minimizing costs, and improving project outcomes.\r\n\r\nFurthermore, we explore how Agentic AI integrates multimodal data from various sources (text, images, 3D models, IoT sensors) to provide granular insights into construction operations. This capability enables more accurate forecasting, efficient material delivery planning, automated compliance monitoring, and adaptive learning to continuously improve processes over time.\r\n\r\nBy embracing Agentic AI, construction firms can unlock new levels of operational efficiency, enhance decision-making, and foster a culture of innovation. This presentation offers key takeaways on how technology leaders can leverage Agentic AI to gain a competitive advantage and drive the digital transformation of the construction industry.",
+      "startsAt": "2025-07-26T15:25:00",
+      "endsAt": "2025-07-26T15:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5dfd143e-2545-4b65-893e-3eb0765ae5ae"
+      ],
+      "categoryItems": [
+        336524
+      ],
+      "questionAnswers": [],
+      "roomId": 59776,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    }
+  ],
+  "speakers": [
+    {
+      "id": "2bbd1b60-4b25-4898-85bb-9dc1966c7375",
+      "firstName": "Abdullah",
+      "lastName": "Mamun",
+      "bio": "Abdullah Mamun is a program manager at Microsoft with a deep expertise in the SQL Server engine space. With more than 19 years of experience in the field, Mamun has established himself as a leading authority on SQL Server features and troubleshooting. In his role at Microsoft, Mamun is responsible for overseeing the development of key SQL Server features and ensuring that they meet the needs of broad SQL Server customer base. Abdullah is also a well-respected speaker in the SQL Server community, having presented at numerous industry events such as Live 360, SQL Saturdays. ",
+      "tagLine": "Program Manager at Microsoft SQL Server Storage Engine ",
+      "profilePicture": "https://sessionize.com/image/71a7-400o400o1-XZnVnCkVWLsnC88HPQgaJ9.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        912884
+      ],
+      "fullName": "Abdullah Mamun",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6153a8dc-f68c-48de-9b2f-642c320c38fe",
+      "firstName": "Alvaro",
+      "lastName": "Costa-Neto",
+      "bio": "Alvaro Costa-Neto is a Senior Database Specialist Solutions Architect for AWS, where he helps customers design and implement database solutions on the cloud. He has a passion for database technologies and has been working with them for more than 20 years, mostly with Microsoft SQL Server and other Open-Source engines.",
+      "tagLine": "Database Specialist Solutions Architect at Amazon Web Services (AWS)",
+      "profilePicture": "https://sessionize.com/image/095c-400o400o1-SjPcEVLDJ49reBdn5aUQFo.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        902171
+      ],
+      "fullName": "Alvaro Costa-Neto",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "de78fdd0-bd3d-446b-8a1f-bf41d644135e",
+      "firstName": "Ava",
+      "lastName": "McClain",
+      "bio": "Ava McClain has been embedded in the technical recruiting space within Louisiana since 2018 and has monitored the drastic shifts in the job market locally and nationwide throughout that time. \r\nAs a leading figure in Tekchix, one of the leading recruiting agencies in Louisiana, Ava has partnered with mid to large sized companies with local and nationwide presences. She is eager to share her insight with local talent to ensure that every IT professional can feel empowered in their career. ",
+      "tagLine": "Lead Technical Recruiter for Tekchix, IT Recruiting & Talent Agency",
+      "profilePicture": "https://sessionize.com/image/4625-400o400o1-Y9T93vJYaWnKu1M54FiYnb.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        932870
+      ],
+      "fullName": "Ava McClain",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9d0a0d9d-bef7-40b6-a81a-ff09cdefa74e",
+      "firstName": "Ben",
+      "lastName": "Miller",
+      "bio": "Ben Miller, aka @dbaduck, is a seasoned database professional with over 20 years of experience in SQL Server, PowerShell, and automation. As a passionate advocate for efficiency and innovation, Ben specializes in empowering IT professionals and DBAs to harness the power of PowerShell for database and server management.\r\n\r\nA Microsoft Data Platform and PowerShell MVP, speaker, and community contributor, Ben has a knack for breaking down complex topics into practical, actionable insights. When he’s not automating workflows or sharing his knowledge, you’ll find him engaging with the #SQLFamily or exploring new tech to help others work smarter.\r\n\r\nFollow Ben on all Social Media (@dbaduck) and dive into the world of automation and database magic with him!",
+      "tagLine": "DBAduck",
+      "profilePicture": "https://sessionize.com/image/ac83-400o400o1-HBCjxAH55Wn8hnb7wytZgZ.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        978597,
+        886220
+      ],
+      "fullName": "Ben Miller",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e1f2fced-f077-4b12-b987-68143304cfb4",
+      "firstName": "Brian",
+      "lastName": "Davis",
+      "bio": "Brian Davis is a seasoned technology leader, passionate innovator, and engaging speaker on a mission to make AI practical and useful from day one. As the Executive Director of Strategic & Academic Technology at LSU Online & Continuing Education, he leads high-impact tech initiatives that push the boundaries of digital learning.\r\n\r\nHe’s also the Founder of 3Wrkz, an enterprise AI solutions firm and official implementation partner of Glean. With over 20 years of experience in custom software development and tech leadership, Brian helps organizations harness the full potential of generative AI, focusing on real-world use cases that drive productivity and empower teams to do their best work.\r\n\r\n\r\nHis sessions are known for live demos, no-fluff insights, and practical examples you can take straight back to your own codebase. Whether you're building apps, automating workflows, or exploring what’s next, Brian brings clarity, creativity, and a contagious excitement for what AI can unlock.",
+      "tagLine": "Tech Leader at LSU. Founder of 3Wrkz. Obsessed with building useful AI.",
+      "profilePicture": "https://sessionize.com/image/ab3f-400o400o1-a7SktsJYkYxbb1d5Hx9WAs.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        915937
+      ],
+      "fullName": "Brian Davis",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c9c4453c-a138-4566-8392-1ea2d9ea694e",
+      "firstName": "Bryan",
+      "lastName": "Fuselier",
+      "bio": "Bryan has been in IT and software development for 30 years. Bryan has experience ranging from standing up a datacenter hosting virtual infrastructure to building applications across a range of platforms and quite a few things in between. Bryan is currently running the Agile Prototyping Team in the Emerging Technologies Practice where his team is responsible for producing rapid prototypes and POCs to show government agencies how emerging technologies can further their missions.",
+      "tagLine": "Director of Agile Prototyping at CGI Federal",
+      "profilePicture": "https://sessionize.com/image/4f7e-400o400o1-3xAfMvUmQ77Dn1xC79Wmwn.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        972995
+      ],
+      "fullName": "Bryan Fuselier",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "82124ba0-88bc-47c8-857b-7be61b46fcc4",
+      "firstName": "Calvin",
+      "lastName": "Fabre",
+      "bio": "Calvin is the founder and CEO of Envoc (pronounced: \"invoke\"), a 45-person radically creative software development and hosting firm. He also co-founded LA Wallet, the first legal digital driver's license app in the United States. \r\n\r\nCalvin graduated from Southeastern Louisiana University in Computer Science and did graduate work studying world religions, philosophy, and apologetics at Southern Evangelical Seminary in North Carolina. He enjoys math problems, word problems, moral dilemmas, and is currently 31 months clean of political social media engagement. His public speaking gigs include Louisiana schools, universities, and church youth groups speaking about technology, digital identity, public safety, company culture, and theology.  Envoc has made the Best Places to Work in Baton Rouge list for seven years in a row. Calvin has no exit strategy from his current position in technology, because after all: Why would he quit doing what he loves? \r\n",
+      "tagLine": "Founder | CEO | Speaker | Digital Identity | Insights to Impact",
+      "profilePicture": "https://sessionize.com/image/2cea-400o400o1-GvKuetNEzWuXaNVoMcg7ap.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        864826
+      ],
+      "fullName": "Calvin Fabre",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "48cce932-82af-4eb9-8d78-d200511b0aba",
+      "firstName": "Chetan",
+      "lastName": "Nandikanti",
+      "bio": "Chetan Nandikanti is a Senior Database Specialist Solutions Architect at Amazon Web Services based out of Grapevine, Texas. He works with our customers to provide assistance with designing, migrating, and optimizing database solutions on AWS, including integrating operational data with Storage, Analytics, and AI/ML services.",
+      "tagLine": "Database Specialist Solutions Architect at Amazon Web Services (AWS)",
+      "profilePicture": "https://sessionize.com/image/e7c5-400o400o1-f2MSRpEVe8j2aXozwfPNvv.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        902171
+      ],
+      "fullName": "Chetan Nandikanti",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "3e135a04-60e3-4739-8b88-bdf5b2b36cab",
+      "firstName": "Christopher",
+      "lastName": "Long",
+      "bio": "IT Consultant/Engineer who started out in the break fix contract market.  During my career I have studied, earned certifications and worked to develop myself into the IT Engineer and Manager I am today.  My experience includes extensive work with Novell, Windows, Exchange, and SQL migrations, installations, support, and maintenance.  I have personally consulted, designed, sold, managed and implemented well over 300 migration projects for Exchange, SQL server, Active Directory versions ranging from NT 3.51 to Windows 2019.  As an IT Architect and Engineer I possess an understanding of technology and how it plays a role in today's business to be an investment, not a liability and in a manner that can be quantified.  My role is usually that of \"When no one else can fix it, and we don't know what else to do, call Christopher, he'll get it done.\"  That is my brand of service:  A robust troubleshooting methodology that does not depend on simply looking for answers on google.com.  I apply my developed troubleshooting formula to solve problems relying on my own deep knowledge of the systems I work with.\r\n\r\nI have held IT Management positions in at multiple levels, in multiple companies.  My time has been marked as a respected and effective leader who maintains an open door policy and rather uplifts his employees with incentives instead of just \"cracking the whip\" all day.\r\n\r\nTechnology is my passion.  I have always known that \"computers\" is where I wanted to be.  In essence and with some misgivings, each job I have had has been a pleasure to learn and grow from.  When I took it upon myself to read the GWBASIC reference manual at 10 years old and taught myself how to \"hack\" my games and then start writing my own, I knew this is what I wanted to do with my life.\r\n\r\nIt's not all computers and business however.  I'm also an avid SCUBA diver, a frequent gym goer and I also enjoy live music, salt water fishing and of course, video games.",
+      "tagLine": "IT Systems Engineer, DSLD Homes",
+      "profilePicture": "https://sessionize.com/image/c3ee-400o400o1-DvWsTZvYtMKmSwZETFW2LC.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        859921
+      ],
+      "fullName": "Christopher Long",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "4800f5d0-02d9-4361-8044-849257de5f2d",
+      "firstName": "Cory",
+      "lastName": "Murray",
+      "bio": null,
+      "tagLine": null,
+      "profilePicture": null,
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        972995
+      ],
+      "fullName": "Cory Murray",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9f65cf94-df17-447d-b1e0-6a0fb0eb92a5",
+      "firstName": "David",
+      "lastName": "McCarter",
+      "bio": "David McCarter is a highly experienced software engineer, author, and speaker who has been in the industry for over 20 years. He is a Microsoft MVP (Most Valuable Professional), solutions architect, Code Quality Zar, consultant, professional code reviewer, and editor-in-chief of dotNetTips.com.\r\n\r\nAs a prolific writer, David has contributed to programming magazines and published several books, including \"Rock Your Code: Coding Standards for Microsoft .NET\", \"Rock Your Code: Code and App Performance for Microsoft .NET\", and \"Rock Your Career: Surviving the Technical Interview\" available on Amazon.com. He is also a featured writer on the C# Corner website, where his articles have been read over 1.6 million times.\r\n\r\nDavid is a sought-after speaker, known for his engaging and informative talks on programming and technical interviewing at user groups, colleges, high schools, and conferences such as NDC Conferences, BuildStuff, DevConnections, Copenhagen Developers Festival, C# Corner Conference (India), Code Camp, SQL Saturday, VSLive and many others. He also taught at the University of California San Diego for 18 years and runs his own software consulting company, McCarter Consulting. You can find upcoming speaking engagements by going to: http://bit.ly/dotnetdaverocks.\r\n\r\nDavid hosts the weekly show Rockin' the Code World with dotNetDave on the Internet, where he interviews top tech leaders on their current passions and answers questions from viewers. He also hosts the Code Quality & Performance conference on C# Corner Live, which reaches over 65,000 software engineers.\r\n\r\nDavid is a co-founder and director of the San Diego .NET Developers Group and has won the INETA Community Excellence Award for his involvement in the .NET community. He is also an inventor of a software printing system that was approved by the US Patent Office in May 2008.\r\n\r\nIn addition to his technical work, David is an award-winning photographer and guitarist and has worked with bands such as Queensryche, Buckcherry, Geoff Tate, Eric Johnson, Lit, Gary Hoey, P.O.D., and many others.\r\n\r\nOverall, David is a multifaceted professional with a wealth of knowledge and experience in software engineering, writing, speaking, photography, and music.\r\n\r\nHis Microsoft MVP profile is located at: http://bit.ly/davidmvp\r\nHis GitHub repo is located at: https://github.com/RealDotNetDave\r\nHis NuGet packages are located at: https://www.nuget.org/profiles/davidmccarter",
+      "tagLine": "Microsoft MVP (Developer Technologies), Software Architect, Speaker, Trainer, Inventor, Mentor & Host of Rockin’ the Code World show",
+      "profilePicture": "https://sessionize.com/image/4c35-400o400o1-Dc7PTtV9MGjnw7z25BcxW7.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        917463
+      ],
+      "fullName": "David McCarter",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "55407a4b-1adf-4899-9a48-44856fb421ae",
+      "firstName": "David",
+      "lastName": "Pless",
+      "bio": "David Pless is a Principal Program Manager in Azure Data, based in CentralFlorida with over twenty years of experience in data technologies. David has been with Microsoft since 2006 and is currently responsible on Azure SQL Virtual Machines with a focus on sizing, performance, and storage. David has supported on SQL Server performance tuning and optimization, Azure Data technologies, Power BI and SQL Server Reporting Services, and High Availability solutions. \r\n\r\nAt Microsoft, David has worked as a Technology Specialist as well as a Premier Field Engineer in Customer Support Services. \r\n\r\nBefore Microsoft, David Pless was a MCS partner consultant and a Database Administrator in Atlanta, Georgia.  \r\n \r\nDavid is a Microsoft Certified Master (MCM) and has spoken a SQLSaturdays, SQLPASS, SQLintersection, Tech Ready, and regularly speaks at the local user groups in the Southeast. ",
+      "tagLine": "Principal Program Manager - Microsoft Corporation",
+      "profilePicture": "https://sessionize.com/image/a77a-400o400o1-GfEBRu8meUGJmPtBySAQAK.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        912884
+      ],
+      "fullName": "David Pless",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1ee1778b-2efe-4a6f-afdd-2ecb86016da7",
+      "firstName": "Dominick",
+      "lastName": "Raimato",
+      "bio": "Self-identified as a data nerd, Dominick Raimato has had a huge passion for identifying insights and building solutions.  You never know what kind of data projects he might be working on such as tracking temperature and humidity trends in his house to building a database of property assessments to make sure his house is in line with other properties to avoid overpaying taxes.  Passionate about people, Dominick strives to create solutions that not just help achieve business objectives, but also make people’s lives better.  If he can help someone get home earlier to eat dinner with their family or eliminate time consuming tasks so they can focus on more important things, he is in his element. \r\n\r\nDominick currently lives in Bergen County, NJ where he can be found around the house working on projects or cooking in the kitchen.  His specialty dishes include his homemade meat sauce in the winter and pulled pork bar-b-que on his smoker during the summer.  He also ventures into New York City frequently to see his wife perform as a flutist with small ensembles, orchestras, and theaters.",
+      "tagLine": "Power Platform Solutions Architect",
+      "profilePicture": "https://sessionize.com/image/4318-400o400o1-HrMMRtJSNsg5qNGq29uFSx.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        866232
+      ],
+      "fullName": "Dominick Raimato",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b79fd52e-9d5f-4c73-b056-88b47aaf32dc",
+      "firstName": "Doug",
+      "lastName": "Leal",
+      "bio": "Enterprise Architect with 25+ years of experience delivering data-centric solutions, including big data, cloud, analytics, and data engineering strategies in both enterprise and consulting capacities. Proven expertise in Azure Cloud, Databricks, MLFlow, and Spark, driving scalable and efficient data solutions. A trusted advisor in enterprise data architecture for both existing and new platforms; Databricks Champion for CGI. Passionate about machine learning and leveraging advanced analytics to drive business value.",
+      "tagLine": "· VP Consulting, Data & Analytics at CGI     ·  Adjunct Professor at Seminole State College of Florida",
+      "profilePicture": "https://sessionize.com/image/d0c6-400o400o1-N7HajcGAAT4sJKTh7iJoYY.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        925105
+      ],
+      "fullName": "Doug Leal",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e901d094-307e-48c3-984f-be0d220c0c56",
+      "firstName": "Doug",
+      "lastName": "Lubey",
+      "bio": "I specialize in leveraging data analytics to enhance service excellence. As an experienced Information Technology Leader, I bring a rich tapestry of skills in team development, datacenter and AWS cloud operations, DevOps, software automation, and business analytics. My career is highlighted by a series of successful projects, each underscoring my commitment to delivering immediate value. I excel in harnessing data to craft outstanding products, orchestrating cross-functional teams to surpass expectations. Results are amazing when we create a balance between work and life.",
+      "tagLine": "CRZYFUN",
+      "profilePicture": "https://sessionize.com/image/97ba-400o400o1-US4o2HhNpMEfmS8eg2ndvr.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        984321
+      ],
+      "fullName": "Doug Lubey",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5dfd143e-2545-4b65-893e-3eb0765ae5ae",
+      "firstName": "Dr. Srikanth",
+      "lastName": "Bangaru",
+      "bio": "Srikanth Bangaru is a Director of Construction Technology at Inncircles Technologies Inc. Before joining Inncircles Technologies, Srikanth worked in the construction industry as a data scientist, scheduler, and project controls coordinator. He earned his doctoral degree in Engineering Science with a focus on Construction Management from Louisiana State University. ",
+      "tagLine": "Director of Construction Technology at Inncircles Technologies Inc.",
+      "profilePicture": "https://sessionize.com/image/7270-400o400o1-nW81LkpnG5wYs1gc6BWz1p.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        859224
+      ],
+      "fullName": "Dr. Srikanth Bangaru",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8cb67000-0a58-43ff-876b-e5a11cc954f9",
+      "firstName": "Garo",
+      "lastName": "Yeriazarian",
+      "bio": "Born and raised in the ever-expanding Greater Houston Area, Garo has been messing with software for at least 29 years, writing it for money for about 20 years, and loving every clock cycle of it. He has worked as *the* Software Whisperer for Baker Hughes, leading software teams, conducting design reviews, and coaching people on how to put the 0's and 1's in a close enough order to make things work. Later, he was a Principal Consultant at Headspring, making silky smooth software and spreading mirth and merriment. Currently, he is a Senior Software Whisperer (and Senior Manager) at Accenture, learning and doing software at a global scale.",
+      "tagLine": "Software Whisperer, Accenture",
+      "profilePicture": "https://sessionize.com/image/2eee-400o400o1-Q7KKCspU52qtGHTDp5GH5L.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        859245
+      ],
+      "fullName": "Garo Yeriazarian",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9e027d23-d265-4e69-bbff-2e4e9e6bc0f3",
+      "firstName": "George",
+      "lastName": "Mauer",
+      "bio": "George is a software developer, speaker, teacher, writer, and comedian with an interest in the various techniques that can make software simple, extensible, and communicative. He has worked in software consulting in all sorts of positions since the mid 2000s having been Principal Developer and a manager at Ninety, Blocpower, FindHelp, Surge Consulting and more. He mentors with Operation Code (unrelated), writes, teaches, and speaks regularly on Javascript, C#, testing, interviewing, etc at conferences, usergroups, and to his cat (singular - the other one won’t listen).",
+      "tagLine": "Senior AI Developer at Qventus",
+      "profilePicture": "https://sessionize.com/image/98c5-400o400o1-PxTc5yUQm8SPwB6c7Z7bxJ.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        926352
+      ],
+      "fullName": "George Mauer",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "4fdf3fcd-0306-4bab-b21c-8ae47dfbc926",
+      "firstName": "Glenn",
+      "lastName": "Rumfellow",
+      "bio": "Glenn Rumfellow is an experienced database developer and IT leader, currently serving as CIO at Window World of Baton Rouge. With a strong background in SQL Server development, he has designed and optimized database solutions that drive business efficiency. Glenn specializes in automating processes, enhancing data integrity, and integrating SQL Server with various enterprise applications.",
+      "tagLine": "CIO, Window World of Baton Rouge",
+      "profilePicture": "https://sessionize.com/image/afdf-400o400o1-WAqJXCJGGtocY6JbxAjWkP.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        855952
+      ],
+      "fullName": "Glenn Rumfellow",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "3ee8f419-819e-4496-bfec-412f779eadab",
+      "firstName": "Grant",
+      "lastName": "Fritchey",
+      "bio": "Grant Fritchey is a Data Platform MVP and AWS Community Builder with over 30 years’ experience in IT, including time spent in support and development. Grant works with multiple data platforms including SQL Server and PostgreSQL as well as multiple cloud platforms. He has also developed in VB, VB.NET, C#, and Java. Grant writes books for Apress and Simple-Talk. Grant presents at conferences and user groups, large and small, all over the world. He joined Redgate Software as a product advocate in January 2011.",
+      "tagLine": "Redgate Software Product Advocate, Microsoft MVP & AWS Community Builder",
+      "profilePicture": "https://sessionize.com/image/19ab-400o400o1-VoTuSfv49GC4dQvyrtVJo.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        875359
+      ],
+      "fullName": "Grant Fritchey",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a23aecdf-8161-4d9f-8388-4db52677998f",
+      "firstName": "Ian",
+      "lastName": "Trimble",
+      "bio": "Goal-driven, multi-faceted, process-oriented Cybersecurity leader with a proven track record of successfully delivering \r\nholistic information security solutions that effectively anticipate and mitigate cybersecurity risks on a global scale. \r\nDevelops robust and operationally compliant business continuity, incident response, and risk management plans that \r\nclose security gaps in internal systems through partnering with vulnerability management and application owners",
+      "tagLine": "Google,  Insider Threat Manager ",
+      "profilePicture": "https://sessionize.com/image/e72f-400o400o1-PMQoUw4Hb2ng5Rb8nYrUMv.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        920854
+      ],
+      "fullName": "Ian Trimble",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "91482dc8-2276-4a60-b941-89e4ff610f36",
+      "firstName": "James",
+      "lastName": "Davis",
+      "bio": "Dr. James Davis is an accomplished software developer, data scientist, entrepreneur, combat veteran, and professor. He holds a PhD in Information Systems & Decision Science from Louisiana State University and is certified in project management with credentials including Project Management Professional (PMP), SAFe Practice Consultant (SPC), Certified Scrum Professional (CSP), and Scrum Master (CSM).\r\n\r\nAs a retired lieutenant colonel, Dr. Davis served with distinction in both the active Army and Army Reserve, with combat tours in Iraq and Afghanistan. His military career is marked by leadership roles, including command positions at the company and battalion levels, and he is a decorated recipient of the Bronze Star and Meritorious Service Medals.\r\n\r\nAn avid entrepreneur, Dr. Davis has served as Chief Technology Officer (CTO) in multiple startup ventures. His passion for coding is matched by his commitment to the tech community, regularly participating in hackathons and volunteering with STEM initiatives. His entrepreneurial achievements have earned him recognition on the SiliconBayou100 (2014, 2015, & 2016), and Business Report’s “People to Watch” (2021).\r\n\r\nDr. Davis’ academic background also includes: an MS in Computer Science, a BS in Mathematics, and graduate certificates in Blockchain Applications from Duke University and Entrepreneurship from Babson College. His expertise in project management is reinforced by his active involvement in the Project Management Institute (PMI), Scrum Alliance, and Scaled Agile, where he has delivered numerous presentations.\r\n",
+      "tagLine": "Dude that can't shutup about Blockchain.",
+      "profilePicture": "https://sessionize.com/image/b935-400o400o1-J7MoYjuGyaYh6EqjuESDDq.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        856057,
+        972017
+      ],
+      "fullName": "James Davis",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6375582a-11f3-4a89-b783-6e5869a1a217",
+      "firstName": "Jared",
+      "lastName": "Rhodes",
+      "bio": "Jared Rhodes is a Principal Consultant at Epam Systems with over 15 years of expertise in cloud architecture and IoT. Known for his strategic guidance on large-scale cloud migrations and digital transformations, Jared has led projects for Fortune 100 clients across industries such as insurance, retail, automotive, and life sciences, while fostering innovative solutions aligned with Microsoft cloud platforms. \r\n\r\nHe organizes the Atlanta Developers Conference and the Atlanta Cloud Conference, along with user groups including the Atlanta .NET, Azure in the ATL, and the Atlanta Hardware Builders. A Microsoft MVP and community leader, Jared also has a robust library of video courses on Pluralsight covering Azure AI, IoT, and Xamarin mobile development. His contributions to the tech community reflect a commitment to advancing industry knowledge in cloud and IoT technologies.",
+      "tagLine": "Principal Consultant, EPAM Systems",
+      "profilePicture": "https://sessionize.com/image/c8d5-400o400o1-R6cHVcn5kXNKFpk6GZopYr.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        863296
+      ],
+      "fullName": "Jared Rhodes",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d532b4f5-d1b2-4ade-a340-7f09edc40599",
+      "firstName": "Jason",
+      "lastName": "Romans",
+      "bio": "Jason Romans is a Business Intelligence engineer in Nashville, TN working with the Microsoft Business Intelligence stack. Jason is a Microsoft MVP who started his career as a DBA and over the years moved to working in his passion of Business Intelligence and data modeling. His first computer was a Commodore 64 and he's been hooked ever since. ",
+      "tagLine": "The DAX Shepherd - Microsoft MVP",
+      "profilePicture": "https://sessionize.com/image/aea4-400o400o1-UXgo4JVCp1e5KGzw3PaYDH.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        898502
+      ],
+      "fullName": "Jason Romans",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "79cd03cd-e20d-431d-89e4-b88ba17c0d52",
+      "firstName": "Jeff",
+      "lastName": "Foushee",
+      "bio": "Jeff Foushee has blurred the line between developer and DBA since 1996. He collects knowledge in different programming languages, collects attractions on RoadsideAmerica.com , and volunteers as a Blackjack dealer for Louisville area church picnics.",
+      "tagLine": "Principal {Various}, Humana Inc.",
+      "profilePicture": "https://sessionize.com/image/5b5a-400o400o1-DBJpcTo5y5RX7Jdu66DftU.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        904405
+      ],
+      "fullName": "Jeff Foushee",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "098f2999-a5b9-4d1c-aa92-11c0fc5c815e",
+      "firstName": "Jeremy",
+      "lastName": "Knight",
+      "bio": "Jeremy Knight is a software developer/architect/craftsman from the greater New Orleans area. He has worked extensively with Microsoft technologies and has a passion for mentoring. Since 2011, he has been a speaker and coordinator for local user groups.",
+      "tagLine": "Software Craftsman / .NET Developer",
+      "profilePicture": "https://sessionize.com/image/6ef2-400o400o1-QRA2WR75A2fXhwJr8MkzYF.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        878750
+      ],
+      "fullName": "Jeremy Knight",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5a075a9b-b1bc-4318-b66e-68d2712849d1",
+      "firstName": "Joe",
+      "lastName": "Houghes",
+      "bio": "Joe Houghes is a leader of the Denver VMware, PowerShell, and Veeam User Groups.  He is a Field Solutions Architect with Pure Storage and focuses on automating us out of typical IT operations while freeing us to perform higher-level tasks.\r\n\r\nJoe has been the #1 speaker internationally for VMUG from 2021-2024 for virtual and in-person events.  He is continually working to help & encourage the next community speaker(s) to take his place while helping to get them started.\r\n\r\nJoe also works to evangelize the message that automation should be a focus for admins & engineers, even though it requires more in-depth thinking and focus beyond performing a task once. He knows that even though it is not always someone's default method, the result is repeatable and consistent.\r\n\r\nJoe tries to help others understand why we should do the easy tasks better, and he challenges everyone to push themselves outside of their comfort zone and learn more about any topic of interest.\r\n\r\nJoe is a collector of communities as a leader for three User Groups, and he's a member of various tech programs: Microsoft MVP, vExpert (Pro), Cisco Champion, Veeam Vanguard, Tanzu Vanguard, plus part of the vBrownBag crew. He tells people not to let fear keep them from sharing their knowledge with others and teaching from their unique perspective.\r\n\r\nHe's also easy to spot by the bright hat, big grin, and the loud \"Howdy Y'all.\"",
+      "tagLine": "Solutions Architect/FullStackGeek/Champion of Community",
+      "profilePicture": "https://sessionize.com/image/9f43-400o400o1-7yADEDt931jFG3JsjyQksb.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        927810
+      ],
+      "fullName": "Joe Houghes",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8bcd6206-abbb-4553-8805-120acb00f2d6",
+      "firstName": "John",
+      "lastName": "Deardurff",
+      "bio": "John has been a Microsoft Certified Trainer (MCT) since the summer of 2000 and specializes in teaching Azure SQL and SQL Server workshops. He is currently a Data Cloud Solutions Architect for Microsoft, a former MCT Regional Lead for the Eastern United States, and a Data Platform MVP alumni.",
+      "tagLine": "SQLMCT.com",
+      "profilePicture": "https://sessionize.com/image/6ed6-400o400o1-ncwvc6cbNNGjnjZB43ZZBE.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        875809
+      ],
+      "fullName": "John Deardurff",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "ca07cc3f-5f86-4608-8251-9631e2da2f33",
+      "firstName": "Jonathan",
+      "lastName": "Stewart",
+      "bio": "Jonathan Stewart is a Business Intelligence Consultant specializing in data visualization, data warehousing, and data management technologies. He is a full-time Analytics Solution Architect for Spyglass MTG, a specialized consulting firm focused on Data, AI, and Security on Microsoft Clouds. Since 2000, Jonathan has worked in the database field with industry leaders in healthcare, manufacturing, financial, insurance, and federal, state, and local governments.\r\n \r\nAn advocate for educating others and being active in the community, Jonathan is a public speaker, teacher, and blogger, continually teaching people about the Microsoft BI Stack. He has presented on SQL Server, SSIS, Reporting Services, Power BI, and business intelligence at numerous SQL Saturday events, local user groups, and conferences throughout the United States and worldwide. He participates in webcasts, podcasts, and online presentation events. He is also an active board member for his local Columbus, Ohio PASS chapter. Jonathan maintains a blog at https://sqllocks.net/. He is a frequent speaker at local, national, and international events and is a board member of the Columbus SQL Server User Group.\r\n \r\nIn his free time, Jonathan works with the Mid-Ohio Regional Planning Commission to help improve central Ohio and enhance the quality of life of its residents.",
+      "tagLine": "Jonathan Stewart aka SQLLocks, Analytics Solution Architect for Spyglass MTG",
+      "profilePicture": "https://sessionize.com/image/d1f9-400o400o1-n9uL2r7Umny8gFzgG8JKwn.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        870167
+      ],
+      "fullName": "Jonathan Stewart",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "7c382501-a37f-49b7-bb28-eb7692995323",
+      "firstName": "Kevin",
+      "lastName": "Feasel",
+      "bio": "Kevin Feasel is a Microsoft Data Platform MVP and Proprietor of Catallaxy Services, LLC, where he specializes in data analytics with T-SQL and R, forcing Spark clusters to do his bidding, fighting with Kafka, and pulling rabbits out of hats on demand. He is the lead contributor to Curated SQL (https://curatedsql.com), president of the Triangle Area SQL Server Users Group (https://www.meetup.com/tripass), and author of PolyBase Revealed (https://www.apress.com/us/book/9781484254608) and Finding Ghosts in Your Data (https://link.springer.com/book/10.1007/978-1-4842-8870-2). A resident of Durham, North Carolina, he can be found cycling the trails along the triangle whenever the weather's nice enough.",
+      "tagLine": "Proprietor @ Catallaxy Services, LLC",
+      "profilePicture": "https://sessionize.com/image/f188-400o400o1-MgcGnBx48Vi57GYguPazNP.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        870864
+      ],
+      "fullName": "Kevin Feasel",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5c6782bc-7852-4986-b795-23c716942ca2",
+      "firstName": "Kevin",
+      "lastName": "Pereira",
+      "bio": "I'm a results-driven data professional with nearly two decades of experience dedicated to transforming data into strategic assets. My journey began in the intricate world of data and systems integration, mastering ETL/ELT processes to build robust foundations. For the past 15 years, my expertise has deepened within the Microsoft data stack, spanning traditional BI tools (SQL, SSIS, SSRS, SSAS), the extensive Azure Data Platform services, and Power BI. Crucially, the last two years have seen me at the forefront of Microsoft Fabric, pioneering its capabilities.\r\n\r\nBeyond core data integration, I bring 8 years of hands-on experience in creating and maintaining robust CI/CD pipelines within Azure DevOps, ensuring streamlined, automated, and reliable deployments for a diverse range of data projects. This commitment to operational excellence extends to my 3 years of experience in managing and nurturing a team of Data Engineers, fostering growth and driving collaborative success.\r\n\r\nMy dedication to the data community is a cornerstone of my professional identity. As a leader with the DFW Power BI User Group, I actively contribute to growing local talent and knowledge sharing. This year, I've had the incredible opportunity to share my deep knowledge of Microsoft Fabric as a speaker at various SQL Saturday events, user groups, and notably, at both the Microsoft Fabric Community Conference in Las Vegas and the upcoming conference in Europe.",
+      "tagLine": "Data Engineering Manager",
+      "profilePicture": "https://sessionize.com/image/52d7-400o400o1-pYU64x7vtfabdiNna1mG6P.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        877283
+      ],
+      "fullName": "Kevin Pereira",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "626abf83-6d24-46d4-9985-1905e8020596",
+      "firstName": "Kristyna",
+      "lastName": "Ferris",
+      "bio": "Kristyna Ferris is a solution architect at P3 Adaptive. Her experience includes implementing and managing enterprise-level Power BI instance, training teams on reporting best practices, and building templates for scalable analytics. Passionate about participating and growing the data community, she enjoys co-writing on Data on Wheels (dataonwheels.com) and has recently co-founded Data on Rails (dataonrailsblog.com). She also a co-organizer for Lexington Data Technology Group. ",
+      "tagLine": "Solution Architect at P3 Adaptive",
+      "profilePicture": "https://sessionize.com/image/94c7-400o400o1-HS6BNYerRSUcW6zz4J5fRA.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        874753
+      ],
+      "fullName": "Kristyna Ferris",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f3281bba-36d8-4f77-8910-0ecf9d9e0e0d",
+      "firstName": "Michael",
+      "lastName": "Viron",
+      "bio": "Over the years, I have gained a wide variety of experience as a senior IT director, business owner, speaker, volunteer, and event organizer. Since 1995, I’ve helped launch numerous startups, company divisions, product lines, professional user groups, and technology events.\r\n\r\nIn 2010, I launched the Northwest Florida Software Architecture Summit (designed to bring developers & IT professionals together) and complimented it with the launch of Careers in Tech in 2011. Careers in Tech underwent a successful reboot in 2015 and regularly holds events virtually and across the southeastern US.\r\n\r\nMy wide range of experience covers many key areas, including operations (both business & IT), project management, security, and software engineering. In addition to my full time job, I also continue to be heavily involved as an alumni volunteer, presenter, and mentor at the University of West Florida and in various leadership and consulting roles for projects and organizations nationwide.\r\n\r\nIn my role as Director of IT & Software Engineering at KAMedData, Inc / KontactIntelligence, I've been heavily involved in coordinating numerous product launches and both company and division startups. A key member of the company's management team, I have a wide range of responsibilities including day-to-day technical operations, project management, security, short and long range technical planning, and development.\r\n\r\nIn addition, I founded General Education Online (GEO), handling a wide variety of business and technical operations. GEO has been recognized for quality and excellence, and as an industry innovator and leader by the Chronicle for Higher Education, the US Department of Education, and LibrarySpot.com .\r\n\r\nI also spend time as a volunteer with a wide variety of professional organizations and user groups at both a local and national level, including IEEE Northwest Florida (IEEE NWF), the Computer & Communications Joint Society of IEEE NWF (as Chair since 2009), the international IEEE Computer Society (currently serving on the Awards & Recognition Committee), and IT Gulf Coast. As part of my efforts to give back to the community, I also serve on advisory boards covering IT, computer science, and cyberforensics for Pensacola State College (since 1/2015) and the Escambia County School District (since 09/2015).\r\n\r\nIn my sparse spare time, you'll find me active on social media, as a photographer and writer, and as a consultant / advisor for Fortune 500 companies and startups nationwide.",
+      "tagLine": "Multi-faceted IT Executive & Entrepreneur",
+      "profilePicture": "https://sessionize.com/image/e5a4-400o400o1-sMMgnKUzDhXvJp8s8JMDZs.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        870966
+      ],
+      "fullName": "Michael Viron",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d2e1c175-b04a-4cec-b055-9e303b0fac97",
+      "firstName": "Miguel",
+      "lastName": "Solis",
+      "bio": "I’m Miguel Solis, co-founder at Huntrix, a cybersecurity company focused on helping businesses fight cybercrime.\r\n\r\nI’ve spent the last nine years working in tech, consulting for Fortune 100 organizations, and learning just how complex (and exciting) the cybersecurity world can be.\r\n\r\nNow, my focus is on building a great team at Huntrix and making a real impact, helping businesses strengthen their security while providing as much value as I can along the way.\r\n\r\nI don’t claim to have all the answers, but I believe that with the right mindset, the right people, and a relentless drive to improve, we can help businesses better secure the things that matter the most.",
+      "tagLine": "Co-Founder at Huntrix ",
+      "profilePicture": "https://sessionize.com/image/0ecf-400o400o1-TaSyTZpwXNK4ipKMLa4c4t.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        856518
+      ],
+      "fullName": "Miguel Solis",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "427fae91-18ff-4f5e-9b9c-065f812c89c9",
+      "firstName": "Mike",
+      "lastName": "Sammartino",
+      "bio": "Mike Sammartino is a software developer based in New Orleans. After graduating Operation Spark's Immersion Program, he overhauled a search system at Coreware and is the current maintainer of noladevs.org. When not surfing craigslist for the latest in 10 year old tech, you'll find him regularly at the weekly NOLA Devs meetups.",
+      "tagLine": "Software Developer, Free Agent",
+      "profilePicture": "https://sessionize.com/image/eeb3-400o400o1-7udVCEt3k2UKCXnr5rEfEH.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        959098
+      ],
+      "fullName": "Mike Sammartino",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f4e0c0e2-0e49-487f-bf32-3d72a31df239",
+      "firstName": "Muralidhar",
+      "lastName": "Chouhan",
+      "bio": "I'm a Senior Enterprise Domain Architect with more than 14 years of experience in software architecture and development. In my current role at BCBSLA, my focus lies on enterprise architecture, technology enablement, solution architecture with focus in cloud and various cutting edge technologies. As an LSU graduate with a Master's in Computer Science, I'm deeply passionate about staying at the forefront of technology and embracing continuous learning. Outside of work, I love diving into photography and spending quality time with my family.",
+      "tagLine": "Sr. Enterprise Domain Architect, Bluecross Blueshield of Louisiana",
+      "profilePicture": "https://sessionize.com/image/b77b-400o400o1-LVsqmLDDXUcKTeAygKMGiH.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        925285
+      ],
+      "fullName": "Muralidhar Chouhan",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c572db74-9a9b-4626-b13f-bf5dc870b4c5",
+      "firstName": "Paresh",
+      "lastName": "Motiwala",
+      "bio": "Paresh Motiwala ​PMP; an Azure enthusiast, a Data Platform Manager has led several large SQL implementations, migrations and upgrades. He was recently selected as a \"Speaker Idol\" finalist for the PASS Summit 2018. He has managed multi terabyte OLTP databases. He loves learning and talking about Big Data. He has also been a Senior SQL DBA and a Solutions Architect in Fortune 100 companies. He also helps organizing / and speaks at many SQL Saturdays, Azure Bootcamp and User Groups. He is a certified in Big Data Analytics and FinTech(MIT) Project manager, Public Speaker, an avid singer, cook, open networker, and stand-up comedian. He teaches public speaking, debating, interviewing and group discussion skills. He also mentors DBAs in Boston area; and children around the globe via www.circlesofgrowth.com",
+      "tagLine": "Data Platform Manager",
+      "profilePicture": "https://sessionize.com/image/8ba9-400o400o1-74-9a9b-4626-b13f-bf5dc870b4c5.312fdd3d-6d97-4c97-bb5d-edef9e755c19.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        868505
+      ],
+      "fullName": "Paresh Motiwala",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5706e39d-8684-41d1-8841-cf2f6c07e20f",
+      "firstName": "Ricky",
+      "lastName": "Tucker",
+      "bio": "Ricky Tucker is a Senior UX/UI designer for Louisiana's Office of Technology Services. In addition to contributing to the state's Design System, Pelican, he works daily with state agencies to develop digital products with the goal of improving the lives of Louisiana residents. Ricky holds certifications from Meta and Google, as was well as the W3Cx Introduction to Web Accessibility certificate. ",
+      "tagLine": "Senior UX/UI Designer - Louisiana Office of Technology Services",
+      "profilePicture": "https://sessionize.com/image/5f96-400o400o1-pFfbAKPe68CDa5h1486i8b.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        854588
+      ],
+      "fullName": "Ricky Tucker",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6e0c6896-2a12-4221-8094-00278ede38c2",
+      "firstName": "Russel",
+      "lastName": "Loski",
+      "bio": "Russ is a data engineer with over 25 years of experience.  He has worked with a variety of tools from DTS to SSIS to Azure Data Factory to Power BI.  He has worked in industry as varied as sports and health care.\r\n\r\nRuss current lives with his wife in North Texas very close to his daughter and grandkids.",
+      "tagLine": "Data Engineer",
+      "profilePicture": "https://sessionize.com/image/f8db-400o400o1-ea32bc2d-b9c0-4024-b4fe-3b67f4807745.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        876236,
+        876237
+      ],
+      "fullName": "Russel Loski",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "dc255546-f784-4c01-be3c-9a5eff358233",
+      "firstName": "Ryan",
+      "lastName": "Richard",
+      "bio": "Software developer in the Baton Rouge area.",
+      "tagLine": "Software Developer",
+      "profilePicture": "https://sessionize.com/image/c59a-400o400o1-BPjyML4YrhfcWiaoPxiLAV.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        923270
+      ],
+      "fullName": "Ryan Richard",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "98c55736-05a9-4338-b652-42c0d26518f7",
+      "firstName": "Sean",
+      "lastName": "Wheeler",
+      "bio": "Since 2017, I have been the lead documentarian for PowerShell. I ensure that users have the content they need. I also support and encourage the PowerShell Community to add value via open-source contributions to the documentation. In my 25+ years at Microsoft, I have taught many workshops on scripting, debugging, and advanced troubleshooting. Using my scripting expertise, I created tools to help customers collect and analyze data used to support and optimize their environments.\r\n\r\nYou can find my blog and presentations at https://sdwheeler.github.io/seanonit",
+      "tagLine": "Principal Content Developer - PowerShell",
+      "profilePicture": "https://sessionize.com/image/23b5-400o400o1-29860b3f-810f-4640-9408-b5b2fa36cc8e.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        853829,
+        853826
+      ],
+      "fullName": "Sean Wheeler",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c0c8ab19-e365-44ca-be50-3759647dca41",
+      "firstName": "Sravanthi",
+      "lastName": "Akavaram",
+      "bio": "Sravanthi Reddy is a seasoned Senior .NET Developer with over 10 years of experience building robust web applications and services using Microsoft technologies at Atalanta,Georgia. With a Bachelor's degree in Information Technology from JNTU University, she has established herself as a versatile full-stack developer with expertise in both front-end and back-end development.\r\nSravanthi currently works at Truist Financial in Atlanta, where she leads development teams in migrating applications and services while implementing best practices for security and performance optimization. Her technical arsenal includes C#, ASP.NET, .NET Core, MVC, WEB API, and WCF. On the front-end, she excels in modern JavaScript frameworks including Angular 13 and ReactJS, creating responsive and intuitive user interfaces.\r\nThroughout her career spanning organizations like USAA, Molina Healthcare, and Walmart, Sravanthi has consistently demonstrated her ability to architect and implement complex enterprise solutions. She has extensive experience with cloud platforms including Azure and AWS, and is proficient in microservices architecture and containerization using Docker and Kubernetes.\r\nSravanthi's approach to software development is guided by SOLID principles and design patterns, with a focus on creating scalable, maintainable applications. She is skilled in implementing various authentication methods and ensuring application security. Her database expertise includes SQL Server, where she optimizes queries and designs efficient data storage solutions.\r\nAs a technical lead, Sravanthi coordinates with offshore teams, manages code reviews, and mentors junior developers. She is well-versed in Agile methodologies and modern DevOps practices, including CI/CD pipelines using tools like Azure DevOps and Jenkins.\r\nSravanthi combines her technical prowess with strong analytical thinking and problem-solving abilities, making her an asset for organizations looking to leverage Microsoft technologies for business-critical applications.\r\n\r\n",
+      "tagLine": "MI Softech Inc, USA",
+      "profilePicture": "https://sessionize.com/image/8b9e-400o400o1-MJVuS3GXQtPiyyNB1U5EVU.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        928162
+      ],
+      "fullName": "Sravanthi Akavaram",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "b101c900-b697-4707-a456-ccae1eff7f68",
+      "firstName": "Srikanth Kumar",
+      "lastName": "Rana",
+      "bio": "Srikanth Kumar Rana is a seasoned Field Engineer at Databricks, bringing extensive experience in helping organizations unlock the full potential of data and AI. With a strong focus on empowering customers, Srikanth has consistently demonstrated expertise in complex deployments, driving adoption, and enabling businesses to achieve tangible outcomes on the Databricks Lakehouse platform. \r\n\r\nSrikanth will guide attendees through the capabilities of Databricks Genie Spaces, demonstrating how natural language queries can revolutionize data analysis and visualization.",
+      "tagLine": "Solutions Architect, Databricks",
+      "profilePicture": "https://sessionize.com/image/7736-400o400o1-4bWmfSfQJCsKR3g9izr4LY.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        897236
+      ],
+      "fullName": "Srikanth Kumar Rana",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f2fc61c6-9544-46d4-8edd-e1e963be1421",
+      "firstName": "Steven",
+      "lastName": "Judd",
+      "bio": "Steven Judd is a 30+ year IT Pro and most recently an [Infrastructure Engineer at Tenstreet LLC.](https://www.linkedin.com/in/stevenjudd/).\r\nHis previous recent experience includes Enterprise Email Administrator, Digital Security Analyst, and Cloud and DevOps Advisor for cloud-focused solutions and infrastructure.\r\nHe has been using PowerShell since 2010 and co-developed a custom training program for PowerShell.\r\nMost recently, he was a Senior Editor for the [Modern IT Automation with PowerShell](https://leanpub.com/modernautomationwithpowershell) book.\r\nHe is also a co-author and co-editor of the [PowerShell Conference Book 3](https://www.amazon.com/PowerShell-Conference-Book-3/dp/B08MGR749H/ref=sr_1_5)\r\nHe loves to help people learn and recognize the value of automation.\r\nHe spends his free time learning more about PowerShell, digital security, and cloud technologies, along with creating and telling [Dad jokes](https://www.youtube.com/watch?v=BZZM6i8AE1Y).\r\nYou can find him hanging out on the [PowerShell Discord Server](https://aka.ms/psdiscord), running marathons, cycling and mountain biking, playing the cello, plus a handful of other hobbies he can't seem to quit.\r\nPlease follow him on Twitter, [@stevenjudd](https://twitter.com/stevenjudd/), read his [blog](https://blog.stevenjudd.com/), and review, use, and improve his code on [Github](https://github.com/stevenjudd).\r\n",
+      "tagLine": "PowerShell enthusiast and dad joke aficionado",
+      "profilePicture": "https://sessionize.com/image/7a90-400o400o1-NMyrw4MaHMqUwH9rd92BnE.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        983423,
+        927368
+      ],
+      "fullName": "Steven Judd",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f0dd5d75-4552-4c74-96fa-7b709bad7e8d",
+      "firstName": "Tanya",
+      "lastName": "Boyd",
+      "bio": "Tanya Boyd is a dynamic project manager and creative strategist with 20+ years of experience spanning disaster recovery, healthcare, IT, marketing, and government. \r\n\r\nAs Director of Creative Collaboration at Corbeau and Project Success Academy, she blends imagination, strategy, and storytelling to spark bold programs, forge meaningful partnerships, and design content that drives long-term success.\r\n\r\nA PMP® since 2014 and PMI-ACP® since 2020, Tanya also served as President and longtime leader of the PMI Baton Rouge Chapter - giving her a front-row seat to the evolving challenges project professionals face in becoming stronger, more human-centered leaders.\r\n\r\nIn 2024, she shifted gears into keynote speaking and educational video creation. She developed a 3-part communication video series for Project Success Academy and a 3-hour course - From Risks to Rewards - for the PURE Project Manager 60-PDU credential.\r\n\r\nTanya has delivered high-energy talks to 25+ PMI chapters on topics like generative AI, leadership, emotional intelligence, and workplace fears. Two crowd favorites: Thriving Beyond Fear and Tales from the SWAMP.\r\n\r\nShe is also a contributing author to the upcoming book Projectland Goes to the Movies: 25 Star-Studded Lessons for Project People.\r\n\r\nShe believes curiosity and communication unlock creative solutions - and that humor and storytelling are the secret sauce for unforgettable meetings. \r\n\r\nOff the clock, you’ll find her kayaking Louisiana’s swamps, camera in hand, chasing the next wild idea.\r\n\r\nLinkedIn: Tanya Boyd, PMP®, PMI-ACP® | LinkedIn\r\n\r\nProject Success Academy: Home | Project Success Academy\r\n\r\nPURE Management Alliance: https://www.puremanagementalliance.com#67586029bb967\r\n",
+      "tagLine": "Creative Project Manager - Communicating with Compelling Storytelling",
+      "profilePicture": "https://sessionize.com/image/b0a6-400o400o1-3BMPhyWbZA2zFzq8ETm818.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        910969
+      ],
+      "fullName": "Tanya Boyd",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "fa3302e2-47b7-45c3-9c32-fae1fe636a35",
+      "firstName": "Tim",
+      "lastName": "Radney",
+      "bio": "Tim is a Data Platform MVP. He has presented at PASS, SQLintersection, Ignite, MSSQLCONF, SQL Saturdays, user groups and numerous webinars.  Tim runs the Cloud Data Platform Virtual Group. He’s married with three children and has a passion for gardening.",
+      "tagLine": "timradney.com",
+      "profilePicture": "https://sessionize.com/image/1c2d-400o400o1-HZ12qBBRWYiLxvS7VEeQCB.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        913156
+      ],
+      "fullName": "Tim Radney",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "3c829226-e7b6-410f-93af-95c09d82d580",
+      "firstName": "Tommy",
+      "lastName": "Parrish",
+      "bio": "Tommy has spent 15+ years building unique solutions for both the enterprise and small clients.",
+      "tagLine": "Director Strategic Consulting - Envoc",
+      "profilePicture": "https://sessionize.com/image/0eb9-400o400o1-hRtw4A8gQNWBzFG1soWjTa.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        923607
+      ],
+      "fullName": "Tommy Parrish",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9c6095d6-ebe1-4c5d-9fca-16116bf5f9cd",
+      "firstName": "Warren",
+      "lastName": "Sifre",
+      "bio": "Warren Sifre has been in the IT community since 1998 and has worked in a variety of industries deploying solutions utilizing a variety of technologies.  Currently, leading efforts at Crosswave Solutions Inc.  He is responsible for Data Solutions Architecture and the mentorship of organizations going through the journey of adopting a Data and Analytic Strategy.  He has been a SQLSaturday Speaker since 2012, PASS Summit Speaker, Azure Bootcamps, and frequent presenter for user groups around the world.  He is Indy's BI user group Chapter leader.",
+      "tagLine": "Crosswave Solutions Inc, Owner",
+      "profilePicture": "https://sessionize.com/image/0ce5-400o400o1-BX9WZSUGjq1EJKowptVcxU.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        866639
+      ],
+      "fullName": "Warren Sifre",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [
+    {
+      "id": 93749,
+      "title": "Level",
+      "items": [
+        {
+          "id": 336523,
+          "name": "Introductory and overview",
+          "sort": 1
+        },
+        {
+          "id": 336524,
+          "name": "Intermediate",
+          "sort": 2
+        },
+        {
+          "id": 336525,
+          "name": "Advanced",
+          "sort": 3
+        },
+        {
+          "id": 336526,
+          "name": "Expert",
+          "sort": 4
+        }
+      ],
+      "sort": 3,
+      "type": "session"
+    }
+  ],
+  "rooms": [
+    {
+      "id": 59768,
+      "name": "Atrium",
+      "sort": 0
+    },
+    {
+      "id": 59769,
+      "name": "Auditorium",
+      "sort": 1
+    },
+    {
+      "id": 59771,
+      "name": "BEC 1220 (Analytics)",
+      "sort": 3
+    },
+    {
+      "id": 59772,
+      "name": "BEC 1225 (Professional Development)",
+      "sort": 4
+    },
+    {
+      "id": 59773,
+      "name": "BEC 1305 (PowerShell/Automation)",
+      "sort": 5
+    },
+    {
+      "id": 59775,
+      "name": "BEC 1325 (.NET Development)",
+      "sort": 6
+    },
+    {
+      "id": 59778,
+      "name": "BEC 1409 (Cloud)",
+      "sort": 7
+    },
+    {
+      "id": 59776,
+      "name": "BEC 1425 (Cloud 2)",
+      "sort": 8
+    },
+    {
+      "id": 59774,
+      "name": "BEC 1920 (Security)",
+      "sort": 9
+    },
+    {
+      "id": 59781,
+      "name": "BEC 2520 (SQL Server Development)",
+      "sort": 10
+    },
+    {
+      "id": 59777,
+      "name": "LA Tech Park 1",
+      "sort": 12
+    },
+    {
+      "id": 59780,
+      "name": "LA Tech Park 2",
+      "sort": 13
+    }
+  ]
+}
