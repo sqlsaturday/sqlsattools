@@ -1,0 +1,241 @@
+{
+  "event": "SQL Saturday Croatia 2026 (#1134)",
+  "location": "Zagreb, Croatia",
+  "eventDate": "2026-06-13",
+  "sessions": [
+    {
+      "time": "12:45 am",
+      "duration": "15 min",
+      "title": "Keynote",
+      "type": "keynote"
+    },
+    {
+      "time": "1:00 am",
+      "duration": "60 min",
+      "title": "CTE Myths—Busted!",
+      "speaker": "Uwe Ricken",
+      "level": "Advanced",
+      "category": "SQL Development"
+    },
+    {
+      "time": "1:00 am",
+      "duration": "60 min",
+      "title": "Vibing with SQL: AI in the Developer’s Seat",
+      "speaker": "Marco Dal Pino",
+      "level": "Introductory and overview",
+      "category": "SQL Development"
+    },
+    {
+      "time": "1:00 am",
+      "duration": "60 min",
+      "title": "Real-Time or Real Enough? What 'Fast' Actually Means in Fabric",
+      "speaker": "Karin Szilágyi",
+      "level": "Intermediate",
+      "category": "BI & Analytics"
+    },
+    {
+      "time": "1:00 am",
+      "duration": "60 min",
+      "title": "Apache Spark for SQL Data Warehouse Developers",
+      "speaker": "Olivier Van Steenlandt",
+      "level": "Intermediate",
+      "category": "BI & Analytics"
+    },
+    {
+      "time": "2:00 am",
+      "duration": "15 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "2:15 am",
+      "duration": "60 min",
+      "title": "Window to Success: Mastering SQL Server Window Functions",
+      "speaker": "Daniel Hutmacher",
+      "level": "Intermediate",
+      "category": "SQL Development"
+    },
+    {
+      "time": "2:15 am",
+      "duration": "60 min",
+      "title": "A heap of trouble: the hidden costs of heaps in SQL Server",
+      "speaker": "Vlad Drumea",
+      "level": "Intermediate",
+      "category": "SQL Development"
+    },
+    {
+      "time": "2:15 am",
+      "duration": "60 min",
+      "title": "A Persona-Driven Adoption Framework: How to Design BI Reports for Decisions",
+      "speaker": "Zita Pelok",
+      "level": "Intermediate",
+      "category": "BI & Analytics"
+    },
+    {
+      "time": "2:15 am",
+      "duration": "60 min",
+      "title": "Model Context Protocol (MCP) for Azure SQL- How AI Agents Can Create, Maintain & Query Your Database",
+      "speaker": "Mario Pilija",
+      "level": "Intermediate",
+      "category": "Other"
+    },
+    {
+      "time": "3:15 am",
+      "duration": "15 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "3:30 am",
+      "duration": "60 min",
+      "title": "Fuzzy Matching",
+      "speaker": "Dejan Sarka",
+      "level": "Expert",
+      "category": "SQL Development"
+    },
+    {
+      "time": "3:30 am",
+      "duration": "60 min",
+      "title": "How to Build Workflow-Driven Database Provisioning in Azure DevOps",
+      "speaker": "Tonie Huizer",
+      "level": "Intermediate",
+      "category": "SQL Development"
+    },
+    {
+      "time": "3:30 am",
+      "duration": "60 min",
+      "title": "Lost in Fabric? Here’s Your Map!",
+      "speaker": "Augustin Dokoza Bukvic",
+      "level": "Introductory and overview",
+      "category": "BI & Analytics"
+    },
+    {
+      "time": "3:30 am",
+      "duration": "60 min",
+      "title": "My data is GOOD?",
+      "speaker": "Catalin Gheorghiu",
+      "level": "Intermediate",
+      "category": "Other"
+    },
+    {
+      "time": "4:30 am",
+      "duration": "15 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "4:45 am",
+      "duration": "60 min",
+      "title": "Optimizacija procedura sa opcionim parametrima u SQL Serveru",
+      "speaker": "Milos Radivojevic",
+      "level": "Intermediate",
+      "category": "SQL Development"
+    },
+    {
+      "time": "4:45 am",
+      "duration": "60 min",
+      "title": "SQL Server 2025 Vector Data Type and AI Models",
+      "speaker": "Mladen Prajdic",
+      "level": "Intermediate",
+      "category": "SQL Development"
+    },
+    {
+      "time": "4:45 am",
+      "duration": "60 min",
+      "title": "Advanced DAX for Analytical Insights in Power BI with Visualization Best Practices",
+      "speaker": "Anastazija Crnkovic",
+      "level": "Advanced",
+      "category": "BI & Analytics"
+    },
+    {
+      "time": "4:45 am",
+      "duration": "60 min",
+      "title": "Paswordless Azure SQL Connections",
+      "speaker": "Daniel Gregurić",
+      "level": "Intermediate",
+      "category": "Other"
+    },
+    {
+      "time": "5:45 am",
+      "duration": "45 min",
+      "title": "Lunch break",
+      "type": "lunch"
+    },
+    {
+      "time": "6:30 am",
+      "duration": "60 min",
+      "title": "The Latest Performance Improvements in Azure SQL Database, Managed Instance, and SQL Server 2025",
+      "speaker": "Ola Hallengren",
+      "level": "Intermediate",
+      "category": "SQL Administration"
+    },
+    {
+      "time": "6:30 am",
+      "duration": "60 min",
+      "title": "Indexing Strategies for Vector Search in SQL Server",
+      "speaker": "Mihail Mateev",
+      "level": "Advanced",
+      "category": "SQL Development"
+    },
+    {
+      "time": "6:30 am",
+      "duration": "60 min",
+      "title": "Transition from Data Analyst to Data Engineer: Upgrading Skills from DataFlows Gen2 to Notebooks",
+      "speaker": "Nikola Ilic",
+      "level": "Introductory and overview",
+      "category": "BI & Analytics"
+    },
+    {
+      "time": "6:30 am",
+      "duration": "60 min",
+      "title": "Complex access control with Row-Level Security",
+      "speaker": "Mathias Halkjaer",
+      "level": "Advanced",
+      "category": "Other"
+    },
+    {
+      "time": "7:30 am",
+      "duration": "15 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "7:45 am",
+      "duration": "60 min",
+      "title": "For a Few Rows More: Mastering Row Goals in SQL Server",
+      "speaker": "Erik Darling",
+      "level": "Intermediate",
+      "category": "SQL Development"
+    },
+    {
+      "time": "7:45 am",
+      "duration": "60 min",
+      "title": "Building an end-to-end data solution with Microsoft Fabric",
+      "speaker": "Christian Gregorec",
+      "level": "Intermediate",
+      "category": "BI & Analytics"
+    },
+    {
+      "time": "7:45 am",
+      "duration": "60 min",
+      "title": "DAX Demystified: 5 Key Lessons Every Beginner Needs to Learn Early",
+      "speaker": "Markus Ehrenmueller-Jensen",
+      "level": "Intermediate",
+      "category": "BI & Analytics"
+    },
+    {
+      "time": "7:45 am",
+      "duration": "60 min",
+      "title": "Ups and downs on PowerBI and Real-Time intelligence",
+      "speaker": "Brian Bønk",
+      "level": "Introductory and overview",
+      "category": "BI & Analytics"
+    },
+    {
+      "time": "8:45 am",
+      "duration": "15 min",
+      "title": "Conference closing and prize draw - must be present to win",
+      "type": "closing"
+    }
+  ]
+}

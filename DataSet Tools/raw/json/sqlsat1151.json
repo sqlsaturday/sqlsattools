@@ -1,0 +1,82 @@
+{
+  "event": "SQL Saturday CXS 2026 (#1151)",
+  "location": "Caxias do Sul, RS, Brazil",
+  "eventDate": "2026-06-27",
+  "sessions": [
+    {
+      "time": "7:30 am",
+      "duration": "45 min",
+      "title": "Credenciamento",
+      "type": "registration"
+    },
+    {
+      "time": "8:15 am",
+      "duration": "35 min",
+      "title": "Abertura / Keynote: Microsoft SQL and AMD in the Era of AI",
+      "speaker": "Rodrigo Crespi",
+      "type": "keynote"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "50 min",
+      "title": "Pwned! Tomada e controle de Banco de Dados por atacantes",
+      "speaker": "Mateus Buogo",
+      "room": "Auditório"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "50 min",
+      "title": "Seus dados não podem ir para a nuvem, e agora? O Azure Local pode ser a sua resposta",
+      "speaker": "Ismael Casagrande",
+      "room": "Anfiteatro"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "50 min",
+      "title": "Azure SQL Server e o Imposto do Poliglota",
+      "speaker": "Glauber Cini",
+      "room": "Auditório"
+    },
+    {
+      "time": "10:00 am",
+      "duration": "50 min",
+      "title": "De Software Legado à Escala SaaS: os desafios reais de transformar uma software house tradicional",
+      "speaker": "Braian Erlindo Horn de Borba",
+      "room": "Anfiteatro"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "50 min",
+      "title": "Conversando com o SQL Server usando IA, MCP Servers e Linguagem Natural",
+      "speaker": "Diego Matos",
+      "room": "Auditório"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "50 min",
+      "title": "Generative AI Platform: Create, Reuse, and Accelerate",
+      "speaker": "Marcus Bittencourt",
+      "room": "Anfiteatro"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "50 min",
+      "title": "Consulta de dados externos com Microsoft Foundry e consultas semânticas no Azure",
+      "speaker": "Luciano Gambato",
+      "room": "Auditório"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "50 min",
+      "title": "Pare de Automatizar Errado! Os bastidores da automação que ninguém te conta",
+      "speaker": "Rafael Felipe, Pedro Filippi",
+      "room": "Anfiteatro"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "30 min",
+      "title": "Encerramento",
+      "type": "closing"
+    }
+  ]
+}
