@@ -64,7 +64,7 @@ class SQLSatDataLoader:
         """Insert event record and return EventID"""
         try:
             # Extract event metadata with defaults for missing values
-            event_name = event_data.get('eventName') or f"SQL Saturday Event - {source_file}"
+            event_name = event_data.get('eventName') or event_data.get('event') or f"SQL Saturday Event - {source_file}"
             event_date = event_data.get('eventDate') or '1900-01-01'
             location = event_data.get('location') or 'Unknown Location'
 
@@ -209,6 +209,12 @@ class SQLSatDataLoader:
         if speaker_count > 0:
             print(f"  Inserted {speaker_count} speakers")
 
+    def _split_speaker_field(self, speaker_field):
+        """Split a singular 'speaker' string (possibly comma-separated) into a list of names"""
+        if not speaker_field:
+            return []
+        return [name.strip() for name in speaker_field.split(',') if name.strip()]
+
     def normalize_schedule_entry(self, schedule_entry, event_id, index):
         """Convert schedule entry format to session format"""
         # Generate a unique session ID
@@ -223,7 +229,7 @@ class SQLSatDataLoader:
             'endsAt': None,
             'isServiceSession': schedule_entry.get('sessionType') in ['registration', 'break', 'lunch'],
             'isPlenumSession': False,
-            'speakers': schedule_entry.get('speakers', []),
+            'speakers': schedule_entry.get('speakers') or self._split_speaker_field(schedule_entry.get('speaker')),
             'roomId': None,
             'liveUrl': None,
             'recordingUrl': None
