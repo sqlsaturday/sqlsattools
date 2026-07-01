@@ -1,0 +1,80 @@
+{
+  "event": "SQL Saturday Wellington 2026 (#1146)",
+  "location": "Wellington, New Zealand",
+  "eventDate": "2026-05-30",
+  "sessions": [
+    {
+      "time": "8:30 am",
+      "duration": "30 min",
+      "title": "Registration",
+      "room": "Room 1",
+      "type": "registration"
+    },
+    {
+      "time": "9:00 am",
+      "duration": "15 min",
+      "title": "Welcome",
+      "type": "opening"
+    },
+    {
+      "time": "9:15 am",
+      "duration": "60 min",
+      "title": "Microsoft SQL and AMD in the Era of AI",
+      "speaker": "Anupama Natarajan"
+    },
+    {
+      "time": "10:15 am",
+      "duration": "30 min",
+      "title": "Morning Tea",
+      "type": "break"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "60 min",
+      "title": "Query Store for the \"Accidental Performance Tuner\"",
+      "speaker": "Rob Douglas"
+    },
+    {
+      "time": "11:45 am",
+      "duration": "15 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "Agentic Data Engineering: Building a Modern Data Platform with AI Agents",
+      "speaker": "Ram Katepally"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Lunch",
+      "type": "lunch"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "60 min",
+      "title": "Securing AI in the Enterprise: From Prompt to Production",
+      "speaker": "Zahid Yaqub"
+    },
+    {
+      "time": "3:00 pm",
+      "duration": "15 min",
+      "title": "Afternoon Tea",
+      "type": "break"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "60 min",
+      "title": "The Rise of Agentic BI: Fabric & Power BI MCP Live",
+      "speaker": "Anupama Natarajan"
+    },
+    {
+      "time": "4:15 pm",
+      "duration": "15 min",
+      "title": "Raffle Prizes & Wrap up",
+      "type": "closing"
+    }
+  ]
+}

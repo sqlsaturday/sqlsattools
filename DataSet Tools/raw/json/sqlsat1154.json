@@ -1,0 +1,155 @@
+{
+  "event": "SQL Saturday Austin 2026 (#1154)",
+  "location": "Austin, TX",
+  "eventDate": "2026-06-27",
+  "sessions": [
+    {
+      "time": "7:45 am",
+      "duration": "15 min",
+      "title": "Registration",
+      "room": "Cedar",
+      "type": "registration"
+    },
+    {
+      "time": "8:00 am",
+      "duration": "60 min",
+      "title": "Move to Fabric Data Factory",
+      "speaker": "Ryan Adams"
+    },
+    {
+      "time": "8:00 am",
+      "duration": "60 min",
+      "title": "Power BI Meets AI Agents: Getting Started with the Model Context Protocol (MCP)",
+      "speaker": "Russel Loski"
+    },
+    {
+      "time": "8:00 am",
+      "duration": "60 min",
+      "title": "Getting Started: What is a Database and How Do I Use One?",
+      "speaker": "Conor Cunningham"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "Next-Level BI Development: AI-Driven Semantic Models in Power BI",
+      "speaker": "Kevin Arnold"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "Accelerating Data Stack Development with MCP Servers",
+      "speaker": "Ginger Grant"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "Querying Your Data: A Beginner's 60-Minute SQL Bootcamp",
+      "speaker": "John Sterrett"
+    },
+    {
+      "time": "9:10 am",
+      "duration": "60 min",
+      "title": "Röck Yoür Cäreer: Time-Tested Wisdom from a 30-Year Software Engineering Veteran",
+      "speaker": "David McCarter"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "PostGres: The Elephant in the Room You Can't Ignore",
+      "speaker": "Paresh Motiwala"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "Data Virtualization in SQL Server",
+      "speaker": "Kevin Feasel"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "A Gentle (Re-) Introduction to Dimensional Modeling",
+      "speaker": "Chris Hyde"
+    },
+    {
+      "time": "10:20 am",
+      "duration": "60 min",
+      "title": "Unleash Your Inner Rockstar: The 5 Steps to Dynamic Public Speaking!",
+      "speaker": "David McCarter"
+    },
+    {
+      "time": "11:25 am",
+      "duration": "70 min",
+      "title": "Lunch",
+      "room": "Cedar",
+      "type": "lunch"
+    },
+    {
+      "time": "11:35 am",
+      "duration": "60 min",
+      "title": "Microsoft SQL and AMD in the Era of AI",
+      "speaker": "Bob Ward"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "PostgreSQL High Availability for the Career SQL Server DBA",
+      "speaker": "Rick Lowe"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Hardware-Accelerated Analytics Queries Explained",
+      "speaker": "Conor Cunningham"
+    },
+    {
+      "time": "12:45 pm",
+      "duration": "60 min",
+      "title": "Your Next Step Beyond SQL: Certifications, Community, and Career Growth",
+      "speaker": "Sammy Cheung"
+    },
+    {
+      "time": "1:55 pm",
+      "duration": "60 min",
+      "title": "Azure SQL Hyperscale: The Cloud Database for the era of AI",
+      "speaker": "Bob Ward"
+    },
+    {
+      "time": "1:55 pm",
+      "duration": "60 min",
+      "title": "Copy Job: Data Movement Made Simple",
+      "speaker": "Ryan Adams"
+    },
+    {
+      "time": "3:05 pm",
+      "duration": "60 min",
+      "title": "SQL in the Fabric Era: Translate existing skills into the modern data platform",
+      "speaker": "Kevin Pereira"
+    },
+    {
+      "time": "3:05 pm",
+      "duration": "60 min",
+      "title": "Introduction to Microsoft Fabric Variable Library: Simplifying CI/CD Automation",
+      "speaker": "Kevin Arnold"
+    },
+    {
+      "time": "3:05 pm",
+      "duration": "60 min",
+      "title": "Implementing Medallion Architecture in Fabric",
+      "speaker": "Ginger Grant"
+    },
+    {
+      "time": "4:05 pm",
+      "duration": "15 min",
+      "title": "Raffles",
+      "room": "Cedar",
+      "type": "closing"
+    },
+    {
+      "time": "4:35 pm",
+      "duration": "60 min",
+      "title": "Happy Hour @ The Boat",
+      "room": "Cedar",
+      "type": "social"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "event": "Raleigh Day of Data 2026 (#1143)",
+  "location": "Raleigh, NC",
+  "eventDate": "2026-05-23",
+  "sessions": [
+    {
+      "time": "8:00 am",
+      "duration": "30 min",
+      "title": "Registration",
+      "room": "1002 (Auditorium)",
+      "type": "registration"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "Designing for Failure: Engineering AI Systems That Degrade Gracefully",
+      "speaker": "Angel Ceballos"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "Data Data Everywhere: A Look At Data Hoarding",
+      "speaker": "Peter Shore"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "Fast Backup and Restore without Touching Your Storage",
+      "speaker": "Mark Wilkinson"
+    },
+    {
+      "time": "8:30 am",
+      "duration": "60 min",
+      "title": "From DBA to AI Agent Wrangler: Bringing Safe, Compliant AI Agents to SQL Server",
+      "speaker": "Carlos Chacon"
+    },
+    {
+      "time": "9:30 am",
+      "duration": "15 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "title": "Intro to PowerShell with dbatools for the DBA",
+      "speaker": "Tony Wilhelm"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "title": "Demystifying vector search in SQL 2025",
+      "speaker": "Mala Mahadevan"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "title": "BI versus Relational Design",
+      "speaker": "Louis Davidson"
+    },
+    {
+      "time": "9:45 am",
+      "duration": "60 min",
+      "title": "Introduction to Large Scale and Real-time Analytics on Microsoft's cloud.",
+      "speaker": "Elaine Cahill"
+    },
+    {
+      "time": "10:45 am",
+      "duration": "15 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "title": "One Bite at a Time: Deleting Millions of Rows from Production Systems",
+      "speaker": "Jared Poche"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "title": "The Self-Documenting Fabric: Automating Metadata with OpenAI and Microsoft Fabric",
+      "speaker": "Alan Ferrandiz"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "title": "Accidental friends: how a DBA and an SRE worked together to optimize the system.",
+      "speaker": "Kayla Boor"
+    },
+    {
+      "time": "11:00 am",
+      "duration": "60 min",
+      "title": "Tech Writing for Techies: A Primer",
+      "speaker": "Ray Kim"
+    },
+    {
+      "time": "12:00 pm",
+      "duration": "60 min",
+      "title": "Lunch",
+      "type": "lunch"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "The Fabric Fast Track Workbook: Deploy Enterprise Analytics in 90 Days",
+      "speaker": "Jonathan Stewart"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Immutable SQL Server - Pets vs Cows",
+      "speaker": "Michael Wall"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Microsoft SQL and AMD in the Era of AI",
+      "speaker": "John Kerski"
+    },
+    {
+      "time": "1:00 pm",
+      "duration": "60 min",
+      "title": "Engineering Cost-Efficient Cloud Architectures for Financial Data Workloads",
+      "speaker": "Naga Chand Putta"
+    },
+    {
+      "time": "2:00 pm",
+      "duration": "15 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "SQL Techniques You Should Know",
+      "speaker": "Louis Davidson"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "The Architecture of Trust: Building AI Projects That Deliver ROI",
+      "speaker": "Leslie Welch"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "Regular Expressions: Beyond the Basics (Slightly)",
+      "speaker": "Solomon Rutzky"
+    },
+    {
+      "time": "2:15 pm",
+      "duration": "60 min",
+      "title": "The AI-Enhanced Database Engineer: Scaling with Cursor and Claude for Massive SQL Server Fleets",
+      "speaker": "Jeff Mlakar"
+    },
+    {
+      "time": "3:15 pm",
+      "duration": "15 min",
+      "title": "Break",
+      "type": "break"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Leveraging Large Language Models with Power BI",
+      "speaker": "John Kerski"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "The Hero’s Journey: Mastering Your New DBA Role",
+      "speaker": "Tracy Boggiano"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "Modern Integration, Classic Toolset: A Practical Look at SSIS",
+      "speaker": "Courtney Woolum"
+    },
+    {
+      "time": "3:30 pm",
+      "duration": "60 min",
+      "title": "When Small Language Models Beat Large Ones in Production",
+      "speaker": "Nihal Kaul"
+    },
+    {
+      "time": "4:30 pm",
+      "duration": "30 min",
+      "title": "Closing Remarks and Raffles",
+      "type": "closing"
+    }
+  ]
+}
