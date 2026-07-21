@@ -1,0 +1,1876 @@
+{
+  "sessions": [
+    {
+      "id": "1117152",
+      "title": "PowerShell DBA Dream dbatools Workshop",
+      "description": "This full day class will take you through the most essential DBATOOLS module commands and teach you all you need to know to hit the ground running. We will go over the dbatools ecosystem and the common concepts that will help you get the most out of this module. There are over 650 commands, so we won't be going over all of them, but I will take you through the mainstream, daily use commands in the Get, Set, Test, Backup, Restore and others in the verbs in this module. Not only that but we will cover how to prepare your profile and environment to have ready variables that will assist you in quick commandline operation as well as automated running of commands. Join me in the quest for becoming a PowerShell DBA.",
+      "startsAt": "2026-07-17T08:00:00",
+      "endsAt": "2026-07-17T16:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9d0a0d9d-bef7-40b6-a81a-ff09cdefa74e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76621,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1256738",
+      "title": "AI for the Rest of Us: Vibe Coding & Building MCP Servers with FastMCP",
+      "description": "You've heard the buzzwords — AI, LLMs, vectors, embeddings, \"MCP\" — but you've\r\n  never actually sat down and built anything with them. This hands-on day is\r\n  for you. No AI experience required, and you don't even need to be a developer.\r\n \r\n  We'll start at the very beginning: what AI and large language models actually\r\n  are, what a \"vector\" and an \"embedding\" really mean, and how a vector store\r\n  (yes, including SQL Server 2025) fits into the picture. Then we'll get our\r\n  hands dirty with \"vibe coding\" — using AI to build small, working tools live,\r\n  breaking things and fixing them as we go. In the afternoon we level up to\r\n  FastMCP: what the Model Context Protocol is, how to find and use MCP tools,\r\n  and how to build your own so an AI can take real actions — like querying a\r\n  database in plain English.\r\n\r\n  This is a workshop, not a lecture. We introduce a concept, then you build it.\r\n  You won't walk out with a polished product — you'll walk out with something\r\n  better: a real understanding of how modern AI fits together, and the\r\n  confidence to go build your own.\r\n\r\n  What you'll learn\r\n  - What LLMs, vectors, embeddings, and vector stores actually are — in plain\r\n  English\r\n  - How to \"vibe code\" working tools with AI, and what to do when it breaks\r\n  - What MCP and FastMCP are, and how to find, use, and build your own MCP tools\r\n  - How to get an AI to take real actions (like working with a database) safely\r\n\r\n  What you'll leave with\r\n  - A clear mental model of how modern AI systems fit together\r\n  - Hands-on experience building (and breaking) things with AI\r\n  - Your first MCP tool — and the confidence to keep going\r\n\r\n  What to bring (prerequisites)\r\n  - A laptop (Windows 11+, MacOS M1+) with the workshop environment installed\r\n  ahead of time — we'll send setup instructions before the event so you arrive\r\n  ready to build\r\n  - Curiosity. That's it — no prior AI or coding experience needed.",
+      "startsAt": "2026-07-17T08:00:00",
+      "endsAt": "2026-07-17T16:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8bf21729-fb49-4b06-ac83-d8262fb26d16"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76623,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1115944",
+      "title": "Data on Fire: A Hands-On Intro to Spark in Fabric",
+      "description": "Curious about Apache Spark but not sure where to start? This hands-on session introduces you to Spark in Microsoft Fabric Notebooks—a powerful and accessible way to process and analyze big data using familiar tools in the Microsoft ecosystem.\r\n\r\nWe’ll break down key Spark concepts like distributed computing, DataFrames, and lazy evaluation, then show how they come to life inside Fabric’s notebook experience. You’ll see practical demos that cover loading, transforming, and analyzing large datasets—while leveraging Fabric’s modern data stack, including OneLake, Dataflows, and Pipelines.\r\n\r\nYou’ll also learn how to choose between Spark and pure Python notebooks in Fabric, based on execution needs, data integration, and use case fit.\r\n\r\nWhether you're a SQL pro, BI developer, or data engineer, this session will give you the tools and confidence to start using Spark in your own projects—no cluster management required.",
+      "startsAt": "2026-07-18T08:30:00",
+      "endsAt": "2026-07-18T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d532b4f5-d1b2-4ade-a340-7f09edc40599"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76614,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1220244",
+      "title": "From Problem to Solution: Analytics Consulting in the Age of AI",
+      "description": "What does it actually take to guide an organization from a messy, undefined problem to a solution they can act on? In this session, our team will share our typical roadmap for organizations looking to evolve their data landscape while truly allowing their data to work for them and not against them. We're sharing client stories, how the work is evolving, and how our team works to support clients as they move toward Artificial Intelligence",
+      "startsAt": "2026-07-18T08:30:00",
+      "endsAt": "2026-07-18T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9a3c022e-be0f-454e-ad63-40c6451381cf",
+        "5cba56f0-5b58-44da-af31-01bacb20ec30"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76615,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1110645",
+      "title": "Creating a Career Roadmap and Owning Your Job Search",
+      "description": "This session will help to empower IT professionals to think strategically about how to make the most of their current role, and how to reach their ultimate career goals. ",
+      "startsAt": "2026-07-18T08:30:00",
+      "endsAt": "2026-07-18T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "de78fdd0-bd3d-446b-8a1f-bf41d644135e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76616,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1143200",
+      "title": "Master AI prompts by creating a load tester",
+      "description": "Join me in building a load-testing platform with Python.  The backend DB is Postgres.  I’ll walk through the prompts I used, the pitfalls I encountered, and the problems that come with working with AI to get a usable application out of it.  This presentation will both walk you through the use of AI prompts and teach you key things you need to know when working with AI ",
+      "startsAt": "2026-07-18T08:30:00",
+      "endsAt": "2026-07-18T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8694ac11-d2d1-4512-9b37-8eb1a28e4fa1"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76617,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1210658",
+      "title": "Demystifying Agentic Software",
+      "description": "With all the hype surrounding AI and agentic software, it can be hard to tell what's real and what's marketing. AI companies are incentivized to sell us a version of reality that isn't here yet, and with the landscape shifting weekly, even the current state is a moving target.\r\n\r\nIn this talk we (and by we, I mean Claude) will start with a local LLM doing raw text prediction and build up to an agentic loop that can call tools. While I make no promises that this agent will do anything useful, along the way we'll develop a mental model for how agents actually work, how to evaluate what they produce, and how to bias them toward the outcomes we want.",
+      "startsAt": "2026-07-18T08:30:00",
+      "endsAt": "2026-07-18T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f2dbd6f0-bd98-494c-81af-1b9d3a2700d3"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76619,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1179332",
+      "title": "AI Ready with Microsoft Purview and Fabric",
+      "description": "Managing data across large organizations can feel like an endless game of catch-up. Microsoft Purview and Fabric make it easier by giving teams tools to organize, protect, and share data without constant compliance headaches.\r\n\r\nFirst, we’ll look at the challenges organizations face when data is scattered across silos with possible security gaps slowing everything down and creating possible regulatory concerns. \r\n\r\nNext, we’ll see how Purview and Fabric work to streamline data management by cataloging assets, enforcing protections, and making data easier to find. \r\n\r\nFinally, we’ll show how this approach simplifies compliance, improves data accessibility, and supports better collaboration across teams.\r\n\r\nAttendees will come away with a practical guide on using Microsoft Purview and Fabric to keep data organized, compliant, and useful.",
+      "startsAt": "2026-07-18T08:30:00",
+      "endsAt": "2026-07-18T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6375582a-11f3-4a89-b783-6e5869a1a217"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76622,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1189458",
+      "title": "From Data to Decisions: Building Agentic Construction Intelligence with Databricks Agent Bricks",
+      "description": "Construction companies generate massive amounts of operational and financial data across ERP systems, field reports, inspection logs, and project controls tools. Yet most organizations still rely on dashboards and manual investigation to understand project performance.\r\nThis session demonstrates how agentic workflows built with Databricks Agent Bricks transform construction data into automated operational intelligence. Using a synthetic construction services scenario, we show how multiple AI agents analyze project financials, field inspections, and operational data stored in the lakehouse.\r\nSpecialized agents interpret structured ERP data and unstructured inspection documents, while a supervisor agent orchestrates investigations across multiple sources to detect cost variance, identify recurring defects, and recommend operational actions. The demo illustrates how the Databricks Data Intelligence Platform enables governed, explainable automation while preserving enterprise data governance.\r\nAttendees will learn practical design patterns for building agent-driven systems that move construction analytics beyond dashboards toward actionable intelligence.",
+      "startsAt": "2026-07-18T08:30:00",
+      "endsAt": "2026-07-18T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1d3146e0-9d47-4765-8a9c-6313a6a7e31f"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76620,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1223333",
+      "title": "SQL Server Security Myths: What Actually Matters in Real Environments",
+      "description": "Many SQL Server environments appear secure at first glance. TDE is enabled, sa is disabled, auditing is configured, and the number of sysadmins may even be small.\r\n\r\nBut those controls do not automatically mean the environment is defensible. Real-world SQL Server risk often hides in privilege escalation paths, over-permissioned database roles, SQL Agent configuration, weak operational boundaries, and assumptions that nobody has tested.\r\n\r\nIn this session, we will walk through common SQL Server security myths and compare the perception of safety with the actual risk. You will learn which controls genuinely reduce attack paths and blast radius, which ones are often misunderstood, and what to check first when assessing a SQL Server environment.",
+      "startsAt": "2026-07-18T08:30:00",
+      "endsAt": "2026-07-18T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1bbd9877-f0ef-47dc-82a3-2ae0a75c107e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76618,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1187486",
+      "title": "Demystifying Microsoft Fabric: Architecture and Organization 101",
+      "description": "As with any other new technology, Microsoft Fabric comes with a host of new terms and concepts.  Do you know your tenants from your capacities from your workspaces?  How about your data lakes from your delta lakes and your lakehouses from your warehouses?  If not, you're not alone!\r\n\r\nThis session is aimed at data analysts, on-premises data professionals, managers/executives, and other tech pros struggling to understand the purpose, architecture, and organization of Fabric.  We'll use plain English and not marketing-speak or technobabble to ensure all attendees have a shared understanding of this new paradigm for analytics in the Microsoft ecosystem.",
+      "startsAt": "2026-07-18T08:30:00",
+      "endsAt": "2026-07-18T09:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c8bd427f-492a-4882-888c-7e04f18a316d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 85267,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1131228",
+      "title": "Learning PostgreSQL as a SQL Server User",
+      "description": "More and more organizations are hosting their data on multiple platforms. One of the fastest growing relational platforms is PostgreSQL. While the root behaviors of tables and relationships between them are the same, there remains a very distinct set of differences between PostgreSQL and other platforms.\r\n\r\nIf you've been a SQL Server user, developer, DBA, and your organization is now adding PostgreSQL to the mix, you may have a somewhat steep learning curve ahead. This session is meant to reduce the size of that hill you're going to climb as you add PostgreSQL skills. We'll cover the common aspects of both platforms, the subtle differences between the two, and, of course, some of the unique behaviors to separates PostgreSQL from SQL Server. You'll get a good introduction to the core behaviors of PostgreSQL and the appropriate language to use when working with that data platform. All of this is designed to flatten out that learning curve and get you started supporting PostgreSQL just as well as you currently support SQL Server.",
+      "startsAt": "2026-07-18T09:40:00",
+      "endsAt": "2026-07-18T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "3ee8f419-819e-4496-bfec-412f779eadab"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76614,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1113582",
+      "title": "Getting Started with DuckDB",
+      "description": "DuckDB is a lightweight, open-source database that has become a go-to solution for running analytical queries on local machines. In this talk, we will explore why that is, showing off some of its simplicity, portability, and extensibility. We will investigate how its columnar data storage helps with analytical queries and how to read data in common file formats such as CSV, JSON, and Parquet. We will also dig into its SQL interface and see how closely it mirrors relational database solutions. By the end of this talk, we will understand some of the best use cases for DuckDB and what it takes to get started.",
+      "startsAt": "2026-07-18T09:40:00",
+      "endsAt": "2026-07-18T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7c382501-a37f-49b7-bb28-eb7692995323"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76615,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1193019",
+      "title": "Zero to App Store",
+      "description": "The barrier between \"having an idea\" and \"launching an app\" has officially vanished. In this high-energy, 60-minute session, we’ll prove that you don't need a computer science degree to become a published developer. Leveraging the power of AI coding assistants like Claude Code, Gemini, and ChatGPT, we will demonstrate how to transform natural language into functional applications ready for the iOS, Android, and Windows stores.\r\n\r\nWhether you want to build specialized cybersecurity tools, productivity apps, or personal projects, this workshop teaches you the \"vibe coding\" workflow: using AI to handle the heavy lifting of syntax while you focus on design and logic. We will skip the complex IDE setups and dive straight into building, debugging, and the roadmap to getting your first app into the hands of users worldwide.",
+      "startsAt": "2026-07-18T09:40:00",
+      "endsAt": "2026-07-18T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a23aecdf-8161-4d9f-8388-4db52677998f"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76616,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1116253",
+      "title": "PowerShell + AI: Enhancement, Not Replacement",
+      "description": "Lets explore how to effectively integrate AI tools into your PowerShell development workflow without losing sight of what really matters: solid scripting fundamentals. This session shows you where AI can genuinely help with things like rapid prototyping and learning new concepts but also reveals the common traps that can bite you in production, from security holes to missing error handling that AI just doesn’t catch.\r\n\r\nThrough live demos and real-world examples, you’ll see a practical approach that uses AI to speed up the boring stuff while relying on your expertise to make sure everything actually works when it counts. We’ll cover specific techniques for writing better prompts, validating AI-generated code, and building review processes that catch problems before they become expensive mistakes. By the end, you’ll have concrete strategies you can use right away, and a clear understanding of why your PowerShell knowledge is actually more important now, not less, in a world where anyone can generate code in seconds.",
+      "startsAt": "2026-07-18T09:40:00",
+      "endsAt": "2026-07-18T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6582c4ce-8e50-4442-a9c5-65a7b51b347d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76617,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1127129",
+      "title": "Ranking FizzBuzz for Fun Not Profit",
+      "description": "Ah Fizzbuzz, a staple of dev interview ghost stories, always lurking around the corner, rarely actually seen in the wild. But I want to talk about it. For the last decade I've been collecting fun and unusual FizzBuzz implementations over a variety of programming languages. Lets go over them with a good ol' fashioned S-tier ranking. The best one will shock and amaze you!\r\n",
+      "startsAt": "2026-07-18T09:40:00",
+      "endsAt": "2026-07-18T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9e027d23-d265-4e69-bbff-2e4e9e6bc0f3"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76619,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1139945",
+      "title": "Azure Storage: You want to put what where?",
+      "description": "Migrating to the cloud should not be considered a cost saving measure, but there are a number of tricks and tips you can use to make sure your business' hard-earned money is used to optimize your storage choices for all of your Azure choices. \r\n\r\nJoin me with an in-depth discussion on your choices in storage for SQL Server on Azure VM, Azure SQL Managed Instance (MI), and Azure SQL along with a little bit of discussion about HA/DR/and BC.  \r\n\r\nBring ALL your questions and sample scenarios so we can come up with a plan to provide your Azure installation with the perfect storage for your business needs!\r\n",
+      "startsAt": "2026-07-18T09:40:00",
+      "endsAt": "2026-07-18T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9d26eab6-1a8f-4009-8744-bbc151da699b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76622,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1139668",
+      "title": "Introduction to Microsoft Fabric Variable Library: Simplifying CI/CD Automation",
+      "description": "Discover how Microsoft Fabric’s Variable Library simplifies CI/CD automation by centralizing and securing environment-specific values. In this introductory session, you’ll learn what a Variable Library is, why it matters, and how to use it effectively in deployment pipelines. We’ll explore practical scenarios, best practices for managing variables, and tips for governance and security. Whether you’re new to Fabric or looking to streamline your workflows, this session will help you unlock the power of variable management.",
+      "startsAt": "2026-07-18T09:40:00",
+      "endsAt": "2026-07-18T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "e9a520a7-65b5-40fc-a5c1-07a1f0b8c0cd"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76620,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1116225",
+      "title": "Transactions Are Events: Event-Driven Architecture On Data In Motion",
+      "description": "You may have seen Real-time Intelligence and thought \"that's cool, but I don't have any streaming data\". What we all have, though, is transactions. Lots of them. That means we have data moving around our ecosystem, likely with traditional ETL jobs and schedulers. Come learn how change data capture, change event streaming, and Real-time Intelligence combine to give you the tools to create a truly event-driven (and less fragile) data architecture.",
+      "startsAt": "2026-07-18T09:40:00",
+      "endsAt": "2026-07-18T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "84f4f0b8-4a32-490b-acf7-e39bde2b99b2"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76618,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1139596",
+      "title": "Careers in IT Baton Rouge 2026",
+      "description": "Careers in IT will feature a panel of industry leaders and experts who directly interact with participants in a moderated question and answer session. This will allow participants to gain insight into what the IT community sees as valuable (skill-sets, certifications, experience, and etc) so that they can be better prepared for a career transition or to start work in the IT field for the first time.",
+      "startsAt": "2026-07-18T09:40:00",
+      "endsAt": "2026-07-18T10:40:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f3281bba-36d8-4f77-8910-0ecf9d9e0e0d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 85267,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1272808",
+      "title": "Keynote: The Nature of Work in the Age of AI: Prevailing When the Brain Meets the Machine",
+      "description": "Lots of visuals, examples, and will cross-cut all audiences. I have seen so much despair, anxiety and confusion in our industry -- software engineers, corporate professionals, and even professors as the news of the impact of AI is hitting them. This talk will educate, empower, and inspire our SQL Saturday/Day of Date audience.",
+      "startsAt": "2026-07-18T10:50:00",
+      "endsAt": "2026-07-18T11:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": true,
+      "speakers": [
+        "8039b9b1-f2f7-41f9-a8ad-b6693f923f41"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76614,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": false
+    },
+    {
+      "id": "1191692",
+      "title": "SQL in the Fabric Era: Translate existing skills into the modern data platform",
+      "description": "SQL pros, meet Fabric! This session shares hands-on examples of SQL database in Fabric in action with analytics, governance, and Power BI integration included.\r\n\r\nWe will take a look at using the OLTP database, the SQL Analytics endpoint, and mirroring work to enable integration with other Fabric workloads in a way that is intuitive to SQL Pros. We will also explore how some of the built-in governance features of Fabric aide SQL developers and DBAs alike.\r\n\r\nBy the end of this session you will better understand how to extend your SQL skills into a modern data ecosystem without leaving your comfort zone.",
+      "startsAt": "2026-07-18T11:30:00",
+      "endsAt": "2026-07-18T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "5c6782bc-7852-4986-b795-23c716942ca2"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76615,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1136472",
+      "title": "The Engineering Leaders Test",
+      "description": "The Engineering Leaders Test: Would You Rejoin Your Own Team? How aspiring leaders can build teams they’d be proud to come back to. \r\nPractical ideas on how to self-reflect on your team and move forward building trust and teamwork.",
+      "startsAt": "2026-07-18T11:30:00",
+      "endsAt": "2026-07-18T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "eb81c132-9d10-467a-ac78-2be5f4d75306"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76616,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1218432",
+      "title": "Intro to PowerShell with dbatools for the DBA",
+      "description": "Whether you manage a single instance of SQL Server or hundreds of them, PowerShell and dbatools are invaluable additions to your toolbox. Today, we’re going to scratch the surface with what you can do with these tools to simplify, automate and standardize some of the tasks you perform.\r\n",
+      "startsAt": "2026-07-18T11:30:00",
+      "endsAt": "2026-07-18T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6a8d2c9c-4aba-4202-9939-2ee4067ea941"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76617,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1223923",
+      "title": "Local AI for .NET",
+      "description": "In this session, we’ll introduce Foundry Local, a lightweight runtime that lets you run AI models locally and call them from your .NET applications — no prior AI experience required.\r\n\r\nWe’ll start by answering the basics: What is Foundry Local, how does it work, and why should .NET developers care? Then, we’ll build a real C# application that uses Foundry Local for tasks like text generation, summarization, and structured responses. You’ll learn how to install Foundry Local, call it from C#, handle responses, and integrate AI features into real applications.\r\n\r\nYou’ll walk away with a working sample project and a clear understanding of how Foundry Local fits into modern .NET development so you can start experimenting with AI in your own applications.",
+      "startsAt": "2026-07-18T11:30:00",
+      "endsAt": "2026-07-18T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "098f2999-a5b9-4d1c-aa92-11c0fc5c815e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76619,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1222298",
+      "title": "Beyond the Hype: Practical NFT Use Cases for Data and Analytics",
+      "description": "NFTs have moved well beyond digital collectibles and are increasingly being explored for real-world applications like credentialing, asset tracking, and data provenance. But how do they actually work, and what does it take to create one?\r\n\r\nIn this session, we will break down the architecture behind NFTs and walk through minting one step by step on a test blockchain network. You will see how metadata, decentralized storage (IPFS), and smart contracts come together and how these concepts map to familiar data engineering principles like schema design, data integrity, and system architecture.\r\n\r\nWe will also explore practical use cases relevant to data professionals, including issuing verifiable course certificates and tracking digital assets. By the end of the session, you will understand not just how to mint an NFT, but when it makes sense to use one and when it does not. Attendees will leave with a repeatable workflow they can experiment with immediately.",
+      "startsAt": "2026-07-18T11:30:00",
+      "endsAt": "2026-07-18T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "91482dc8-2276-4a60-b941-89e4ff610f36"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76622,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1150210",
+      "title": "Beyond “Set and Forget”: Mastering the Ola Hallengren Maintenance Solution",
+      "description": "The Ola Hallengren Maintenance Solution is installed on thousands of SQL Server instances, yet most environments rely on default jobs and hope for the best. While those defaults work, they rarely align with real-world workloads, availability requirements, or maintenance windows.\r\n\r\nIn this session, we’ll go beyond “set and forget” and break down how the Ola solution actually works—and how to tune it intentionally. You’ll learn how the backup, integrity check, and index maintenance procedures make decisions, and how to control that behavior using parameters, schedules, and execution context.\r\n\r\nWe’ll also explore the built-in logging tables and return codes, showing how to use them for troubleshooting, reporting, and automation—turning maintenance from a black box into an observable, auditable process.\r\n\r\nYou’ll leave with solid guidance on how to redesign existing Ola jobs into a flexible, scalable maintenance framework that supports performance, reliability, and growth—without rewriting everything from scratch.",
+      "startsAt": "2026-07-18T11:30:00",
+      "endsAt": "2026-07-18T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9d0a0d9d-bef7-40b6-a81a-ff09cdefa74e"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76620,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1208685",
+      "title": "From Operational Data to Insights: An Agentic AI Assistant for DevOps Intelligence",
+      "description": "Modern DevOps environments generate vast volumes of operational data across logs, monitoring systems, documentation, and collaboration platforms, yet much of this data remains underutilized due to fragmentation and lack of real-time accessibility. This session explores an agentic AI-powered DevOps Knowledge Assistant that transforms disparate operational data into actionable insights. Leveraging natural language processing, agent-based workflows, and microservices architecture, the system unifies structured and unstructured data to deliver context-aware responses and automate routine tasks.\r\n\r\nWe examine how integrating logs, runbooks, and historical incident data enables faster query resolution, improved incident response, and data-driven decision-making. The session also covers implementation strategies, including secure data integration, governance, and user adoption. Results demonstrate significant gains in troubleshooting efficiency, onboarding, and cross-team collaboration. By evolving toward predictive analytics, this approach highlights how organizations can unlock the full value of operational data to enhance resilience, efficiency, and intelligent automation in DevOps.",
+      "startsAt": "2026-07-18T11:30:00",
+      "endsAt": "2026-07-18T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "0fa60fd0-011b-432a-af32-99d3e1a405f0"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76618,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1217918",
+      "title": "The Age of Agentic Engineering in SDLC",
+      "description": "Software engineering is shifting fast — AI now plans, writes, tests, and ships code. This session looks at the spectrum from vibe coding to agentic engineering, how the SDLC is changing, and the skills and economics that matter now. We’ll close with a live demo of building a feature the agentic engineering way.",
+      "startsAt": "2026-07-18T11:30:00",
+      "endsAt": "2026-07-18T12:30:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f4e0c0e2-0e49-487f-bf32-3d72a31df239"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 85267,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1283296",
+      "title": "From Prompt to Production: AI Across Traditional and Low-Code Development",
+      "description": "Artificial Intelligence is doing far more than generating code—it is fundamentally changing how modern software is designed, developed, tested, deployed, and maintained. Whether you're building enterprise applications with Java and .NET or delivering solutions on low-code platforms like ServiceNow, AI is becoming an essential member of the development team.\r\n\r\nIn this session, we'll explore how Generative AI is reshaping the entire Software Development Lifecycle (SDLC), from turning business requirements into user stories and architecture decisions to generating code, creating automated tests, reviewing pull requests, improving documentation, and accelerating deployment. We'll compare how these capabilities apply in both traditional software engineering and low-code development, demonstrating that AI is not replacing developers—it is enabling them to focus on higher-value problem solving.\r\n\r\nThrough practical demonstrations and real-world examples, attendees will see how AI can accelerate delivery, improve software quality, and reduce repetitive work while also learning where human expertise remains critical. We'll discuss best practices for validating AI-generated solutions, maintaining security and governance, and integrating AI responsibly into enterprise development workflows.\r\n\r\nWhether you're a developer, architect, ServiceNow professional, technical leader, or simply curious about the future of software engineering, you'll leave with actionable techniques and a practical framework for adopting AI across your own development process.",
+      "startsAt": "2026-07-18T13:25:00",
+      "endsAt": "2026-07-18T14:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7f76b936-d842-462f-98a7-fc4f0f800d3f",
+        "c45802f9-0e3f-43b3-871e-212d057129c3"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76614,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1211270",
+      "title": "Power Query Escape Room",
+      "description": "The Plot:\r\nFor the first time ever, the villainous Lord Taart Chart has emerged from the shadows, and he’s targeting your data! In a brazen attack, he’s stolen your carefully curated data and locked it deep inside his fortified Azure Vault.\r\n\r\nYour Mission:\r\nYou and your team must rise to the challenge, confronting Lord Taart Chart’s wicked ways by solving his 10 Power Query Puzzles. These devious challenges will test your ability to wrangle, transform, and tame even the messiest of data.\r\nCan your team prove its Power Query skills and outsmart this foe before your data is lost forever?",
+      "startsAt": "2026-07-18T13:25:00",
+      "endsAt": "2026-07-18T14:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "cd09f05b-008c-4109-9959-0513a75346b6"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76615,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1223365",
+      "title": "Intention Is All You Need: Maintaining Agency in a World of Agents",
+      "description": "As AI systems increasingly act on our behalf, writing, deciding, and executing tasks, the promise is clear: greater efficiency, more output, less effort. But this raises an important question. What are we optimizing for? \r\n\r\nThis talk challenges the assumption that more automation is always better. Instead, it establishes AI as a tool for focusing on what matters most. Rather than maximizing productivity at any cost, we can responsibly delegate tasks to automation in ways that support what matters most to us. The session will focus on the skills required to (1) make effective decisions about how AI is used in practice, (2) determine what to delegate and what to retain based on what we care about, and (3) guide AI systems without becoming dependent on them.  As AI capabilities increase, the challenge isn’t simply to keep up. We must remain intentional about what we choose to optimize and why.",
+      "startsAt": "2026-07-18T13:25:00",
+      "endsAt": "2026-07-18T14:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8fdb1aab-1685-4690-a4ac-dc461cc8ffac",
+        "f49ad73b-9dfa-481d-a6e5-0633872dac27"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76616,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1178457",
+      "title": "Optimizing CI/CD for Hybrid and Cloud Environments with DevOps and AI",
+      "description": "As AI becomes increasingly integrated into software development, optimizing CI/CD pipelines for hybrid and cloud environments requires a balance between automation, security, and governance. This session explores how to leverage DevOps best practices and tools to build scalable, secure, and AI-enhanced CI/CD solutions that support the entire development lifecycle—from code commit to production deployment.\r\n\r\nWe’ll cover key DevOps principles, recommended tools for automation, testing, and deployment, as well as strategies for integrating AI-driven capabilities to enhance efficiency, detect anomalies, and improve decision-making. Additionally, we’ll discuss how to mitigate AI-related vulnerabilities in the DevOps pipeline, ensuring model integrity, data security, and compliance. Attendees will learn how to implement GitOps, Infrastructure as Code (IaC), and progressive delivery techniques while maintaining control over AI-powered automation. Whether you're incorporating AI into your CI/CD workflows or securing an existing pipeline, this session will provide actionable insights to streamline development while minimizing risks.",
+      "startsAt": "2026-07-18T13:25:00",
+      "endsAt": "2026-07-18T14:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "cbfc10e5-647f-4898-bce3-4579e9e3935b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76617,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1121583",
+      "title": "A Beginner's Guide to Wrangling Asynchronicity in JavaScript",
+      "description": "In this talk, Raymond will talk about how to handle asynchronous code in JavaScript applications. He'll demonstrate the problems you encounter, the older style solutions (callbacks), and show how to use promises and async/await to make your code easier to work with. This will be a beginner's level topic with a focus on *practical* use cases but will wrap up with links to more solutions and advanced discussion.",
+      "startsAt": "2026-07-18T13:25:00",
+      "endsAt": "2026-07-18T14:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d70d4c74-7ab1-4c08-b421-f4f04535cf34"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76619,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1188363",
+      "title": "Implementing Data Gateway High Availability and Redundancy",
+      "description": "The on‑premises data gateway is a critical dependency for Power BI, Power Platform, and Microsoft Fabric—but when deployed as a single server, it becomes a hidden single point of failure. In this session, you’ll learn how to design and operate a highly available and disaster‑resilient gateway architecture using Microsoft‑supported clustering. We’ll cover core concepts such as gateway instances, nodes, and clusters; explain how gateway failover works; discuss platform limitations and tradeoffs; and demonstrate how PowerShell supports enterprise‑scale gateway management.",
+      "startsAt": "2026-07-18T13:25:00",
+      "endsAt": "2026-07-18T14:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c8c2920c-9ead-42e5-95b4-a6686dd981c7"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76622,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1211835",
+      "title": "AI Made Us Faster. Data Makes Us Smarter.",
+      "description": "AI made teams faster, but faster creation does not automatically create better decisions, trusted answers, or safer delivery. This talk explores why data teams are becoming essential to the AI software delivery lifecycle by turning definitions, quality rules, lineage, governance, and data contracts into controls that shape AI behavior.\r\n\r\nAttendees will see how data moves from downstream reporting into the delivery workflow, and how changing a data contract can change what an AI system is allowed to know, use, explain, and prove.\r\n\r\nThis is the third talk in a series about how AI is changing the software delivery workflow and why the roles around engineering must move closer to how software is built, released, governed, and improved:\r\n\r\nAI Made Us Faster. Why Aren’t We Delivering Faster?\r\nAI Made Us Faster. Security Must Make Delivery Safer.\r\nAI Made Us Faster. Data Must Make Delivery Smarter.\r\n",
+      "startsAt": "2026-07-18T13:25:00",
+      "endsAt": "2026-07-18T14:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7da6a742-a83d-43ae-be6f-941978d9cc10"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76620,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1142223",
+      "title": "Guardians of the Data Galaxy: Securing SQL Server the Right Way",
+      "description": "SQL Server security isn’t a single feature — it’s a layered strategy. In this 200‑level session, we’ll walk through SQL Server’s full security stack from the outside in, starting with physical and network boundaries and moving all the way to encryption, permissions, auditing, and row‑level security. You’ll learn how each layer contributes to a defense‑in‑depth model, how attackers typically try to bypass weak configurations, and which built‑in SQL Server features can close those gaps quickly. Whether you manage production workloads, support developers, or design data platforms, this session will give you a clear roadmap for securing SQL Server environments with practical, real‑world guidance you can apply immediately.",
+      "startsAt": "2026-07-18T13:25:00",
+      "endsAt": "2026-07-18T14:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c572db74-9a9b-4626-b13f-bf5dc870b4c5"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76618,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1184202",
+      "title": "Using Data API Builder to Speed Up Application Development",
+      "description": "The Data API Builder from Microsoft, you can quickly and easily expose your database objects for developers to use without writing a lot of data access layer code. In this session, we will see how to setup, configure, and use the Data API Builder and GraphQL to expose and query data in SQL Server and PostgreSQL. Learn how easy it is to run this service alongside your application and let developers filter, sort, and change data using standard GraphQL queries.",
+      "startsAt": "2026-07-18T13:25:00",
+      "endsAt": "2026-07-18T14:25:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "558d6d9f-4ad1-431c-a6fd-d231052d354b"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 85267,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1198228",
+      "title": "Git Good: GitHub and GitHub Actions for the Rest of Us",
+      "description": "LLMs are changing how we write code, manage infrastructure, and ship software, making source code management and DevOps skills more valuable than ever. If DevOps has always seemed confusing or mysterious, you're not alone. In this session, you will: \r\n\r\n- Learn Git and GitHub basics for storing and managing your code\r\n- Get comfortable collaborating in repositories\r\n- Use GitHub Actions to automate code, cloud, and database deployments\r\n- How GitHub Actions are basically just shell scripts\r\n- Understand how to ship software faster with fewer problems\r\n\r\nYou'll leave ready to automate, collaborate, and deliver your projects with confidence.\r\n\r\n",
+      "startsAt": "2026-07-18T14:35:00",
+      "endsAt": "2026-07-18T15:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "9591edc5-91e5-4b80-9cef-df1f0c239670"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76614,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1223801",
+      "title": "Basics of connecting REST APIs to Power BI",
+      "description": "Automated refreshes are critical to the success of many reporting solutions.  Most developers prefer connecting to databases or data warehouses where they have control over the resource allocation and transformation of the data all before it reaches Power BI.  But what happens when you do not have direct access to the database?  What happens if the data is hosted by a 3rd party cloud platform?  What if you ask for a way to get the data and they send you documentation on their APIs and say good luck?\r\n\r\nIf you have asked these questions, then this session is designed specifically for you.  We will walk you through the basics of understanding API documentation and show you how to connect with the Web connector in Power BI.  We will also cover some of the basic transformations you can perform to make your queries more efficient and highlight some of the blockers you might encounter.  We will even build a function with an API and apply it to a dataset. \r\n\r\nAt the end of this session, you will feel comfortable using REST APIs as a data source and building connections using best practices.",
+      "startsAt": "2026-07-18T14:35:00",
+      "endsAt": "2026-07-18T15:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "1ee1778b-2efe-4a6f-afdd-2ecb86016da7"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76615,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1186770",
+      "title": "GUMBO: The Recipe for Career Success, Personal Growth and Meaningful Work",
+      "description": "Success is a lot like a great Louisiana gumbo - there is no single recipe, but the right ingredients make all the difference.\r\n\r\nWhether you're a student preparing for your first career opportunity, a data professional solving complex problems, a project manager leading teams, or an IT specialist navigating constant change, long-term success requires more than technical skills alone. It requires a foundation of personal growth, a clear understanding of what makes you unique, a focus on meaningful outcomes, strong connections with others, and the willingness to take ownership of your future.\r\n\r\nIn this engaging and interactive session, Tanya Boyd uses Louisiana's most iconic dish as a practical framework for career development and personal well-being. Through real-world stories, relatable examples, audience participation, and measurable strategies, participants will explore how the GUMBO framework can help them build a more fulfilling career while creating a recipe for success that is uniquely their own.\r\n\r\nBy attending this session, participants will be able to:\r\n\r\n- Identify the five ingredients of the GUMBO framework: Growth, Uniqueness, Meaningful Outcomes, Belonging, and Ownership.\r\n- Evaluate their personal and professional strengths using the GUMBO self-assessment model.\r\n- Apply measurable strategies to support career development, skill growth, and personal well-being.\r\n- Recognize how relationships, purpose, and accountability contribute to long-term success.\r\n- Develop a personalized action plan to strengthen at least one area of their own GUMBO recipe.\r\n",
+      "startsAt": "2026-07-18T14:35:00",
+      "endsAt": "2026-07-18T15:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f0dd5d75-4552-4c74-96fa-7b709bad7e8d"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76616,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1201955",
+      "title": "Power BI API: Automating the Analytics Lifecycle",
+      "description": "Take your Power BI solutions beyond the Desktop! In this session, we’ll dive into advanced use cases for the Power BI REST API, showcasing how to automate your workflow, streamline your development, and integrate into your custom portals. Learn how to automate report deployment, create personalized experiences with row-level security, and leverage real-time data updates to keep your visuals fresh.\r\n\r\nWhether you’re building internal tools or client-facing applications, this session will provide actionable insights and practical examples to help you unlock the full potential of the Power BI API. Join us to supercharge your analytics solutions!",
+      "startsAt": "2026-07-18T14:35:00",
+      "endsAt": "2026-07-18T15:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ca7ec345-ba1e-4e57-bd44-e2a67cb0d745"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76617,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1123881",
+      "title": "Fabric Unified Admin & Monitoring (FUAM)  aka.ms/FUAM",
+      "description": "Deploying and Utilizing Fabric Admin & Monitoring for the Data Engineering and Database Admin or Power BI / Fabric Admin.  aka.ms/FUAM",
+      "startsAt": "2026-07-18T14:35:00",
+      "endsAt": "2026-07-18T15:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ef8b8ec5-6569-470a-91fe-1e85ae6a3b49"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76619,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1216921",
+      "title": "Fabric SQL Database: Simplifying OLTP and Real-Time Analytics",
+      "description": "Managing transactional workloads while enabling analytics in near real-time often requires complex architectures and multiple tools. SQL Database in Microsoft Fabric, currently in preview, aims to simplify this by combining OLTP capabilities with built-in analytics integration.\r\n\r\nThis session introduces SQL Database in Fabric—a developer-friendly, cloud-native solution built on Azure SQL that automatically replicates data into OneLake for near real-time analytics.  You'll learn how it supports familiar tools like SQL Server Management Studio and the Fabric portal, offers intelligent performance features, and enables cross-database queries and semantic modeling for Power BI.\r\n\r\nAttendees will leave with a clear understanding of how Fabric SQL can streamline data architecture, reduce operational overhead, and accelerate insights—all without sacrificing transactional performance.\r\n \r\nSession Goals - Attendees will:\r\n \r\nUnderstand the problem SQL database in Fabric is solving in modern data architectures.\r\n\r\nLearn how SQL database in Fabric integrates OLTP and analytics through OneLake replication.\r\n\r\nExplore supported development tools and intelligent performance features.\r\nCompare SQL database in Fabric with Azure SQL to understand trade-offs and use cases.\r\n\r\nSee live demos of database creation, connection, and analytics endpoint usage.",
+      "startsAt": "2026-07-18T14:35:00",
+      "endsAt": "2026-07-18T15:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6cb69585-1bb0-4e40-91f8-f75f3427a56f"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76622,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1197180",
+      "title": "AI Agents That Don't Make Things Up: Grounding with Fabric IQ, Semantic Models, and Guardrails",
+      "description": "Your Data Agent just told the CFO that Q3 revenue was $47 million. The real number was $74 million. The decimals were right. The meaning was wrong. And now nobody trusts the AI — or the team that built it. This is the grounding problem, and it's the #1 reason enterprise AI pilots fail. The fix isn't a better model or a cleverer prompt. It's giving your agent a shared understanding of what your data actually means. In this session, I'll show you how Microsoft Fabric solves this with three layers of grounding: semantic models that define your business metrics, ontologies that map your business vocabulary, and agent instructions that set guardrails on what the AI can and can't do. You'll see a live demo of a Data Agent that hallucinates — then watch as we ground it step by step until it gives trusted, auditable answers. If you're building AI agents (or being asked to), this is the session that keeps you out of trouble.",
+      "startsAt": "2026-07-18T14:35:00",
+      "endsAt": "2026-07-18T15:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a3e9a71c-228d-4db0-a737-dad38f6057b8"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76620,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1154417",
+      "title": "When your email security work and you still get phished.",
+      "description": "Email security tools (SEG, URL rewriting, attachment sandboxing) have improved—so attackers increasingly route around the inbox. Initial access now often starts with QR codes, SMS, search ads/SEO poisoning, collaboration app lures, and “quick IT fix” prompts that never touch email filters. From there, adversaries use Adversary-in-the-Middle (AiTM) techniques and “ClickFix” social engineering to hijack authenticated browser sessions and reuse session tokens—making logins look normal and often bypassing MFA.\r\n\r\nFor data teams, this is a hidden risk: a compromised identity/session can grant access to cloud portals, BI workspaces, storage, and data tooling without tripping traditional “phish” alarms. The outcome isn’t only data theft—it can be data integrity damage (silent changes to reporting, pipelines, permissions, or exports) that undermines trust in dashboards and operational decisions.\r\n\r\nThis session translates post-email attacks into data-platform reality: what these compromises look like in identity logs, how to detect “successful login” events that aren’t actually safe, and a practical “last-mile” hardening roadmap that protects the point where analysts and engineers interact with cloud data.\r\n\r\nYou’ll leave with a prioritized checklist for hardening identity + admin paths, plus monitoring ideas tailored to data workloads—so your organization can keep using modern cloud analytics without betting everything on email filters.",
+      "startsAt": "2026-07-18T14:35:00",
+      "endsAt": "2026-07-18T15:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "ed211070-2e6c-46f0-acbf-4bb616b7e4b6"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76618,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1223867",
+      "title": "SQL Server vs. Cosmos DB: The Definitive Decision Matrix",
+      "description": "\"It depends\" is the standard answer for database selection, but only if you understand what it depends on. For developers deciding between SQL Server and Azure Cosmos DB, understanding the differences in their internal engines is critical to performance.\r\n\r\nIn this session, we strip away the abstraction layers to compare the query engines of Microsoft's top databases. We will dive deep into the internals, comparing how each engine handles indexing, scaling, and query optimization. You will see exactly how a \"simple\" query executes differently in a distributed system vs. a centralized one. Come for the feature comparison; stay for the survival guide on avoiding costly migration mistakes.",
+      "startsAt": "2026-07-18T14:35:00",
+      "endsAt": "2026-07-18T15:35:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "6117a19c-2501-4df2-8c07-92c6c309e167"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 85267,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1118222",
+      "title": "Blogging: Lessons I Learned the Hard Way",
+      "description": "Ready to start blogging but not sure where to begin? You're not alone. Many data professionals leave conferences inspired to share their knowledge but struggle to publish that first post.\r\nIn this session, I'll share the hard lessons from my blogging journey so you can avoid common pitfalls and start writing sooner. We'll explore:\r\n   • Choosing the right platform for your needs (pros and cons of each)\r\n   • Alternative outlets beyond traditional blogs\r\n   • Real examples of how blogging can boost your career and community presence\r\n   • Practical strategies to get from \"I should write about this\" to hitting publish\r\nWhether you're aiming to establish thought leadership, support your speaking goals, or simply give back to the community, this session will help you turn inspiration into action. Stop overthinking it—let's get you blogging.\r\n",
+      "startsAt": "2026-07-18T15:40:00",
+      "endsAt": "2026-07-18T15:55:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "d532b4f5-d1b2-4ade-a340-7f09edc40599"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76614,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1143195",
+      "title": "Speaking and Community Involvement for the Introvert",
+      "description": "Let’s be serious, I understand 99% of the audience for a technical conference are introverted.  I’m not here to disagree with that, I'm here to talk about the introvert inside of me and how I quiet it just enough to truly improve my life.  We will discuss why the idea of speaking and community involvement  are important to you.  If you think all you need is technical skills in this market  then please join me in the session so you can see why you need so much more than that.  The postgres community is growing very quickly and you can capitalize on this right now.   We will go in depth on the key things you need to be successful in talking and presenting to others.   The audience for this presentation is anyone that would like to be an expert in the industry and would like to worry less about future employment opportunities. ",
+      "startsAt": "2026-07-18T15:50:00",
+      "endsAt": "2026-07-18T16:05:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "8694ac11-d2d1-4512-9b37-8eb1a28e4fa1"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76614,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    },
+    {
+      "id": "1224277",
+      "title": "Database Commando: Tactical Maneuvers To Protect Performance",
+      "description": "This Lighting Talk session presents practical, developer‑focused strategies for keeping SQL Server performant and auditable. It covers rapid triage techniques for poor queries, common coding patterns that cause production problems, and pragmatic approaches to detecting schema drift and unauthorized changes. The emphasis is on concise, actionable guidance developers can apply when investigating slow queries or reviewing database‑related code.\r\nThe rapid triage portion outlines which DMVs and metrics to check first, how to spot I/O hotspots, memory pressure, tempdb contention, and plan instability, and what quick indicators help prioritize fixes. The code review portion highlights high‑risk patterns to watch for, including tradeoffs between temp tables and table variables, data‑type mismatches and implicit conversions, and risky uses of CTEs, recursion, and views that can hide performance costs.\r\nThe schema monitoring portion describes lightweight auditing and alerting strategies to surface unexpected DDL activity, ways to correlate changes with deployments and authors, and practical detection techniques for schema drift without heavy operational overhead. The session is aimed at backend developers, engineers, or accidental DBAs who work with SQL Server and want focused, developer‑centric approaches to reduce surprises and improve reliability.",
+      "startsAt": "2026-07-18T16:00:00",
+      "endsAt": "2026-07-18T16:15:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "899a376e-0edb-474e-94ab-c4f2eb455d4c"
+      ],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 76614,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted",
+      "isInformed": true,
+      "isConfirmed": true
+    }
+  ],
+  "speakers": [
+    {
+      "id": "1bbd9877-f0ef-47dc-82a3-2ae0a75c107e",
+      "firstName": "Andreas",
+      "lastName": "Wolter",
+      "bio": "Andreas Wolter is a data security expert and founder of Sarpedon Quality Lab. As a former Senior Program Manager for Azure SQL and SQL Server at Microsoft, he led the revamp of SQL Server’s permission system and designed the external authorization framework for Microsoft Purview, now also used by SQL databases in Microsoft Fabric.\r\nHe served on Microsoft’s security review board, analyzing threat models for SQL Server and Azure SQL features, contributing to improvements aligned with the Principle of Least Privilege, and helping shape the last major overhaul of SQL vulnerability assessment in Microsoft Defender for SQL.\r\nOne of only seven Microsoft Certified Solutions Masters (MCSM) for the Data Platform worldwide and a former Microsoft MVP, Andreas brings over 25 years of experience and has developed a SQL Server security assessment framework used to identify real-world risk patterns across enterprise environments.\r\nHe regularly speaks at international conferences and helps organizations identify real risk, strengthen security, and improve performance and availability, and reduce costs across SQL Server environments - on-premises and in Azure, AWS, and Google Cloud.",
+      "tagLine": "Data Architect, Security, Sarpedon Quality Lab",
+      "profilePicture": "https://cdn.sessionize.com/image/1fb2-400o400o1-Q5SJQKbJRjMvvkKy53Ypcc.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1223333
+      ],
+      "fullName": "Andreas Wolter",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f2dbd6f0-bd98-494c-81af-1b9d3a2700d3",
+      "firstName": "Austin",
+      "lastName": "Webre",
+      "bio": "Over the last 9 years, Austin has honed his skills in writing code and leading teams in developing elegant software solutions to complex, everyday problems. With expertise spanning cloud infrastructure, software architecture, and team building, Ausint's career has been built on a willingness to fill gaps and take on challenges wherever they arise.\r\n\r\nIn his free time, you'll often find him keeping his skills fresh by hacking on the LA Historical Markers project, the Daily Commutr iOS app, or whatever this month's half-finished project idea is.",
+      "tagLine": "Systems Architect @ GoValidate",
+      "profilePicture": "https://cdn.sessionize.com/image/aa6f-400o400o1-9VbvdkAm9fy8aGFzFhYEmr.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1210658
+      ],
+      "fullName": "Austin Webre",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "de78fdd0-bd3d-446b-8a1f-bf41d644135e",
+      "firstName": "Ava",
+      "lastName": "McClain",
+      "bio": "Ava McClain has been embedded in the technical recruiting space within Louisiana since 2018 and has monitored the drastic shifts in the job market locally and nationwide throughout that time. \r\nAs a leading figure in Tekchix, one of the leading recruiting agencies in Louisiana, Ava has partnered with mid to large sized companies with local and nationwide presences. She is eager to share her insight with local talent to ensure that every IT professional can feel empowered in their career. ",
+      "tagLine": "Lead Technical Recruiter for Tekchix, IT Recruiting & Talent Agency",
+      "profilePicture": "https://cdn.sessionize.com/image/4625-400o400o1-Y9T93vJYaWnKu1M54FiYnb.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1110645
+      ],
+      "fullName": "Ava McClain",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9d0a0d9d-bef7-40b6-a81a-ff09cdefa74e",
+      "firstName": "Ben",
+      "lastName": "Miller",
+      "bio": "Ben Miller, aka @dbaduck, is a seasoned database professional with over 25 years of experience in SQL Server, PowerShell, and automation. As a passionate advocate for efficiency and innovation, Ben specializes in empowering IT professionals and DBAs to harness the power of PowerShell for database and server management.\r\n\r\nA Microsoft Data Platform and PowerShell MVP, speaker, and community contributor, Ben has a knack for breaking down complex topics into practical, actionable insights. When he’s not automating workflows or sharing his knowledge, you’ll find him engaging with the #SQLFamily or exploring new tech to help others work smarter.\r\n\r\nFollow Ben on all Social Media (@dbaduck) and dive into the world of automation and database magic with him!",
+      "tagLine": "DBAduck",
+      "profilePicture": "https://cdn.sessionize.com/image/2149-400o400o1-G8cxhETJeoCxghatFjr7VV.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1117152,
+        1150210
+      ],
+      "fullName": "Ben Miller",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8039b9b1-f2f7-41f9-a8ad-b6693f923f41",
+      "firstName": "Calvin",
+      "lastName": "Fabre",
+      "bio": "Calvin Fabre is CEO of Envoc, co-founder of LA Wallet (the first legal digital driver's license in the U.S.), and an ISO mDL working group contributor. He speaks on digital identity, servant leadership, and product stewardship. Calvin helps governments and enterprises design secure, inclusive identity systems.",
+      "tagLine": "CEO, Envoc",
+      "profilePicture": "https://cdn.sessionize.com/image/1a38-400o400o1-YRZgHWAxW223FQ18FpKgMQ.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1272808
+      ],
+      "fullName": "Calvin Fabre",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c8bd427f-492a-4882-888c-7e04f18a316d",
+      "firstName": "Chris",
+      "lastName": "Hyde",
+      "bio": "Chris Hyde (he/him) is a Microsoft Data Platform MVP based in Albuquerque, New Mexico.  He works as an independent SQL Server BI and DBA consultant and is the leader of the Albuquerque local Azure Data Technologies group.  He loves loud music and cricket, but not usually at the same time.",
+      "tagLine": "Owner and Principal Consultant, Hydrate Technologies LLC",
+      "profilePicture": "https://cdn.sessionize.com/image/fbf3-400o400o1-7f-492a-4882-888c-7e04f18a316d.369b54f4-aa45-4fae-84dc-592ee4a210a8.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1187486
+      ],
+      "fullName": "Chris Hyde",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "eb81c132-9d10-467a-ac78-2be5f4d75306",
+      "firstName": "Cleber",
+      "lastName": "Rangel",
+      "bio": "I am Cleber Rangel, I'm an Innovation Engineer, working on the intersection of technology and innovation processes. Currently, I am contributing my skills at Fugro in Lafayette, Louisiana, where I've been deeply engaged in software development for critical projects in the oil & energy sector. My expertise lies in in software development, system analysis, and agile development.",
+      "tagLine": "Business Agility Enthusiastic | A-CSM | Management 3.0",
+      "profilePicture": "https://cdn.sessionize.com/image/0223-400o400o1-M1T1zKGt2DpBT9dbQnDnXQ.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1136472
+      ],
+      "fullName": "Cleber Rangel",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8bf21729-fb49-4b06-ac83-d8262fb26d16",
+      "firstName": "Daryl",
+      "lastName": "Roberts",
+      "bio": "Daryl Roberts is the Head of AI at obney.ai [obney.ai] — and his road there was anything\r\n  but typical. He spent six years as a diesel mechanic (and a U.S. Marine before\r\n  that) before teaching himself AI, building projects in public until the work\r\n  spoke for itself. Today he designs and ships production AI systems for clients\r\n  across legal, education, industrial, and healthcare, and he's taught hands-on\r\n  AI engineering to working developers.\r\n\r\n  Daryl is a believer in practical strategies over complexity. Borrowing the\r\n  Marine Corps' OODA loop, he teaches an \"AI Engineering Loop\" for building\r\n  systems you can actually trust, and has spoken on applied AI engineering at\r\n  NoAI. He loves turning intimidating topics into things anyone can build. Off\r\n  the clock, you'll find him reading research papers or escaping into the\r\n  Louisiana outdoors.",
+      "tagLine": "Head of AI",
+      "profilePicture": "https://cdn.sessionize.com/image/c7c3-400o400o1-EmP5FybikaKS88yr2bt6sp.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1256738
+      ],
+      "fullName": "Daryl Roberts",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "7f76b936-d842-462f-98a7-fc4f0f800d3f",
+      "firstName": "David",
+      "lastName": "Maynor",
+      "bio": "With 40 years as an active developer and 25 years as a software architect, I bring deep technical experience paired with a passion for teaching. My educational background started in Art and I’ve worked as a professional photographer. For over 15 years, I’ve helped developers and students grow their skills and confidence. I currently lead CGI’s US Academy, focused on equipping our partners with modern, in-demand technologies and capabilities such as AI adoption and AI tool creation.",
+      "tagLine": "Director - CGI US Academy",
+      "profilePicture": "https://cdn.sessionize.com/image/1871-400o400o1-K9zmgKapgzPhQkGrYmfr2.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1283296
+      ],
+      "fullName": "David Maynor",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1ee1778b-2efe-4a6f-afdd-2ecb86016da7",
+      "firstName": "Dominick",
+      "lastName": "Raimato",
+      "bio": "Self-identified as a data nerd, Dominick Raimato has had a huge passion for identifying insights and building solutions.  You never know what kind of data projects he might be working on such as tracking temperature and humidity trends in his house to building a database of property assessments to make sure his house is in line with other properties to avoid overpaying taxes.  Passionate about people, Dominick strives to create solutions that not just help achieve business objectives, but also make people’s lives better.  If he can help someone get home earlier to eat dinner with their family or eliminate time consuming tasks so they can focus on more important things, he is in his element. \r\n\r\nDominick currently lives in Bergen County, NJ where he can be found around the house working on projects or cooking in the kitchen.  His specialty dishes include his homemade meat sauce in the winter and pulled pork bar-b-que on his smoker during the summer.  He also ventures into New York City frequently to see his wife perform as a flutist with small ensembles, orchestras, and theaters.",
+      "tagLine": "Professional Troublemaker",
+      "profilePicture": "https://cdn.sessionize.com/image/4318-400o400o1-HrMMRtJSNsg5qNGq29uFSx.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1223801
+      ],
+      "fullName": "Dominick Raimato",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "7da6a742-a83d-43ae-be6f-941978d9cc10",
+      "firstName": "Dustin",
+      "lastName": "Gaspard",
+      "bio": "Software Development in the Greater New Orleans Area for 20 years. Actively engaged in growing the tech community in Louisiana. ",
+      "tagLine": "Managing Consultant @ Excella",
+      "profilePicture": "https://cdn.sessionize.com/image/1c27-400o400o1-33HNAQd4KxuGnb5a3iAEur.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1211835
+      ],
+      "fullName": "Dustin Gaspard",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9e027d23-d265-4e69-bbff-2e4e9e6bc0f3",
+      "firstName": "George",
+      "lastName": "Mauer",
+      "bio": "George is a software developer, speaker, teacher, writer, and comedian with an interest in the various techniques that can make software simple, extensible, and communicative. He has worked in software consulting in all sorts of positions for almost two decades. He has worked in product and service companies, was CTO at Operation Spark bootcamp, mentors with Operation Code (unrelated), Underdog Devs, writes, teaches, and speaks regularly on Javascript, C#, testing, interviewing, etc at conferences, usergroups, and to his cat (the kids won't listen).\r\n\r\n",
+      "tagLine": "Senior AI Developer at Qventus",
+      "profilePicture": "https://cdn.sessionize.com/image/d874-400o400o1-Qk8yd5WJCR1EFQ4yRQ1UFV.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1127129
+      ],
+      "fullName": "George Mauer",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "3ee8f419-819e-4496-bfec-412f779eadab",
+      "firstName": "Grant",
+      "lastName": "Fritchey",
+      "bio": "Grant Fritchey is a Data Platform MVP and AWS Community Builder with over 30 years’ experience in IT, including time spent in support and development. Grant works with multiple data platforms including SQL Server and PostgreSQL as well as multiple cloud platforms. He has also developed in VB, VB.NET, C#, and Java. Grant writes books for Apress and Simple-Talk. Grant presents at conferences and user groups, large and small, all over the world. He joined Redgate Software as a product advocate in January 2011.",
+      "tagLine": "Redgate Software Product Advocate, Microsoft MVP & AWS Community Builder",
+      "profilePicture": "https://cdn.sessionize.com/image/19ab-400o400o1-VoTuSfv49GC4dQvyrtVJo.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1131228
+      ],
+      "fullName": "Grant Fritchey",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6117a19c-2501-4df2-8c07-92c6c309e167",
+      "firstName": "Hasan",
+      "lastName": "Savran",
+      "bio": "Hasan is a recognized Microsoft Data Platform MVP and an expert in Azure data products, bringing over 20 years of experience in software development, architecture, and management. As the owner of SavranWeb Consulting and the Senior Business Intelligence Manager at Progressive Insurance, he specializes in designing innovative business solutions leveraging the latest web and database technologies. A passionate global conference speaker, Hasan enjoys sharing his insights through blogging about Azure Data services, C#, and front-end development.",
+      "tagLine": "Microsoft MVP, Owner of SavranWeb Consulting,  Sr. Business Intelligence Manager at Progressive Insurance",
+      "profilePicture": "https://cdn.sessionize.com/image/38f1-400o400o1-htrbM9n7QTWDmtiXBiWwou.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1223867
+      ],
+      "fullName": "Hasan Savran",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a23aecdf-8161-4d9f-8388-4db52677998f",
+      "firstName": "Ian",
+      "lastName": "Trimble",
+      "bio": "Goal-driven, multi-faceted, process-oriented Cybersecurity leader with a proven track record of successfully delivering \r\nholistic information security solutions that effectively anticipate and mitigate cybersecurity risks on a global scale. \r\nDevelops robust and operationally compliant business continuity, incident response, and risk management plans that \r\nclose security gaps in internal systems through partnering with vulnerability management and application owners",
+      "tagLine": "Google,  Insider Threat Manager ",
+      "profilePicture": "https://cdn.sessionize.com/image/e72f-400o400o1-PMQoUw4Hb2ng5Rb8nYrUMv.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1193019
+      ],
+      "fullName": "Ian Trimble",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5cba56f0-5b58-44da-af31-01bacb20ec30",
+      "firstName": "Jacques",
+      "lastName": "Stafford",
+      "bio": "Jacques Stafford is a Senior Manager in the EisnerAmper Strategy & Transformation (STS) Technology Services practice. Jacques brings over 10 years of experience in IT project management, software application quality assurance, user acceptance testing, and financial and data analysis to a multitude of clients.\r\n\r\nJacques leads the STS Technology Services Scaled Agile (SAFe) application and coaches Product Owners and Business Analysts on best practices within the framework. As a resident Certified Scrum Product Owner and Scrum Master, Jacques has built a rapport both externally to clients and internally amongst peers to consistently analyze key performance indicators within teams, bridge communication gaps across service areas and foster a cohesive work product wherever his teams deploy their services. Outside of client-specific work, Jacques serves as an Atlassian Jira and Confluence Cloud subject matter expert for the Advisory practice. Most recently, completing the practice’s Cloud migration efforts which impacted over 200 Jira projects and 90 Confluence spaces throughout various service areas. As a dedicated team member, Jacques proactively recruits for the team’s emerging leaders while also spending time as one of the firm’s Campus Ambassadors within the Gulf South.",
+      "tagLine": "EisnerAmper, Data Analytics Product Owner",
+      "profilePicture": "https://cdn.sessionize.com/image/b4ba-400o400o1-RvqoBcRGd72YK2aKvFC4rB.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1220244
+      ],
+      "fullName": "Jacques Stafford",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8fdb1aab-1685-4690-a4ac-dc461cc8ffac",
+      "firstName": "Jaelle",
+      "lastName": "Scheuerman",
+      "bio": "Dr. Jaelle Scheuerman is a computer scientist and AI researcher specializing in Human-AI teaming. She earned her PhD in Computer Science from Tulane University, where her research focused on computational models of heuristics, bias, and uncertainty in complex decision environments. Her technical expertise spans interactive machine learning, preference learning, and cognitive modeling, with an emphasis on building adaptive, explainable, and robust systems.\r\n\r\nDr. Scheuerman has published peer-reviewed research across artificial intelligence and human-computer interaction and brings a systems engineering mindset to translating AI research into deployable, human-first solutions. At Train with Intent, she focuses on designing AI frameworks that are operational, scalable, and grounded in real-world constraints.",
+      "tagLine": "Cofounder, Train with Intent",
+      "profilePicture": "https://cdn.sessionize.com/image/d087-400o400o1-PasNgvyu1EvcSRb8gn7LBC.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1223365
+      ],
+      "fullName": "Jaelle Scheuerman",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "91482dc8-2276-4a60-b941-89e4ff610f36",
+      "firstName": "James",
+      "lastName": "Davis",
+      "bio": "Dr. James Davis is an experienced software developer, entrepreneur, 2-tour combat veteran, and professor.  He is faculty at Louisiana State University and co-founder of a healthcare technology company.  Dr. Davis has a PhD in Information Systems & Decision Science and teaches data science, project management, app development, and tech entrepreneurship.  He holds the project management professional (PMP), scaled agile program consultant (SPC), scrum professional (CSP), scrum master (CSM, SSM) certifications and has made numerous presentations for the Project Management Institute (PMI) and Scrum Alliance.  Dr. Davis enjoys writing code, frequently participates in hackathons, volunteers with multiple STEM initiatives, and has been recognized for his entrepreneurial endeavors (SiliconBayou100 in 2014, 2015, 2016 & Business Report’s People to Watch 2021).",
+      "tagLine": "Dude that can't stop talking about blockchain",
+      "profilePicture": "https://cdn.sessionize.com/image/8fe4-400o400o1-4F6cbQ3QQvwJo6vkg3EVNp.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1222298
+      ],
+      "fullName": "James Davis",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6582c4ce-8e50-4442-a9c5-65a7b51b347d",
+      "firstName": "James",
+      "lastName": "Petty",
+      "bio": "James currently holds the position of Director of Information Technology at TextRequest. He is a five-time awardee of the Microsoft MVP award. In a dedicated capacity, he also assumes the role of volunteer CEO at DevOps Collective INC, a non-profit organization operating within technology education. The organization's primary focus revolves around PowerShell, automation, and DevOps. It has garnered recognition for providing an array of free online resources, notably PowerShell.org.\r\n\r\nIn the literary domain, James is the lead author of two published works: \"Learn PowerShell in a Month of Lunches,\" now in its fourth edition, and \"Learn PowerShell Scripting in a Month of Lunches,\" in its second edition. Manning proudly publishes both of these insightful publications.\r\n\r\nAt the core of James's passion lies automation, where he adeptly wields tools like PowerShell, Azure, and all facets of Windows Server environments. His prowess in this domain has been honed over more than a decade of service as an infrastructure administrator, catering to businesses spanning a diverse range of sizes.\r\nJames has woven his life in the tranquil environs outside Chattanooga, Tennessee, where he resides with his cherished wife, daughters, two dogs, and two cats.\r\n",
+      "tagLine": "6x Microsoft MVP | IT Director @ TextRequest | Author | CEO PowerShell.Org",
+      "profilePicture": "https://cdn.sessionize.com/image/d2cc-400o400o1-VH9CsxWqdaMzYqNpsgZoPU.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1116253
+      ],
+      "fullName": "James Petty",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6375582a-11f3-4a89-b783-6e5869a1a217",
+      "firstName": "Jared",
+      "lastName": "Rhodes",
+      "bio": "Jared Rhodes is a Principal Consultant at Epam Systems with over 15 years of expertise in IT. Known for his strategic guidance on digital transformations, Jared has led projects for Fortune 100 clients across industries such as insurance, retail, and life sciences.\r\n\r\nHe organizes the Atlanta Developers Conference and the Atlanta Cloud Conference, along with user groups including the Atlanta .NET, Azure in the ATL, and the Atlanta Hardware Builders. A Microsoft MVP and community leader, his contributions to the tech community reflect a commitment to advancing industry knowledge in cloud and edge technologies.\r\n",
+      "tagLine": "Principal Consultant, EPAM Systems",
+      "profilePicture": "https://cdn.sessionize.com/image/2403-400o400o1-9nX2sbux3G7HJfZysnmrhx.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1179332
+      ],
+      "fullName": "Jared Rhodes",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d532b4f5-d1b2-4ade-a340-7f09edc40599",
+      "firstName": "Jason",
+      "lastName": "Romans",
+      "bio": "Jason Romans is a Business Intelligence engineer in Nashville, TN working with the Microsoft Business Intelligence stack. Jason is a Microsoft MVP who started his career as a DBA and over the years moved to working in his passion of Business Intelligence and data modeling. His first computer was a Commodore 64 and he's been hooked ever since. ",
+      "tagLine": "Lifelong Learner - Microsoft MVP",
+      "profilePicture": "https://cdn.sessionize.com/image/aea4-400o400o1-UXgo4JVCp1e5KGzw3PaYDH.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1115944,
+        1118222
+      ],
+      "fullName": "Jason Romans",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6cb69585-1bb0-4e40-91f8-f75f3427a56f",
+      "firstName": "Jeff",
+      "lastName": "Taylor",
+      "bio": "Jeff Taylor is a Principal Data Consultant, Microsoft Data Platform MVP, Redgate Community Ambassador, and Octopus Insider with over 28 years of experience specializing in performance tuning and critical data issues. He currently organizes the Jax Data and Data of Data Jacksonville (formerly SQL Saturday) and is a co-organizer of JaxDUG.",
+      "tagLine": "Principal Data Consultant, Microsoft Data Platform MVP",
+      "profilePicture": "https://cdn.sessionize.com/image/d56c-400o400o1-EbPJ63dzSW7Vjz5vtHY1qN.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1216921
+      ],
+      "fullName": "Jeff Taylor",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "098f2999-a5b9-4d1c-aa92-11c0fc5c815e",
+      "firstName": "Jeremy",
+      "lastName": "Knight",
+      "bio": "Jeremy Knight is a software developer/architect/craftsman from the greater New Orleans area. He has worked extensively with Microsoft technologies and has a passion for mentoring. Since 2011, he has been a speaker and coordinator for local user groups.",
+      "tagLine": "Software Craftsman / .NET Developer",
+      "profilePicture": "https://cdn.sessionize.com/image/865f-400o400o1-Qc4dG7YfQe4ENibkhxyMuS.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1223923
+      ],
+      "fullName": "Jeremy Knight",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9591edc5-91e5-4b80-9cef-df1f0c239670",
+      "firstName": "Joey ",
+      "lastName": "Dantoni",
+      "bio": "Joseph D'Antoni is a Principal Cloud Architect, and a Microsoft Data Platform MVP and VMware vExpert with over 20 years of experience working in both Fortune 500 and smaller firms. He is a frequent speaker at major tech events like Microsoft Ignite, PASS Summit and Enterprise Data World. He blogs about all topics technology at joeydantoni.com. He believes that no single platform is the answer to all technology problems. He lives in Malvern, PA and holds a BS in Computer Information Systems from Louisiana Tech University and an MBA from North Carolina State University, and is the co-author of the Microsoft book \"Introducing SQL Server 2016\"",
+      "tagLine": "Principal Cloud Architect",
+      "profilePicture": "https://cdn.sessionize.com/image/9f98-400o400o1-QQ2k7FfjX5SfJSqhfS4mV4.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1198228
+      ],
+      "fullName": "Joey Dantoni",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "cd09f05b-008c-4109-9959-0513a75346b6",
+      "firstName": "John",
+      "lastName": "Kerski",
+      "bio": "John leverages his 10+ years of technical and government leadership experience to help Federal Agencies, and private sector clients utilize Microsoft products to their fullest potential. His certifications with Microsoft products offers customers a high rate of return when looking to invest in Microsoft solutions.",
+      "tagLine": "Director, Client First Technologies",
+      "profilePicture": "https://cdn.sessionize.com/image/1b93-400o400o1-NgeVufyu7xuXs3oE7JGXQC.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1211270
+      ],
+      "fullName": "John Kerski",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "cbfc10e5-647f-4898-bce3-4579e9e3935b",
+      "firstName": "Kellyn",
+      "lastName": "Gorman",
+      "bio": "Kellyn Pot’Vin-Gorman is a Database and AI Advocate and Engineer with Redgate, with a long history in multi-platform technology. An Oracle ACE Director alumnus, she has been awarded over the years for her technical contributions and community volunteerism through many organizations, including a recognition as Woman in Tech of the Year for the state of Colorado. She is one of only six women part of the Oak Table, a network for the Oracle scientist. She has extensive experience in environment optimization, cloud migration, automation and architect of robust environments. Specializing in multi-terabyte management of OLAP/DSS systems. A consistent advocate for logical tuning of code and design before hardware solutions. She's recently become known for her expertise in DevOps, AWR, (Automatic Workload Repository) and virtualization of database environments with complex cloud management in Azure and Google Cloud.  She's recently been contracted with a number of AI projects, using both relational data and AI services in both data security and architecture. The technical knowledge required to support these features offers great educational opportunities to learn by attending her technical presentations, engaging with her on social media presence as DBAKevlar or reading her blog, dbakevlar.com.",
+      "tagLine": "Technical Swiss Army Knife, Advocate and Engineer at Redgate",
+      "profilePicture": "https://cdn.sessionize.com/image/fa6a-400o400o1-7J9o6dfFxSTunTTJZtWyNg.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1178457
+      ],
+      "fullName": "Kellyn Gorman",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "e9a520a7-65b5-40fc-a5c1-07a1f0b8c0cd",
+      "firstName": "Kevin",
+      "lastName": "Arnold",
+      "bio": "Kevin Arnold is the Founder of Arnold Analytics, overseeing software management methodologies, deployment strategy, and optimal data architectures for clients. He is a senior data architect with over 20 years’ experience, including at large-cap and SMB consultancies. His work focuses on the Modern Microsoft BI Stack including Power BI, Analysis Services, SQL Server, PowerShell, DevOps, Azure, and Power Query.\r\n\r\nHe is a co-leader and frequent presenter for the Dallas/Fort Worth Power BI User Group, as well as presenting at conferences and other user groups. He has been recognized by Microsoft as a Data Platform MVP in 2022. \r\n",
+      "tagLine": "Arnold Analytics, Founder | Microsoft Data Platform MVP",
+      "profilePicture": "https://cdn.sessionize.com/image/1264-400o400o1-LER7DtXWiaKWQ1YDcxwXUi.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1139668
+      ],
+      "fullName": "Kevin Arnold",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "7c382501-a37f-49b7-bb28-eb7692995323",
+      "firstName": "Kevin",
+      "lastName": "Feasel",
+      "bio": "Kevin Feasel is a Microsoft Data Platform MVP and Proprietor of Catallaxy Services, LLC, where he specializes in data analytics with T-SQL and R, forcing Spark clusters to do his bidding, fighting with Kafka, and pulling rabbits out of hats on demand. He is the lead contributor to Curated SQL (https://curatedsql.com), president of the Triangle Area SQL Server Users Group (https://www.meetup.com/tripass), and author of PolyBase Revealed (https://www.apress.com/us/book/9781484254608) and Finding Ghosts in Your Data (https://link.springer.com/book/10.1007/978-1-4842-8870-2). A resident of Durham, North Carolina, he can be found cycling the trails along the triangle whenever the weather's nice enough.",
+      "tagLine": "Proprietor @ Catallaxy Services, LLC",
+      "profilePicture": "https://cdn.sessionize.com/image/f188-400o400o1-MgcGnBx48Vi57GYguPazNP.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1113582
+      ],
+      "fullName": "Kevin Feasel",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "5c6782bc-7852-4986-b795-23c716942ca2",
+      "firstName": "Kevin",
+      "lastName": "Pereira",
+      "bio": "I'm a results-driven data professional with nearly two decades of experience dedicated to transforming data into strategic assets. My journey began in the intricate world of data and systems integration, mastering ETL/ELT processes to build robust foundations. For the past 15 years, my expertise has deepened within the Microsoft data stack, spanning traditional BI tools (SQL, SSIS, SSRS, SSAS), the extensive Azure Data Platform services, and Power BI. Crucially, the last two years have seen me at the forefront of Microsoft Fabric, pioneering its capabilities.\r\n\r\nBeyond core data integration, I bring 8 years of hands-on experience in creating and maintaining robust CI/CD pipelines within Azure DevOps, ensuring streamlined, automated, and reliable deployments for a diverse range of data projects. This commitment to operational excellence extends to my 3 years of experience in managing and nurturing a team of Data Engineers, fostering growth and driving collaborative success.\r\n\r\nMy dedication to the data community is a cornerstone of my professional identity. As a leader with the DFW Power BI User Group, I actively contribute to growing local talent and knowledge sharing. This year, I've had the incredible opportunity to share my deep knowledge of Microsoft Fabric as a speaker at various SQL Saturday events, user groups, and notably, at both the Microsoft Fabric Community Conference in Las Vegas and in Europe.",
+      "tagLine": "Solutions Architect - SHI",
+      "profilePicture": "https://cdn.sessionize.com/image/4e7f-400o400o1-nq6brPGL43fy4SnEQCNmgu.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1191692
+      ],
+      "fullName": "Kevin Pereira",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "ef8b8ec5-6569-470a-91fe-1e85ae6a3b49",
+      "firstName": "Mary",
+      "lastName": "DeVlugt",
+      "bio": "Sr Cloud Solution Architect, Mom of 7, Grandma of 7, Wife, Pom Mom 2, Yellow Smiley Face Collector.  Love to RV and Cruise\r\nSQL Server/Power BI-Fabric- Americas CSU \r\nMCSE 29+, MCT 17+, MCE 7+, SQL 32+ Office365/\r\nPower BI/Fabric 8+  Born in PA, Live in Texas.",
+      "tagLine": "Sr. CSA - SQL, Fabric, Power BI and AI, Microsoft Americas Data & AI  (Texas)",
+      "profilePicture": "https://cdn.sessionize.com/image/3d95-400o400o1-wPr7VZ5ozUbwv7hBko5nMs.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1123881
+      ],
+      "fullName": "Mary DeVlugt",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "84f4f0b8-4a32-490b-acf7-e39bde2b99b2",
+      "firstName": "Matt",
+      "lastName": "Gordon",
+      "bio": "Matt is a Microsoft Data Platform MVP and has worked with SQL Server since 2000. He is the leader of the Lexington, KY Data Technology Group and a frequent domestic and international community speaker. He's an IDERA ACE alumnus and Redgate Ambassador. His original data professional role was in database development, which quickly evolved into query tuning work that further evolved into being a DBA in the healthcare realm. He has supported several critical systems utilizing SQL Server and Azure SQL and managed dozens of 24/7/365 SQL Server implementations. As a consultant, he works with customers large, medium, and small to migrate to the cloud, make their data estate operate efficiently, and find the right tools and solutions within the Microsoft Data Platform.",
+      "tagLine": "Practice Director, Data & Analytics at Apps Associates",
+      "profilePicture": "https://cdn.sessionize.com/image/e6ce-400o400o1-b8-4a32-490b-acf7-e39bde2b99b2.55807fca-95b6-4ce9-bdb1-62766f7a1694.jpeg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1116225
+      ],
+      "fullName": "Matt Gordon",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "ca7ec345-ba1e-4e57-bd44-e2a67cb0d745",
+      "firstName": "Michael",
+      "lastName": "McKinley",
+      "bio": "Michael McKinley is the founder of McKinley Consulting. Michael has managed projects and workstreams in consulting for the last thirteen years, in areas including data analytics, change management, operations excellence, and supply chain transformation.",
+      "tagLine": "Data.  Made actionable.",
+      "profilePicture": "https://cdn.sessionize.com/image/d5c1-400o400o1-NjYJ8tBVKEMWadCHXWETYi.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1201955
+      ],
+      "fullName": "Michael McKinley",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f3281bba-36d8-4f77-8910-0ecf9d9e0e0d",
+      "firstName": "Michael",
+      "lastName": "Viron",
+      "bio": "Over the years, I have gained a wide variety of experience as a senior IT director, business owner, speaker, volunteer, and event organizer. Since 1995, I’ve helped launch numerous startups, company divisions, product lines, professional user groups, and technology events.\r\n\r\nIn 2010, I launched the Northwest Florida Software Architecture Summit (designed to bring developers & IT professionals together) and complimented it with the launch of Careers in Tech in 2011. Careers in Tech underwent a successful reboot in 2015 and regularly holds events virtually and across the southeastern US.\r\n\r\nMy wide range of experience covers many key areas, including operations (both business & IT), project management, security, and software engineering. In addition to my full time job, I also continue to be heavily involved as an alumni volunteer, presenter, and mentor at the University of West Florida and in various leadership and consulting roles for projects and organizations nationwide.\r\n\r\nIn my role as Director of IT & Software Engineering at KAMedData, Inc / KontactIntelligence, I've been heavily involved in coordinating numerous product launches and both company and division startups. A key member of the company's management team, I have a wide range of responsibilities including day-to-day technical operations, project management, security, short and long range technical planning, and development.\r\n\r\nIn addition, I founded General Education Online (GEO), handling a wide variety of business and technical operations. GEO has been recognized for quality and excellence, and as an industry innovator and leader by the Chronicle for Higher Education, the US Department of Education, and LibrarySpot.com .\r\n\r\nI also spend time as a volunteer with a wide variety of professional organizations and user groups at both a local and national level, including IEEE Northwest Florida (IEEE NWF), the Computer & Communications Joint Society of IEEE NWF (as Chair since 2009), the international IEEE Computer Society (currently serving on the Awards & Recognition Committee), and IT Gulf Coast. As part of my efforts to give back to the community, I also serve on advisory boards covering IT, computer science, and cyberforensics for Pensacola State College (since 1/2015) and the Escambia County School District (since 09/2015).\r\n\r\nIn my sparse spare time, you'll find me active on social media, as a photographer and writer, and as a consultant / advisor for Fortune 500 companies and startups nationwide.",
+      "tagLine": "Multi-faceted IT Executive & Entrepreneur",
+      "profilePicture": "https://cdn.sessionize.com/image/4d45-400o400o1-sN2EwsrJeUftBf2FuLVW4Q.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1139596
+      ],
+      "fullName": "Michael Viron",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9d26eab6-1a8f-4009-8744-bbc151da699b",
+      "firstName": "Michael",
+      "lastName": "Wall",
+      "bio": "Michael Wall has been an IT professional going back to when he had his own software store and worked with his customers with their “dose” problems.  Originally hired by a small consulting firm to write web pages, he was thrust into the SysAdmin world when their lead consultant changed the passwords of all of the servers at a major pulp and paper company’s systems to 100%s$%t and walked out the door.  He was sent down with a copy of UNIX for Dummies and 50 cents for the bus ride back.  Fast forward a few years, he was asked if he wanted to be a DBA after successfully managing a fifty server Y2K upgrade.  Since then, he’s never looked back and has survived a number of data and system challenges.\r\nWhen not wrangling cats at home, he currently keeps busy with being active in the SQL Community by presenting and coordinating.  He is blessed with a wonderful family and two lazy cats and keeps treading water literally down at the local pool.\r\n",
+      "tagLine": "Architect/DBA at 3Cloud Consulting",
+      "profilePicture": "https://cdn.sessionize.com/image/7592-400o400o1-b6-1a8f-4009-8744-bbc151da699b.08ffd13e-d843-4669-ab73-d0b9a0c890f0.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1139945
+      ],
+      "fullName": "Michael Wall",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f49ad73b-9dfa-481d-a6e5-0633872dac27",
+      "firstName": "Monica",
+      "lastName": "Sylvain",
+      "bio": "Dr. Monica Sylvain is a senior executive and strategic leader specializing in governance, risk management, and organizational transformation. She holds a Ph.D. in Analytical Chemistry from Louisiana State University and brings nearly three decades of experience designing and leading enterprise-scale initiatives across financial services, higher education, and nonprofit sectors, with a focus on accountability, sustainability, and systems-level change.\r\n\r\nDr. Sylvain brings a focus on aligning strategy, accountability, and organizational systems to support sustainable growth and long-term impact. Dr. Sylvain has deep expertise in executive leadership, change management, and building governance frameworks that translate vision into disciplined execution. At Train with Intent, she applies this expertise to support responsible AI adoption by helping organizations align emerging technologies with leadership priorities, operational realities, and long-term business value.\r\n",
+      "tagLine": "Co-Founder, Train with Intent",
+      "profilePicture": "https://cdn.sessionize.com/image/4a8d-400o400o1-ahQfA3dkwCxT2gpBedZTpQ.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1223365
+      ],
+      "fullName": "Monica Sylvain",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "1d3146e0-9d47-4765-8a9c-6313a6a7e31f",
+      "firstName": "Mou",
+      "lastName": "Rakshit",
+      "bio": "26 YEARS OF EXPERIENCE IN SUCCESSFUL IT LEADERSHIP • DATA MANAGEMENT & ARCHITECTURE •\r\nBUSINESS INTELLIGENCE ANALYTICS & REPORTING • AGILE AND PREDICTIVE PROJECT MANAGEMENT\r\n\r\nEDUCATION\r\n• MS, Computer Science, Honors, Wayne State University, 2006-2008\r\n• Master's in Health Services Administration - University of Michigan, Ann Arbor (2017-2020)\r\n• MS in Analytics and Data Science (In Progress), Georgia Tech 2021-2026\r\n• BE in Electronics & Telecommunications, IIEST, 1994-1998\r\n• Chief Technology Officer Certificate Program from Wharton Executive Education, June 2023-May 2024\r\n\r\nCertification\r\n•\tMicrosoft Certified: Fabric Data Engineer Associate\r\n•\tMicrosoft Certified: Fabric Analytics Engineer Associate\r\n•\tMicrosoft Certified: Azure Data Engineer Associate\r\n•\tMicrosoft Certified: Azure for SAP Workloads Specialty\r\n•\tMicrosoft Certified: Azure AI Engineer Associate\r\n•\tMicrosoft Certified: Power BI Data Analyst Associate\r\n\r\n\r\n•\tDatabricks certified Data Engineer Professional\r\n•\tDatabricks certified Data Engineer Associate\r\n•\tDatabricks certified Data Analyst Associate\r\n•\tDatabricks certified GenAI Engineer Associate\r\n•\tDatabricks certified Machine Learning Engineer Associate\r\n•\tDatabricks certified Machine Learning Engineer Professional\r\n•\tDatabricks certified solution architect essentials",
+      "tagLine": "Avanade, Intelligent Data Platform Data Engineering Thought leadership",
+      "profilePicture": "https://cdn.sessionize.com/image/6cab-400o400o1-f7mhU8UBc1Ft9qf7gdJ82X.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1189458
+      ],
+      "fullName": "Mou Rakshit",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f4e0c0e2-0e49-487f-bf32-3d72a31df239",
+      "firstName": "Muralidhar",
+      "lastName": "Chouhan",
+      "bio": "I am a Lead Enterprise Domain Architect with over 16 years of experience in software architecture and development. In my current role at BCBSLA, I focus on enterprise architecture, technology enablement, and solution architecture, with a strong emphasis on cloud adoption and cutting-edge technologies.\r\n\r\nAs an LSU graduate with a Master’s in Computer Science, I am deeply passionate about staying at the forefront of technology and embracing continuous learning. I am also an active Generative AI speaker at local conferences in Louisiana, where I share insights on AI advancements, practical applications, and emerging trends, helping organizations and professionals understand and adopt AI effectively.\r\n\r\nOutside of work, I enjoy photography and spending quality time with my family.",
+      "tagLine": "Lead Enterprise Domain Architect, BlueCross BlueShield of Louisiana (Louisiana Blue)",
+      "profilePicture": "https://cdn.sessionize.com/image/b77b-400o400o1-LVsqmLDDXUcKTeAygKMGiH.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1217918
+      ],
+      "fullName": "Muralidhar Chouhan",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c572db74-9a9b-4626-b13f-bf5dc870b4c5",
+      "firstName": "Paresh",
+      "lastName": "Motiwala",
+      "bio": "Paresh Motiwala ​PMP; a Fabric enthusiast and a Data Platform Manager has led several large SQL implementations, migrations and upgrades. \r\nHe was selected as a \"Speaker Idol\" finalist for the PASS Summit 2018. He also runs DBA VUG, Houston Area SQL Server User Group and Boston BI User Groups. \r\nHe has managed multi terabyte OLTP databases.  He has also been a Senior SQL DBA and a Solutions Architect in Fortune 100 companies. He also helps organize and speaks at many PASS Summits, SQL Saturdays, Azure Bootcamp and User Groups. He is certified in Big Data Analytics and FinTech(MIT) Project manager, Public Speaker, an avid singer, cook, open networker, and stand-up comedian. He teaches public speaking, debating, interviewing and group discussion skills. He also mentors DBAs and children around the globe via www.circlesofgrowth.com",
+      "tagLine": "Data Platform Manager",
+      "profilePicture": "https://cdn.sessionize.com/image/8ba9-400o400o1-74-9a9b-4626-b13f-bf5dc870b4c5.312fdd3d-6d97-4c97-bb5d-edef9e755c19.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1142223
+      ],
+      "fullName": "Paresh Motiwala",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "8694ac11-d2d1-4512-9b37-8eb1a28e4fa1",
+      "firstName": "Pat",
+      "lastName": "Wright",
+      "bio": "I have been a DBA for the past 20+ years, I've worked with SQL Server, Postgres and Mysql.  Big data Technologies (hadoop,hive,spark). I work with data in every aspect whether reporting/storing or transforming. I also run Utah Geek Events and volunteer to help and build the community whenever I can.",
+      "tagLine": "Keep Moving Forward. ",
+      "profilePicture": "https://cdn.sessionize.com/image/fb31-400o400o1-XoFnFwk9Qk4MYPt9Vfsmkv.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1143200,
+        1143195
+      ],
+      "fullName": "Pat Wright",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "d70d4c74-7ab1-4c08-b421-f4f04535cf34",
+      "firstName": "Raymond",
+      "lastName": "Camden",
+      "bio": "Raymond Camden is a Senior Developer Evangelist for Webflow and a dedicated advocate for the web platform, APIs, and generative AI. With a career defined by community engagement, Raymond has helped countless developers bridge the gap between complex technologies and practical solutions through his writing and speaking engagements at conferences around the world. He is also a published author and technical reviewer who consistently produces educational content to help others succeed in the tech space. When he isn't coding or blogging at raymondcamden.com, Raymond lives in Lafayette, Louisiana, where he indulges his passion for Star Wars, LEGO, and cats.\r\n",
+      "tagLine": "Senior Developer Evangelist",
+      "profilePicture": "https://cdn.sessionize.com/image/9cc1-400o400o1-WpobioKKoU7wkwGLmvhmwT.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1121583
+      ],
+      "fullName": "Raymond Camden",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c45802f9-0e3f-43b3-871e-212d057129c3",
+      "firstName": "Renada",
+      "lastName": "Jackson",
+      "bio": "Renada Jackson is a Senior Consultant and Digital Transformation Leader with more than 14 years of experience delivering enterprise technology solutions, cloud automation, and AI-driven customer experiences. Currently serving as a Senior Consultant at CGI, she leads ServiceNow platform implementations, helping organizations modernize operations through low-code solutions that streamline IT service management, governance, and compliance.\r\n\r\nThroughout her career, Renada has led high-impact digital transformation initiatives, including the successful deployment of AI-powered customer engagement strategies that transitioned 30% of manual customer interactions to automated platforms. She has also directed enterprise-scale ServiceNow implementations, optimizing ITSM, CMDB, and Change Management processes while strengthening operational efficiency and regulatory compliance.\r\n\r\nA certified Scrum Master and Six Sigma Yellow Belt, Renada combines technical expertise with a strategic business perspective to deliver measurable outcomes. She is a recognized advocate for low-code innovation and frequently shares insights on leveraging AI, automation, and cloud technologies to accelerate transformation, enhance customer experiences, and drive sustainable business value.\r\n",
+      "tagLine": "Product Manager & Digital Transformation Leader",
+      "profilePicture": "https://cdn.sessionize.com/image/e9eb-400o400o1-JNXviDsYSr4DN6zebPbTud.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1283296
+      ],
+      "fullName": "Renada Jackson",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "a3e9a71c-228d-4db0-a737-dad38f6057b8",
+      "firstName": "Sajitha",
+      "lastName": "Sritharan",
+      "bio": "Over the last two decades, I've been on a mission to prove that data changes everything — from factory floors to patient care. As a Senior Cloud System Data Architect and Microsoft Certified Azure Solutions Architect, I bring real-world stories from industries like automotive, healthcare, and finance to the stage. But what drives me most is advocacy. I'm passionate about creating space for women in data and technology, and I use every speaking opportunity to share not just technical know-how, but the belief that this industry gets better when more diverse voices are part of the conversation.",
+      "tagLine": "Senior Cloud Data Architect | Microsoft Certified | Women in Data Advocate",
+      "profilePicture": "https://cdn.sessionize.com/image/02d5-400o400o1-TyR9LZLGFWtAJa7ThEgBCt.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1197180
+      ],
+      "fullName": "Sajitha Sritharan",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "0fa60fd0-011b-432a-af32-99d3e1a405f0",
+      "firstName": "Shankara Krishna",
+      "lastName": "Teja Arra",
+      "bio": "Shankara Krishna Teja Arra is an accomplished DevOps, Cloud, and AI Enthusiast Engineer with over a decade of experience designing, automating, and managing large-scale, hybrid cloud infrastructures. With deep expertise across AWS, Azure, GCP, and OpenStack, he has led complex transformations in enterprise environments, consistently delivering high availability, resilience, and efficiency. Krishna specializes in Kubernetes, containerization, and infrastructure-as-code, leveraging tools like Terraform, Ansible, Helm, and Jenkins to streamline deployments and accelerate software delivery pipelines.\r\n\r\nAt o9 Solutions, Krishna pioneered AI-driven DevOps workflows integrating LLMs, vector databases, and conversational AI to enhance troubleshooting, automate root cause analysis, and optimize multi-cloud support operations. At Matterport, he led cloud-native architecture and CI/CD automation initiatives to improve reliability and meet demanding SLAs/SLOs.\r\n\r\nA hackathon winner, Krishna received the o9 Hackathon Appreciation Award from Royal for an AI-driven solution, and at Ericsson he won a hackathon for simulating 5G networks on a Raspberry Pi stack.\r\n\r\nAs an open-source contributor to OpenInfra projects (including OpenStack and Airship) and to cloud-native tools such as Helm, Krishna has shared knowledge widely. He conducted a hands-on workshop on Kubernetes Operators at the annual OpenStack Summit in Shanghai, and delivered three workshops at the Dallas Cloud Computing and Kubernetes meetups one on Ansible, one on Kubernetes, and another on Terraform, Terragrunt, and Atlantis.\r\n\r\nKnown as a lifelong student, Krishna combines technical depth with curiosity, continuously exploring how AI and DevOps intersect to deliver smarter, faster, and more resilient solutions. His credentials include CKA, CKAD, Terraform Associate, GCP Associate Engineer, and AWS Developer certifications, underscoring his commitment to continuous learning and modern engineering excellence.\r\n\r\nIn his free time, Krishna enjoys experimenting with his Raspberry Pi stack building creative solutions, simulating cloud-native environments, and pushing the boundaries of edge computing for fun and learning.\r\n",
+      "tagLine": "o9 Solutions Inc",
+      "profilePicture": "https://cdn.sessionize.com/image/2484-400o400o1-S45KVQnS2zPdeg969AgFDN.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1208685
+      ],
+      "fullName": "Shankara Krishna Teja Arra",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "9a3c022e-be0f-454e-ad63-40c6451381cf",
+      "firstName": "Shelby",
+      "lastName": "Pons",
+      "bio": "Shelby Pons is a Senior Manager at EisnerAmper with a background in IT audit, accounting, ERP implementation, RPA, and data analytics. Lately, she's most focused on helping her data analytics teams serve clients creatively and effectively.",
+      "tagLine": "EisnerAmper, Data Analytics Team Lead",
+      "profilePicture": "https://cdn.sessionize.com/image/bf0e-400o400o1-YD14GZk9dDcsbjBnFSb5Tk.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1220244
+      ],
+      "fullName": "Shelby Pons",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "558d6d9f-4ad1-431c-a6fd-d231052d354b",
+      "firstName": "Steve",
+      "lastName": "Jones",
+      "bio": "Steve Jones has been working with databases and computers for over two decades. He has worked with SQL Server since 1991, from v4.2 through SQL Server 2016. He has been a DBA, developer, and manager in a variety of large and small companies across multiple industries. In 2001 Steve founded SQLServerCentral with two partners and has been publishing technical articles and facilitating discussions among SQL Server professionals ever since. He currently is the full time editor of SQLServerCentral, as well as an evangelist for Redgate Software. Steve is a 10 year Microsoft Data Platform MVP and lives on a horse ranch in Colorado.",
+      "tagLine": "The Voice of the DBA",
+      "profilePicture": "https://cdn.sessionize.com/image/0973-400o400o1-s4k9B5cJJp6GhwSmuYyyUJ.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1184202
+      ],
+      "fullName": "Steve Jones",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "f0dd5d75-4552-4c74-96fa-7b709bad7e8d",
+      "firstName": "Tanya",
+      "lastName": "Boyd",
+      "bio": "Tanya Boyd is a dynamic project manager, educator, and creative strategist with 20+ years of experience across disaster recovery, healthcare, IT, marketing, and government. \r\n\r\nAs Director of Creative Collaboration at Corbeau and Project Success Academy, she blends imagination, strategy, and storytelling to design bold programs, learning experiences, and partnerships that drive measurable results. She also manages a team of PMI certification instructors who teach PMP, CAPM, and Agile certifications through PMI’s Authorized Training Partner program.\r\n\r\nIn addition to project management education, Tanya develops and delivers corporate training programs focused on communication, workplace productivity, leadership effectiveness, and practical applications of artificial intelligence. She is passionate about helping professionals leverage emerging technologies while strengthening the human skills that drive collaboration and success.\r\n\r\nA PMP® since 2014 and PMI-ACP® since 2020, Tanya previously served as President of the PMI Baton Rouge Chapter, where she gained a front-row view of the evolving challenges facing project leaders. She also designed a three-part, seven-hour self-paced course covering the essentials of effective communication in projects.\r\n\r\nShe is a co-author of Projectland Goes to the Movies, linking pop culture to modern leadership lessons, and a contributor to the PURE Management Alliance team that created a 60-PDU professional development series.\r\n\r\nAn in-demand keynote speaker, trainer, and workshop facilitator, Tanya has delivered high-energy presentations and learning experiences to more than 50 PMI chapters, companies, and audiences at PMI Global Summit. Her topics span project leadership, communication, creativity, team development, productivity, and the practical use of AI in today's workplace.\r\n\r\nTanya believes curiosity and communication unlock creative solutions. Off the clock, she's often kayaking Louisiana's swamps, camera in hand, chasing the next wild idea while building her nature photography portfolio.\r\n\r\n\r\nLinkedIn:\r\nhttps://www.linkedin.com/in/tanya-boyd-pmp-project-personality/\r\n\r\nProject Success Academy:\r\nhttps://projectsuccessacademy.com/\r\n\r\nPURE Management Alliance: https://www.puremanagementalliance.com#67586029bb967\r\n\r\nProjectland Goes to the Movies:\r\nhttps://www.amazon.com/Projectland-Goes-Movies-Blockbuster-Strategies-ebook/dp/B0G8TYDSR7\r\n\r\nTanya Boyd Photography:\r\nhttps://www.tanyaboydphotography.com/\r\n",
+      "tagLine": "Creative Project Manager - Communicating with Compelling Storytelling",
+      "profilePicture": "https://cdn.sessionize.com/image/b85f-400o400o1-UkoPBtdyCuSqCRsQHhwseC.png",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1186770
+      ],
+      "fullName": "Tanya Boyd",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "c8c2920c-9ead-42e5-95b4-a6686dd981c7",
+      "firstName": "Theresa",
+      "lastName": "Lubelski",
+      "bio": "Theresa Lubelski is passionate about helping organizations—and the people who support them—get meaningful value from Microsoft 365. She has more than 20 years of IT experience including leadership and consulting roles across healthcare, financial services, and government contracting. Her passion for collaboration technologies inspired a significant shift in her professional journey, motivating her to earn a master's degree in Teaching and Learning with Technology and dedicating her career to these innovative tools. Theresa currently drives Microsoft 365 collaboration initiatives at First Horizon Bank, with an increased emphasis on governance, security, and information architecture. She has been a speaker at Microsoft 365 community events and regional cloud conferences, where she is known for delivering practical, real‑world sessions grounded in enterprise experience.",
+      "tagLine": "Microsoft 365 Collaboration Technology Manager",
+      "profilePicture": "https://cdn.sessionize.com/image/c516-400o400o1-N762PM9UqaMphjyVfhvkcU.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1188363
+      ],
+      "fullName": "Theresa Lubelski",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "6a8d2c9c-4aba-4202-9939-2ee4067ea941",
+      "firstName": "Tony",
+      "lastName": "Wilhelm",
+      "bio": "Tony Wilhelm has amassed over two decades of experience working with databases and computers. His expertise in SQL server dates back to 1999, showcasing his extensive knowledge in the field. Throughout his career, Tony has held various roles, including DBA, developer, and manager, in both large and small companies spanning multiple industries. \r\n\r\n Currently, Tony serves as a senior consultant and technical lead for the Data Management as a Service division at Moser Consulting. In this role, he brings his wealth of experience to the table, providing valuable insights and guidance to drive the implementation of effective solutions.",
+      "tagLine": "Moser Consulting, Senior Consultant / Technology Lead",
+      "profilePicture": "https://cdn.sessionize.com/image/5324-400o400o1-K78ZY6Yxqu4WNTnhRskTLp.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1218432
+      ],
+      "fullName": "Tony Wilhelm",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "899a376e-0edb-474e-94ab-c4f2eb455d4c",
+      "firstName": "William",
+      "lastName": "Payne",
+      "bio": "Co Founder of Pathfinder Data Strategy with over a decade of experience working in custom solution development specializing in database system efficiency, data integration, data architecture, process automation and application development.  Liam has streamlined systems and built performance focused solutions for a wide range of organizations.",
+      "tagLine": "Co-Founder/ Data Architect of Pathfinder Data Strategy",
+      "profilePicture": "https://cdn.sessionize.com/image/7532-400o400o1-Jmuvmb5uTNkQQ76o37vcSZ.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1224277
+      ],
+      "fullName": "William Payne",
+      "categoryItems": [],
+      "questionAnswers": []
+    },
+    {
+      "id": "ed211070-2e6c-46f0-acbf-4bb616b7e4b6",
+      "firstName": "Yaamini",
+      "lastName": "Barathi Mohan",
+      "bio": "My name is Yaamini Mohan, I am a Vulnerability response champion working with PSIRT in Dell Technologies, also I am currently a board member of the WiCyS (Women in Cybersecurity) Austin chapter and Head of the events committee. I am a passionate cybersecurity professional with a MS in Cybersecurity from Johns Hopkins University and spend my spare time volunteering in cybersecurity communities, updating my knowledge in the field, organizing security talks and events.",
+      "tagLine": "Vulnerability response champion - Dell Technologies, Board Member WiCyS Austin",
+      "profilePicture": "https://cdn.sessionize.com/image/9d5d-400o400o1-YUGKMdR9JgURKTHsPZZ46X.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        1154417
+      ],
+      "fullName": "Yaamini Barathi Mohan",
+      "categoryItems": [],
+      "questionAnswers": []
+    }
+  ],
+  "questions": [],
+  "categories": [],
+  "rooms": [
+    {
+      "id": 76613,
+      "name": "Atrium",
+      "sort": 0
+    },
+    {
+      "id": 76614,
+      "name": "Auditorium",
+      "sort": 1
+    },
+    {
+      "id": 76615,
+      "name": "BEC 1220 (Analytics)",
+      "sort": 2
+    },
+    {
+      "id": 76616,
+      "name": "BEC 1225 (Professional Development)",
+      "sort": 3
+    },
+    {
+      "id": 76617,
+      "name": "BEC 1305 (PowerShell/Automation)",
+      "sort": 4
+    },
+    {
+      "id": 76619,
+      "name": "BEC 1325 (.NET Development)",
+      "sort": 5
+    },
+    {
+      "id": 76622,
+      "name": "BEC 1409 (Cloud)",
+      "sort": 6
+    },
+    {
+      "id": 76620,
+      "name": "BEC 1425 (Cloud 2)",
+      "sort": 7
+    },
+    {
+      "id": 76618,
+      "name": "BEC 2510 (Security)",
+      "sort": 8
+    },
+    {
+      "id": 85267,
+      "name": "BEC 2520 (Analytics 2)",
+      "sort": 9
+    },
+    {
+      "id": 76621,
+      "name": "LABlue CSC2A",
+      "sort": 10
+    },
+    {
+      "id": 76623,
+      "name": "LABlue CSC2B",
+      "sort": 11
+    }
+  ]
+}
