@@ -1,0 +1,157 @@
+{
+    "event": "Day of Data Pittsburgh 2026 (#1163)",
+    "location": "Pittsburgh, Pennsylvania",
+    "eventDate": "2026-10-10",
+    "sessions": [
+        {
+            "time": "7:00 am",
+            "duration": "60 min",
+            "title": "Registration / Badge Pickup",
+            "type": "registration"
+        },
+        {
+            "time": "8:00 am",
+            "duration": "25 min",
+            "title": "Opening Remarks",
+            "type": "opening"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "I lost my job! Now what?!? A survival guide for the unemployed",
+            "speaker": "Ray Kim"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "DBA Basics: Getting Started with Performance Tuning",
+            "speaker": "John Sterrett"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "Beyond \"Is the Server Up\": Observability-Driven Reliability for Data Platforms",
+            "speaker": "Tarangkumar Malani"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "Data Data Everywhere: A Look At Data Hoarding",
+            "speaker": "Peter Shore"
+        },
+        {
+            "time": "9:45 am",
+            "duration": "60 min",
+            "title": "Strengthen Your Speaking Skills",
+            "speaker": "Sammie Walker Herrera"
+        },
+        {
+            "time": "9:45 am",
+            "duration": "60 min",
+            "title": "Building The Fabric Well-Architected Framework",
+            "speaker": "Joey Dantoni"
+        },
+        {
+            "time": "9:45 am",
+            "duration": "60 min",
+            "title": "Introduction to the data build tool (dbt)",
+            "speaker": "John Miner"
+        },
+        {
+            "time": "9:45 am",
+            "duration": "60 min",
+            "title": "The T-SQL PIVOT/UNPIVOT Operators",
+            "speaker": "Jeff Foushee"
+        },
+        {
+            "time": "11:00 am",
+            "duration": "60 min",
+            "title": "Getting Hired"
+        },
+        {
+            "time": "11:00 am",
+            "duration": "60 min",
+            "title": "Vector Search in SQL Server 2025 - Basics and Beyond",
+            "speaker": "Ben Weissman (he/him)"
+        },
+        {
+            "time": "11:00 am",
+            "duration": "60 min",
+            "title": "Advanced Data Protection Strategies with SQL Server",
+            "speaker": "John Sterrett"
+        },
+        {
+            "time": "11:00 am",
+            "duration": "60 min",
+            "title": "Reworking Indexes to Support an Evolving Application",
+            "speaker": "Courtney Woolum"
+        },
+        {
+            "time": "12:00 pm",
+            "duration": "60 min",
+            "title": "Lunch",
+            "type": "break"
+        },
+        {
+            "time": "12:00 pm",
+            "duration": "60 min",
+            "title": "Microsoft SQL and AMD in the Era of AI",
+            "speaker": "Joey Dantoni"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "60 min",
+            "title": "Lessons from Fabric in Production",
+            "speaker": "Andrew Boerger"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "60 min",
+            "title": "Remembering the Human Advantage: Natural Intellect in an AI World",
+            "speaker": "Peter Shore"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "60 min",
+            "title": "Intro to PowerShell with dbatools for the DBA",
+            "speaker": "Tony Wilhelm"
+        },
+        {
+            "time": "2:15 pm",
+            "duration": "60 min",
+            "title": "SQL in the Fabric Era: Translate existing skills into the modern data platform",
+            "speaker": "Kevin Pereira"
+        },
+        {
+            "time": "2:15 pm",
+            "duration": "60 min",
+            "title": "The Best Model Was a Ratio: Hybrid Forecasting on Microsoft Fabric",
+            "speaker": "Anish Puthuraya"
+        },
+        {
+            "time": "2:15 pm",
+            "duration": "60 min",
+            "title": "Understanding Optimized Locking to Improve Performance",
+            "speaker": "John Deardurff"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "60 min",
+            "title": "Your Next Pipeline Should Be a Row in a Table",
+            "speaker": "Jess Johnson"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "60 min",
+            "title": "Panel: Rebuilding the Pittsburgh Data community",
+            "speaker": "Courtney Woolum, Peter Shore, Eugene Meidinger, Stephanie Bruno"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "60 min",
+            "title": "TRIZ 101: Structured Problem Solving for SQL, ETL, and Architecture",
+            "speaker": "Slava Murygin"
+        }
+    ]
+}
+

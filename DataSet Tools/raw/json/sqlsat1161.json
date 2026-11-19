@@ -1,0 +1,337 @@
+{
+    "event": "Data of Day Orlando 2026 (#1161)",
+    "location": "Orlando, Florida",
+    "eventDate": "2026-10-17",
+    "sessions": [
+        {
+            "time": "8:00 am",
+            "duration": "60 min",
+            "title": "Registration and Meet the Sponsors",
+            "room": "MAIN LOBBY AREA",
+            "type": "registration"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Watch Brent Tune a Query in SQL Server 2025",
+            "speaker": "Brent Ozar"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "DeepSQL: How To Discover SQL Server Internals",
+            "speaker": "Rob Volk"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "SQL Server vs. Cosmos DB: The Definitive Decision Matrix",
+            "speaker": "Hasan Savran"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Working with Power Bi in an AI driven world.",
+            "speaker": "Kevin Mason"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Deciphering Data Architectures (Modern Data Warehouse, Data Fabric, Data Lakehouse, and Data Mesh)",
+            "speaker": "James Serra"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Getting Started with DuckDB",
+            "speaker": "Kevin Feasel"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Delta at Scale: Change Data Capture Patterns for SQL Server, Fabric, and the Modern Lakehouse",
+            "speaker": "Saikrishna Reddy Ala"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Detecting the Unusual: Behavioral Analytics for Modern Data Security",
+            "speaker": "Satyanarayana Gadiraju"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "The Anti-Outsourcing Playbook",
+            "speaker": "Ryan Conrad"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "15 min",
+            "title": "Break - 15 Min.",
+            "room": "MAIN LOBBY AREA",
+            "type": "break"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "You Don't Need a Data Platform: Building AI-Powered Pipelines on AWS Serverless",
+            "speaker": "Joanne Skiles"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "My T-SQL Tricks",
+            "speaker": "Victor Ivantsov"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "Designing Cloud-Native Applications for Performance, Scalability, and Reliability",
+            "speaker": "Sandeep Gundla"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "Modernizing SQL Server: Upgrade, Migrate, and Innovate with SQL Server 2025 & Azure SQL",
+            "speaker": "David Pless"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "Empowering Everyone: Data Modeling in Power BI for Business Users",
+            "speaker": "Cecilia Brusatori"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "Iceberg Ahead: Navigating the Future of Data Lakes Without Sinking",
+            "speaker": "Barkha Herman"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "Three Waves, One Stack: Hadoop to Lake house to AI-Ready Data Platforms",
+            "speaker": "Anishek Kamal"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "Data Management in Practice: Building Trusted Data for Engineering and Analytics",
+            "speaker": "Eddy Djaja"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "The Human Side of AI: Why Soft Skills Matter More Than Ever Track: AI & Professional Development",
+            "speaker": "Loren Fowler"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "Auditable by a Stranger: A $386 Million Federally Audited Portfolio Taught Me About Governing AI",
+            "speaker": "Tricia Diamond"
+        },
+        {
+            "time": "11:15 am",
+            "duration": "15 min",
+            "title": "Break - 15 Min",
+            "room": "MAIN LOBBY AREA",
+            "type": "break"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "Microsoft SQL and AMD in the Era of AI",
+            "speaker": "Bob Ward"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "A HI (Human Intelligence) Technique to Manage Missing Index Hints",
+            "speaker": "Mike Byrd"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "Your Daily Driver Got an Overhaul: What's New in SSMS 21 and 22",
+            "speaker": "Jeff Taylor"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "Eyes on the Prize: Simple and Effective Dashboard Visualization Techniques",
+            "speaker": "Kevin Feasel"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "SQL in the Fabric Era: Translate existing skills into the modern data platform",
+            "speaker": "Kevin Pereira"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "Replacing a Legacy Financial Crime Platform with AWS-Native Data Pipelines",
+            "speaker": "Shubham Chaturvedi"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "What Makes a Lakehouse AI-Ready? Building Trusted Data Platforms for the AI Era",
+            "speaker": "Kuladeep Sandra"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "Tackling PII Headaches: Generating Production-Grade Synthetic Data with Agents and llms",
+            "speaker": "Venu Thangalapally, Uchenna Egbe"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "The Friction Was Doing the Job: Redesigning Accountability for the AI-Speed Organization",
+            "speaker": "David Elgueta"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "60 min",
+            "title": "Lunch",
+            "room": "COVERED WALKWAY",
+            "type": "break"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Microsoft Fabric AI, Copilots, Data Agents, Fabric IQ, & Extending Data Agents Beyond Fabric",
+            "speaker": "Bradley Ball"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "How To Tune A Multi-Terabyte Database For Optimum Performance",
+            "speaker": "Jeff Taylor"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "What's New for Developers in SQL Server 2025",
+            "speaker": "Leonard Lobel"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "AI in Your Career: Sidekick, Hero, or Villain?",
+            "speaker": "Brent Ozar"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "From Data Silos to Intelligent Apps: A Microsoft Fabric Success Story",
+            "speaker": "Lucrecia Krause Data Platform MVP"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "One Copy, Two Engines: Interoperability Between Snowflake and Databricks with Uniform",
+            "speaker": "Jeevan Krishna Paruchuri"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Autonomous Database Operations using Agentic AI for SQL Server",
+            "speaker": "Sudhir Amin, Alvaro Costa-Neto"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Scaling Enterprise RAG with Structure-Aware Retrieval",
+            "speaker": "Avneet Bansal"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Fork in the Road: Why AI Success Depends on Three Human Choices",
+            "speaker": "Lav Chintapalli"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "AI Forecasting Under Uncertainty: Better Decisions for Inventory and Financial Risk",
+            "speaker": "Suryasivaji Killi"
+        },
+        {
+            "time": "2:30 pm",
+            "duration": "15 min",
+            "title": "Break - 15 Min",
+            "room": "MAIN LOBBY AREA",
+            "type": "break"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "Azure SQL Hyperscale: The Cloud Database for the era of AI",
+            "speaker": "Bob Ward"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "Understanding SQL Server Backup and Restore",
+            "speaker": "Tim Radney"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "Unlock the Power of AI Agents: Building High-Performance MCP Servers with .NET",
+            "speaker": "Michael Rosario"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "THE MYSTERY OF THE MIDNIGHT WAREHOUSE SPIKE",
+            "speaker": "Thiru Gankidi"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "Fabric 101: Your Park Map to Microsoft Fabric",
+            "speaker": "Jason Romans"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "Lakehouse Architecture: Compliant, Real-Time Analytics for Regulated Industries",
+            "speaker": "Ratanchur Sarkar"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "From Data Engineering to Agentic AI: Building Autonomous Lakehouse Platforms",
+            "speaker": "Lokeshkumar Madabathula"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "From Data Chaos to AI-Ready: Building a Unified Data Foundation for the Agentic Enterprise",
+            "speaker": "Arunkumar Amaran"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "Beyond Model Accuracy: Designing a Risk-Aware LLM Agent with Confidence Gating and Human Escalation",
+            "speaker": "Nadezhda Shiroglazova"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "From Telemetry to Recovery: Building Self-Healing Cloud Systems with Multi-Agent AI",
+            "speaker": "Jayakumar Ramalingam"
+        },
+        {
+            "time": "3:45 pm",
+            "duration": "75 min",
+            "title": "Wrapup and Raffle",
+            "room": "J100",
+            "type": "closing"
+        }
+    ]
+}

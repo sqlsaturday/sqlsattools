@@ -1,0 +1,82 @@
+{
+	"event": "Day of Data Detroit 2026 (#1164)",
+	"location": "Detroit, Michigan",
+	"eventDate": "2026-09-12",
+	"sessions": [
+		{
+			"time": "10:30 am",
+			"duration": "60 min",
+			"title": "AI-Powered Real-Time Intelligence: Transforming Data-Driven Decisions with Microsoft Fabric & GenAI",
+			"speaker": "Mou Rakshit",
+			"room": "Room 1"
+		},
+		{
+			"time": "10:30 am",
+			"duration": "60 min",
+			"title": "\"Black Arts\" Index Maintenance 3 - LOBs - Defragmented by Default",
+			"speaker": "Jeff Moden",
+			"room": "Room 2"
+		},
+		{
+			"time": "11:30 am",
+			"duration": "60 min",
+			"title": "Analytics and AI in Automotive Warranty and Supply Chain",
+			"speaker": "Sumit Basu",
+			"room": "Room 1"
+		},
+		{
+			"time": "11:30 am",
+			"duration": "60 min",
+			"title": "Strengthen Your Speaking Skills",
+			"speaker": "Sammie Walker Herrera",
+			"room": "Room 2"
+		},
+		{
+			"time": "12:30 pm",
+			"duration": "60 min",
+			"title": "Lunch",
+			"type": "break"
+		},
+		{
+			"time": "1:30 pm",
+			"duration": "60 min",
+			"title": "From Sensor to Answer: A Closed-Loop Predictive-Maintenance System You Can Talk To",
+			"speaker": "Pete Welch",
+			"room": "Room 1"
+		},
+		{
+			"time": "1:30 pm",
+			"duration": "60 min",
+			"title": "Crosstabs and Pre-Aggregations - Reporting on Steroids",
+			"speaker": "Jeff Moden",
+			"room": "Room 2"
+		},
+		{
+			"time": "2:30 pm",
+			"duration": "60 min",
+			"title": "Designing Conversational BI: How Azure Databricks AI/BI Genie Unlocks Self-Service Insights",
+			"speaker": "Mou Rakshit",
+			"room": "Room 1"
+		},
+		{
+			"time": "2:30 pm",
+			"duration": "60 min",
+			"title": "Data Engineering Roadmaps: Why creating roadmaps is difficult for data engineering teams",
+			"speaker": "Harini Rajagopal",
+			"room": "Room 2"
+		},
+		{
+			"time": "3:30 pm",
+			"duration": "15 min",
+			"title": "Break",
+			"type": "break"
+		},
+		{
+			"time": "3:45 pm",
+			"duration": "60 min",
+			"title": "From Data to Decisions: Building Agentic Construction Intel using Azure Databricks Agent Bricks",
+			"speaker": "Mou Rakshit",
+			"room": "Room 1"
+		}
+	]
+}

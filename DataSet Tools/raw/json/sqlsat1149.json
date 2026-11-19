@@ -1,0 +1,248 @@
+{
+    "event": "PNW Day of Data 2026 (#1149)",
+    "location": "Pacific Northwest, United States",
+    "eventDate": "2026-11-07",
+    "sessions": [
+        {
+            "time": "8:00 am",
+            "duration": "60 min",
+            "title": "Registration and opening remarks",
+            "room": "VDEN110",
+            "type": "registration"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "15 min",
+            "title": "Transfer Break 1",
+            "room": "VDEN110",
+            "type": "break"
+        },
+        {
+            "time": "9:15 am",
+            "duration": "60 min",
+            "title": "SQL Server Real-Time Intelligence",
+            "speaker": "Peter Kruis, Frank Geisler"
+        },
+        {
+            "time": "9:15 am",
+            "duration": "60 min",
+            "title": "The Unbundling of the Cloud Data Warehouse: Open Source Databases and Data Lakes",
+            "speaker": "Dhruv Taneja"
+        },
+        {
+            "time": "9:15 am",
+            "duration": "60 min",
+            "title": "Azure PowerShell for DBAs: Stop Clicking, Start Scripting",
+            "speaker": "Mikey Bronowski"
+        },
+        {
+            "time": "9:15 am",
+            "duration": "60 min",
+            "title": "Designing for Trust: Observability When the System Is AI",
+            "speaker": "Shania Nalagath"
+        },
+        {
+            "time": "9:15 am",
+            "duration": "60 min",
+            "title": "The Data Detective's Toolkit: Diagnose, Monitor, and Fix with Semantic Link Labs",
+            "speaker": "Jason Romans"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "15 min",
+            "title": "Transfer Break 2",
+            "type": "break"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "60 min",
+            "title": "AI and Data Protection in Today's World: Data Democratization and AI Security in Microsoft",
+            "speaker": "Kellyn Gorman"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "60 min",
+            "title": "Ship the Shape, Not the Data",
+            "speaker": "Jonathan Stewart"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "60 min",
+            "title": "Postgres for the Sql Server DBA",
+            "speaker": "Pat Wright"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "60 min",
+            "title": "The Recovering Shy Person's Guide to Putting Yourself Forward",
+            "speaker": "Clifford Patterson II, Lenore Flower"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "60 min",
+            "title": "Now You Have Two Problems: Regular Expressions in SQL Server 2025",
+            "speaker": "Kevin Feasel"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "60 min",
+            "title": "Your Script Called. It Wants to Be a Function.",
+            "speaker": "Tony Wilhelm"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "15 min",
+            "title": "Transfer Break 3",
+            "room": "VDEN110",
+            "type": "break"
+        },
+        {
+            "time": "11:45 am",
+            "duration": "60 min",
+            "title": "Always On Availability Groups: Lessons from the Field",
+            "speaker": "Marcelo Adade, Roberto Fonseca"
+        },
+        {
+            "time": "11:45 am",
+            "duration": "60 min",
+            "title": "Fabric Admin 101: Settings, Tools, and Monitoring That Keep the Lights On and the Bills Down",
+            "speaker": "Kristyna Ferris"
+        },
+        {
+            "time": "11:45 am",
+            "duration": "60 min",
+            "title": "If I Had 30 Minutes to Audit Your SQL Server",
+            "speaker": "George Stedman, Steve Stedman"
+        },
+        {
+            "time": "11:45 am",
+            "duration": "60 min",
+            "title": "Your first day on the Data Job",
+            "speaker": "Pat Wright"
+        },
+        {
+            "time": "11:45 am",
+            "duration": "60 min",
+            "title": "SQL ❤️ AI Agents",
+            "speaker": "Jerry Nixon"
+        },
+        {
+            "time": "11:45 am",
+            "duration": "60 min",
+            "title": "Beyond “Set and Forget”: Mastering the Ola Hallengren Maintenance Solution",
+            "speaker": "Ben Miller"
+        },
+        {
+            "time": "12:45 pm",
+            "duration": "75 min",
+            "title": "Lunchtime Sponsor Sessions - Microsoft SQL and AMD in the Era of AI",
+            "speaker": "Amy Abel",
+            "room": "VDEN129"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "60 min",
+            "title": "Planning in Microsoft Fabric – from the both sides of the medal(lion)",
+            "speaker": "Matija Klarić, Tomislav Hlupić"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "60 min",
+            "title": "Garden Math: IoT Sensors, Fabric Eventhouses, and Data Engineering in Action",
+            "speaker": "Lenore Flower, Clifford Patterson II"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "60 min",
+            "title": "The Same Query, 400 Times a Day: Finding and Fixing Repetitive BI Workload",
+            "speaker": "Abram Erickson"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "60 min",
+            "title": "Data career in the real world: A realistic true-scale scenario using Fabric",
+            "speaker": "Michael Wall, Paul Turley"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "60 min",
+            "title": "Using Responsible AI",
+            "speaker": "Isha Narula"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "60 min",
+            "title": "An Adventure in Data Modeling: The Entity-Attribute-Value (EAV) Data Model",
+            "speaker": "Mark Wong"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "60 min",
+            "title": "DeepSQL: How To Discover SQL Server Internals",
+            "speaker": "Rob Volk"
+        },
+        {
+            "time": "3:00 pm",
+            "duration": "15 min",
+            "title": "Transfer Break 4",
+            "room": "VDEN110",
+            "type": "break"
+        },
+        {
+            "time": "3:15 pm",
+            "duration": "60 min",
+            "title": "Work Hard Laugh Harder",
+            "speaker": "Stefano Iaboni"
+        },
+        {
+            "time": "3:15 pm",
+            "duration": "60 min",
+            "title": "Fabric Capacities: Essentials for Smarter Operations",
+            "speaker": "Sanjay Raut"
+        },
+        {
+            "time": "3:15 pm",
+            "duration": "60 min",
+            "title": "Think Like A Postgres!",
+            "speaker": "Robert Treat"
+        },
+        {
+            "time": "3:15 pm",
+            "duration": "60 min",
+            "title": "Why AI Can't do what you think it can do",
+            "speaker": "Jerry Nixon"
+        },
+        {
+            "time": "3:15 pm",
+            "duration": "60 min",
+            "title": "How It’s Made – The Building of an AI Data Center",
+            "speaker": "Tadeh Hakopian"
+        },
+        {
+            "time": "3:15 pm",
+            "duration": "60 min",
+            "title": "GitHub, Automation, and a Little Bit of Chaos",
+            "speaker": "Amy Abel"
+        },
+        {
+            "time": "3:15 pm",
+            "duration": "60 min",
+            "title": "Silent but Deadly -- Hidden SQL Performance Assassins",
+            "speaker": "Aaron Cutshall, DHA, MSHI"
+        },
+        {
+            "time": "4:15 pm",
+            "duration": "15 min",
+            "title": "Transfer Break 5",
+            "room": "VDEN110",
+            "type": "break"
+        },
+        {
+            "time": "4:30 pm",
+            "duration": "45 min",
+            "title": "Raffle and Ending Remarks",
+            "room": "VDEN110",
+            "type": "closing"
+        }
+    ]
+}

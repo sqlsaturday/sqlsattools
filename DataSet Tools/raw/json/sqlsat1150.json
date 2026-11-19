@@ -1,0 +1,263 @@
+{
+    "event": "Boston Data and AI Saturday 2026 (#1150)",
+    "location": "Boston, Massachusetts",
+    "eventDate": "2026-10-03",
+    "sessions": [
+        {
+            "time": "8:00 am",
+            "duration": "45 min",
+            "title": "Registrattion",
+            "room": "Room 1",
+            "type": "registration"
+        },
+        {
+            "time": "8:45 am",
+            "duration": "30 min",
+            "title": "Announcement",
+            "room": "Room 1",
+            "type": "opening"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "60 min",
+            "title": "Architecting Zero Downtime Database Deployments",
+            "speaker": "Steve Jones"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "60 min",
+            "title": "Is Storage to Blame? A Practical Deep Dive into I/O",
+            "speaker": "Andy Yun"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "60 min",
+            "title": "The Analyst’s Soft Skills Playbook: Turning Data Into Decisions",
+            "speaker": "Kristen B. Hubler"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "60 min",
+            "title": "Postgres for the Sql Server DBA",
+            "speaker": "Pat Wright"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "60 min",
+            "title": "Intro to PowerShell Automation for the SQL Server DBA",
+            "speaker": "David Seis"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "60 min",
+            "title": "The Fellowship of the Star Schema: Transforming OLTP Data for Power BI",
+            "speaker": "Kristyna Ferris"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "60 min",
+            "title": "Why AI Fails in the Real World — and How to Build Systems That Don’t",
+            "speaker": "Chris Seferlis"
+        },
+        {
+            "time": "10:45 am",
+            "duration": "60 min",
+            "title": "Intro to Model Context Protocol (MCP)",
+            "speaker": "Tracey Kroll"
+        },
+        {
+            "time": "10:45 am",
+            "duration": "60 min",
+            "title": "Fun With Radios: Using postGIS and PostgreSQL in Amateur Radio",
+            "speaker": "Grant Fritchey"
+        },
+        {
+            "time": "10:45 am",
+            "duration": "60 min",
+            "title": "Building Scalable Data Warehouses with Microsoft Fabric:",
+            "speaker": "Jonathan Stewart"
+        },
+        {
+            "time": "10:45 am",
+            "duration": "60 min",
+            "title": "PostGres: The Elephant in the Room You Can't Ignore",
+            "speaker": "Paresh Motiwala"
+        },
+        {
+            "time": "10:45 am",
+            "duration": "60 min",
+            "title": "Designing for Speed: Mastering Spark SQL Joins, Partitions, and Execution Plans",
+            "speaker": "Jean Joseph"
+        },
+        {
+            "time": "10:45 am",
+            "duration": "60 min",
+            "title": "Agents 006: The license to build. Picking the right Microsoft agent for your mission",
+            "speaker": "Balazs Horvath"
+        },
+        {
+            "time": "10:45 am",
+            "duration": "60 min",
+            "title": "Fabric Data Engineering with Python Notebooks",
+            "speaker": "John Miner"
+        },
+        {
+            "time": "11:45 am",
+            "duration": "30 min",
+            "title": "Lunch (Grab and go )",
+            "room": "Room 4",
+            "type": "break"
+        },
+        {
+            "time": "12:00 pm",
+            "duration": "45 min",
+            "title": "Women in Tech (WIT) Panel",
+            "speaker": "Deborah Melkin"
+        },
+        {
+            "time": "12:00 pm",
+            "duration": "45 min",
+            "title": "Microsoft SQL and AMD in the Era of AI",
+            "speaker": "Abdullah Mamun, Jerry Nixon"
+        },
+        {
+            "time": "12:00 pm",
+            "duration": "45 min",
+            "title": "SQL Server's Alerting Blind Spot: Automating Jobs, Deployments, and Incident Response",
+            "speaker": "Louis Diaz"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "60 min",
+            "title": "PostgreSQL Storage Internals: MVCC and Beyond",
+            "speaker": "Adam Machanic"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "60 min",
+            "title": "The Basics of Speech and Natural Language Processing",
+            "speaker": "Kevin Feasel"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "60 min",
+            "title": "Fabric and Copilot Studio - A Perfect Pair",
+            "speaker": "Dominick Raimato"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "60 min",
+            "title": "The self-healing database: AI agents, MCP, and the end of manual ops",
+            "speaker": "Surbhi Pokharna"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "60 min",
+            "title": "Advanced OLAP Optimization with Columnstore Indexes",
+            "speaker": "Edward Pollack"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "60 min",
+            "title": "Model Smart, Perform Fast: Power BI Data Modeling for Performance & AI Readiness",
+            "speaker": "Belinda Allen"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "60 min",
+            "title": "SQL ❤️ AI Agents",
+            "speaker": "Jerry Nixon"
+        },
+        {
+            "time": "2:15 pm",
+            "duration": "60 min",
+            "title": "DeepSQL: How To Discover SQL Server Internals",
+            "speaker": "Rob Volk"
+        },
+        {
+            "time": "2:15 pm",
+            "duration": "60 min",
+            "title": "Optimized Locking: Improving SQL Server Transaction Concurrency",
+            "speaker": "Deborah Melkin"
+        },
+        {
+            "time": "2:15 pm",
+            "duration": "60 min",
+            "title": "Modernizing SQL Server: Upgrade, Migrate, and Innovate with SQL Server 2025 & Azure SQL",
+            "speaker": "Abdullah Mamun"
+        },
+        {
+            "time": "2:15 pm",
+            "duration": "60 min",
+            "title": "PostgreSQL High Availability for the Career SQL Server DBA",
+            "speaker": "Rick Lowe"
+        },
+        {
+            "time": "2:15 pm",
+            "duration": "60 min",
+            "title": "Empowering AI Applications with Vector Search in SQL Server and Azure Cosmos DB",
+            "speaker": "Leonard Lobel"
+        },
+        {
+            "time": "2:15 pm",
+            "duration": "60 min",
+            "title": "AI‑Powered Analytics using Power BI MCP Server and Claude",
+            "speaker": "Sunil Kadimdiwan"
+        },
+        {
+            "time": "2:15 pm",
+            "duration": "60 min",
+            "title": "Fix Your Worst Transaction Rollback Nightmares with ADR",
+            "speaker": "Haripriya Naidu"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "60 min",
+            "title": "From Hype to Hands-On: Microsoft 365 Copilot and the Future of Data",
+            "speaker": "Art Pugach"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "60 min",
+            "title": "How To Tune A Multi-Terabyte Database For Optimum Performance",
+            "speaker": "Jeff Taylor"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "60 min",
+            "title": "SQL Server 2025: an enterprise AI-ready database platform",
+            "speaker": "George Walters"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "60 min",
+            "title": "Creative GitHub Strategies for the Modern Database Professional",
+            "speaker": "Amy Abel"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "60 min",
+            "title": "From Default to Secure: Hardening SQL Server Connections with TLS and Certificates in the age of AI",
+            "speaker": "Nikita Ghai"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "60 min",
+            "title": "Defending Your SQL Server: Practical Strategies against Ransomware",
+            "speaker": "Jeff Iannucci"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "60 min",
+            "title": "Beyond Traditional DBA Practices - Transforming T-SQL Script Expertise into AI Agents",
+            "speaker": "Sudhir Amin"
+        },
+        {
+            "time": "4:30 pm",
+            "duration": "30 min",
+            "title": "Closing / giveaways",
+            "room": "Room 1",
+            "type": "closing"
+        }
+    ]
+}

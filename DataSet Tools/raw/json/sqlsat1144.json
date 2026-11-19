@@ -1,0 +1,220 @@
+{
+    "event": "Day of Data Albany 2026 (#1144)",
+    "location": "Albany, New York",
+    "eventDate": "2026-08-08",
+    "sessions": [
+        {
+            "time": "8:00 am",
+            "duration": "30 min",
+            "title": "Breakfast & Registration",
+            "room": "BB B010 (Intro Sessions)",
+            "type": "registration"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "75 min",
+            "title": "Lightning Talks Round 1",
+            "speaker": "Andy Yun, Pat Wright, Taiob Ali, John Miner"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "75 min",
+            "title": "Architecting Zero Downtime Database Deployments",
+            "speaker": "Steve Jones"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "75 min",
+            "title": "Roadmap for Technology Today & Tomorrow",
+            "speaker": "Jaimie Fox"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "75 min",
+            "title": "From SQL to AI Search: Unlocking Intelligent Search with Azure AI Search + Azure SQL",
+            "speaker": "Linda Zhang"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "75 min",
+            "title": "A Gentle (Re-) Introduction to Dimensional Modeling",
+            "speaker": "Chris Hyde"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "75 min",
+            "title": "Accelerating Lakehouse ETL with Fabric’s Low‑Code Tooling",
+            "speaker": "Christian Cote"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "75 min",
+            "title": "Individuals, Interactions, and ZOMBIES! (Building Chaos-Ready Teams)",
+            "speaker": "Becca Hiller"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "75 min",
+            "title": "Migrate SaaS application with SQL Server to the cloud!",
+            "speaker": "George Walters"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "75 min",
+            "title": "Career Exploration Panel",
+            "speaker": "Jaimie Fox"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "75 min",
+            "title": "Creating AI‑Driven Solutions Using Azure Database for PostgreSQL",
+            "speaker": "Jean Joseph"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "75 min",
+            "title": "SQL Server Security Myths: What Actually Matters in Real Environments",
+            "speaker": "Andreas Wolter"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "75 min",
+            "title": "Building a Reporting Warehouse Using Fabric",
+            "speaker": "John Miner"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "50 min",
+            "title": "Lunch",
+            "room": "BB B008 (AI/Machine Learning)",
+            "type": "break"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "50 min",
+            "title": "Microsoft SQL and AMD in the Era of AI",
+            "speaker": "Taiob Ali"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "50 min",
+            "title": "Women in Tech (WIT) Panel",
+            "speaker": "Deborah Melkin"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "75 min",
+            "title": "Lightning Talks Round 2",
+            "speaker": "Steve Jones, Andreas Wolter, Linda Zhang, Deborah Melkin"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "75 min",
+            "title": "PostgreSQL vs. SQL Server: Security Model Differences",
+            "speaker": "Taiob Ali"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "75 min",
+            "title": "The Data Professional's Power Toolkit: Free Tools to Supercharge Your Workflow",
+            "speaker": "Jason Romans"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "75 min",
+            "title": "Autonomous Database Operations using Agentic AI for SQL Server",
+            "speaker": "Sudhir Amin, Vikas Babu Gali"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "75 min",
+            "title": "Intro to PowerShell with dbatools for the DBA",
+            "speaker": "Tony Wilhelm"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "75 min",
+            "title": "The Fellowship of the Star Schema: Transforming OLTP Data for Power BI",
+            "speaker": "Kristyna Ferris"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "75 min",
+            "title": "The Basics of Speech and Natural Language Processing",
+            "speaker": "Kevin Feasel"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "75 min",
+            "title": "Unraveling the Layers of I/O: Your Next Step to Becoming a Comprehensive Performance Tuner",
+            "speaker": "Andy Yun"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "75 min",
+            "title": "Career Perspectives of Technologists",
+            "speaker": "Jaimie Fox"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "75 min",
+            "title": "AI‑Powered Analytics with Power BI MCP Server and Claude",
+            "speaker": "Sunil Kadimdiwan"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "75 min",
+            "title": "Critical DBA Tasks for Postgresql",
+            "speaker": "Pat Wright"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "75 min",
+            "title": "Hey Real-Time Intelligence - should I go outside today?",
+            "speaker": "Dominick Raimato"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "75 min",
+            "title": "Eyes on the Prize: Simple and Effective Dashboard Visualization Techniques",
+            "speaker": "Kevin Feasel"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "75 min",
+            "title": "Optimized Locking: Improving SQL Server Transaction Concurrency",
+            "speaker": "Deborah Melkin"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "75 min",
+            "title": "Intro to Power BI",
+            "speaker": "David Patrick"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "75 min",
+            "title": "From Hype to Hands-On: Microsoft 365 Copilot and the Future of Data",
+            "speaker": "Art Pugach, Jeffrey Goldstein, David Kosher"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "75 min",
+            "title": "DuckDB 101: From Desktop to Notebook",
+            "speaker": "Jason Romans"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "75 min",
+            "title": "Basics of connecting REST APIs to Power BI",
+            "speaker": "Dominick Raimato"
+        },
+        {
+            "time": "4:55 pm",
+            "duration": "25 min",
+            "title": "Raffles & Closing",
+            "room": "BB B010 (Intro Sessions)",
+            "type": "closing"
+        }
+    ]
+}

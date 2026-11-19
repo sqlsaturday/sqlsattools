@@ -1,0 +1,187 @@
+{
+    "event": "Day of Data Salt Lake City 2026 (#1152)",
+    "location": "Salt Lake City, Utah",
+    "eventDate": "2026-09-19",
+    "sessions": [
+        {
+            "time": "8:30 am",
+            "duration": "35 min",
+            "title": "Registration",
+            "type": "registration"
+        },
+        {
+            "time": "9:05 am",
+            "duration": "60 min",
+            "title": "A Practical Guide to Set-Based Queries",
+            "speaker": "Aaron Cutshall, DHA, MSHI"
+        },
+        {
+            "time": "9:05 am",
+            "duration": "60 min",
+            "title": "Leading When You’re Not the Expert: Context Before Control in Cross-Cultural Work",
+            "speaker": "Joy Marie Curtis"
+        },
+        {
+            "time": "9:05 am",
+            "duration": "60 min",
+            "title": "Enhanced Maintenance Techniques for Workload Stabilization",
+            "speaker": "Ben Miller"
+        },
+        {
+            "time": "9:05 am",
+            "duration": "60 min",
+            "title": "Modern Semantic Model Testing with DAX, UDFs, and AI",
+            "speaker": "John Kerski"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "10 min",
+            "title": "Hallway Track",
+            "type": "break"
+        },
+        {
+            "time": "10:10 am",
+            "duration": "60 min",
+            "title": "You’ve Heard of AGs, But What About DAGs? The Operational Playbook for DBAs",
+            "speaker": "Amy Abel, Jordan Boich"
+        },
+        {
+            "time": "10:10 am",
+            "duration": "60 min",
+            "title": "Unleash Azure SQL VM: Next-Generation Performance with Azure's Newest Infrastructure",
+            "speaker": "David Pless"
+        },
+        {
+            "time": "10:10 am",
+            "duration": "60 min",
+            "title": "The T-SQL JSON Index",
+            "speaker": "Jeff Foushee"
+        },
+        {
+            "time": "10:10 am",
+            "duration": "60 min",
+            "title": "Navigating SQL Server to PostgreSQL Migrations and How DBAs Keep Their Sanity",
+            "speaker": "Kellyn Gorman"
+        },
+        {
+            "time": "11:10 am",
+            "duration": "10 min",
+            "title": "Hallway Track",
+            "type": "break"
+        },
+        {
+            "time": "11:20 am",
+            "duration": "60 min",
+            "title": "Database DevOps with Containers",
+            "speaker": "Rob Richardson"
+        },
+        {
+            "time": "11:20 am",
+            "duration": "60 min",
+            "title": "Leadership Essentials for Data Teams",
+            "speaker": "Aaron Cutshall, DHA, MSHI"
+        },
+        {
+            "time": "11:20 am",
+            "duration": "60 min",
+            "title": "Introducing the SQL MCP Server",
+            "speaker": "Jerry Nixon"
+        },
+        {
+            "time": "11:20 am",
+            "duration": "60 min",
+            "title": "Introduction to Postgres Memory",
+            "speaker": "Jonathan Dunstan"
+        },
+        {
+            "time": "12:20 pm",
+            "duration": "60 min",
+            "title": "Lunch",
+            "type": "break"
+        },
+        {
+            "time": "12:20 pm",
+            "duration": "60 min",
+            "title": "Microsoft SQL and AMD in the Era of AI",
+            "speaker": "Ben Miller"
+        },
+        {
+            "time": "1:20 pm",
+            "duration": "60 min",
+            "title": "Database normalization - and getting to good design (in pirate)",
+            "speaker": "McKay Salisbury"
+        },
+        {
+            "time": "1:20 pm",
+            "duration": "60 min",
+            "title": "Agentic DBA Copilot: Autonomous Operations for SQL Server at Scale",
+            "speaker": "Karunakar Kotha, Shankar Narayanan SGS"
+        },
+        {
+            "time": "1:20 pm",
+            "duration": "60 min",
+            "title": "Unlocking AI-Assisted Database Migration from SQL server to PostgreSQL",
+            "speaker": "Amit Arora, Vanshika Nigam"
+        },
+        {
+            "time": "1:20 pm",
+            "duration": "60 min",
+            "title": "How We Made $10 Million by Listening to the Data",
+            "speaker": "Brett Lyman"
+        },
+        {
+            "time": "2:20 pm",
+            "duration": "10 min",
+            "title": "Hallway Track",
+            "type": "break"
+        },
+        {
+            "time": "2:30 pm",
+            "duration": "60 min",
+            "title": "Immutable SQL Server - Pets vs Cows",
+            "speaker": "Michael Wall"
+        },
+        {
+            "time": "2:30 pm",
+            "duration": "60 min",
+            "title": "Ethical Data Storytelling: When AI Makes the Chart, Who Owns the Bias?",
+            "speaker": "Jonathan Stewart"
+        },
+        {
+            "time": "2:30 pm",
+            "duration": "130 min",
+            "title": "Data Conversations & Networking",
+            "type": "networking"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "10 min",
+            "title": "Hallway Track",
+            "type": "break"
+        },
+        {
+            "time": "3:40 pm",
+            "duration": "60 min",
+            "title": "Can An AI Assistant Help You With Your Database Chores?",
+            "speaker": "Dave Stokes"
+        },
+        {
+            "time": "3:40 pm",
+            "duration": "60 min",
+            "title": "Now You Have Two Problems: Regular Expressions in SQL Server 2025",
+            "speaker": "Kevin Feasel"
+        },
+        {
+            "time": "3:40 pm",
+            "duration": "60 min",
+            "title": "Dataverse: A crash course",
+            "speaker": "Zachary Johnson"
+        },
+        {
+            "time": "4:40 pm",
+            "duration": "15 min",
+            "title": "Wrap up summary",
+            "type": "closing"
+        }
+    ]
+}

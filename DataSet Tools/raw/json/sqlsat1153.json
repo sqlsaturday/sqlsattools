@@ -1,0 +1,199 @@
+{
+    "event": "SQL Saturday Minnesota 2026 (#1153)",
+    "location": "Minnesota, United States",
+    "eventDate": "2026-10-24",
+    "sessions": [
+        {
+            "time": "8:00 am",
+            "duration": "30 min",
+            "title": "Registration and Networking",
+            "type": "registration"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "20 min",
+            "title": "Welcome",
+            "type": "opening"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Microsoft SQL and AMD in the Era of AI",
+            "speaker": "David Pless, Abdullah Mamun"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Apache Iceberg Explained",
+            "speaker": "Bill Preachuk"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Becoming a Leader: What to do when everyone looks to you?",
+            "speaker": "Gary Keeler"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Fabric Capacities Demystified: How to Size, Scale, and Save",
+            "speaker": "Matt Stenzel"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Can An AI Assistant Help You With Your Database Chores?",
+            "speaker": "Dave Stokes"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "Near-Real-Time Data through a Data Model",
+            "speaker": "Brian Larson"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "Supercharge Microsoft Fabric with MCP",
+            "speaker": "Praswas Shakya, Joel Miller"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "Automating Healthcare Compliance Reporting with SQL, Python, and Power BI",
+            "speaker": "Praparna Moharana"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "Metadata-driven Data Quality Frameworks in Fabric",
+            "speaker": "Alex Cook, Cheryl Protas"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "60 min",
+            "title": "The AI-Ready Data Platform: A Tour of Snowflake's Cortex AI Stack",
+            "speaker": "Mike Fulkerson"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "From Raw XML to Lakehouse: Building a Resumable Microsoft Fabric Data Pipeline",
+            "speaker": "Chad Nelson"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "Building a Recommendation System in C# with Vector Search",
+            "speaker": "Aaron Ploetz"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "Ditch the Spreadsheet: Enterprise Planning in Microsoft Fabric IQ",
+            "speaker": "Brent Meulebroeck"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "End-to-End Azure DevOps for Data Engineering in Microsoft Fabric",
+            "speaker": "Jeff Levy"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "PostgreSQL High Availability for the Career SQL Server DBA",
+            "speaker": "Rick Lowe"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "60 min",
+            "title": "Lunch - Cafeteria",
+            "type": "break"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "60 min",
+            "title": "Lunch - Cafeteria",
+            "type": "break"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "60 min",
+            "title": "Lunch - Cafeteria",
+            "type": "break"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "60 min",
+            "title": "Lunch - Cafeteria",
+            "type": "break"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "60 min",
+            "title": "Lunch - Cafeteria",
+            "type": "break"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Make a New PostgreSQL DBA Out Of Your Old Brand X DBAs in Five Steps",
+            "speaker": "Dave Stokes"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Modernizing SQL Server: Upgrade, Migrate, and Innovate with SQL Server 2025 & Azure SQL",
+            "speaker": "David Pless, Abdullah Mamun"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "The Data Architect’s Guide to Mind-Reading: Executive Goals into Technical Reality",
+            "speaker": "Corey Burns"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Fabric Warehouse vs. Fabric Lakehouse: Choosing the Right Architecture for Your Environment",
+            "speaker": "Jeff Levy"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Real-Time AI Feature Pipelines: From Clickstream to Inference in Production",
+            "speaker": "Jayakumar Ramalingam"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "Insecure at any speed: why Secure by Design is not enough",
+            "speaker": "John Benninghoff"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "Why Should I Care About ... The Plan Cache",
+            "speaker": "Rick Lowe"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "Fabric Apps in Action",
+            "speaker": "Brent Meulebroeck"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "60 min",
+            "title": "Performance Tuning strategies for Cosmos DB",
+            "speaker": "Mike Benkovich"
+        },
+        {
+            "time": "4:00 pm",
+            "duration": "30 min",
+            "title": "Closing",
+            "type": "closing"
+        }
+    ]
+}

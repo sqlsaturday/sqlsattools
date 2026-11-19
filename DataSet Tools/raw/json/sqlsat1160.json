@@ -1,0 +1,148 @@
+{
+    "event": "SQL Saturday Toronto 2026 (#1160)",
+    "location": "Toronto, Ontario, Canada",
+    "eventDate": "2026-09-26",
+    "sessions": [
+        {
+            "time": "7:00 am",
+            "duration": "30 min",
+            "title": "Registration and Breakfast",
+            "type": "registration"
+        },
+        {
+            "time": "7:30 am",
+            "duration": "20 min",
+            "title": "Opening",
+            "speaker": "Diponkar Paul",
+            "room": "Room B",
+            "type": "opening"
+        },
+        {
+            "time": "8:00 am",
+            "duration": "50 min",
+            "title": "Microsoft Fabric Security: Best Practices for Network, Data and Governance",
+            "speaker": "Vengatesh Parasuraman"
+        },
+        {
+            "time": "8:00 am",
+            "duration": "50 min",
+            "title": "Microsoft SQL and AMD in the Era of AI",
+            "speaker": "David Pless, Abdullah Mamun"
+        },
+        {
+            "time": "8:00 am",
+            "duration": "50 min",
+            "title": "Automating SQL Server at Scale with Ansible",
+            "speaker": "Marcelo Adade"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "50 min",
+            "title": "Can Your Data Migration Check Its Own Work?",
+            "speaker": "Katherine MacDonald, Dilara J. Leamen"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "50 min",
+            "title": "Your Data Isn't Ready for AI: A Practical Readiness Checklist",
+            "speaker": "Umair Khan, Juily Naik"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "50 min",
+            "title": "Napkin Design to a Live Fabric Workspace Using MCP",
+            "speaker": "Nik - Shahriar Nikkhah"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "50 min",
+            "title": "SQL ❤️ AI Agents",
+            "speaker": "Jerry Nixon"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "50 min",
+            "title": "Don’t Give Your AI db_owner: Secure Agentic Applications with SQL and Microsoft Fabric",
+            "speaker": "Alex Wood"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "50 min",
+            "title": "PostgreSQL Indexes for the SQL Server DBA",
+            "speaker": "Rick Lowe"
+        },
+        {
+            "time": "10:50 am",
+            "duration": "60 min",
+            "title": "Lunch Break and Networking",
+            "type": "break"
+        },
+        {
+            "time": "12:00 pm",
+            "duration": "50 min",
+            "title": "Spark Performance Monitoring and Optimization",
+            "speaker": "Anu Venkataraman"
+        },
+        {
+            "time": "12:00 pm",
+            "duration": "50 min",
+            "title": "Ask Me anything with Microsoft SQL Product Team",
+            "speaker": "Abdullah Mamun, David Pless, Jerry Nixon"
+        },
+        {
+            "time": "12:00 pm",
+            "duration": "50 min",
+            "title": "Networking 101: Building professional relationships",
+            "speaker": "Ray Kim"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "50 min",
+            "title": "Lakebase: Serverless Postgres, Built Into the Lakehouse",
+            "speaker": "Subhadip Chanda, Harsha Pasala"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "50 min",
+            "title": "Why AI Projects Fail: Data Platform Lessons Every Architect Should Know",
+            "speaker": "Daniele Mario Areddu"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "50 min",
+            "title": "Microsoft Fabric IQ Ontology: The Bridge from BI Insights to AI Actions",
+            "speaker": "Ashraf Ghonaim"
+        },
+        {
+            "time": "1:40 pm",
+            "duration": "20 min",
+            "title": "Snack Break",
+            "type": "break"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "Event‑Driven Medallion Warehousing in Fabric: Near Real-Time Bronze→Silver→Gold with T‑SQL",
+            "speaker": "Alexander Turlov"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "Beyond Traditional DBA Practices - Transforming T-SQL Script Expertise into AI Agents",
+            "speaker": "Sudhir Amin, Joshua Thomas"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "Paginated Reporting at Scale: Choosing the Right Microsoft Platform",
+            "speaker": "Rayis Imayev"
+        },
+        {
+            "time": "2:50 pm",
+            "duration": "25 min",
+            "title": "Closing and Raffle Draw",
+            "room": "Room A",
+            "type": "closing"
+        }
+    ]
+}

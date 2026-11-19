@@ -1,0 +1,168 @@
+{
+    "event": "SQL Saturday Belo Horizonte 2026 (#1132)",
+    "location": "Belo Horizonte, Brazil",
+    "eventDate": "2026-08-22",
+    "language": "Portuguese",
+    "sessions": [
+        {
+            "time": "7:00 am",
+            "duration": "90 min",
+            "title": "Credenciamento",
+            "room": "Auditório",
+            "type": "registration"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "25 min",
+            "title": "Abertura",
+            "room": "Auditório",
+            "type": "opening"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "45 min",
+            "title": "Da Query ao Modelo : Construindo IA de Produção com SQL e Python",
+            "speaker": "Giselle Falcao"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "45 min",
+            "title": "DBOps Autônomo: IA Agêntica para manutenção do Amazon RDS para SQL Server",
+            "speaker": "William Lino, Thamires Cunha, Diogo Nomura"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "45 min",
+            "title": "Telemetria na Indústria 4.0",
+            "speaker": "Tadeu Mansi"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "45 min",
+            "title": "Do dado ao valor: você está percorrendo o caminho certo?",
+            "speaker": "Angel Guimarães"
+        },
+        {
+            "time": "9:50 am",
+            "duration": "45 min",
+            "title": "Implementing a Medallion Architecture with Microsoft Fabric Data Warehouse",
+            "speaker": "Sidney Cirqueira"
+        },
+        {
+            "time": "9:50 am",
+            "duration": "45 min",
+            "title": "IA e Qualidade de dados no Databricks: construindo testes usando DQX e IA",
+            "speaker": "Arthur Ferreira Reis"
+        },
+        {
+            "time": "9:50 am",
+            "duration": "45 min",
+            "title": "Serverless and Cloud-Native: Como escalar grande volume de dados usando banco de dados NoSql",
+            "speaker": "Diego Martins"
+        },
+        {
+            "time": "9:50 am",
+            "duration": "45 min",
+            "title": "Engenharia de Plataforma de Dados Moderna com Databricks",
+            "speaker": "Nilton Kazuyuki Ueda"
+        },
+        {
+            "time": "10:40 am",
+            "duration": "45 min",
+            "title": "RAG no SQL Server: o que muda quando a IA entra no banco de dados?",
+            "speaker": "Hércules Pereira"
+        },
+        {
+            "time": "10:40 am",
+            "duration": "45 min",
+            "title": "O Ecossistema de Streaming em 2026 - Kafka, Flink e o que vem Depois",
+            "speaker": "Mateus Oliveira N/A"
+        },
+        {
+            "time": "10:40 am",
+            "duration": "45 min",
+            "title": "Integrando IA em projetos de BI: aprendizados práticos de consultoria",
+            "speaker": "Davidson Oliveira"
+        },
+        {
+            "time": "10:40 am",
+            "duration": "45 min",
+            "title": "IA Aplicada as 5 TechOps",
+            "speaker": "Aislan Honorato"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "45 min",
+            "title": "Microsoft Foundry na prática: criando agentes de IA para empresas",
+            "speaker": "Paulo Santos"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "45 min",
+            "title": "Quando os Dados Começam a Responder: A Nova Era da IA com Genie no Databricks",
+            "speaker": "Lívia Nonato"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "45 min",
+            "title": "Microsoft SQL and AMD in the Era of AI",
+            "speaker": "Rodrigo Ribeiro Gomes"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "45 min",
+            "title": "Linguagens de programação computacional: Aplicação na Ciência do Esporte",
+            "speaker": "Luiz Maculan"
+        },
+        {
+            "time": "12:15 pm",
+            "duration": "45 min",
+            "title": "Intervalo de almoço",
+            "room": "Auditório",
+            "type": "break"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "45 min",
+            "title": "Missão Crítica em Dados: Resiliência, Segurança e Alta Disponibilidade",
+            "speaker": "Raquel Lemos, Sidney Cirqueira"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "45 min",
+            "title": "Construindo Datasets Resilientes e Escaláveis",
+            "speaker": "Judith Ribeiro"
+        },
+        {
+            "time": "1:50 pm",
+            "duration": "45 min",
+            "title": "Construindo sua camada de dados para suportar milhões de usuários",
+            "speaker": "William Lino"
+        },
+        {
+            "time": "1:50 pm",
+            "duration": "45 min",
+            "title": "Derretendo a Microsoft (AI) Foundry: Uma História Macabra do Azure",
+            "speaker": "André Melancia"
+        },
+        {
+            "time": "2:40 pm",
+            "duration": "45 min",
+            "title": "AI Agents e o Futuro da Tomada de Decisão",
+            "speaker": "Leonardo Vitorino"
+        },
+        {
+            "time": "2:40 pm",
+            "duration": "45 min",
+            "title": "Databricks Genie - O fim da era dos dashboards?",
+            "speaker": "Lucas Lessa"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "30 min",
+            "title": "Encerramento",
+            "room": "Auditório",
+            "type": "closing"
+        }
+    ]
+}
