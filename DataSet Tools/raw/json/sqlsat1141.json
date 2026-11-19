@@ -1,0 +1,323 @@
+{
+    "event": "Day of Data Baton Rouge 2026 (#1141)",
+    "location": "Baton Rouge, Louisiana",
+    "eventDate": "2026-07-18",
+    "sessions": [
+        {
+            "time": "8:00 am",
+            "duration": "30 min",
+            "title": "Check-In",
+            "room": "Atrium",
+            "type": "registration"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "Data on Fire: A Hands-On Intro to Spark in Fabric",
+            "speaker": "Jason Romans"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "From Problem to Solution: Analytics Consulting in the Age of AI",
+            "speaker": "Shelby Pons, Jacques Stafford"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "Creating a Career Roadmap and Owning Your Job Search",
+            "speaker": "Ava McClain"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "Master AI prompts by creating a load tester",
+            "speaker": "Pat Wright"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "Demystifying Agentic Software",
+            "speaker": "Austin Webre"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "AI Ready with Microsoft Purview and Fabric",
+            "speaker": "Jared Rhodes"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "From Data to Decisions: Building Agentic Construction Intelligence with Databricks Agent Bricks",
+            "speaker": "Mou Rakshit"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "SQL Server Security Myths: What Actually Matters in Real Environments",
+            "speaker": "Andreas Wolter"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "60 min",
+            "title": "Demystifying Microsoft Fabric: Architecture and Organization 101",
+            "speaker": "Chris Hyde"
+        },
+        {
+            "time": "9:40 am",
+            "duration": "60 min",
+            "title": "Learning PostgreSQL as a SQL Server User",
+            "speaker": "Grant Fritchey"
+        },
+        {
+            "time": "9:40 am",
+            "duration": "60 min",
+            "title": "Getting Started with DuckDB",
+            "speaker": "Kevin Feasel"
+        },
+        {
+            "time": "9:40 am",
+            "duration": "60 min",
+            "title": "Zero to App Store",
+            "speaker": "Ian Trimble"
+        },
+        {
+            "time": "9:40 am",
+            "duration": "60 min",
+            "title": "PowerShell + AI: Enhancement, Not Replacement",
+            "speaker": "James Petty"
+        },
+        {
+            "time": "9:40 am",
+            "duration": "60 min",
+            "title": "Ranking FizzBuzz for Fun Not Profit",
+            "speaker": "George Mauer"
+        },
+        {
+            "time": "9:40 am",
+            "duration": "60 min",
+            "title": "Azure Storage: You want to put what where?",
+            "speaker": "Michael Wall"
+        },
+        {
+            "time": "9:40 am",
+            "duration": "60 min",
+            "title": "Introduction to Microsoft Fabric Variable Library: Simplifying CI/CD Automation",
+            "speaker": "Kevin Arnold"
+        },
+        {
+            "time": "9:40 am",
+            "duration": "60 min",
+            "title": "Transactions Are Events: Event-Driven Architecture On Data In Motion",
+            "speaker": "Matt Gordon"
+        },
+        {
+            "time": "9:40 am",
+            "duration": "60 min",
+            "title": "Careers in IT Baton Rouge 2026",
+            "speaker": "Michael Viron"
+        },
+        {
+            "time": "10:50 am",
+            "duration": "35 min",
+            "title": "Keynote: The Nature of Work in the Age of AI: Prevailing When the Brain Meets the Machine",
+            "speaker": "Calvin Fabre",
+            "room": "Auditorium",
+            "type": "keynote"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "Red Gate AMA"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "SQL in the Fabric Era: Translate existing skills into the modern data platform",
+            "speaker": "Kevin Pereira"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "The Engineering Leaders Test",
+            "speaker": "Cleber Rangel"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "Intro to PowerShell with dbatools for the DBA",
+            "speaker": "Tony Wilhelm"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "Local AI for .NET",
+            "speaker": "Jeremy Knight"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "Beyond the Hype: Practical NFT Use Cases for Data and Analytics",
+            "speaker": "James Davis"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "Beyond “Set and Forget”: Mastering the Ola Hallengren Maintenance Solution",
+            "speaker": "Ben Miller"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "From Operational Data to Insights: An Agentic AI Assistant for DevOps Intelligence",
+            "speaker": "Shankara Krishna Teja Arra"
+        },
+        {
+            "time": "11:30 am",
+            "duration": "60 min",
+            "title": "The Age of Agentic Engineering in SDLC",
+            "speaker": "Muralidhar Chouhan"
+        },
+        {
+            "time": "12:30 pm",
+            "duration": "55 min",
+            "title": "Lunch",
+            "room": "Atrium",
+            "type": "break"
+        },
+        {
+            "time": "1:25 pm",
+            "duration": "60 min",
+            "title": "From Prompt to Production: AI Across Traditional and Low-Code Development",
+            "speaker": "David Maynor, Renada Jackson"
+        },
+        {
+            "time": "1:25 pm",
+            "duration": "60 min",
+            "title": "Power Query Escape Room",
+            "speaker": "John Kerski"
+        },
+        {
+            "time": "1:25 pm",
+            "duration": "60 min",
+            "title": "Intention Is All You Need: Maintaining Agency in a World of Agents",
+            "speaker": "Jaelle Scheuerman, Monica Sylvain"
+        },
+        {
+            "time": "1:25 pm",
+            "duration": "60 min",
+            "title": "Optimizing CI/CD for Hybrid and Cloud Environments with DevOps and AI",
+            "speaker": "Kellyn Gorman"
+        },
+        {
+            "time": "1:25 pm",
+            "duration": "60 min",
+            "title": "A Beginner's Guide to Wrangling Asynchronicity in JavaScript",
+            "speaker": "Raymond Camden"
+        },
+        {
+            "time": "1:25 pm",
+            "duration": "60 min",
+            "title": "Implementing Data Gateway High Availability and Redundancy",
+            "speaker": "Theresa Lubelski"
+        },
+        {
+            "time": "1:25 pm",
+            "duration": "60 min",
+            "title": "AI Made Us Faster. Data Makes Us Smarter.",
+            "speaker": "Dustin Gaspard"
+        },
+        {
+            "time": "1:25 pm",
+            "duration": "60 min",
+            "title": "Guardians of the Data Galaxy: Securing SQL Server the Right Way",
+            "speaker": "Paresh Motiwala"
+        },
+        {
+            "time": "1:25 pm",
+            "duration": "60 min",
+            "title": "Using Data API Builder to Speed Up Application Development",
+            "speaker": "Steve Jones"
+        },
+        {
+            "time": "2:35 pm",
+            "duration": "60 min",
+            "title": "Git Good: GitHub and GitHub Actions for the Rest of Us",
+            "speaker": "Joey Dantoni"
+        },
+        {
+            "time": "2:35 pm",
+            "duration": "60 min",
+            "title": "Basics of connecting REST APIs to Power BI",
+            "speaker": "Dominick Raimato"
+        },
+        {
+            "time": "2:35 pm",
+            "duration": "60 min",
+            "title": "GUMBO: The Recipe for Career Success, Personal Growth and Meaningful Work",
+            "speaker": "Tanya Boyd"
+        },
+        {
+            "time": "2:35 pm",
+            "duration": "60 min",
+            "title": "Power BI API: Automating the Analytics Lifecycle",
+            "speaker": "Michael McKinley"
+        },
+        {
+            "time": "2:35 pm",
+            "duration": "60 min",
+            "title": "Fabric Unified Admin & Monitoring (FUAM) aka.ms/FUAM",
+            "speaker": "Mary DeVlugt"
+        },
+        {
+            "time": "2:35 pm",
+            "duration": "60 min",
+            "title": "Fabric SQL Database: Simplifying OLTP and Real-Time Analytics",
+            "speaker": "Jeff Taylor"
+        },
+        {
+            "time": "2:35 pm",
+            "duration": "60 min",
+            "title": "AI Agents That Don't Make Things Up: Grounding with Fabric IQ, Semantic Models, and Guardrails",
+            "speaker": "Sajitha Sritharan"
+        },
+        {
+            "time": "2:35 pm",
+            "duration": "60 min",
+            "title": "When your email security work and you still get phished.",
+            "speaker": "Yaamini Barathi Mohan"
+        },
+        {
+            "time": "2:35 pm",
+            "duration": "60 min",
+            "title": "SQL Server vs. Cosmos DB: The Definitive Decision Matrix",
+            "speaker": "Hasan Savran"
+        },
+        {
+            "time": "3:40 pm",
+            "duration": "15 min",
+            "title": "Blogging: Lessons I Learned the Hard Way",
+            "speaker": "Jason Romans"
+        },
+        {
+            "time": "3:50 pm",
+            "duration": "15 min",
+            "title": "Speaking and Community Involvement for the Introvert",
+            "speaker": "Pat Wright"
+        },
+        {
+            "time": "4:00 pm",
+            "duration": "15 min",
+            "title": "Database Commando: Tactical Maneuvers To Protect Performance",
+            "speaker": "William Payne"
+        },
+        {
+            "time": "4:15 pm",
+            "duration": "45 min",
+            "title": "Closing and Raffle",
+            "room": "Auditorium",
+            "type": "closing"
+        }
+    ]
+}

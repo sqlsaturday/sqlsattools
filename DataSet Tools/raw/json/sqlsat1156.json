@@ -1,0 +1,356 @@
+{
+    "event": "Day of Data Vitória 2026 (#1156)",
+    "location": "Vitória, Brazil",
+    "eventDate": "2026-09-19",
+    "language": "Portuguese",
+    "sessions": [
+        {
+            "time": "8:00 am",
+            "duration": "30 min",
+            "title": "Credenciamento (Térreo)",
+            "room": "Sala Unisales",
+            "type": "registration"
+        },
+        {
+            "time": "8:30 am",
+            "duration": "30 min",
+            "title": "Abertura (Térreo)",
+            "room": "Sala Unisales",
+            "type": "opening"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "30 min",
+            "title": "Cafézinho",
+            "room": "Sala Unisales",
+            "type": "break"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "50 min",
+            "title": "Migração e modernização de banco de dados potencializada por IA generativa",
+            "speaker": "william"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "50 min",
+            "title": "Afinal, como funciona um LLM?",
+            "speaker": "Lucas Pompeu Neves"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "50 min",
+            "title": "Como desenvolver um ambiente de DW utilizando Engenharia de Dados",
+            "speaker": "Vitor Maestri"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "50 min",
+            "title": "Do post manual ao SaaS com IA: sua Marca Pessoal como produto com automação, IA e validação",
+            "speaker": "Fernando Garcia, Fabio Santos"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "50 min",
+            "title": "Projetando Experiências Melhores no Power BI - UX, DataViz e IA",
+            "speaker": "Paulo Grijo"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "50 min",
+            "title": "Microsoft Fabric Apps: Aplicativos de Dados Code-First com Rayfin",
+            "speaker": "Alison Pezzott"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "50 min",
+            "title": "Quando os Dados Começam a Responder: A Nova Era da IA com Genie no Databricks",
+            "speaker": "Lívia Nonato"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "50 min",
+            "title": "Ambientes dinâmicos no Azure com Terraform",
+            "speaker": "Gus"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "50 min",
+            "title": "AI/BI Genie: Redefining Business Intelligence with Generative Intelligence",
+            "speaker": "Nilton Kazuyuki Ueda"
+        },
+        {
+            "time": "9:30 am",
+            "duration": "50 min",
+            "title": "Da Teoria à Invasão: Aplicando o OWASP em Falhas Reais de Portarias Virtuais",
+            "speaker": "Lorenzo Moulin"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "50 min",
+            "title": "Desacoplando o Legado: Como modernizar sua arquitetura com o Azure SQL Change Event Streaming",
+            "speaker": "Milton Camara"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "50 min",
+            "title": "TERRAFORM 101 - Implementando Bases de Dados do AZURE Como Código",
+            "speaker": "Wagner Crivelini"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "50 min",
+            "title": "Como Construir Dashboards no Power BI Desktop com Claude e MCP Server",
+            "speaker": "Wander Vilhalva Domingos, Vitor Buzato"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "50 min",
+            "title": "Como definir e medir sucesso em produtos de IA: além da acurácia, em direção ao impacto real",
+            "speaker": "Giovanna Paixão"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "50 min",
+            "title": "Skills, Instructions e Agents: Criando Fluxos Inteligentes no Desenvolvimento Front-End",
+            "speaker": "Felipe Faria"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "50 min",
+            "title": "Pipelines Metadata-Driven no Fabric",
+            "speaker": "Paulo Henrique Dias, Pedro Gomes"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "50 min",
+            "title": "Construindo um Data Operating System: por que 90% das empresas ainda não decidem com base em dados.",
+            "speaker": "Leandro Lima"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "50 min",
+            "title": "Observabilidade Unificada com OpenTelemetry: monitorando interações entre aplicações e BDs",
+            "speaker": "Renato Groffe"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "50 min",
+            "title": "IA Aplicada as 5 TechOps",
+            "speaker": "Aislan Honorato"
+        },
+        {
+            "time": "10:30 am",
+            "duration": "50 min",
+            "title": "Seu código é limpo... Então, por que ainda é vulnerável?",
+            "speaker": "Helena Carreço"
+        },
+        {
+            "time": "11:40 am",
+            "duration": "20 min",
+            "title": "Foto Oficial (Térreo)",
+            "room": "Sala Unisales"
+        },
+        {
+            "time": "12:00 pm",
+            "duration": "60 min",
+            "title": "Almoço (Térreo)",
+            "room": "Sala Unisales",
+            "type": "break"
+        },
+        {
+            "time": "1:05 pm",
+            "duration": "50 min",
+            "title": "Meus Insights de Anos Trabalhando pra Gringa.",
+            "speaker": "Renyo Borges"
+        },
+        {
+            "time": "1:05 pm",
+            "duration": "50 min",
+            "title": "Implementado Arquitetura Medalhão Além do Lakehouse - com Fabric DW",
+            "speaker": "Sidney Cirqueira"
+        },
+        {
+            "time": "1:05 pm",
+            "duration": "50 min",
+            "title": "Construindo Sistemas Internos com Claude Code e Apps Script",
+            "speaker": "Ryan Linhares"
+        },
+        {
+            "time": "1:05 pm",
+            "duration": "50 min",
+            "title": "Claude Code + Databricks - a era da IA",
+            "speaker": "Lucas Lessa"
+        },
+        {
+            "time": "1:05 pm",
+            "duration": "50 min",
+            "title": "Modernizando aplicações .NET com IA: de ASP.NET MVC para Blazor + API",
+            "speaker": "Maykon Mendel"
+        },
+        {
+            "time": "1:05 pm",
+            "duration": "50 min",
+            "title": "Acelerando a carreira em Engenharia de Dados com o Microsof Learn Student Ambassadors",
+            "speaker": "Arthur Ferreira Reis, Edilson Santos"
+        },
+        {
+            "time": "1:05 pm",
+            "duration": "50 min",
+            "title": "O Prompt é o Novo Código: Engenharia de Prompt para Profissionais de Dados",
+            "speaker": "Eduardo Glazar"
+        },
+        {
+            "time": "1:05 pm",
+            "duration": "50 min",
+            "title": "AI Gateways: mais segurança e maior governança em suas soluções de Inteligência Artificial!",
+            "speaker": "Renato Groffe, Carlos Machel"
+        },
+        {
+            "time": "1:05 pm",
+            "duration": "50 min",
+            "title": "Talk to Your Data: Criando Agentes Inteligentes sobre uma Arquitetura Medalhão no Microsoft Fabric",
+            "speaker": "Felipe Neiva"
+        },
+        {
+            "time": "1:05 pm",
+            "duration": "50 min",
+            "title": "Confie, mas verifique: seu agente não faz nem um nem outro",
+            "speaker": "Maycon Vitali"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "Do Waterfall ao Agentic: 3 décadas de mudanças no desenvolvimento de software",
+            "speaker": "Anderson Kil"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "Seu ambiente MSSQL está vulnerável e eu posso provar",
+            "speaker": "Fabiano Amorim"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "Fabric Data Agent + Microsoft Foundry: o próximo passo da sua engenharia de dados",
+            "speaker": "Lucas Esquincalha Degen"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "RAG no SQL Server: o que muda quando a IA entra no banco de dados?",
+            "speaker": "Hércules Pereira"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "Monolito Modular: Construindo para o Futuro de forma simples",
+            "speaker": "Gabriel Cardoso, Weslley Buback"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "CI/CD no Databricks: Desmistificando Declarative Automation Bundles (DABs)",
+            "speaker": "Edilson Santos"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "Do Discovery ao Deploy",
+            "speaker": "Breno"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "Harness engeneering",
+            "speaker": "Lucas Pacheco"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "Certificações Microsoft Fabric: PL-300, DP-600 ou DP-700 — Qual caminho seguir?",
+            "speaker": "Humberto Duraes Aguiar"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "50 min",
+            "title": "Automatizando SAST & DAST com IA: Até onde dá para ir sem humano no loop",
+            "speaker": "Hugo Frauches"
+        },
+        {
+            "time": "2:50 pm",
+            "duration": "40 min",
+            "title": "Coffee Break (Térreo)",
+            "room": "Sala Unisales",
+            "type": "break"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "50 min",
+            "title": "Sandboxes para agentes de IA",
+            "speaker": "Bruno Branco"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "50 min",
+            "title": "Microsoft Fabric: Uma plataforma, infinitas possibilidades",
+            "speaker": "Lucas Esquincalha Degen"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "50 min",
+            "title": "Como você testa uma feature que responde diferente toda vez?",
+            "speaker": "Gus"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "50 min",
+            "title": "O que significa 'estar sempre no ar': alta disponibilidade explicada sem jargão.",
+            "speaker": "@rodrigoscotto"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "50 min",
+            "title": "Mais IA, mais código, mais custo: o novo paradoxo do desenvolvimento de software",
+            "speaker": "Maykon Mendel"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "50 min",
+            "title": "Microsoft SQL and AMD in the Era of AI",
+            "speaker": "Rodrigo Ribeiro Gomes"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "50 min",
+            "title": "De digitador de código a resolvedor de problemas: como a IA redesenhou a carreira em tecnologia",
+            "speaker": "Christyan"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "50 min",
+            "title": "Revelando a Arquitetura do PIX: Event Sourcing + Saga Pattern",
+            "speaker": "Gustavo Badke"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "50 min",
+            "title": "IA e Qualidade de dados no Databricks: construindo testes usando DQX e IA",
+            "speaker": "Arthur Ferreira Reis"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "50 min",
+            "title": "Resposta a Incidentes de Segurança: Sua empresa está preparada?",
+            "speaker": "Gilberto Sudre"
+        },
+        {
+            "time": "4:30 pm",
+            "duration": "30 min",
+            "title": "Encerramento e Sorteios",
+            "room": "Sala Unisales",
+            "type": "closing"
+        }
+    ]
+}

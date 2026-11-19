@@ -1,0 +1,79 @@
+{
+    "event": "Seattle Day of Data 2026 (#1155)",
+    "location": "Seattle, Washington",
+    "eventDate": "2026-11-13",
+    "sessions": [
+        {
+            "time": "8:30 am",
+            "duration": "30 min",
+            "title": "Registration/Welcome",
+            "type": "registration"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "15 min",
+            "title": "Welcome/ Announcements",
+            "type": "opening"
+        },
+        {
+            "time": "9:15 am",
+            "duration": "45 min",
+            "title": "Postgres as a Lakehouse Catalog: Getting Started with DuckLake",
+            "speaker": "Jason Romans"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "15 min",
+            "title": "Hallway Track!",
+            "type": "break"
+        },
+        {
+            "time": "10:15 am",
+            "duration": "45 min",
+            "title": "REPACK In Core",
+            "speaker": "Robert Treat"
+        },
+        {
+            "time": "11:00 am",
+            "duration": "15 min",
+            "title": "Hallway Track! Meet other attendees",
+            "type": "break"
+        },
+        {
+            "time": "11:15 am",
+            "duration": "45 min",
+            "title": "Navigating SQL Server to PostgreSQL Migrations and How DBAs Keep Their Sanity",
+            "speaker": "Kellyn Gorman"
+        },
+        {
+            "time": "12:00 pm",
+            "duration": "60 min",
+            "title": "Lunch! Visit our amazing sponsors!",
+            "type": "break"
+        },
+        {
+            "time": "1:00 pm",
+            "duration": "45 min",
+            "title": "How to Migrate from SQL Server to Postgres",
+            "speaker": "Aaron Cutshall, DHA, MSHI"
+        },
+        {
+            "time": "1:45 pm",
+            "duration": "15 min",
+            "title": "Hallway Track, Network and Solve a problem!",
+            "type": "break"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "45 min",
+            "title": "DIY Serverless Postgres",
+            "speaker": "Sam Currie"
+        },
+        {
+            "time": "2:45 pm",
+            "duration": "25 min",
+            "title": "Wrap up and Community Discussion",
+            "type": "closing"
+        }
+    ]
+}

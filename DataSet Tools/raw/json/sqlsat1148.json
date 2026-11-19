@@ -1,0 +1,219 @@
+{
+    "event": "Day of Data St. Louis 2026 (#1148)",
+    "location": "St. Louis, Missouri",
+    "eventDate": "2026-10-24",
+    "sessions": [
+        {
+            "time": "7:45 am",
+            "duration": "60 min",
+            "title": "Rayfin Unleashed: Engineering the Next Wave of AI-Powered Analytics in Microsoft Fabric",
+            "speaker": "Dan Evans"
+        },
+        {
+            "time": "7:45 am",
+            "duration": "60 min",
+            "title": "The 7 Deadly Performance Sins of SQL Server",
+            "speaker": "Courtney Woolum"
+        },
+        {
+            "time": "7:45 am",
+            "duration": "60 min",
+            "title": "Challenges and opportunities in using AI for Power BI Report Development",
+            "speaker": "Meagan Longoria"
+        },
+        {
+            "time": "7:45 am",
+            "duration": "60 min",
+            "title": "Computing & Technology thru Postage Stamps",
+            "speaker": "Alan Barasch"
+        },
+        {
+            "time": "7:45 am",
+            "duration": "60 min",
+            "title": "The Deeply Human Toolkit: Adding Irreplaceable Value in the Age of AI",
+            "speaker": "Lauren Shores"
+        },
+        {
+            "time": "7:45 am",
+            "duration": "60 min",
+            "title": "Building a P&L in Power BI Using Only the Matrix Visual, No Blue Pill or Kung Fu",
+            "speaker": "Belinda Allen"
+        },
+        {
+            "time": "7:45 am",
+            "duration": "60 min",
+            "title": "Building MLOps for Traditional ML in Microsoft Fabric",
+            "speaker": "Nicholas Leonhard"
+        },
+        {
+            "time": "8:55 am",
+            "duration": "60 min",
+            "title": "Capacities Made Simple: Essentials for Smarter Operations",
+            "speaker": "Sanjay Raut"
+        },
+        {
+            "time": "8:55 am",
+            "duration": "60 min",
+            "title": "Better or Worse For Your Workloads: Azure SQL vs. SQL in Fabric",
+            "speaker": "Matt Gordon, John Morehouse"
+        },
+        {
+            "time": "8:55 am",
+            "duration": "60 min",
+            "title": "Copilot Readiness Using SAM and Microsoft Purview",
+            "speaker": "Daniel Glenn"
+        },
+        {
+            "time": "8:55 am",
+            "duration": "60 min",
+            "title": "Bookmarks & Field Parameters 101",
+            "speaker": "Allan Khariton"
+        },
+        {
+            "time": "8:55 am",
+            "duration": "60 min",
+            "title": "The Analyst’s Soft Skills Playbook: Turning Data Into Decisions",
+            "speaker": "Kristen B. Hubler"
+        },
+        {
+            "time": "8:55 am",
+            "duration": "60 min",
+            "title": "Extending Power BI with Power Automate",
+            "speaker": "Dominick Raimato"
+        },
+        {
+            "time": "8:55 am",
+            "duration": "60 min",
+            "title": "Old School Meets New School: SQL and Python in Microsoft Fabric",
+            "speaker": "Allison Harris, Tom Overton"
+        },
+        {
+            "time": "10:05 am",
+            "duration": "60 min",
+            "title": "Wait, Fabric PySpark Notebooks Can Do That?",
+            "speaker": "Tony Kain"
+        },
+        {
+            "time": "10:05 am",
+            "duration": "60 min",
+            "title": "Query Store: The simplest way to Troubleshooting Performance",
+            "speaker": "Monica Morehouse (Rathbun)"
+        },
+        {
+            "time": "10:05 am",
+            "duration": "60 min",
+            "title": "Getting Hands-On with Microsoft Fabric IQ: A Beginner's Walkthrough",
+            "speaker": "Dean Jurecic"
+        },
+        {
+            "time": "10:05 am",
+            "duration": "60 min",
+            "title": "Brewing Better Reports: Streamline your reporting back-end to improve front-end UI/UX",
+            "speaker": "Austin Bristow"
+        },
+        {
+            "time": "10:05 am",
+            "duration": "60 min",
+            "title": "I'm Just Here For The T-Shirt: Coping With Impostor Syndrome",
+            "speaker": "Shawn Oden"
+        },
+        {
+            "time": "10:05 am",
+            "duration": "60 min",
+            "title": "I’m not sure if I’m doing this right - An Unconventional Approach to Dataflows",
+            "speaker": "Jessica Rohrer"
+        },
+        {
+            "time": "10:05 am",
+            "duration": "60 min",
+            "title": "Lions, Tigers, and Bears, Oh My! Choosing the Right Fabric Surface for Human-in-the-Loop Workflows",
+            "speaker": "Jonathan Stewart"
+        },
+        {
+            "time": "11:10 am",
+            "duration": "60 min",
+            "title": "Microsoft SQL and AMD in the Era of AI",
+            "speaker": "Kevin Feasel",
+            "room": "Gateway Arch 1"
+        },
+        {
+            "time": "12:20 pm",
+            "duration": "60 min",
+            "title": "Mirroring for SQL Server in Fabric: Inside the Replication Process",
+            "speaker": "Meagan Longoria"
+        },
+        {
+            "time": "12:20 pm",
+            "duration": "60 min",
+            "title": "SQL ❤️ AI Agents",
+            "speaker": "Jerry Nixon"
+        },
+        {
+            "time": "12:20 pm",
+            "duration": "60 min",
+            "title": "SSMS GitHub Copilot! A New Tool for your Database Development",
+            "speaker": "Jared Kuehn"
+        },
+        {
+            "time": "12:20 pm",
+            "duration": "60 min",
+            "title": "AI Powered Data Visualization with Power BI & Copilot",
+            "speaker": "Manasa Savanur"
+        },
+        {
+            "time": "12:20 pm",
+            "duration": "60 min",
+            "title": "From the Audience to a Speaker on the Stage",
+            "speaker": "Dominick Raimato"
+        },
+        {
+            "time": "12:20 pm",
+            "duration": "60 min",
+            "title": "I Can Tell AI Built Your Dashboard (And That's a Problem)",
+            "speaker": "Sekou Tyler"
+        },
+        {
+            "time": "12:20 pm",
+            "duration": "60 min",
+            "title": "Rethinking Embedded Analytics With Fabric Data Agents and Fabric Apps",
+            "speaker": "Brendan Daly, Abby Yang"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "When Medallion is the Wrong Decision",
+            "speaker": "Patrick LeBlanc"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "How To Tune A Multi-Terabyte Database For Optimum Performance",
+            "speaker": "Jeff Taylor"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Building Copilot UX Components",
+            "speaker": "Kurt Rolland"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Debugging Your ADHD: From Distraction to Deployment with AI",
+            "speaker": "Allison Harris"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Avoiding the \"Grey Box of Death\": Automatically Checking For Broken Visuals in Power BI",
+            "speaker": "John Kerski"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Config-Driven Data Engineering in Microsoft Fabric",
+            "speaker": "Pierre LaFromboise"
+        }
+    ]
+}
+

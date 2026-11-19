@@ -1,0 +1,158 @@
+{
+    "event": "Data Day Edinburgh 2026 (#1157)",
+    "location": "Edinburgh, Scotland",
+    "eventDate": "2026-10-23",
+    "sessions": [
+        {
+            "time": "1:30 pm",
+            "duration": "30 min",
+            "title": "Registration",
+            "type": "registration"
+        },
+        {
+            "time": "2:00 pm",
+            "duration": "20 min",
+            "title": "Keynote",
+            "type": "keynote"
+        },
+        {
+            "time": "2:20 pm",
+            "duration": "10 min",
+            "title": "Change Rooms",
+            "room": "Caledonian Lounge",
+            "type": "break"
+        },
+        {
+            "time": "2:30 pm",
+            "duration": "60 min",
+            "title": "AI and Data Protection in Today's World: Data Democratization and AI Security in Microsoft",
+            "speaker": "Kellyn Gorman"
+        },
+        {
+            "time": "2:30 pm",
+            "duration": "60 min",
+            "title": "Cut Costs, Boost Speed: Optimising Your Azure Databricks Lakehouse",
+            "speaker": "Paul McComish"
+        },
+        {
+            "time": "2:30 pm",
+            "duration": "60 min",
+            "title": "(Almost) Everything You Wanted To Know About Data Governance",
+            "speaker": "Barney Lawrence"
+        },
+        {
+            "time": "3:30 pm",
+            "duration": "30 min",
+            "title": "Coffee Break + Networking",
+            "type": "break"
+        },
+        {
+            "time": "4:00 pm",
+            "duration": "60 min",
+            "title": "Fabric IQ and the Ontology - A no-code approach to governing your data",
+            "speaker": "Brian Bønk"
+        },
+        {
+            "time": "4:00 pm",
+            "duration": "60 min",
+            "title": "REST APIs, AI and Vectors in SQL Server 2025",
+            "speaker": "Ben Weissman (he/him)"
+        },
+        {
+            "time": "4:00 pm",
+            "duration": "60 min",
+            "title": "Beyond Source Control: Using GitHub Projects to plan and execute your data projects",
+            "speaker": "Emilie Rønning"
+        },
+        {
+            "time": "5:00 pm",
+            "duration": "60 min",
+            "title": "Lunch",
+            "type": "break"
+        },
+        {
+            "time": "5:10 pm",
+            "duration": "50 min",
+            "title": "AI in the data platform: real work, real risks, and keeping people at the centre"
+        },
+        {
+            "time": "5:10 pm",
+            "duration": "50 min",
+            "title": "Sponsor Session - Microsoft SQL and AMD in the Era of AI",
+            "speaker": "Rob Sewell"
+        },
+        {
+            "time": "6:00 pm",
+            "duration": "60 min",
+            "title": "From Individual Contributor to Data Leader: The Skills No One Teaches",
+            "speaker": "Bianca Stratulat"
+        },
+        {
+            "time": "6:00 pm",
+            "duration": "60 min",
+            "title": "The Monday Morning Report Club - Mindset, Design, and Alignment Behind Power BI Reports That Stick",
+            "speaker": "Yvette Lovas"
+        },
+        {
+            "time": "6:00 pm",
+            "duration": "60 min",
+            "title": "From Reactive to Resilient: Navigating the Data Security Maturity Journey",
+            "speaker": "Danny de Haan"
+        },
+        {
+            "time": "7:00 pm",
+            "duration": "30 min",
+            "title": "Coffee Break + Networking",
+            "type": "break"
+        },
+        {
+            "time": "7:30 pm",
+            "duration": "60 min",
+            "title": "Beyond the Hype - Putting AI to Work, Today",
+            "speaker": "John Martin"
+        },
+        {
+            "time": "7:30 pm",
+            "duration": "60 min",
+            "title": "POURing Accessibility into Power BI: Practical Steps for Inclusive Analytics",
+            "speaker": "Juliana Smith"
+        },
+        {
+            "time": "7:30 pm",
+            "duration": "60 min",
+            "title": "Why Am I Here? Dealing with Imposter Phenomenon",
+            "speaker": "Robert French"
+        },
+        {
+            "time": "8:30 pm",
+            "duration": "15 min",
+            "title": "Change Rooms",
+            "room": "Caledonian Lounge",
+            "type": "break"
+        },
+        {
+            "time": "8:45 pm",
+            "duration": "60 min",
+            "title": "What A Data Nerd Learnt by Automating Their Home (Besides Annoying Their Family)",
+            "speaker": "Rob Sewell"
+        },
+        {
+            "time": "8:45 pm",
+            "duration": "60 min",
+            "title": "Platform vs. Data Architecture: The Dual Blueprint for Fabric Success",
+            "speaker": "Andy Cutler"
+        },
+        {
+            "time": "8:45 pm",
+            "duration": "60 min",
+            "title": "Query Store Basics: A DBA’s Best Friend",
+            "speaker": "Peter Kruis"
+        },
+        {
+            "time": "9:45 pm",
+            "duration": "15 min",
+            "title": "Raffle + Closing",
+            "type": "closing"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "event": "Day of Data Winnipeg 2026 (#1159)",
+    "location": "Winnipeg, Manitoba, Canada",
+    "eventDate": "2026-09-19",
+    "sessions": [
+        {
+            "time": "8:00 am",
+            "duration": "60 min",
+            "title": "Registration",
+            "room": "E2-110",
+            "type": "registration"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "AI-Driven Lakehouse Pipeline for Winnipeg Winter Operations: From Snowfall to Service Ranking",
+            "speaker": "Huzhi Zhao, Temitope Oladele (PhD), Cesario Estrada"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Query Hints ... What’s the Worst That Can Happen",
+            "speaker": "Rick Lowe"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Microsoft SQL and AMD in the Era of AI",
+            "speaker": "Karen Lopez"
+        },
+        {
+            "time": "9:00 am",
+            "duration": "60 min",
+            "title": "Architectural Divergence: Exploring the Exclusive Features of Microsoft Fabric Warehouse",
+            "speaker": "Thimantha Vidanagamage"
+        },
+        {
+            "time": "10:00 am",
+            "duration": "10 min",
+            "title": "Coffee/Snack Break",
+            "room": "E2-110",
+            "type": "break"
+        },
+        {
+            "time": "10:10 am",
+            "duration": "60 min",
+            "title": "Maximum Spark, Minimum Capacity: Fabric Optimization Techniques That Matter",
+            "speaker": "Greg Peter-Joyal"
+        },
+        {
+            "time": "10:10 am",
+            "duration": "60 min",
+            "title": "Bring AI to the Data - Building Governed Enterprise AI from Scratch — Live",
+            "speaker": "Alex Campomanes"
+        },
+        {
+            "time": "10:10 am",
+            "duration": "60 min",
+            "title": "ALTER DBA ADD AGENT: A Field Report on AI Coding Agents for Database Work",
+            "speaker": "Hannah Vernon"
+        },
+        {
+            "time": "10:10 am",
+            "duration": "60 min",
+            "title": "Data Strategy for Mission-Critical Environments",
+            "speaker": "Trevor Strome"
+        },
+        {
+            "time": "11:10 am",
+            "duration": "10 min",
+            "title": "Coffee/Snack Break",
+            "room": "E2-110",
+            "type": "break"
+        },
+        {
+            "time": "11:20 am",
+            "duration": "60 min",
+            "title": "Building a versatile skill, code and notes system working with any harness (Claude code, Codex...)",
+            "speaker": "Louis-Francois Bouchard"
+        },
+        {
+            "time": "11:20 am",
+            "duration": "60 min",
+            "title": "City of Winnipeg Open Data Portal",
+            "speaker": "Jennifer Bodnarchuk"
+        },
+        {
+            "time": "11:20 am",
+            "duration": "60 min",
+            "title": "Autonomous Database Operations using Agentic AI for SQL Server",
+            "speaker": "Sudhir Amin"
+        },
+        {
+            "time": "11:20 am",
+            "duration": "60 min",
+            "title": "Beyond the Prompt: Tuning Fabric Data Agents for Flawless Results",
+            "speaker": "Thimantha Vidanagamage"
+        },
+        {
+            "time": "12:20 pm",
+            "duration": "70 min",
+            "title": "Lunch/Sponsor Displays",
+            "room": "E2-110",
+            "type": "break"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "A Database Designer's Favorite Security and Privacy Features in SQL Server/Azure DB",
+            "speaker": "Karen Lopez"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Data for Good's Newest Chapter: Winnipeg!",
+            "speaker": "Jennifer Bodnarchuk, Kate Kehler"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Privacy, Sovereignty, and Trust in Conversational AI",
+            "speaker": "Adam Krieger"
+        },
+        {
+            "time": "1:30 pm",
+            "duration": "60 min",
+            "title": "Building Fast Search at Scale: Why We Chose Elasticsearch",
+            "speaker": "Hadi Abdul"
+        },
+        {
+            "time": "2:30 pm",
+            "duration": "10 min",
+            "title": "Coffee/Snack Break",
+            "room": "E2-110",
+            "type": "break"
+        },
+        {
+            "time": "2:40 pm",
+            "duration": "60 min",
+            "title": "PostgreSQL Indexes for the SQL Server DBA",
+            "speaker": "Rick Lowe"
+        },
+        {
+            "time": "2:40 pm",
+            "duration": "60 min",
+            "title": "Using AI and Data Engineering to Decode the Data Job Market",
+            "speaker": "Anastasiia Kasprova"
+        },
+        {
+            "time": "2:40 pm",
+            "duration": "60 min",
+            "title": "Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!",
+            "speaker": "Scott Stauffer"
+        },
+        {
+            "time": "2:40 pm",
+            "duration": "60 min",
+            "title": "Bring AI Home: Building Private, Tool-Using LLMs on Local Hardware",
+            "speaker": "Darian Lagman"
+        },
+        {
+            "time": "3:40 pm",
+            "duration": "20 min",
+            "title": "Raffle Prize Draw",
+            "room": "E2-110",
+            "type": "closing"
+        }
+    ]
+}

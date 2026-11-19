@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:sqlsaturday.com)",
+      "Bash(git checkout *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(python3 -c \"import pyodbc\")",
+      "Bash(python3 -)",
+      "Bash(netstat -ano)",
+      "Bash(findstr :5000)",
+      "Bash(tasklist /FI \"PID eq 44460\")",
+      "PowerShell(Get-Process -Id 44460)",
+      "Bash(curl -s -i http://localhost:5000/ --max-time 5)",
+      "Bash(curl -s -i http://localhost:5000/mcp --max-time 5)",
+      "Bash(curl -s -i -X POST http://localhost:5000/mcp -H 'Content-Type: application/json' -H 'Accept: application/json, text/event-stream' -d '{\"jsonrpc\":\"2.0\",\"id\":1,\"method\":\"initialize\",\"params\":{\"protocolVersion\":\"2024-11-05\",\"capabilities\":{},\"clientInfo\":{\"name\":\"probe\",\"version\":\"1.0\"}}}' --max-time 10)",
+      "Bash(curl -s -i -X POST http://localhost:5000/mcp -H 'Content-Type: application/json' -H 'Accept: application/json, text/event-stream' -H 'Mcp-Session-Id: AEXwaHFxSoRUORNTxFe3Vg' -d '{\"jsonrpc\":\"2.0\",\"id\":2,\"method\":\"tools/list\",\"params\":{}}' --max-time 10)",
+      "Bash(curl -s -X POST http://localhost:5000/mcp -H 'Content-Type: application/json' -H 'Accept: application/json, text/event-stream' -H 'Mcp-Session-Id: AEXwaHFxSoRUORNTxFe3Vg' -d '{\"jsonrpc\":\"2.0\",\"id\":3,\"method\":\"tools/call\",\"params\":{\"name\":\"describe_entities\",\"arguments\":{\"nameOnly\":true}}}' --max-time 10)",
+      "Bash(curl -s -X POST http://localhost:5000/mcp -H 'Content-Type: application/json' -H 'Accept: application/json, text/event-stream' -H 'Mcp-Session-Id: AEXwaHFxSoRUORNTxFe3Vg' -d '{\"jsonrpc\":\"2.0\",\"id\":4,\"method\":\"tools/call\",\"params\":{\"name\":\"describe_entities\",\"arguments\":{\"entities\":[\"Orders\",\"OrderDetails\",\"Invoices\"]}}}' --max-time 10)",
+      "Bash(curl -s -X POST http://localhost:5000/mcp -H 'Content-Type: application/json' -H 'Accept: application/json, text/event-stream' -H 'Mcp-Session-Id: AEXwaHFxSoRUORNTxFe3Vg' -d '{\"jsonrpc\":\"2.0\",\"id\":5,\"method\":\"tools/call\",\"params\":{\"name\":\"read_records\",\"arguments\":{\"entity\":\"OrderDetails\",\"first\":1}}}' --max-time 10)",
+      "Bash(curl -s -X POST http://localhost:5000/mcp -H 'Content-Type: application/json' -H 'Accept: application/json, text/event-stream' -H 'Mcp-Session-Id: AEXwaHFxSoRUORNTxFe3Vg' -d '{\"jsonrpc\":\"2.0\",\"id\":6,\"method\":\"tools/call\",\"params\":{\"name\":\"read_records\",\"arguments\":{\"entity\":\"Orders\",\"first\":1}}}' --max-time 10)",
+      "Bash(curl -s -X POST http://localhost:5000/mcp -H 'Content-Type: application/json' -H 'Accept: application/json, text/event-stream' -H 'Mcp-Session-Id: AEXwaHFxSoRUORNTxFe3Vg' -d '{\"jsonrpc\":\"2.0\",\"id\":7,\"method\":\"tools/call\",\"params\":{\"name\":\"read_records\",\"arguments\":{\"entity\":\"Invoices\",\"first\":1}}}' --max-time 10)",
+      "Bash(curl -s -X POST http://localhost:5000/mcp -H 'Content-Type: application/json' -H 'Accept: application/json, text/event-stream' -H 'Mcp-Session-Id: AEXwaHFxSoRUORNTxFe3Vg' -d '{\"jsonrpc\":\"2.0\",\"id\":8,\"method\":\"tools/call\",\"params\":{\"name\":\"read_records\",\"arguments\":{\"entity\":\"CustomerOrdersDetail\",\"first\":1}}}' --max-time 10)",
+      "Bash(curl -s -X POST http://localhost:5000/mcp -H 'Content-Type: application/json' -H 'Accept: application/json, text/event-stream' -H 'Mcp-Session-Id: AEXwaHFxSoRUORNTxFe3Vg' -d '{\"jsonrpc\":\"2.0\",\"id\":9,\"method\":\"tools/call\",\"params\":{\"name\":\"aggregate_records\",\"arguments\":{\"entity\":\"Invoices\",\"function\":\"sum\",\"field\":\"ExtendedPrice\",\"groupby\":[\"OrderID\"],\"orderby\":\"desc\",\"first\":5}}}' --max-time 10)",
+      "Bash(curl -s -X POST http://localhost:5000/mcp -H 'Content-Type: application/json' -H 'Accept: application/json, text/event-stream' -H 'Mcp-Session-Id: AEXwaHFxSoRUORNTxFe3Vg' -d '{\"jsonrpc\":\"2.0\",\"id\":10,\"method\":\"tools/call\",\"params\":{\"name\":\"read_records\",\"arguments\":{\"entity\":\"Invoices\",\"filter\":\"OrderID eq 10865\",\"select\":\"OrderID,CustomerName,OrderDate,ProductName,Freight\"}}}' --max-time 10)",
+      "Bash(grep -n \"redgate-monitor\" -A 15 \"/c/Users/Steve/.claude.json\" | head -50)"
+    ]
+  }
+}
